@@ -444,6 +444,162 @@
         }
       ],
       "comparison": "candidly＝隠し立てせず率直に／honestly＝正直に（汎用的）／frankly＝はっきりと（厳しい意見にも）／openly＝公然と隠さず／bluntly＝ぶっきらぼうに／sincerely＝心から誠実に。"
+    },
+    {
+      "id": "prominent",
+      "word": "prominent",
+      "pos": "形容詞",
+      "ipa": "/ˈprɑːmɪnənt/（米）",
+      "meaning": "目立つ、際立った、著名な、重要な、突き出た",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 pro-（前へ）+ minēre（突き出る）→ prōminēre（前方に突き出る）→ prōminēns → prominent。-ent は現在分詞由来の語尾。",
+      "core": "周囲より前に突き出て自然と目に入る。物理的な突出から、目立つ・著名な・重要なという意味へ。",
+      "usage": "a prominent position、a prominent feature、a prominent figure、a prominent politician、play a prominent role、prominent cheekbones。",
+      "examples": [
+        [
+          "The company's logo was displayed in a prominent position.",
+          "その会社のロゴは目立つ位置に表示されていた。"
+        ],
+        [
+          "She is a prominent researcher in artificial intelligence.",
+          "彼女は人工知能分野の著名な研究者だ。"
+        ],
+        [
+          "The company plays a prominent role in the global market.",
+          "その企業は世界市場で重要な役割を果たしている。"
+        ],
+        [
+          "The bird has a prominent beak.",
+          "その鳥には突き出た目立つくちばしがある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "prominence",
+          "pos": "名詞",
+          "ipa": "/ˈprɑːmɪnəns/",
+          "meaning": "目立つこと、重要性、著名さ、突出",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The issue gained prominence during the election.",
+          "translation": "その問題は選挙期間中に注目を集めるようになった。",
+          "note": "ラテン語 prōminēre（前方に突き出る）に由来。"
+        },
+        {
+          "word": "prominently",
+          "pos": "副詞",
+          "ipa": "/ˈprɑːmɪnəntli/",
+          "meaning": "目立って、際立って",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The warning was prominently displayed on the website.",
+          "translation": "その警告はウェブサイト上の目立つ場所に表示されていた。",
+          "note": "prominent + -ly（副詞化）。"
+        },
+        {
+          "word": "eminent",
+          "pos": "形容詞",
+          "ipa": "/ˈemɪnənt/",
+          "meaning": "高名な、卓越した",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "An eminent scientist delivered the keynote speech.",
+          "translation": "高名な科学者が基調講演を行った。",
+          "note": "ラテン語 ēminēre（外へ突き出る）。prominent と同じ minēre 語根。"
+        },
+        {
+          "word": "eminence",
+          "pos": "名詞",
+          "ipa": "/ˈemɪnəns/",
+          "meaning": "高名、卓越、著名な地位",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "He achieved eminence in the field of medicine.",
+          "translation": "彼は医学分野で高い名声を得た。",
+          "note": "ēminēre（外へ突き出る）に由来。"
+        },
+        {
+          "word": "imminent",
+          "pos": "形容詞",
+          "ipa": "/ˈɪmɪnənt/",
+          "meaning": "差し迫った、目前に迫った",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The company warned of an imminent financial crisis.",
+          "translation": "その会社は差し迫った財政危機について警告した。",
+          "note": "ラテン語 imminēre（上に張り出す、迫る）。同じ minēre を含む。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "noticeable",
+          "pos": "形容詞",
+          "ipa": "/ˈnoʊtɪsəbəl/",
+          "meaning": "目立つ、気づくほどの",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "There was a noticeable improvement in sales.",
+          "translation": "売上には目に見える改善があった。",
+          "note": "notice + -able。気づけるほど明確であること。"
+        },
+        {
+          "word": "distinguished",
+          "pos": "形容詞",
+          "ipa": "/dɪˈstɪŋɡwɪʃt/",
+          "meaning": "著名な、卓越した",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "She is a distinguished professor of economics.",
+          "translation": "彼女は著名な経済学教授だ。",
+          "note": "ラテン語 distinguere（区別する）。実績や評価を強調。"
+        },
+        {
+          "word": "notable",
+          "pos": "形容詞",
+          "ipa": "/ˈnoʊtəbəl/",
+          "meaning": "注目すべき、著名な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The report highlighted several notable trends.",
+          "translation": "その報告書はいくつかの注目すべき傾向を取り上げた。",
+          "note": "ラテン語 notabilis（注目に値する）。言及する価値を強調。"
+        },
+        {
+          "word": "conspicuous",
+          "pos": "形容詞",
+          "ipa": "/kənˈspɪkjuəs/",
+          "meaning": "非常に目立つ、人目を引く",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "His red jacket made him conspicuous in the crowd.",
+          "translation": "彼の赤いジャケットは群衆の中で非常に目立っていた。",
+          "note": "ラテン語 conspicuus（目につく）。目立ちすぎる印象もある。"
+        },
+        {
+          "word": "influential",
+          "pos": "形容詞",
+          "ipa": "/ˌɪnfluˈenʃəl/",
+          "meaning": "影響力のある、有力な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "He is an influential figure in the technology industry.",
+          "translation": "彼はテクノロジー業界の有力人物だ。",
+          "note": "ラテン語 influere（流れ込む）に由来。知名度より影響力を強調。"
+        }
+      ],
+      "comparison": "prominent＝存在感・重要性が際立つ／noticeable＝気づくほど目立つ／distinguished＝高い評価や実績がある／notable＝注目に値する／conspicuous＝視覚的に非常に目立つ／influential＝他者に影響を与える力がある。"
     }
   ]
 }
