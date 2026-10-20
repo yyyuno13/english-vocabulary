@@ -152,6 +152,146 @@
         }
       ],
       "comparison": "speculation＝確証のない推測・市場の思惑／guess＝直感的な当て推量／assumption＝前提として受け入れる仮定／conjecture＝硬い推測／inference＝根拠から導く推論／rumor＝流布する未確認情報。"
+    },
+    {
+      "id": "pave",
+      "word": "pave",
+      "pos": "動詞",
+      "ipa": "/peɪv/",
+      "meaning": "（道路などを）舗装する、（成功などへの）道を開く",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 pavīre（たたく・踏み固める）→古フランス語 paver（舗装する）→英語 pave。現代英語で意味のある接頭辞・接尾辞に分解しない。",
+      "core": "でこぼこの地面を整えて通れる道をつくる。比喩的に、将来の出来事や成功を可能にする土台をつくる。",
+      "usage": "pave a road、be paved with stone、pave the way for + 名詞/動名詞、pave the way for someone to + 動詞。",
+      "examples": [
+        [
+          "The city plans to pave the road next month.",
+          "市は来月その道路を舗装する予定だ。"
+        ],
+        [
+          "The new technology could pave the way for more efficient production.",
+          "その新技術はより効率的な生産への道を開く可能性がある。"
+        ],
+        [
+          "The agreement paved the way for further negotiations.",
+          "その合意によってさらなる交渉への道が開かれた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "pavement",
+          "pos": "名詞",
+          "ipa": "/ˈpeɪvmənt/",
+          "meaning": "舗装・舗装路・歩道（英）",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "The pavement was wet after the rain.",
+          "translation": "雨の後、歩道が濡れていた。",
+          "note": "pave + -ment（行為・結果）。"
+        },
+        {
+          "word": "paving",
+          "pos": "名詞",
+          "ipa": "/ˈpeɪvɪŋ/",
+          "meaning": "舗装・舗装材",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The paving around the house needs repair.",
+          "translation": "家の周囲の舗装は修理が必要だ。",
+          "note": "pave + -ing。舗装する行為・材料。"
+        },
+        {
+          "word": "paver",
+          "pos": "名詞",
+          "ipa": "/ˈpeɪvər/",
+          "meaning": "舗装工・舗装機・敷石",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Workers installed concrete pavers in the garden.",
+          "translation": "作業員は庭にコンクリート製の敷石を設置した。",
+          "note": "pave + -er（人・道具）。"
+        },
+        {
+          "word": "pavé",
+          "pos": "形容詞・名詞",
+          "ipa": "/pæˈveɪ/",
+          "meaning": "（宝石の）パヴェ留め",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "She wore a ring with pavé diamonds.",
+          "translation": "彼女はパヴェ留めのダイヤの指輪を着けていた。",
+          "note": "フランス語 pavé（舗装された）。宝石を石畳のように並べる。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "facilitate",
+          "pos": "動詞",
+          "ipa": "/fəˈsɪlɪteɪt/",
+          "meaning": "促進する・容易にする",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The new system will facilitate communication.",
+          "translation": "新しいシステムはコミュニケーションを円滑にする。",
+          "note": "ラテン語 facilis（容易な）。物事をやりやすくする。"
+        },
+        {
+          "word": "enable",
+          "pos": "動詞",
+          "ipa": "/ɪˈneɪbəl/",
+          "meaning": "可能にする",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The software enables users to work remotely.",
+          "translation": "そのソフトはリモート勤務を可能にする。",
+          "note": "en- + able。実行を直接可能にする。"
+        },
+        {
+          "word": "lay the groundwork",
+          "pos": "熟語",
+          "ipa": "/leɪ ðə ˈɡraʊndwɜːrk/",
+          "meaning": "基礎を築く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The talks laid the groundwork for cooperation.",
+          "translation": "協議は協力関係の基礎を築いた。",
+          "note": "ground + work。初期準備を強調。"
+        },
+        {
+          "word": "open the door to",
+          "pos": "熟語",
+          "ipa": "/ˈoʊpən ðə dɔːr tuː/",
+          "meaning": "～への可能性を開く",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The discovery opened the door to new treatments.",
+          "translation": "その発見は新しい治療法への可能性を開いた。",
+          "note": "扉を開ける比喩。新しい選択肢の発生を強調。"
+        },
+        {
+          "word": "clear the way",
+          "pos": "熟語",
+          "ipa": "/klɪr ðə weɪ/",
+          "meaning": "障害を取り除いて道を開く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The decision cleared the way for the project.",
+          "translation": "その決定は計画を進める障害を取り除いた。",
+          "note": "clear（取り除く）+ way（道）。既存の障害の除去を強調。"
+        }
+      ],
+      "comparison": "pave the way for＝将来の実現に向け道を整える／facilitate＝円滑にする／enable＝可能にする／lay the groundwork＝基礎を築く／open the door to＝新しい可能性を開く／clear the way＝障害を取り除く。"
     }
   ]
 }
