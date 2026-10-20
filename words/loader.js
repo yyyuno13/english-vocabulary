@@ -30,7 +30,7 @@
       '<div class="field"><b>ニュアンス比較</b>'+escapeHTML(entry.comparison)+'</div></div></section>';
   }
   try {
-    const response=await fetch('/words/entries.json',{cache:'no-cache'});
+    const response=await fetch('./words/entries.json',{cache:'no-cache'});
     if(!response.ok) throw new Error('HTTP '+response.status);
     const data=await response.json();
     const main=document.querySelector('main'), toc=document.getElementById('toc'), index=document.getElementById('word-index');
