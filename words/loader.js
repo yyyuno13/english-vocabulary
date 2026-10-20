@@ -38,7 +38,7 @@
     // Chapter numbers come from existing numbered headings, not the count of
     // sections (which includes the unnumbered quick-reference section).
     const existingNumbers=[...main.querySelectorAll('section.family h2')].map(h=>{
-      const match=h.textContent.trim().match(/^(\\d+)\\./);
+      const match=h.textContent.trim().match(/^(\d+)\./);
       return match?Number(match[1]):0;
     });
     let next=Math.max(0,...existingNumbers)+1;
