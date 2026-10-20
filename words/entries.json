@@ -292,6 +292,158 @@
         }
       ],
       "comparison": "pave the way for＝将来の実現に向け道を整える／facilitate＝円滑にする／enable＝可能にする／lay the groundwork＝基礎を築く／open the door to＝新しい可能性を開く／clear the way＝障害を取り除く。"
+    },
+    {
+      "id": "candidly",
+      "word": "candidly",
+      "pos": "副詞",
+      "ipa": "/ˈkændɪdli/",
+      "meaning": "率直に、包み隠さず、正直に",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 candēre（白く輝く）→ candidus（白い、誠実な）→ candid（率直な）+ -ly（副詞化）→ candidly。",
+      "core": "隠さず、飾らず、ありのままを伝える。相手が聞きたくないことも率直に話すイメージ。",
+      "usage": "speak candidly、talk candidly about ～、answer candidly、discuss candidly、candidly speaking。",
+      "examples": [
+        [
+          "She spoke candidly about the challenges facing the company.",
+          "彼女は会社が直面している課題について率直に語った。"
+        ],
+        [
+          "I want you to answer this question candidly.",
+          "この質問には包み隠さず答えてほしい。"
+        ],
+        [
+          "Candidly speaking, I don't think this strategy will work.",
+          "率直に言って、この戦略はうまくいかないと思う。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "candid",
+          "pos": "形容詞",
+          "ipa": "/ˈkændɪd/",
+          "meaning": "率直な、飾らない",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "I appreciate your candid feedback.",
+          "translation": "率直なフィードバックに感謝します。",
+          "note": "ラテン語 candidus（白い、誠実な）から。"
+        },
+        {
+          "word": "candor",
+          "pos": "名詞",
+          "ipa": "/ˈkændər/",
+          "meaning": "率直さ、正直さ",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "I appreciate your candor during the meeting.",
+          "translation": "会議で率直に話してくださったことに感謝します。",
+          "note": "ラテン語 candor（白さ、輝き）。英綴りは candour。"
+        },
+        {
+          "word": "candidate",
+          "pos": "名詞",
+          "ipa": "/ˈkændɪdeɪt/",
+          "meaning": "候補者、志願者",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We interviewed three candidates for the position.",
+          "translation": "その職種について3人の候補者と面接した。",
+          "note": "ラテン語 candidatus（白い衣服を着た人）。ローマの公職候補者の白いトーガに由来。"
+        },
+        {
+          "word": "incandescent",
+          "pos": "形容詞",
+          "ipa": "/ˌɪnkænˈdesənt/",
+          "meaning": "白熱した、白熱光を放つ",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 2,
+          "example": "The incandescent bulb gave off a warm light.",
+          "translation": "白熱電球は暖かみのある光を放った。",
+          "note": "ラテン語 incandescere（白熱する）。candēre と同根。"
+        },
+        {
+          "word": "candle",
+          "pos": "名詞",
+          "ipa": "/ˈkændəl/",
+          "meaning": "ろうそく",
+          "difficulty": 1,
+          "daily": 4,
+          "business": 1,
+          "example": "She lit a candle on the table.",
+          "translation": "彼女はテーブル上のろうそくに火をつけた。",
+          "note": "ラテン語 candēla（ろうそく）。candēre（輝く）と同根。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "honestly",
+          "pos": "副詞",
+          "ipa": "/ˈɑːnɪstli/",
+          "meaning": "正直に、本当に",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Honestly, I don't know the answer.",
+          "translation": "正直に言って、答えは分からない。",
+          "note": "ラテン語 honestus（名誉ある）。candidly より日常的。"
+        },
+        {
+          "word": "frankly",
+          "pos": "副詞",
+          "ipa": "/ˈfræŋkli/",
+          "meaning": "率直に、遠慮なく",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Frankly, I'm disappointed with the results.",
+          "translation": "率直に言って、その結果にはがっかりしている。",
+          "note": "古フランス語 franc（自由な）。厳しい意見を直接述べる響きもある。"
+        },
+        {
+          "word": "openly",
+          "pos": "副詞",
+          "ipa": "/ˈoʊpənli/",
+          "meaning": "公然と、隠さずに",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Employees should be able to discuss problems openly.",
+          "translation": "従業員は問題についてオープンに話し合えるべきだ。",
+          "note": "古英語 open + -ly。秘密にしない状態を強調。"
+        },
+        {
+          "word": "bluntly",
+          "pos": "副詞",
+          "ipa": "/ˈblʌntli/",
+          "meaning": "ぶっきらぼうに、遠慮なく",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "He bluntly told me the plan was unrealistic.",
+          "translation": "彼はその計画は非現実的だと遠慮なく告げた。",
+          "note": "blunt（鈍い）+ -ly。配慮に欠ける直接さがある。"
+        },
+        {
+          "word": "sincerely",
+          "pos": "副詞",
+          "ipa": "/sɪnˈsɪrli/",
+          "meaning": "心から、誠実に",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "I sincerely apologize for the inconvenience.",
+          "translation": "ご不便をおかけしたことを心からお詫びします。",
+          "note": "ラテン語 sincerus（純粋な）。率直さより誠意を強調。"
+        }
+      ],
+      "comparison": "candidly＝隠し立てせず率直に／honestly＝正直に（汎用的）／frankly＝はっきりと（厳しい意見にも）／openly＝公然と隠さず／bluntly＝ぶっきらぼうに／sincerely＝心から誠実に。"
     }
   ]
 }
