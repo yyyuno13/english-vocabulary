@@ -768,6 +768,186 @@
         }
       ],
       "comparison": "preside over＝公式な議長・統括役を務める／chair＝会議の議長を務める／lead＝方向性を示して率いる／oversee＝業務を監督する／moderate＝議論を進行・調整する／govern＝統治権限を行使する。"
+    },
+    {
+      "id": "literature",
+      "word": "literature",
+      "pos": "名詞",
+      "ipa": "/ˈlɪtərətʃər/（米）",
+      "meaning": "文学、文献、研究資料、製品説明資料",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 littera（文字）→ litteratura（読み書き・文法・学問）→ literature。liter- は文字に関連し、-ature はラテン語由来の名詞語尾。",
+      "core": "文字によって記録・蓄積された作品や知識の集合。文学作品から学術文献・製品資料までを含む。",
+      "usage": "通常は不可算名詞。English literature、classical literature、academic literature、existing literature、literature review、product literature、a work of literature。",
+      "examples": [
+        [
+          "She studied English literature at university.",
+          "彼女は大学で英文学を学んだ。"
+        ],
+        [
+          "We conducted a literature review before starting the project.",
+          "私たちはプロジェクトを始める前に文献レビューを行った。"
+        ],
+        [
+          "The existing literature suggests a link between sleep and memory.",
+          "既存の研究文献は睡眠と記憶の関連を示唆している。"
+        ],
+        [
+          "Please send me some literature about your products.",
+          "御社の製品についての資料を送ってください。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "literary",
+          "pos": "形容詞",
+          "ipa": "/ˈlɪtəreri/",
+          "meaning": "文学の、文芸の",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "She received a prestigious literary award.",
+          "translation": "彼女は権威ある文学賞を受賞した。",
+          "note": "ラテン語 litterarius（文字・読み書きに関する）。"
+        },
+        {
+          "word": "literal",
+          "pos": "形容詞",
+          "ipa": "/ˈlɪtərəl/",
+          "meaning": "文字どおりの、逐語的な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The literal meaning differs from the figurative meaning.",
+          "translation": "文字どおりの意味は比喩的な意味と異なる。",
+          "note": "ラテン語 litteralis（文字に関する）。"
+        },
+        {
+          "word": "literally",
+          "pos": "副詞",
+          "ipa": "/ˈlɪtərəli/",
+          "meaning": "文字どおりに、実際に",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 3,
+          "example": "The instructions should be followed literally.",
+          "translation": "指示には文字どおり従うべきだ。",
+          "note": "literal + -ly。口語では強調表現にもなる。"
+        },
+        {
+          "word": "literate",
+          "pos": "形容詞",
+          "ipa": "/ˈlɪtərət/",
+          "meaning": "読み書きのできる、知識がある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Employees need to be digitally literate.",
+          "translation": "従業員にはデジタル技術を使いこなす能力が必要だ。",
+          "note": "ラテン語 litteratus（文字を学んだ）。"
+        },
+        {
+          "word": "literacy",
+          "pos": "名詞",
+          "ipa": "/ˈlɪtərəsi/",
+          "meaning": "読み書き能力、基礎的な理解力",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Financial literacy is essential for informed decisions.",
+          "translation": "情報に基づいた判断には金融リテラシーが不可欠だ。",
+          "note": "literate + -cy（状態・能力）。"
+        },
+        {
+          "word": "illiterate",
+          "pos": "形容詞",
+          "ipa": "/ɪˈlɪtərət/",
+          "meaning": "読み書きのできない、分野に疎い",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "Many people in the region were illiterate a century ago.",
+          "translation": "100年前、その地域では多くの人が読み書きできなかった。",
+          "note": "il-（否定）+ literate。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "writing",
+          "pos": "名詞",
+          "ipa": "/ˈraɪtɪŋ/",
+          "meaning": "文章、著作、書くこと",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Her writing is known for its simplicity.",
+          "translation": "彼女の文章は簡潔さで知られている。",
+          "note": "古英語 wrītan（刻む、書く）。書かれたもの全般。"
+        },
+        {
+          "word": "fiction",
+          "pos": "名詞",
+          "ipa": "/ˈfɪkʃən/",
+          "meaning": "小説、フィクション",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "She prefers historical fiction to science fiction.",
+          "translation": "彼女はSFより歴史小説を好む。",
+          "note": "ラテン語 fingere（形づくる）。創作物語を指す。"
+        },
+        {
+          "word": "publication",
+          "pos": "名詞",
+          "ipa": "/ˌpʌblɪˈkeɪʃən/",
+          "meaning": "出版物、刊行物、出版",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The researcher has several publications in international journals.",
+          "translation": "その研究者は国際学術誌に複数の論文を発表している。",
+          "note": "ラテン語 publicare（公にする）。発行物を強調。"
+        },
+        {
+          "word": "documentation",
+          "pos": "名詞",
+          "ipa": "/ˌdɑːkjəmenˈteɪʃən/",
+          "meaning": "文書資料、記録、説明書",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Please review the technical documentation before installation.",
+          "translation": "インストール前に技術文書を確認してください。",
+          "note": "ラテン語 documentum（教訓、証拠）由来。実務資料。"
+        },
+        {
+          "word": "bibliography",
+          "pos": "名詞",
+          "ipa": "/ˌbɪbliˈɑːɡrəfi/",
+          "meaning": "参考文献一覧、書誌",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 3,
+          "example": "The thesis includes an extensive bibliography.",
+          "translation": "その論文には充実した参考文献一覧が付いている。",
+          "note": "ギリシャ語 biblion（本）+ graphia（記述）。文献の一覧。"
+        },
+        {
+          "word": "brochure",
+          "pos": "名詞",
+          "ipa": "/broʊˈʃʊr/",
+          "meaning": "パンフレット、小冊子",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The hotel provided a brochure describing its facilities.",
+          "translation": "ホテルは施設を紹介するパンフレットを提供した。",
+          "note": "フランス語 brochure（綴じた小冊子）。販促・案内用。"
+        }
+      ],
+      "comparison": "literature＝文学・文献・資料の集合／writing＝文章全般／fiction＝創作物語／publication＝出版物／documentation＝技術・実務文書／bibliography＝参考文献一覧／brochure＝案内・販促用小冊子。"
     }
   ]
 }
