@@ -600,6 +600,174 @@
         }
       ],
       "comparison": "prominent＝存在感・重要性が際立つ／noticeable＝気づくほど目立つ／distinguished＝高い評価や実績がある／notable＝注目に値する／conspicuous＝視覚的に非常に目立つ／influential＝他者に影響を与える力がある。"
+    },
+    {
+      "id": "preside",
+      "word": "preside",
+      "pos": "動詞",
+      "ipa": "/prɪˈzaɪd/",
+      "meaning": "議長を務める、会議を主宰する、統括する",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "ラテン語 prae-（前に）+ sedēre（座る）→ praesidēre（前に座る、監督する）→ preside。pre- と sid- の語源を意識すると覚えやすい。",
+      "core": "集団の前・中心に座って会議や組織の進行を取り仕切る。",
+      "usage": "自動詞。preside over a meeting/trial/committee、preside over a period of growth、presiding judge、presiding officer。対象には通常 over を使う。",
+      "examples": [
+        [
+          "The CEO presided over the annual board meeting.",
+          "CEOは年次取締役会の議長を務めた。"
+        ],
+        [
+          "The judge will preside over the trial.",
+          "その裁判官が裁判を担当する予定だ。"
+        ],
+        [
+          "She was chosen to preside over the committee.",
+          "彼女は委員会の議長を務める人として選ばれた。"
+        ],
+        [
+          "The president presided over a period of rapid economic growth.",
+          "その大統領は急速な経済成長期に政権を率いていた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "president",
+          "pos": "名詞",
+          "ipa": "/ˈprezɪdənt/",
+          "meaning": "大統領、社長、会長、議長",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The president addressed the employees.",
+          "translation": "社長は従業員に向けて話をした。",
+          "note": "ラテン語 praesidēns（前に座る人、監督する人）。"
+        },
+        {
+          "word": "presidency",
+          "pos": "名詞",
+          "ipa": "/ˈprezɪdənsi/",
+          "meaning": "大統領職、社長職、在任期間",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The country experienced major reforms during her presidency.",
+          "translation": "その国では彼女の大統領在任中に大規模な改革が行われた。",
+          "note": "president + -cy（地位・状態）。"
+        },
+        {
+          "word": "reside",
+          "pos": "動詞",
+          "ipa": "/rɪˈzaɪd/",
+          "meaning": "住む、居住する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "She currently resides in London.",
+          "translation": "彼女は現在ロンドンに居住している。",
+          "note": "ラテン語 re- + sedēre（座る）。腰を落ち着けるイメージ。"
+        },
+        {
+          "word": "resident",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈrezɪdənt/",
+          "meaning": "居住者、住民、居住している",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "Local residents opposed the construction plan.",
+          "translation": "地元住民はその建設計画に反対した。",
+          "note": "ラテン語 residēre に由来。reside と同語源。"
+        },
+        {
+          "word": "sedentary",
+          "pos": "形容詞",
+          "ipa": "/ˈsedənteri/",
+          "meaning": "座りがちな、身体をあまり動かさない",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "A sedentary lifestyle can negatively affect your health.",
+          "translation": "座りがちな生活習慣は健康に悪影響を及ぼす可能性がある。",
+          "note": "ラテン語 sedentarius（座っている）。sedēre と同根。"
+        },
+        {
+          "word": "session",
+          "pos": "名詞",
+          "ipa": "/ˈseʃən/",
+          "meaning": "会議、開催期間、活動の一区切り",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The afternoon session will begin at two.",
+          "translation": "午後のセッションは2時に始まる。",
+          "note": "ラテン語 sessio（座ること、会合）。sedēre と同語族。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "chair",
+          "pos": "動詞",
+          "ipa": "/tʃer/",
+          "meaning": "議長を務める",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "She will chair tomorrow's meeting.",
+          "translation": "彼女が明日の会議の議長を務める。",
+          "note": "ラテン語 cathedra（座席）由来。会議の実務的な進行に自然。"
+        },
+        {
+          "word": "lead",
+          "pos": "動詞",
+          "ipa": "/liːd/",
+          "meaning": "率いる、先導する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "He led the team through a difficult period.",
+          "translation": "彼は困難な時期にチームを率いた。",
+          "note": "古英語 lædan（導く）。方向性を示す意味が強い。"
+        },
+        {
+          "word": "oversee",
+          "pos": "動詞",
+          "ipa": "/ˌoʊvərˈsiː/",
+          "meaning": "監督する、管理する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "She oversees the company's international operations.",
+          "translation": "彼女は会社の国際事業を監督している。",
+          "note": "over + see。業務やプロジェクトの管理を強調。"
+        },
+        {
+          "word": "moderate",
+          "pos": "動詞",
+          "ipa": "/ˈmɑːdəreɪt/",
+          "meaning": "議論の進行役を務める、調整する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She moderated the panel discussion.",
+          "translation": "彼女はパネルディスカッションの進行役を務めた。",
+          "note": "ラテン語 moderari（調整する）。議論の調整に重点。"
+        },
+        {
+          "word": "govern",
+          "pos": "動詞",
+          "ipa": "/ˈɡʌvərn/",
+          "meaning": "統治する、運営する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The party governed the country for ten years.",
+          "translation": "その政党は10年間その国を統治した。",
+          "note": "ラテン語 gubernare（舵を取る、指揮する）。統治権限を行使する。"
+        }
+      ],
+      "comparison": "preside over＝公式な議長・統括役を務める／chair＝会議の議長を務める／lead＝方向性を示して率いる／oversee＝業務を監督する／moderate＝議論を進行・調整する／govern＝統治権限を行使する。"
     }
   ]
 }
