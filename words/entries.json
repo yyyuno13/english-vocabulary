@@ -1,0 +1,157 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "speculation",
+      "word": "speculation",
+      "pos": "名詞",
+      "ipa": "/ˌspekjəˈleɪʃən/",
+      "meaning": "推測・憶測／市場の思惑／投機",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 speculari（観察する・熟考する）→ speculatio（観察・熟考）→英語 speculation。specul- は specere（見る）と関連。-ation は行為・過程を表す名詞語尾。観察→熟考→推測→将来の値動きを予想する投機。",
+      "core": "手がかりを見ながら、まだ確認できないことや将来を思い描く。推測には十分な根拠がない場合もある。これは理解のためのイメージ。",
+      "usage": "通常は不可算名詞。speculation about/over ～、speculation that ～、fuel speculation、market speculation。",
+      "examples": [
+        [
+          "There is growing speculation that the CEO will resign.",
+          "CEOが辞任するのではないかという憶測が広がっている。"
+        ],
+        [
+          "Shares rose amid speculation about a merger.",
+          "合併をめぐる思惑から株価が上昇した。"
+        ],
+        [
+          "Real estate speculation contributed to the bubble.",
+          "不動産投機がバブルの一因となった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "speculate",
+          "pos": "動詞",
+          "ipa": "/ˈspekjəleɪt/",
+          "meaning": "推測する・投機する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Analysts speculate that prices will rise.",
+          "translation": "アナリストは価格が上がると推測している。",
+          "note": "ラテン語 speculari（観察する・熟考する）。観察から推測へ意味が発展した。"
+        },
+        {
+          "word": "speculative",
+          "pos": "形容詞",
+          "ipa": "/ˈspekjələtɪv/",
+          "meaning": "推測に基づく・投機的な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The investment is highly speculative.",
+          "translation": "その投資は非常に投機的だ。",
+          "note": "speculate + -ive。推測に基づく→不確実性の高い。"
+        },
+        {
+          "word": "inspect",
+          "pos": "動詞",
+          "ipa": "/ɪnˈspekt/",
+          "meaning": "検査する・詳しく調べる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The technician inspected the machine.",
+          "translation": "技術者は機械を点検した。",
+          "note": "ラテン語 in-（中へ）+ specere（見る）。内部まで見る→検査する。"
+        },
+        {
+          "word": "spectator",
+          "pos": "名詞",
+          "ipa": "/spekˈteɪtər/",
+          "meaning": "観客・見物人",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "Spectators cheered at the finish line.",
+          "translation": "観客はゴール地点で歓声を上げた。",
+          "note": "ラテン語 spectare（見る）から。見る人→観客。"
+        },
+        {
+          "word": "prospect",
+          "pos": "名詞",
+          "ipa": "/ˈprɑːspekt/（米）",
+          "meaning": "見込み・可能性・見通し",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The prospects for growth are improving.",
+          "translation": "成長の見通しは改善している。",
+          "note": "ラテン語 pro-（前へ）+ specere（見る）。前を見る→将来の見通し。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "guess",
+          "pos": "名詞・動詞",
+          "ipa": "/ɡes/",
+          "meaning": "推測・推測する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "My guess is that she missed the train.",
+          "translation": "彼女は電車に乗り遅れたのだと思う。",
+          "note": "中英語 gessen 由来（遠い語源は不確か）。speculation より直感的・口語的。"
+        },
+        {
+          "word": "assumption",
+          "pos": "名詞",
+          "ipa": "/əˈsʌmpʃən/",
+          "meaning": "仮定・思い込み",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Our plan rests on the assumption that demand will grow.",
+          "translation": "私たちの計画は需要が伸びるという仮定に基づく。",
+          "note": "ラテン語 ad-（～へ）+ sumere（取る）。仮定を真として受け入れる点で speculation と異なる。"
+        },
+        {
+          "word": "conjecture",
+          "pos": "名詞・動詞",
+          "ipa": "/kənˈdʒektʃər/",
+          "meaning": "推測・推測する",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 2,
+          "example": "That explanation is only conjecture.",
+          "translation": "その説明は単なる憶測にすぎない。",
+          "note": "ラテン語 con-（一緒に）+ jacere（投げる）。限られた情報から推測する硬い表現。"
+        },
+        {
+          "word": "inference",
+          "pos": "名詞",
+          "ipa": "/ˈɪnfərəns/",
+          "meaning": "推論・推定",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "We drew an inference from the survey results.",
+          "translation": "調査結果から推論を導いた。",
+          "note": "ラテン語 in-（中へ）+ ferre（運ぶ）。証拠から結論を導く点で speculation と異なる。"
+        },
+        {
+          "word": "rumor",
+          "pos": "名詞",
+          "ipa": "/ˈruːmər/（米）",
+          "meaning": "うわさ・風説",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "Rumors about the merger spread quickly.",
+          "translation": "合併のうわさが急速に広まった。",
+          "note": "ラテン語 rumor（うわさ・ざわめき）。人々に流布する未確認情報。"
+        }
+      ],
+      "comparison": "speculation＝確証のない推測・市場の思惑／guess＝直感的な当て推量／assumption＝前提として受け入れる仮定／conjecture＝硬い推測／inference＝根拠から導く推論／rumor＝流布する未確認情報。"
+    }
+  ]
+}
