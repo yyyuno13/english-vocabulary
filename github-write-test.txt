@@ -1,0 +1,2 @@
+GitHub write test from ChatGPT.
+Created to verify repository write access. No changes to index.html.
