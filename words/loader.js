@@ -35,7 +35,13 @@
     const data=await response.json();
     const main=document.querySelector('main'), toc=document.getElementById('toc'), index=document.getElementById('word-index');
     if(!main||!toc||!index) throw new Error('Vocabulary HTML structure not found');
-    let next=[...main.querySelectorAll('section.family')].length+1;
+    // Chapter numbers come from existing numbered headings, not the count of
+    // sections (which includes the unnumbered quick-reference section).
+    const existingNumbers=[...main.querySelectorAll('section.family h2')].map(h=>{
+      const match=h.textContent.trim().match(/^(\\d+)\\./);
+      return match?Number(match[1]):0;
+    });
+    let next=Math.max(0,...existingNumbers)+1;
     const added=[];
     for(const entry of data.entries||[]) {
       if(!/^[a-z0-9-]+$/i.test(entry.id)||document.getElementById(entry.id))continue;
