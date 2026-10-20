@@ -47,6 +47,81 @@
       }
       added.push(document.getElementById(entry.id));next++;
     }
+    // Repair the original chapter 13 without changing the source HTML.
+    const condescending=document.getElementById('condescendingly');
+    if(condescending) {
+      const heading=condescending.querySelector('h2');
+      if(heading)heading.textContent='13. condescendingly';
+      if(!toc.querySelector('a[href="#condescendingly"]')) {
+        const link=document.createElement('a');
+        link.href='#condescendingly';link.textContent='13. condescendingly';
+        const subsidy=toc.querySelector('a[href="#subsidy"]');
+        if(subsidy)toc.insertBefore(link,subsidy);else toc.appendChild(link);
+      }
+    }
+    // Move the persistent TOC shortcut away from Netlify's bottom-right UI.
+    const uiStyle=document.createElement('style');
+    uiStyle.textContent='.toc-fab{top:calc(12px + env(safe-area-inset-top, 0px)) !important;bottom:auto !important;right:12px !important;z-index:100 !important} .toolbar{position:relative} .vocab-suggestions{position:absolute;top:100%;left:0;right:0;z-index:110;max-height:45vh;overflow-y:auto;background:var(--paper,#fff);border:1px solid var(--line,#ccc);border-radius:12px;box-shadow:0 8px 24px #0002;padding:5px} .vocab-suggestions[hidden]{display:none!important} .vocab-suggestions button{display:block;width:100%;text-align:left;padding:10px 12px;border:0;border-radius:7px;background:transparent;color:inherit;font:inherit;cursor:pointer} .vocab-suggestions button:hover,.vocab-suggestions button:focus{background:var(--accent-soft,#e8eef9)}';
+    document.head.appendChild(uiStyle);
+    // Clickable autocomplete for both the original index and loaded words.
+    const autocompleteInput=document.getElementById('search');
+    if(autocompleteInput) {
+      autocompleteInput.setAttribute('autocomplete','off');
+      const panel=document.createElement('div');
+      panel.className='vocab-suggestions';panel.hidden=true;
+      panel.setAttribute('role','listbox');
+      autocompleteInput.parentElement.appendChild(panel);
+      const normalize=text=>String(text||'').trim().toLocaleLowerCase();
+      const getOptions=()=>{
+        const seen=new Set();
+        return [...index.querySelectorAll('a[href^="#"]')].map(a=>{
+          const label=a.textContent.trim(),href=a.getAttribute('href');
+          return {label,href};
+        }).filter(item=>{
+          const key=normalize(item.label);
+          if(!key||seen.has(key)||!document.getElementById(item.href.slice(1)))return false;
+          seen.add(key);return true;
+        });
+      };
+      const hide=()=>{panel.hidden=true;panel.replaceChildren();};
+      const render=()=>{
+        const q=normalize(autocompleteInput.value);
+        panel.replaceChildren();
+        if(!q){hide();return;}
+        const options=getOptions().filter(item=>normalize(item.label).includes(q)).sort((a,b)=>{
+          const aStart=normalize(a.label).startsWith(q)?0:1;
+          const bStart=normalize(b.label).startsWith(q)?0:1;
+          return aStart-bStart||a.label.localeCompare(b.label);
+        }).slice(0,9);
+        if(!options.length){hide();return;}
+        options.forEach(item=>{
+          const button=document.createElement('button');
+          button.type='button';button.setAttribute('role','option');
+          button.textContent=item.label;
+          button.addEventListener('click',()=>{
+            autocompleteInput.value='';
+            autocompleteInput.dispatchEvent(new Event('input',{bubbles:true}));
+            hide();
+            const target=document.getElementById(item.href.slice(1));
+            if(target){target.scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'',item.href);}
+          });
+          panel.appendChild(button);
+        });
+        panel.hidden=false;
+      };
+      autocompleteInput.addEventListener('input',render);
+      autocompleteInput.addEventListener('focus',render);
+      autocompleteInput.addEventListener('keydown',event=>{
+        if(event.key==='Escape')hide();
+        if(event.key==='Enter'&&!panel.hidden) {
+          const first=panel.querySelector('button');
+          if(first){event.preventDefault();first.click();}
+        }
+      });
+      document.addEventListener('click',event=>{
+        if(!panel.contains(event.target)&&event.target!==autocompleteInput)hide();
+      });
+    }
     // Search all sections together, including dynamically added entries.
     // Capture-phase listener runs before the original HTML's search handler.
     const search=document.getElementById('search');
