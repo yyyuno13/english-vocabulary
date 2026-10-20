@@ -47,6 +47,28 @@
       }
       added.push(document.getElementById(entry.id));next++;
     }
+    // Collapsible vocabulary index; retain the existing links and styles.
+    if(index && !index.closest('details')) {
+      const details=document.createElement('details');
+      details.className='vocab-index-fold';
+      details.open=false;
+      const summary=document.createElement('summary');
+      summary.textContent='単語インデックスを開く';
+      summary.setAttribute('aria-label','単語インデックスを開閉');
+      const heading=index.previousElementSibling;
+      if(heading && heading.tagName==='H2') heading.hidden=true;
+      index.parentNode.insertBefore(details,index);
+      details.appendChild(summary);
+      details.appendChild(index);
+      details.addEventListener('toggle',()=>{
+        summary.textContent=details.open?'単語インデックスを閉じる':'単語インデックスを開く';
+      });
+      const foldStyle=document.createElement('style');
+      foldStyle.textContent='.vocab-index-fold{margin-top:18px;border:1px solid var(--line,#ddd);border-radius:10px;padding:8px 10px}.vocab-index-fold>summary{cursor:pointer;font-weight:700;padding:5px 2px;color:var(--accent,inherit);list-style-position:inside}.vocab-index-fold>#word-index{margin-top:10px}';
+      document.head.appendChild(foldStyle);
+      // Reveal the index when navigating directly to a word inside it.
+      if(location.hash==='#word-index')details.open=true;
+    }
     // Repair the original chapter 13 without changing the source HTML.
     const condescending=document.getElementById('condescendingly');
     if(condescending) {
