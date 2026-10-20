@@ -47,15 +47,27 @@
       }
       added.push(document.getElementById(entry.id));next++;
     }
+    // Search all sections together, including dynamically added entries.
+    // Capture-phase listener runs before the original HTML's search handler.
     const search=document.getElementById('search');
-    if(search&&added.length)search.addEventListener('input',()=>{
-      const q=search.value.trim().toLowerCase();
-      for(const section of added) {
-        section.style.display=(!q||(section.dataset.search||'').toLowerCase().includes(q))?'':'none';
-        section.querySelectorAll('.wordcard.searchable').forEach(card=>{
-          card.style.display=(!q||(card.dataset.search||'').toLowerCase().includes(q))?'':'none';
+    if(search) {
+      const updateSearch=()=>{
+        const q=search.value.trim().toLowerCase();
+        document.querySelectorAll('section.family.searchable').forEach(section=>{
+          const cards=[...section.querySelectorAll('.wordcard.searchable')];
+          const sectionMatch=(section.dataset.search||'').toLowerCase().includes(q);
+          const cardMatches=cards.map(card=>(card.dataset.search||card.textContent||'').toLowerCase().includes(q));
+          section.style.display=(!q||sectionMatch||cardMatches.some(Boolean))?'':'none';
+          cards.forEach((card,i)=>{card.style.display=(!q||sectionMatch||cardMatches[i])?'':'none';});
         });
-      }
-    });
+      };
+      search.addEventListener('input',event=>{event.stopImmediatePropagation();updateSearch();},true);
+      updateSearch();
+    }
+    // If a URL points to a related word, make sure the target is visible.
+    if(location.hash) {
+      const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if(target&&added.some(section=>section.contains(target)))target.scrollIntoView();
+    }
   } catch(error) { console.error('Vocabulary data could not be loaded:',error); }
 })();
