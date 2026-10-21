@@ -1131,16 +1131,32 @@
       "usage": "incorporate A into B（AをBに組み込む）",
       "examples": [
         [
-          "We incorporated customer feedback into the design.",
-          "顧客の意見を設計に反映した。"
+          "We incorporated customer feedback into the new product design.",
+          "私たちは顧客のフィードバックを新製品の設計に取り入れた。"
         ],
         [
-          "The company was incorporated in 2015.",
-          "その会社は2015年に法人化された。"
+          "The teacher incorporated interactive activities into the lesson.",
+          "先生は授業に双方向型の活動を組み込んだ。"
         ],
         [
-          "The proposal incorporates several suggestions.",
-          "その提案書にはいくつかの提案が反映されている。"
+          "The revised proposal incorporates several suggestions from the team.",
+          "修正された提案書には、チームからのいくつかの提案が反映されている。"
+        ],
+        [
+          "The company plans to incorporate AI into its daily operations.",
+          "その企業は日常業務にAIを組み込む予定だ。"
+        ],
+        [
+          "The new platform incorporates multiple services into a single interface.",
+          "新しいプラットフォームは複数のサービスを一つのインターフェースに統合している。"
+        ],
+        [
+          "The business was incorporated in Delaware in 2015.",
+          "その企業は2015年にデラウェア州で法人として設立された。"
+        ],
+        [
+          "They decided to incorporate their business to limit personal liability.",
+          "彼らは個人の責任を限定するため、事業を法人化することに決めた。"
         ]
       ],
       "related": [
@@ -1152,8 +1168,8 @@
           "difficulty": 3,
           "daily": 4,
           "business": 5,
-          "example": "The corporation operates globally.",
-          "translation": "その企業は世界中で事業を展開している。",
+          "example": "The corporation operates in more than 30 countries.",
+          "translation": "その企業は30か国以上で事業を展開している。",
           "note": "corpus（身体）から組織体の意味へ。"
         },
         {
@@ -1164,8 +1180,8 @@
           "difficulty": 3,
           "daily": 4,
           "business": 5,
-          "example": "Corporate culture matters.",
-          "translation": "企業文化は重要だ。",
+          "example": "Corporate culture plays a major role in employee satisfaction.",
+          "translation": "企業文化は従業員の満足度に大きな役割を果たす。",
           "note": "ラテン語 corporatus（一つにまとめられた）。"
         },
         {
@@ -1176,8 +1192,8 @@
           "difficulty": 5,
           "daily": 1,
           "business": 1,
-          "example": "Corporeal needs are important.",
-          "translation": "身体的な欲求は重要だ。",
+          "example": "The philosopher distinguished corporeal existence from spiritual existence.",
+          "translation": "その哲学者は肉体的存在と精神的存在を区別した。",
           "note": "ラテン語 corporeus（身体の）。"
         },
         {
@@ -1188,8 +1204,8 @@
           "difficulty": 3,
           "daily": 3,
           "business": 1,
-          "example": "They found a corpse.",
-          "translation": "彼らは遺体を発見した。",
+          "example": "The investigators discovered a corpse near the river.",
+          "translation": "捜査官たちは川の近くで遺体を発見した。",
           "note": "ラテン語 corpus（身体）に由来。"
         },
         {
@@ -1200,8 +1216,8 @@
           "difficulty": 5,
           "daily": 1,
           "business": 3,
-          "example": "They studied a large corpus.",
-          "translation": "彼らは大規模なコーパスを研究した。",
+          "example": "The researchers analyzed a large corpus of spoken English.",
+          "translation": "研究者たちは大量の英語の話し言葉のコーパスを分析した。",
           "note": "ラテン語で身体・まとまり。"
         },
         {
@@ -1212,8 +1228,8 @@
           "difficulty": 4,
           "daily": 2,
           "business": 5,
-          "example": "Incorporation takes time.",
-          "translation": "法人化には時間がかかる。",
+          "example": "The incorporation of new technology improved efficiency.",
+          "translation": "新技術の導入・組み込みによって効率が向上した。",
           "note": "incorporate の名詞形。"
         }
       ],
@@ -1226,8 +1242,8 @@
           "difficulty": 3,
           "daily": 4,
           "business": 5,
-          "example": "Integrate the new software.",
-          "translation": "新しいソフトを統合して。",
+          "example": "We need to integrate the new software with our existing systems.",
+          "translation": "新しいソフトウェアを既存のシステムと統合する必要がある。",
           "note": "integer（完全な）に由来。連携させる。"
         },
         {
@@ -1238,8 +1254,8 @@
           "difficulty": 1,
           "daily": 5,
           "business": 5,
-          "example": "The fee includes tax.",
-          "translation": "料金には税が含まれる。",
+          "example": "The package includes free technical support.",
+          "translation": "そのパッケージには無料の技術サポートが含まれている。",
           "note": "in- + claudere（閉じる）。単に含む。"
         },
         {
@@ -1250,8 +1266,8 @@
           "difficulty": 4,
           "daily": 3,
           "business": 5,
-          "example": "Embed the video on the page.",
-          "translation": "ページに動画を埋め込んで。",
+          "example": "The company embedded security features into the application.",
+          "translation": "その企業はアプリケーションにセキュリティ機能を組み込んだ。",
           "note": "em- + bed。内部に固定する。"
         },
         {
@@ -1262,8 +1278,8 @@
           "difficulty": 5,
           "daily": 2,
           "business": 3,
-          "example": "Assimilate new information.",
-          "translation": "新しい情報を吸収する。",
+          "example": "It takes time to assimilate new information.",
+          "translation": "新しい情報を吸収して理解するには時間がかかる。",
           "note": "ラテン語 assimilare（似たものにする）。"
         },
         {
@@ -1274,8 +1290,8 @@
           "difficulty": 3,
           "daily": 4,
           "business": 5,
-          "example": "The companies will merge.",
-          "translation": "その会社同士は合併する。",
+          "example": "The two companies decided to merge.",
+          "translation": "その2社は合併することを決定した。",
           "note": "ラテン語 mergere（沈める）。一つにする。"
         },
         {
@@ -1286,8 +1302,8 @@
           "difficulty": 3,
           "daily": 4,
           "business": 5,
-          "example": "Adopt a new strategy.",
-          "translation": "新しい戦略を採用する。",
+          "example": "The company adopted a new marketing strategy.",
+          "translation": "その企業は新しいマーケティング戦略を採用した。",
           "note": "ラテン語 adoptare（選んで受け入れる）。"
         }
       ],
