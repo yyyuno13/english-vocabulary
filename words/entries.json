@@ -1137,11 +1137,161 @@
         [
           "The company was incorporated in 2015.",
           "その会社は2015年に法人化された。"
+        ],
+        [
+          "The proposal incorporates several suggestions.",
+          "その提案書にはいくつかの提案が反映されている。"
         ]
       ],
-      "related": [],
-      "synonyms": [],
-      "comparison": "include は単に含める、integrate は統合する、incorporate は一部として組み込む。"
+      "related": [
+        {
+          "word": "corporation",
+          "pos": "名詞",
+          "ipa": "/ˌkɔːrpəˈreɪʃən/",
+          "meaning": "法人、企業",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The corporation operates globally.",
+          "translation": "その企業は世界中で事業を展開している。",
+          "note": "corpus（身体）から組織体の意味へ。"
+        },
+        {
+          "word": "corporate",
+          "pos": "形容詞",
+          "ipa": "/ˈkɔːrpərət/",
+          "meaning": "企業の、法人の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Corporate culture matters.",
+          "translation": "企業文化は重要だ。",
+          "note": "ラテン語 corporatus（一つにまとめられた）。"
+        },
+        {
+          "word": "corporeal",
+          "pos": "形容詞",
+          "ipa": "/kɔːrˈpɔːriəl/",
+          "meaning": "肉体の、物質的な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "Corporeal needs are important.",
+          "translation": "身体的な欲求は重要だ。",
+          "note": "ラテン語 corporeus（身体の）。"
+        },
+        {
+          "word": "corpse",
+          "pos": "名詞",
+          "ipa": "/kɔːrps/",
+          "meaning": "遺体",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "They found a corpse.",
+          "translation": "彼らは遺体を発見した。",
+          "note": "ラテン語 corpus（身体）に由来。"
+        },
+        {
+          "word": "corpus",
+          "pos": "名詞",
+          "ipa": "/ˈkɔːrpəs/",
+          "meaning": "文書資料の集合",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "example": "They studied a large corpus.",
+          "translation": "彼らは大規模なコーパスを研究した。",
+          "note": "ラテン語で身体・まとまり。"
+        },
+        {
+          "word": "incorporation",
+          "pos": "名詞",
+          "ipa": "/ɪnˌkɔːrpəˈreɪʃən/",
+          "meaning": "組み込み、法人化",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "Incorporation takes time.",
+          "translation": "法人化には時間がかかる。",
+          "note": "incorporate の名詞形。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "integrate",
+          "pos": "動詞",
+          "ipa": "/ˈɪntɪɡreɪt/",
+          "meaning": "統合する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Integrate the new software.",
+          "translation": "新しいソフトを統合して。",
+          "note": "integer（完全な）に由来。連携させる。"
+        },
+        {
+          "word": "include",
+          "pos": "動詞",
+          "ipa": "/ɪnˈkluːd/",
+          "meaning": "含める",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The fee includes tax.",
+          "translation": "料金には税が含まれる。",
+          "note": "in- + claudere（閉じる）。単に含む。"
+        },
+        {
+          "word": "embed",
+          "pos": "動詞",
+          "ipa": "/ɪmˈbed/",
+          "meaning": "埋め込む",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Embed the video on the page.",
+          "translation": "ページに動画を埋め込んで。",
+          "note": "em- + bed。内部に固定する。"
+        },
+        {
+          "word": "assimilate",
+          "pos": "動詞",
+          "ipa": "/əˈsɪməleɪt/",
+          "meaning": "吸収する、同化する",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "Assimilate new information.",
+          "translation": "新しい情報を吸収する。",
+          "note": "ラテン語 assimilare（似たものにする）。"
+        },
+        {
+          "word": "merge",
+          "pos": "動詞",
+          "ipa": "/mɜːrdʒ/",
+          "meaning": "合併する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The companies will merge.",
+          "translation": "その会社同士は合併する。",
+          "note": "ラテン語 mergere（沈める）。一つにする。"
+        },
+        {
+          "word": "adopt",
+          "pos": "動詞",
+          "ipa": "/əˈdɑːpt/",
+          "meaning": "採用する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Adopt a new strategy.",
+          "translation": "新しい戦略を採用する。",
+          "note": "ラテン語 adoptare（選んで受け入れる）。"
+        }
+      ],
+      "comparison": "incorporate＝既存の全体の一部にする。integrate＝相互に連携させ統合する。include＝単に含める。embed＝深く埋め込む。assimilate＝吸収・同化する。merge＝別々のものが合体する。adopt＝選んで採用する。"
     }
   ]
 }
