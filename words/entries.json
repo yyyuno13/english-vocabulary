@@ -948,6 +948,174 @@
         }
       ],
       "comparison": "literature＝文学・文献・資料の集合／writing＝文章全般／fiction＝創作物語／publication＝出版物／documentation＝技術・実務文書／bibliography＝参考文献一覧／brochure＝案内・販促用小冊子。"
+    },
+    {
+      "id": "malfunction",
+      "word": "malfunction",
+      "pos": "名詞・動詞",
+      "ipa": "/ˌmælˈfʌŋkʃən/",
+      "meaning": "故障、不具合、機能不全／正常に作動しない、誤作動する",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "mal-（悪く、不適切に；ラテン語 malus）+ function（機能する；ラテン語 functio ← fungi「遂行する」）→ 機能が正常に働かない。",
+      "core": "本来の役割を果たすべき機械・システム・器官が、正常に機能しなくなる状態。完全停止だけでなく誤作動も含む。",
+      "usage": "名詞は可算名詞（a malfunction, malfunctions）。動詞は自動詞（The sensor malfunctioned）。mechanical malfunction、system malfunction、equipment malfunction、malfunction due to overheating。",
+      "examples": [
+        [
+          "The accident was caused by a mechanical malfunction.",
+          "その事故は機械的な故障によって引き起こされた。"
+        ],
+        [
+          "The system experienced a temporary malfunction.",
+          "システムに一時的な不具合が発生した。"
+        ],
+        [
+          "The security system malfunctioned during the power outage.",
+          "停電中にセキュリティシステムが誤作動した。"
+        ],
+        [
+          "If the sensor malfunctions, the machine will shut down automatically.",
+          "センサーに異常が発生すると機械は自動的に停止する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "function",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈfʌŋkʃən/",
+          "meaning": "機能、役割／機能する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The device functions properly under normal conditions.",
+          "translation": "その装置は通常の条件下では正常に機能する。",
+          "note": "ラテン語 functio（遂行）← fungi（果たす）。"
+        },
+        {
+          "word": "functional",
+          "pos": "形容詞",
+          "ipa": "/ˈfʌŋkʃənəl/",
+          "meaning": "機能的な、正常に機能する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The equipment is still functional despite its age.",
+          "translation": "その設備は古いにもかかわらず、まだ正常に機能している。",
+          "note": "function + -al（〜に関する）。"
+        },
+        {
+          "word": "dysfunction",
+          "pos": "名詞",
+          "ipa": "/dɪsˈfʌŋkʃən/",
+          "meaning": "機能障害、機能不全",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Poor communication led to dysfunction within the team.",
+          "translation": "コミュニケーション不足がチーム内の機能不全につながった。",
+          "note": "dys-（異常な、悪い）+ function。"
+        },
+        {
+          "word": "malfunctioning",
+          "pos": "形容詞・現在分詞",
+          "ipa": "/ˌmælˈfʌŋkʃənɪŋ/",
+          "meaning": "故障している、誤作動している",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The technician replaced the malfunctioning sensor.",
+          "translation": "技術者は故障しているセンサーを交換した。",
+          "note": "malfunction + -ing。"
+        },
+        {
+          "word": "malnutrition",
+          "pos": "名詞",
+          "ipa": "/ˌmælnuˈtrɪʃən/",
+          "meaning": "栄養失調、栄養不良",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "Malnutrition can seriously affect a child's development.",
+          "translation": "栄養不良は子どもの発育に深刻な影響を与えることがある。",
+          "note": "mal-（悪く）+ nutrition（栄養）。共通接頭辞 mal-。"
+        },
+        {
+          "word": "malpractice",
+          "pos": "名詞",
+          "ipa": "/ˌmælˈpræktɪs/",
+          "meaning": "専門職としての過失、不正行為",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The hospital investigated allegations of medical malpractice.",
+          "translation": "病院は医療過誤の疑惑を調査した。",
+          "note": "mal-（悪く）+ practice（業務）。共通接頭辞 mal-。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "breakdown",
+          "pos": "名詞",
+          "ipa": "/ˈbreɪkdaʊn/",
+          "meaning": "故障、崩壊",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The train was delayed because of an engine breakdown.",
+          "translation": "列車はエンジンの故障によって遅れた。",
+          "note": "break + down。機械の停止や仕組みの崩壊を強調。"
+        },
+        {
+          "word": "failure",
+          "pos": "名詞",
+          "ipa": "/ˈfeɪljər/",
+          "meaning": "故障、失敗、機能停止",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "A power failure interrupted the operation.",
+          "translation": "停電によって作業が中断された。",
+          "note": "古フランス語 faillir（失敗する）。機能を果たせない結果。"
+        },
+        {
+          "word": "defect",
+          "pos": "名詞",
+          "ipa": "/ˈdiːfekt/",
+          "meaning": "欠陥、不良",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The manufacturer recalled the product due to a design defect.",
+          "translation": "メーカーは設計上の欠陥を理由に製品を回収した。",
+          "note": "ラテン語 de- + facere（作る）。不具合の原因となる欠陥。"
+        },
+        {
+          "word": "glitch",
+          "pos": "名詞",
+          "ipa": "/ɡlɪtʃ/",
+          "meaning": "一時的な不具合、軽微な障害",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "There was a minor glitch in the payment system.",
+          "translation": "決済システムに軽微な不具合があった。",
+          "note": "イディッシュ語 glitsh（滑ること）との関連が指摘される。ITで多用。"
+        },
+        {
+          "word": "go wrong",
+          "pos": "動詞句",
+          "ipa": "/ɡoʊ rɔːŋ/",
+          "meaning": "うまくいかなくなる、異常が起きる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "Something went wrong with the machine.",
+          "translation": "機械に何か不具合が起きた。",
+          "note": "go（ある状態になる）+ wrong（誤った状態）。日常的な言い方。"
+        }
+      ],
+      "comparison": "malfunction＝正常に機能しない／breakdown＝停止・崩壊／failure＝機能や目的を果たせない結果／defect＝設計・製品の欠陥／glitch＝軽微・一時的な技術不具合／go wrong＝何かがおかしくなる一般的表現。"
     }
   ]
 }
