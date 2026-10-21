@@ -1500,6 +1500,186 @@
         }
       ],
       "comparison": "signify＝事実・行動が持つ意味を表す（フォーマル）／indicate＝証拠・データが示す／mean＝一般的に意味する／represent＝象徴・代表する／denote＝記号などが決まった意味を指す／imply＝間接的に暗示する／symbolize＝理念・価値を象徴する。"
+    },
+    {
+      "id": "intriguing",
+      "word": "intriguing",
+      "pos": "形容詞",
+      "ipa": "/ɪnˈtriːɡɪŋ/",
+      "meaning": "興味をそそる、好奇心をかき立てる、謎めいて魅力的な",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "intrigue + -ing。intrigue はラテン語 intricare（絡ませる、もつれさせる）に由来し、in-（中に）と tricae（もつれ、厄介事）に遡る。",
+      "core": "複雑で簡単には解けない謎があるからこそ、もっと知りたいと思わせる。",
+      "usage": "an intriguing question/discovery/proposal/possibility; be intrigued by（〜に興味をそそられる）。interesting よりも謎・新規性・好奇心を強調。",
+      "examples": [
+        [
+          "The archaeologists made an intriguing discovery at the ancient site.",
+          "考古学者たちはその古代遺跡で興味をそそる発見をした。"
+        ],
+        [
+          "An intriguing question arose during the discussion about artificial intelligence and human creativity.",
+          "人工知能と人間の創造性についての議論の中で興味深い問いが浮かび上がった。"
+        ],
+        [
+          "The documentary presents an intriguing theory about why the ancient civilization suddenly disappeared.",
+          "そのドキュメンタリーは古代文明が突然消滅した理由について興味をそそる説を提示している。"
+        ],
+        [
+          "What makes this discovery particularly intriguing is that it challenges our previous understanding of human history.",
+          "この発見が特に興味深いのは人類史に関する従来の理解に疑問を投げかける点だ。"
+        ],
+        [
+          "She gave an intriguing smile but refused to explain what she had discovered.",
+          "彼女は意味ありげな微笑みを浮かべたが何を発見したのか説明しようとはしなかった。"
+        ],
+        [
+          "The startup presented an intriguing proposal that could fundamentally change how companies manage customer data.",
+          "そのスタートアップは企業の顧客データ管理のあり方を根本的に変える可能性のある興味深い提案を発表した。"
+        ],
+        [
+          "The initial findings are intriguing, but we need more evidence before making a major investment decision.",
+          "初期の調査結果は興味深いものの大きな投資判断を下す前にさらに証拠が必要だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "intrigue",
+          "pos": "動詞・名詞",
+          "ipa": "/ɪnˈtriːɡ/（動詞）, /ˈɪntriːɡ/（名詞）",
+          "meaning": "興味をそそる、策略を巡らす／陰謀、策略",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The scientist's unexpected findings intrigued researchers around the world.",
+          "translation": "その科学者の予想外の発見は世界中の研究者の好奇心をかき立てた。",
+          "note": "ラテン語 intricare（絡ませる）に由来。謎や策略が絡み合う。"
+        },
+        {
+          "word": "intrigued",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈtriːɡd/",
+          "meaning": "興味をそそられた",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I was intrigued by your suggestion to expand our business into emerging markets.",
+          "translation": "新興市場へ事業を拡大するというあなたの提案に私は興味を引かれました。",
+          "note": "intrigue + -ed。興味を引かれた側の状態。"
+        },
+        {
+          "word": "intricate",
+          "pos": "形容詞",
+          "ipa": "/ˈɪntrɪkət/",
+          "meaning": "複雑に入り組んだ、精巧な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The researchers developed an intricate model to explain the relationship between climate change and ocean currents.",
+          "translation": "研究者たちは気候変動と海流の関係を説明するために精緻で複雑なモデルを開発した。",
+          "note": "ラテン語 intricare（絡ませる）に由来。複雑に絡み合う原義。"
+        },
+        {
+          "word": "intricacy",
+          "pos": "名詞",
+          "ipa": "/ˈɪntrɪkəsi/",
+          "meaning": "複雑さ、入り組んだ細部",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "Understanding the intricacies of international trade regulations requires considerable expertise.",
+          "translation": "国際貿易規制の複雑な細部を理解するには相当な専門知識が必要だ。",
+          "note": "intricate + -cy（状態・性質）。"
+        },
+        {
+          "word": "extricate",
+          "pos": "動詞",
+          "ipa": "/ˈekstrɪkeɪt/",
+          "meaning": "困難な状況から抜け出させる、解放する",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The company struggled to extricate itself from a series of complicated legal disputes.",
+          "translation": "その企業は一連の複雑な法的紛争から抜け出そうと苦労した。",
+          "note": "ラテン語 extricare（もつれを解く）← ex-（外へ）＋ tricae（もつれ）。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "interesting",
+          "pos": "形容詞",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "meaning": "興味深い、面白い",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The report provides interesting insights into changing consumer preferences.",
+          "translation": "その報告書は変化する消費者の好みに関して興味深い洞察を提供している。",
+          "note": "interest + -ing。interest はラテン語 interesse（間にある、重要である）に由来。一般的な面白さ。"
+        },
+        {
+          "word": "fascinating",
+          "pos": "形容詞",
+          "ipa": "/ˈfæsɪneɪtɪŋ/",
+          "meaning": "非常に魅力的な、夢中にさせる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The professor gave a fascinating lecture on the evolution of human language.",
+          "translation": "教授は人間の言語の進化について非常に魅力的な講義を行った。",
+          "note": "ラテン語 fascinare（魅了する）。強く引きつける。"
+        },
+        {
+          "word": "compelling",
+          "pos": "形容詞",
+          "ipa": "/kəmˈpelɪŋ/",
+          "meaning": "説得力のある、強く心を引きつける",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The research team presented compelling evidence that the new treatment was effective.",
+          "translation": "研究チームはその新しい治療法が有効であることを示す説得力のある証拠を提示した。",
+          "note": "ラテン語 compellere（駆り立てる）← com- + pellere（押す）。"
+        },
+        {
+          "word": "captivating",
+          "pos": "形容詞",
+          "ipa": "/ˈkæptɪveɪtɪŋ/",
+          "meaning": "心を奪う、魅了する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The artist's captivating paintings attracted visitors from across the country.",
+          "translation": "その画家の人々を魅了する絵画は全国から訪問者を引きつけた。",
+          "note": "ラテン語 captivus（捕らわれた）に由来。心を捕まえる。"
+        },
+        {
+          "word": "mysterious",
+          "pos": "形容詞",
+          "ipa": "/mɪˈstɪriəs/",
+          "meaning": "謎めいた、不可解な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "A mysterious signal detected by the telescope puzzled astronomers for several months.",
+          "translation": "望遠鏡で検出された謎の信号は数か月にわたり天文学者たちを困惑させた。",
+          "note": "ギリシャ語 mystērion（秘密、神秘）。謎があるが必ずしも魅力的ではない。"
+        },
+        {
+          "word": "thought-provoking",
+          "pos": "形容詞",
+          "ipa": "/ˈθɔːt prəˌvoʊkɪŋ/",
+          "meaning": "考えさせられる、思索を促す",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The documentary raised thought-provoking questions about the ethical implications of artificial intelligence.",
+          "translation": "そのドキュメンタリーは人工知能の倫理的影響について考えさせられる問いを投げかけた。",
+          "note": "thought（思考）＋ provoke（刺激する）← ラテン語 provocare（呼び出す）。"
+        }
+      ],
+      "comparison": "intriguing＝謎や新規性が好奇心を刺激する／interesting＝一般的に興味深い／fascinating＝強く魅了する／compelling＝説得力や強い引力がある／captivating＝心を奪う／mysterious＝不可解・謎めいている／thought-provoking＝深く考えさせる。intriguing（興味をそそる側）と intrigued（興味をそそられる側）を区別。"
     }
   ]
 }
