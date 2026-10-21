@@ -1832,6 +1832,214 @@
         }
       ],
       "comparison": "infrared＝赤色光より長波長側の電磁波／thermal＝熱・温度に関する／radiant＝放射する／invisible＝目に見えない／electromagnetic＝電磁気の（赤外線を含む）／ultraviolet＝紫色光より短波長側の紫外線。thermal などは厳密な同義語ではなく関連表現。"
+    },
+    {
+      "id": "faint",
+      "word": "faint",
+      "pos": "形容詞・動詞・名詞",
+      "ipa": "/feɪnt/",
+      "meaning": "かすかな、弱々しい、気が遠くなりそうな／失神する／失神",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 3,
+      "etymology": "古フランス語 feint（偽った、装った）・feindre（装う）を経て、ラテン語 fingere（形作る、装う）に遡る。現代英語では自然な接頭辞・語根分解はできない。",
+      "core": "光・音・におい・記憶・希望・意識などが弱くなり、かすかで消えかけている。",
+      "usage": "faint light/sound/smell/signal（かすかな光・音・におい・信号）、a faint memory/hope/smile（おぼろげな記憶・わずかな希望・微笑）、feel faint（気が遠くなる）、faint from heat（暑さで失神する）。動詞 faint-fainted-fainted。",
+      "examples": [
+        [
+          "A faint light was visible on the horizon just before sunrise.",
+          "日の出の直前、地平線にかすかな光が見えた。"
+        ],
+        [
+          "The researchers detected a faint signal coming from a galaxy billions of light-years away.",
+          "研究者たちは数十億光年離れた銀河から届く微弱な信号を検出した。"
+        ],
+        [
+          "There was a faint smell of smoke in the hallway, although no one could identify its source.",
+          "廊下にはかすかに煙のにおいが漂っていたが誰もその発生源を特定できなかった。"
+        ],
+        [
+          "I have only a faint memory of the house where I lived as a child.",
+          "子どもの頃に住んでいた家についてはおぼろげな記憶しかない。"
+        ],
+        [
+          "Despite the disappointing results, the team still held on to a faint hope that the project could succeed.",
+          "期待外れの結果にもかかわらずチームはプロジェクトが成功するかもしれないというわずかな希望を持ち続けていた。"
+        ],
+        [
+          "She gave a faint smile when she heard the encouraging news.",
+          "彼女は励みになる知らせを聞いてかすかに微笑んだ。"
+        ],
+        [
+          "After standing in the crowded train for nearly an hour without eating breakfast, he began to feel faint.",
+          "朝食を取らずに混雑した電車で1時間近く立っていたため彼は気が遠くなり始めた。"
+        ],
+        [
+          "If you feel faint during the exercise, stop immediately and sit down.",
+          "運動中に気が遠くなりそうになったらすぐに中止して座ってください。"
+        ],
+        [
+          "The passenger fainted while waiting in a long line under the intense summer heat.",
+          "その乗客は夏の厳しい暑さの中で長い列に並んでいる間に失神した。"
+        ],
+        [
+          "She nearly fainted when she saw the amount of blood, but managed to remain conscious.",
+          "彼女は大量の血を見て気絶しかけたがなんとか意識を保った。"
+        ],
+        [
+          "He collapsed in a faint after standing for too long in the heat.",
+          "彼は暑い中で長時間立っていた後失神して倒れた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "feign",
+          "pos": "動詞",
+          "ipa": "/feɪn/",
+          "meaning": "〜のふりをする、装う",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The employee feigned surprise when the manager announced the decision, even though he had known about it for weeks.",
+          "translation": "その従業員は何週間も前からその決定を知っていたにもかかわらず上司が発表すると驚いたふりをした。",
+          "note": "古フランス語 feindre ← ラテン語 fingere（装う）。faint と近い歴史。"
+        },
+        {
+          "word": "feint",
+          "pos": "名詞・動詞",
+          "ipa": "/feɪnt/",
+          "meaning": "フェイント、陽動／フェイントをかける",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The boxer made a quick feint to the left before delivering a powerful punch from the right.",
+          "translation": "そのボクサーは左に素早くフェイントをかけてから右から強烈なパンチを繰り出した。",
+          "note": "古フランス語 feint（装った）。faint と同音異義語。"
+        },
+        {
+          "word": "fiction",
+          "pos": "名詞",
+          "ipa": "/ˈfɪkʃən/",
+          "meaning": "小説、フィクション、作り話",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "Although the novel is a work of fiction, it draws heavily on real historical events and social issues.",
+          "translation": "その小説はフィクション作品だが実際の歴史的出来事や社会問題を大いに取り入れている。",
+          "note": "ラテン語 fictio（作り上げること）← fingere。"
+        },
+        {
+          "word": "fictitious",
+          "pos": "形容詞",
+          "ipa": "/fɪkˈtɪʃəs/",
+          "meaning": "架空の、でっち上げの",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The investigation revealed that the company had used fictitious transactions to inflate its reported revenue.",
+          "translation": "調査の結果その企業が報告上の売上高を水増しするために架空取引を利用していたことが明らかになった。",
+          "note": "ラテン語 ficticius（作り上げられた）← fingere。"
+        },
+        {
+          "word": "figure",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈfɪɡjər/",
+          "meaning": "数字、人物、形／考える、計算する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The financial figures in the quarterly report suggest that the company's operating costs are gradually decreasing.",
+          "translation": "四半期報告書の財務数値はその企業の営業費用が徐々に減少していることを示している。",
+          "note": "ラテン語 figura（形）← fingere（形作る）。"
+        },
+        {
+          "word": "figment",
+          "pos": "名詞",
+          "ipa": "/ˈfɪɡmənt/",
+          "meaning": "想像の産物、作り事",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 2,
+          "example": "The detective eventually realized that the mysterious character was merely a figment of the witness's imagination.",
+          "translation": "刑事はやがてその謎めいた人物が目撃者の想像の産物にすぎなかったことに気づいた。",
+          "note": "ラテン語 figmentum（作られたもの）← fingere。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "dim",
+          "pos": "形容詞・動詞",
+          "ipa": "/dɪm/",
+          "meaning": "薄暗い、ぼんやりした／暗くする",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The room was illuminated by a dim light coming from a small lamp in the corner.",
+          "translation": "部屋は隅に置かれた小さなランプからの薄暗い光に照らされていた。",
+          "note": "古英語 dimm（暗い）。主に明るさの弱さ。"
+        },
+        {
+          "word": "subtle",
+          "pos": "形容詞",
+          "ipa": "/ˈsʌtəl/",
+          "meaning": "微妙な、かすかな、繊細な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The designer made a subtle change to the logo that improved its overall appearance without altering its basic identity.",
+          "translation": "デザイナーはロゴの基本的な特徴を変えずに全体の見た目を改善する微妙な変更を加えた。",
+          "note": "ラテン語 subtilis（細かく織られた）。気づきにくさに重点。"
+        },
+        {
+          "word": "vague",
+          "pos": "形容詞",
+          "ipa": "/veɪɡ/",
+          "meaning": "曖昧な、漠然とした",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The manager gave only a vague explanation of the new policy, leaving employees uncertain about what would change.",
+          "translation": "上司は新しい方針について曖昧な説明しかしなかったため従業員たちは何が変わるのか分からないままだった。",
+          "note": "ラテン語 vagus（さまよう、定まらない）。内容・輪郭の不明確さ。"
+        },
+        {
+          "word": "weak",
+          "pos": "形容詞",
+          "ipa": "/wiːk/",
+          "meaning": "弱い、力のない",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The radio picked up a weak signal from the remote research station, but the message was difficult to understand.",
+          "translation": "無線機は遠隔地の研究施設から微弱な信号を受信したがそのメッセージを理解するのは難しかった。",
+          "note": "ゲルマン語系の語。一般的な強度の弱さ。"
+        },
+        {
+          "word": "slight",
+          "pos": "形容詞",
+          "ipa": "/slaɪt/",
+          "meaning": "わずかな、軽微な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "There was a slight improvement in customer satisfaction following the introduction of the new support system.",
+          "translation": "新しいサポートシステムの導入後顧客満足度にわずかな改善が見られた。",
+          "note": "中英語 sliht などに由来。程度・量の小ささ。"
+        },
+        {
+          "word": "pass out",
+          "pos": "句動詞",
+          "ipa": "/pæs aʊt/",
+          "meaning": "気絶する、意識を失う",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 2,
+          "example": "The runner passed out shortly after crossing the finish line and was immediately attended to by medical staff.",
+          "translation": "そのランナーはゴールラインを越えた直後に気絶しすぐに医療スタッフの手当てを受けた。",
+          "note": "pass + out。faint より口語的。"
+        }
+      ],
+      "comparison": "faint＝かすかで知覚しにくい／dim＝明るさが弱い／subtle＝微妙で気づきにくい／vague＝内容・輪郭が曖昧／weak＝一般的に弱い／slight＝程度や量が小さい／pass out＝気絶する（口語）。faint memory は記憶の存在感が弱く、vague memory は内容が不明確。"
     }
   ]
 }
