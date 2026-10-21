@@ -1116,6 +1116,32 @@
         }
       ],
       "comparison": "malfunction＝正常に機能しない／breakdown＝停止・崩壊／failure＝機能や目的を果たせない結果／defect＝設計・製品の欠陥／glitch＝軽微・一時的な技術不具合／go wrong＝何かがおかしくなる一般的表現。"
+    },
+    {
+      "id": "incorporate",
+      "word": "incorporate",
+      "pos": "動詞",
+      "ipa": "/ɪnˈkɔːrpəreɪt/",
+      "meaning": "取り入れる、組み込む、統合する、法人化する",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "in-（中に）+ corpor-（身体）に由来。ラテン語 incorporare（一つの身体に組み込む）。",
+      "core": "新しい要素を全体の一部として組み込む。",
+      "usage": "incorporate A into B（AをBに組み込む）",
+      "examples": [
+        [
+          "We incorporated customer feedback into the design.",
+          "顧客の意見を設計に反映した。"
+        ],
+        [
+          "The company was incorporated in 2015.",
+          "その会社は2015年に法人化された。"
+        ]
+      ],
+      "related": [],
+      "synonyms": [],
+      "comparison": "include は単に含める、integrate は統合する、incorporate は一部として組み込む。"
     }
   ]
 }
