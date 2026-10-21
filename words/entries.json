@@ -2236,6 +2236,202 @@
         }
       ],
       "comparison": "apparent＝見て取れる／見かけ上の両義／obvious＝誰が見ても明白／evident＝証拠や観察から明白／clear＝曖昧さがない／seeming＝外見上そう見える／ostensible＝表向きの理由と本当の理由が違う／manifest＝性質や結果が顕在化。The improvement was apparent は改善が明白、the apparent improvement は見かけ上の改善とも読める。"
+    },
+    {
+      "id": "transparent",
+      "word": "transparent",
+      "pos": "形容詞",
+      "ipa": "/trænsˈperənt/",
+      "meaning": "透明な、透き通った／透明性のある、隠し事のない／見え透いた、明白な",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 transparēre（透けて見える）← trans-（向こう側へ、貫いて）＋ parēre（現れる、見える）。apparent と同じ parēre を共有する。",
+      "core": "遮るものがなく向こう側や内側まで見通せる。物理的な透明から、情報や意図が隠されていないこと、さらには見え透いた意図へ。",
+      "usage": "transparent glass/container（透明なガラス・容器）、transparent decision-making/pricing（透明性のある意思決定・料金体系）、be transparent about ...（〜について隠さず開示する）、a transparent attempt（見え透いた試み）。",
+      "examples": [
+        [
+          "The researchers placed the sample inside a transparent container so they could observe the chemical reaction without disturbing it.",
+          "研究者たちは化学反応を妨げずに観察できるよう試料を透明な容器に入れた。"
+        ],
+        [
+          "The building features large transparent panels that allow natural sunlight to enter while providing an unobstructed view of the surrounding landscape.",
+          "その建物には自然光を取り込みながら周囲の景色を遮らず見渡せる大きな透明パネルが使われている。"
+        ],
+        [
+          "Some deep-sea creatures have almost transparent bodies, making them difficult for predators to detect in the ocean.",
+          "深海生物の中には体がほとんど透明で海中で捕食者に見つかりにくいものがいる。"
+        ],
+        [
+          "The company introduced a more transparent decision-making process to help employees understand how important strategic choices were made.",
+          "その企業は重要な戦略的判断がどのように行われるか従業員が理解できるよう透明性の高い意思決定プロセスを導入した。"
+        ],
+        [
+          "Investors are increasingly demanding that corporations be transparent about their environmental impact and long-term sustainability goals.",
+          "投資家は企業が環境への影響や長期的な持続可能性の目標について情報を透明に開示することをますます強く求めている。"
+        ],
+        [
+          "A transparent pricing structure allows customers to understand exactly what they are paying for and reduces the risk of unexpected charges.",
+          "透明性の高い料金体系によって顧客は何に対して料金を支払っているか正確に理解でき予期しない請求のリスクを減らせる。"
+        ],
+        [
+          "His attempt to avoid responsibility was so transparent that everyone in the meeting immediately recognized what he was trying to do.",
+          "彼の責任逃れの試みはあまりにも見え透いていたため会議にいた全員が彼の意図をすぐに見抜いた。"
+        ],
+        [
+          "The advertisement made a transparent attempt to appeal to younger consumers by adopting the latest social media trends.",
+          "その広告は最新のSNSトレンドを取り入れることで若い消費者に訴えかけようとする見え透いた試みだった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "transparency",
+          "pos": "名詞",
+          "ipa": "/trænsˈperənsi/",
+          "meaning": "透明性、透明度、情報公開の明瞭さ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Greater transparency in corporate governance can strengthen investor confidence and reduce the likelihood of financial misconduct.",
+          "translation": "企業統治の透明性が高まることで投資家の信頼が強まり財務上の不正行為が起こる可能性を減らせる。",
+          "note": "transparent + -cy（性質・状態）。"
+        },
+        {
+          "word": "transparently",
+          "pos": "副詞",
+          "ipa": "/trænsˈperəntli/",
+          "meaning": "透明性をもって、率直に、明白に",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The management team promised to communicate transparently with employees throughout the restructuring process.",
+          "translation": "経営陣は組織再編の過程を通じて従業員と透明性をもって意思疎通することを約束した。",
+          "note": "transparent + -ly。"
+        },
+        {
+          "word": "apparent",
+          "pos": "形容詞",
+          "ipa": "/əˈpærənt/",
+          "meaning": "明らかな、見かけ上の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Despite the apparent improvement in quarterly sales, the company continued to face serious cash-flow problems.",
+          "translation": "四半期売上高は一見改善したように見えたがその企業は引き続き深刻な資金繰りの問題に直面していた。",
+          "note": "ラテン語 apparēre ← ad- + parēre（現れる）。"
+        },
+        {
+          "word": "appear",
+          "pos": "動詞",
+          "ipa": "/əˈpɪr/",
+          "meaning": "現れる、〜のように見える",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The problem did not appear during the initial testing phase, but it became evident after the system was deployed across multiple offices.",
+          "translation": "その問題は初期のテスト段階では現れなかったがシステムが複数の拠点に導入された後に明らかになった。",
+          "note": "ラテン語 apparēre。parēre を共有。"
+        },
+        {
+          "word": "disappear",
+          "pos": "動詞",
+          "ipa": "/ˌdɪsəˈpɪr/",
+          "meaning": "消える、姿を消す",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "As digital payments become more widespread, cash transactions may gradually disappear from certain types of businesses.",
+          "translation": "デジタル決済がさらに普及するにつれて一部の業種では現金取引が徐々に姿を消す可能性がある。",
+          "note": "dis-（反対）＋ appear。"
+        },
+        {
+          "word": "apparition",
+          "pos": "名詞",
+          "ipa": "/ˌæpəˈrɪʃən/",
+          "meaning": "幽霊、幻影、突然の出現",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 1,
+          "example": "The old castle was famous for stories about a mysterious apparition that supposedly appeared near its northern tower.",
+          "translation": "その古城は北側の塔の近くに現れるとされる謎の幽霊についての物語で有名だった。",
+          "note": "ラテン語 apparitio（出現）← apparēre。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "clear",
+          "pos": "形容詞",
+          "ipa": "/klɪr/",
+          "meaning": "透明な、明確な、はっきりした",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The instructions were written in clear language so that customers could complete the installation without technical assistance.",
+          "translation": "顧客が技術的な支援なしで設置を完了できるよう説明書は明確な言葉で書かれていた。",
+          "note": "ラテン語 clarus（明るい、はっきりした）。"
+        },
+        {
+          "word": "translucent",
+          "pos": "形容詞",
+          "ipa": "/trænzˈluːsənt/",
+          "meaning": "半透明の、光を通す",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The architect used translucent glass panels to let natural light into the office while maintaining employees' privacy.",
+          "translation": "建築家は従業員のプライバシーを守りながらオフィスに自然光を取り込むため半透明のガラスパネルを使用した。",
+          "note": "ラテン語 trans-（貫いて）＋ lucere（光る）。向こう側ははっきり見えない。"
+        },
+        {
+          "word": "candid",
+          "pos": "形容詞",
+          "ipa": "/ˈkændɪd/",
+          "meaning": "率直な、隠し立てのない",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "During the meeting, the CEO gave a candid assessment of the company's financial difficulties and acknowledged several mistakes made by the leadership team.",
+          "translation": "会議でCEOは会社の財務上の困難について率直な評価を示し経営陣が犯した過ちをいくつか認めた。",
+          "note": "ラテン語 candidus（白く輝く）。率直な発言・態度。"
+        },
+        {
+          "word": "open",
+          "pos": "形容詞",
+          "ipa": "/ˈoʊpən/",
+          "meaning": "開かれた、隠し事のない、率直な",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The manager encouraged open communication so that team members would feel comfortable raising concerns before minor issues became serious problems.",
+          "translation": "上司は小さな問題が深刻化する前にチームメンバーが安心して懸念を伝えられるよう率直なコミュニケーションを奨励した。",
+          "note": "古英語 open（開いている）。"
+        },
+        {
+          "word": "obvious",
+          "pos": "形容詞",
+          "ipa": "/ˈɑːbviəs/",
+          "meaning": "明白な、誰の目にも明らかな",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "It was obvious from the sharp decline in customer retention that the company needed to reconsider its subscription pricing strategy.",
+          "translation": "顧客維持率の急激な低下からその企業がサブスクリプションの料金戦略を見直す必要があることは明白だった。",
+          "note": "ラテン語 obvius（目の前にある）。"
+        },
+        {
+          "word": "straightforward",
+          "pos": "形容詞",
+          "ipa": "/ˌstreɪtˈfɔːrwərd/",
+          "meaning": "率直な、分かりやすい、単純明快な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The consultant provided a straightforward explanation of the risks involved in the proposed investment, allowing the board to make an informed decision.",
+          "translation": "コンサルタントは提案された投資に伴うリスクを分かりやすく率直に説明し取締役会が十分な情報に基づいて判断できるようにした。",
+          "note": "straight（まっすぐ）＋ forward（前へ）。"
+        }
+      ],
+      "comparison": "transparent＝中身・意図まで見通せる／clear＝明瞭で曖昧さがない／translucent＝半透明で光は通すが像は明瞭でない／candid＝本音を隠さず率直／open＝開かれている／obvious＝誰の目にも明白／straightforward＝回りくどくない。candid CEO＝率直に話すCEO、transparent company＝情報を隠さず公開する企業。"
     }
   ]
 }
