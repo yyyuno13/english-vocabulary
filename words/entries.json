@@ -2040,6 +2040,202 @@
         }
       ],
       "comparison": "faint＝かすかで知覚しにくい／dim＝明るさが弱い／subtle＝微妙で気づきにくい／vague＝内容・輪郭が曖昧／weak＝一般的に弱い／slight＝程度や量が小さい／pass out＝気絶する（口語）。faint memory は記憶の存在感が弱く、vague memory は内容が不明確。"
+    },
+    {
+      "id": "apparent",
+      "word": "apparent",
+      "pos": "形容詞",
+      "ipa": "/əˈpærənt/",
+      "meaning": "明らかな、見て取れる／外見上の、一見〜のような",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 apparēre（姿を現す、明らかになる）← ad- の同化形 ap-（〜の方へ）＋ parēre（現れる、見える）。古フランス語を経由。",
+      "core": "目の前に現れて見えること。明白に見て取れる／見た目にはそう見えるが実態は異なるかもしれない、という二方向の意味。",
+      "usage": "It is apparent that ...（〜は明らかだ）、become apparent（明らかになる）、apparent success/improvement/contradiction（見かけ上の成功・改善・矛盾）。apparently は「どうやら〜らしい」の意味でも頻出。",
+      "examples": [
+        [
+          "It became apparent that the company needed to revise its business strategy after several consecutive quarters of declining revenue.",
+          "数四半期連続で売上高が減少したことで、その企業が事業戦略を見直す必要があることが明らかになった。"
+        ],
+        [
+          "Her frustration was apparent from the way she responded to questions during the meeting.",
+          "会議中の質問への答え方から、彼女がいら立っていることは明らかだった。"
+        ],
+        [
+          "The benefits of the new system became increasingly apparent as employees grew more familiar with its features.",
+          "従業員が新しいシステムの機能に慣れるにつれて、その利点はますます明らかになった。"
+        ],
+        [
+          "Despite the apparent success of the project, several serious problems remained unresolved behind the scenes.",
+          "そのプロジェクトは一見成功したように見えたが、水面下では深刻な問題がいくつか未解決のままだった。"
+        ],
+        [
+          "The apparent contradiction between the two studies can be explained by differences in their research methods.",
+          "2つの研究の間にある一見した矛盾は、研究手法の違いによって説明できる。"
+        ],
+        [
+          "The apparent increase in profits was largely the result of a one-time accounting adjustment rather than genuine business growth.",
+          "見かけ上の利益増加は、実質的な事業成長ではなく、主に一時的な会計上の調整によるものだった。"
+        ],
+        [
+          "It is apparent that the current approach is no longer sustainable in the face of rising operating costs.",
+          "営業費用の上昇を考えると、現在のやり方がもはや持続可能ではないことは明らかだ。"
+        ],
+        [
+          "It soon became apparent that the initial estimates had significantly underestimated the project's complexity.",
+          "当初の見積もりがプロジェクトの複雑さを大幅に過小評価していたことが、すぐに明らかになった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "appear",
+          "pos": "動詞",
+          "ipa": "/əˈpɪr/",
+          "meaning": "現れる、〜のように見える",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Several unexpected issues appeared during the testing phase, forcing the development team to postpone the product launch.",
+          "translation": "テスト段階で予期せぬ問題がいくつか現れ、開発チームは製品発売の延期を余儀なくされた。",
+          "note": "ラテン語 apparēre（姿を現す）。"
+        },
+        {
+          "word": "appearance",
+          "pos": "名詞",
+          "ipa": "/əˈpɪrəns/",
+          "meaning": "外見、出現、登場",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Although the product's appearance was impressive, its actual performance failed to meet customers' expectations.",
+          "translation": "その製品は外見こそ印象的だったが、実際の性能は顧客の期待に応えられなかった。",
+          "note": "appear + -ance（状態・行為）。"
+        },
+        {
+          "word": "apparently",
+          "pos": "副詞",
+          "ipa": "/əˈpærəntli/",
+          "meaning": "どうやら〜らしい、見たところでは、明らかに",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "Apparently, the supplier has already shipped the replacement parts, although we have not yet received a tracking number.",
+          "translation": "どうやら供給業者は交換部品をすでに発送したらしいが、追跡番号はまだ届いていない。",
+          "note": "apparent + -ly（副詞語尾）。"
+        },
+        {
+          "word": "disappear",
+          "pos": "動詞",
+          "ipa": "/ˌdɪsəˈpɪr/",
+          "meaning": "消える、姿を消す",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Several traditional occupations have gradually disappeared as automation and digital technologies have transformed the labor market.",
+          "translation": "自動化やデジタル技術が労働市場を変えるにつれ、伝統的な職業のいくつかは徐々に姿を消してきた。",
+          "note": "dis-（反対）＋ appear。"
+        },
+        {
+          "word": "disappearance",
+          "pos": "名詞",
+          "ipa": "/ˌdɪsəˈpɪrəns/",
+          "meaning": "消失、失踪、消滅",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The sudden disappearance of several species from the region raised concerns about the long-term effects of habitat destruction.",
+          "translation": "その地域から複数の種が突然姿を消したことは、生息地破壊の長期的影響への懸念を引き起こした。",
+          "note": "disappear + -ance。"
+        },
+        {
+          "word": "apparition",
+          "pos": "名詞",
+          "ipa": "/ˌæpəˈrɪʃən/",
+          "meaning": "幽霊、幻影、突然現れた姿",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 1,
+          "example": "According to local legend, a mysterious apparition sometimes appears near the abandoned castle on foggy nights.",
+          "translation": "地元の伝説によると、霧の深い夜には廃城の近くに謎めいた幻影が現れることがある。",
+          "note": "ラテン語 apparitio（出現）← apparēre。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "obvious",
+          "pos": "形容詞",
+          "ipa": "/ˈɑːbviəs/",
+          "meaning": "明白な、誰の目にも明らかな",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "It was obvious from the financial statements that the company could not continue operating without additional funding.",
+          "translation": "財務諸表から、その企業が追加資金なしには事業を継続できないことは明白だった。",
+          "note": "ラテン語 obvius（目の前にある）。明白さが強い。"
+        },
+        {
+          "word": "evident",
+          "pos": "形容詞",
+          "ipa": "/ˈevɪdənt/",
+          "meaning": "証拠から明らかな",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The impact of the new policy was evident in the substantial reduction in customer complaints over the following six months.",
+          "translation": "新方針の効果は、その後6か月間の顧客からの苦情の大幅な減少にはっきり表れていた。",
+          "note": "ラテン語 evidens ← e-（外へ）＋ videre（見る）。"
+        },
+        {
+          "word": "clear",
+          "pos": "形容詞",
+          "ipa": "/klɪr/",
+          "meaning": "明確な、はっきりした",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The manager made it clear that all departments would be expected to meet the revised performance targets.",
+          "translation": "上司は、すべての部署が改訂後の業績目標を達成することを求められると明確に伝えた。",
+          "note": "ラテン語 clarus（明るい、はっきりした）。"
+        },
+        {
+          "word": "seeming",
+          "pos": "形容詞",
+          "ipa": "/ˈsiːmɪŋ/",
+          "meaning": "外見上の、うわべの",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Despite their seeming agreement during the meeting, the two executives continued to disagree on several fundamental issues.",
+          "translation": "会議中は意見が一致しているように見えたが、2人の幹部は根本的な問題について対立し続けていた。",
+          "note": "seem + -ing。実態と見かけの違いを示唆。"
+        },
+        {
+          "word": "ostensible",
+          "pos": "形容詞",
+          "ipa": "/ɑːˈstensəbəl/",
+          "meaning": "表向きの、名目上の",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The ostensible purpose of the meeting was to review the budget, but the executives were actually discussing a potential merger.",
+          "translation": "その会議の表向きの目的は予算の見直しだったが、幹部たちは実際には合併の可能性を話し合っていた。",
+          "note": "ラテン語 ostendere（見せる、提示する）。"
+        },
+        {
+          "word": "manifest",
+          "pos": "形容詞・動詞",
+          "ipa": "/ˈmænɪfest/",
+          "meaning": "明白な／明確に示す、現れる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The consequences of inadequate planning became manifest when the project exceeded both its budget and its original deadline.",
+          "translation": "不十分な計画の結果は、プロジェクトが予算と当初の期限をともに超過したときに明白になった。",
+          "note": "ラテン語 manifestus（明白な）。"
+        }
+      ],
+      "comparison": "apparent＝見て取れる／見かけ上の両義／obvious＝誰が見ても明白／evident＝証拠や観察から明白／clear＝曖昧さがない／seeming＝外見上そう見える／ostensible＝表向きの理由と本当の理由が違う／manifest＝性質や結果が顕在化。The improvement was apparent は改善が明白、the apparent improvement は見かけ上の改善とも読める。"
     }
   ]
 }
