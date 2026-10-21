@@ -1308,6 +1308,198 @@
         }
       ],
       "comparison": "incorporate＝既存の全体の一部にする。integrate＝相互に連携させ統合する。include＝単に含める。embed＝深く埋め込む。assimilate＝吸収・同化する。merge＝別々のものが合体する。adopt＝選んで採用する。"
+    },
+    {
+      "id": "signify",
+      "word": "signify",
+      "pos": "動詞",
+      "ipa": "/ˈsɪɡnɪfaɪ/",
+      "meaning": "意味する、示す、表す、意思を表明する（古風：重要である）",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 significare（意味する、示す）← signum（しるし）＋ facere（作る・行う）。英語では sign（しるし）＋ -fy（〜にする）と捉えられる。",
+      "core": "目に見える事実や行動が、その背後にある意味・メッセージを示す。しるしを通して意味を伝える。",
+      "usage": "A signifies B（AはBを意味する）、A signifies that ...（Aは〜を示す）、signify one's interest/agreement（関心・同意を表明する）。フォーマルな語。重要であるの意味は現在まれ。",
+      "examples": [
+        [
+          "The increase in sales signifies growing demand.",
+          "売上の増加は需要が拡大していることを示している。"
+        ],
+        [
+          "The red warning light signifies that the engine is overheating.",
+          "赤い警告灯はエンジンが過熱していることを示している。"
+        ],
+        [
+          "The agreement signifies a major step toward international cooperation.",
+          "その協定は国際協力に向けた大きな一歩を意味している。"
+        ],
+        [
+          "A sudden drop in customer satisfaction may signify deeper problems within the organization.",
+          "顧客満足度の急激な低下は組織内部により根深い問題があることを示している可能性がある。"
+        ],
+        [
+          "Several investors have signified their interest in the project.",
+          "複数の投資家がそのプロジェクトへの関心を表明した。"
+        ],
+        [
+          "Please signify your agreement by signing the document.",
+          "その書類に署名して同意の意思を示してください。"
+        ],
+        [
+          "It doesn't signify whether we arrive five minutes early or late.",
+          "5分早く着くか遅く着くかは重要ではない。（古風な用法）"
+        ]
+      ],
+      "related": [
+        {
+          "word": "significant",
+          "pos": "形容詞",
+          "ipa": "/sɪɡˈnɪfɪkənt/",
+          "meaning": "重要な、著しい、意味のある",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company reported a significant increase in operating profits compared with the previous year.",
+          "translation": "その企業は前年と比べて営業利益が大幅に増加したと報告した。",
+          "note": "ラテン語 significare 系統。何かを意味することから「重要な」。"
+        },
+        {
+          "word": "significance",
+          "pos": "名詞",
+          "ipa": "/sɪɡˈnɪfɪkəns/",
+          "meaning": "重要性、意義、意味",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The researchers emphasized the significance of the findings for future medical treatments.",
+          "translation": "研究者たちはその発見が将来の医療に持つ重要性を強調した。",
+          "note": "significant + -ance（性質・状態）。"
+        },
+        {
+          "word": "signature",
+          "pos": "名詞",
+          "ipa": "/ˈsɪɡnətʃər/",
+          "meaning": "署名、特徴的なもの",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The contract will become legally binding once both parties have provided their signatures.",
+          "translation": "双方が署名すると、その契約は法的拘束力を持つようになる。",
+          "note": "ラテン語 signare（印を付ける）← signum（しるし）。"
+        },
+        {
+          "word": "signal",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈsɪɡnəl/",
+          "meaning": "信号、合図／合図する、示す",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The central bank's announcement signaled a possible change in monetary policy.",
+          "translation": "中央銀行の発表は金融政策が変更される可能性を示唆した。",
+          "note": "ラテン語 signum（しるし）に由来。兆候・合図に重点。"
+        },
+        {
+          "word": "designate",
+          "pos": "動詞",
+          "ipa": "/ˈdezɪɡneɪt/",
+          "meaning": "指定する、指名する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The company designated a senior manager to oversee the implementation of the new policy.",
+          "translation": "会社は新しい方針の実施を監督するため上級管理職を指名した。",
+          "note": "ラテン語 designare（印を付けて指定する）← signare。"
+        },
+        {
+          "word": "insignia",
+          "pos": "名詞",
+          "ipa": "/ɪnˈsɪɡniə/",
+          "meaning": "記章、徽章、階級章",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The officer wore an insignia that indicated his rank within the organization.",
+          "translation": "その士官は組織内の階級を示す記章を身に着けていた。",
+          "note": "ラテン語 insignia（識別のしるし）、signum と同語源。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "indicate",
+          "pos": "動詞",
+          "ipa": "/ˈɪndɪkeɪt/",
+          "meaning": "示す、示唆する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The latest survey results indicate that consumer confidence is gradually recovering.",
+          "translation": "最新の調査結果は消費者信頼感が徐々に回復していることを示している。",
+          "note": "ラテン語 indicare（指し示す）。データや証拠による示唆。"
+        },
+        {
+          "word": "mean",
+          "pos": "動詞",
+          "ipa": "/miːn/",
+          "meaning": "意味する、意図する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "What does this expression mean in the context of the report?",
+          "translation": "この表現は報告書の文脈ではどういう意味ですか。",
+          "note": "古英語 mænan（意味する）。最も一般的。"
+        },
+        {
+          "word": "represent",
+          "pos": "動詞",
+          "ipa": "/ˌreprɪˈzent/",
+          "meaning": "表す、象徴する、代表する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The new logo represents the company's commitment to innovation and sustainability.",
+          "translation": "新しいロゴは革新と持続可能性に対する企業の取り組みを象徴している。",
+          "note": "ラテン語 repraesentare（目の前に示す）。象徴・代表。"
+        },
+        {
+          "word": "denote",
+          "pos": "動詞",
+          "ipa": "/dɪˈnoʊt/",
+          "meaning": "意味する、表す、指示する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "In this diagram, the blue lines denote the flow of information between departments.",
+          "translation": "この図では青い線が部署間の情報の流れを表している。",
+          "note": "ラテン語 denotare（印を付けて示す）。記号・図表の決まった意味。"
+        },
+        {
+          "word": "imply",
+          "pos": "動詞",
+          "ipa": "/ɪmˈplaɪ/",
+          "meaning": "暗示する、ほのめかす、含意する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "His response implied that the company was considering further budget cuts.",
+          "translation": "彼の返答は会社がさらなる予算削減を検討していることを暗示していた。",
+          "note": "ラテン語 implicare（中に折り込む）。間接的に示す。"
+        },
+        {
+          "word": "symbolize",
+          "pos": "動詞",
+          "ipa": "/ˈsɪmbəlaɪz/",
+          "meaning": "象徴する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The opening ceremony symbolizes a new beginning for the entire community.",
+          "translation": "開会式は地域社会全体にとって新たな始まりを象徴している。",
+          "note": "ギリシャ語 symbolon（しるし、象徴）＋ -ize。抽象的な価値を象徴。"
+        }
+      ],
+      "comparison": "signify＝事実・行動が持つ意味を表す（フォーマル）／indicate＝証拠・データが示す／mean＝一般的に意味する／represent＝象徴・代表する／denote＝記号などが決まった意味を指す／imply＝間接的に暗示する／symbolize＝理念・価値を象徴する。"
     }
   ]
 }
