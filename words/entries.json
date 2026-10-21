@@ -2628,6 +2628,202 @@
         }
       ],
       "comparison": "prevail＝他より優勢になる、勝つ、広く行き渡る／triumph＝華々しい勝利／overcome＝困難を克服／dominate＝圧倒的支配／persist＝継続／widespread＝広く分布／persuade＝説得。prevail は動詞、prevalent は形容詞。prevail on/upon someone to do は相手の抵抗を乗り越えて説得する、やや格式ばった表現。"
+    },
+    {
+      "id": "plausible",
+      "word": "plausible",
+      "pos": "形容詞",
+      "ipa": "/ˈplɔːzəbəl/",
+      "meaning": "もっともらしい、ありそうな、納得できる、説得力のある",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 plausibilis（称賛に値する、受け入れられそうな）← plaudere（拍手する）・plausus（拍手）＋ -ibilis（〜され得る）。",
+      "core": "人が拍手して受け入れたくなるほど筋が通っている。合理的にあり得るが、真実と立証されたわけではない。",
+      "usage": "a plausible explanation/theory/hypothesis（もっともらしい説明・理論・仮説）、a plausible scenario/cause（あり得るシナリオ・原因）、sound plausible（もっともらしく聞こえる）、plausible but unproven（もっともらしいが未証明）。",
+      "examples": [
+        [
+          "The scientist proposed a plausible explanation for the unexpected results, but emphasized that further experiments would be necessary to confirm the hypothesis.",
+          "その科学者は予想外の結果についてもっともらしい説明を提案したが、仮説を確認するにはさらなる実験が必要だと強調した。"
+        ],
+        [
+          "Although the employee's explanation for the missing documents sounded plausible, the manager decided to investigate the matter more thoroughly.",
+          "紛失した書類についての従業員の説明はもっともらしく聞こえたものの、上司はその件をさらに詳しく調査することにした。"
+        ],
+        [
+          "The theory provides a plausible account of how complex social structures emerged in early human societies.",
+          "その理論は初期の人類社会で複雑な社会構造がどのように生まれたかについて筋の通った説明を提示している。"
+        ],
+        [
+          "A temporary disruption in the global supply chain is a plausible scenario if political tensions between major trading partners continue to escalate.",
+          "主要な貿易相手国の間で政治的緊張が高まり続ければ、世界的なサプライチェーンの一時的な混乱は十分にあり得るシナリオだ。"
+        ],
+        [
+          "The research team identified several plausible causes of the equipment failure, including overheating, software errors, and inadequate maintenance.",
+          "研究チームは過熱、ソフトウェアのエラー、保守不足など設備故障の原因として考えられるものをいくつか特定した。"
+        ],
+        [
+          "Given the rapid progress in battery technology, it is plausible that electric vehicles will become considerably more affordable over the next decade.",
+          "電池技術の急速な進歩を考えると、今後10年間で電気自動車がかなり手頃な価格になることは十分に考えられる。"
+        ],
+        [
+          "The consultant presented a plausible argument for expanding into the new market, but several assumptions underlying the financial projections remained questionable.",
+          "コンサルタントは新市場への進出についてもっともらしい議論を提示したが、財務予測の前提となるいくつかの仮定には依然として疑問が残った。"
+        ],
+        [
+          "The suspect offered a plausible alibi, although investigators had not yet verified whether the details were accurate.",
+          "容疑者はもっともらしいアリバイを提示したが、捜査官たちはその詳細が正確かどうかをまだ確認していなかった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "applause",
+          "pos": "名詞",
+          "ipa": "/əˈplɔːz/",
+          "meaning": "拍手、称賛",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The scientist received enthusiastic applause after presenting the results of a decade-long research project that could transform the treatment of rare diseases.",
+          "translation": "その科学者は希少疾患の治療を大きく変える可能性のある10年にわたる研究成果を発表した後、熱烈な拍手を受けた。",
+          "note": "ラテン語 applaudere ← ad-（〜へ）＋ plaudere（拍手する）。"
+        },
+        {
+          "word": "applaud",
+          "pos": "動詞",
+          "ipa": "/əˈplɔːd/",
+          "meaning": "拍手する、称賛する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Industry experts applauded the company's decision to publish detailed information about its environmental impact and supply-chain practices.",
+          "translation": "業界の専門家たちはその企業が環境への影響やサプライチェーンの慣行について詳細な情報を公開するという決定を称賛した。",
+          "note": "ラテン語 applaudere（拍手する）。"
+        },
+        {
+          "word": "plaudit",
+          "pos": "名詞",
+          "ipa": "/ˈplɔːdɪt/",
+          "meaning": "称賛、拍手喝采",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The young entrepreneur earned plaudits from investors for developing an affordable medical device that could be used in remote communities.",
+          "translation": "その若い起業家は遠隔地でも使用できる手頃な価格の医療機器を開発したことで投資家から称賛を得た。",
+          "note": "ラテン語 plaudite（拍手せよ）← plaudere。"
+        },
+        {
+          "word": "plausibility",
+          "pos": "名詞",
+          "ipa": "/ˌplɔːzəˈbɪləti/",
+          "meaning": "もっともらしさ、妥当らしさ",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The committee questioned the plausibility of the company's revenue forecasts because they depended on unusually optimistic assumptions about market growth.",
+          "translation": "委員会はその企業の売上予測が市場成長について異例に楽観的な前提に依存していたため、その妥当性に疑問を呈した。",
+          "note": "plausible + -ity（性質・状態）。"
+        },
+        {
+          "word": "plausibly",
+          "pos": "副詞",
+          "ipa": "/ˈplɔːzəbli/",
+          "meaning": "もっともらしく、もっともなことに",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The decline in sales could plausibly be attributed to changing consumer preferences rather than a deterioration in product quality.",
+          "translation": "売上の減少は製品品質の悪化ではなく消費者の好みの変化によるものだと十分に考えられる。",
+          "note": "plausible + -ly（副詞化）。"
+        },
+        {
+          "word": "implausible",
+          "pos": "形容詞",
+          "ipa": "/ɪmˈplɔːzəbəl/",
+          "meaning": "もっともらしくない、信じがたい",
+          "difficulty": 5,
+          "daily": 3,
+          "business": 4,
+          "example": "The explanation seemed increasingly implausible as investigators uncovered evidence that directly contradicted several key claims.",
+          "translation": "捜査官たちが重要な主張のいくつかと直接矛盾する証拠を発見するにつれて、その説明はますます信じがたいものに思われた。",
+          "note": "im-（否定）＋ plausible。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "credible",
+          "pos": "形容詞",
+          "ipa": "/ˈkredəbəl/",
+          "meaning": "信頼できる、信用に足る、説得力のある",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The investigation relied on credible testimony from several independent witnesses whose accounts were consistent with the available physical evidence.",
+          "translation": "その調査は証言内容が物的証拠と一致していた複数の独立した証人による信頼に足る証言に基づいていた。",
+          "note": "ラテン語 credere（信じる）＋ -ible。情報源の信頼性。"
+        },
+        {
+          "word": "reasonable",
+          "pos": "形容詞",
+          "ipa": "/ˈriːzənəbəl/",
+          "meaning": "合理的な、妥当な、もっともな",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Considering the limited budget and the uncertainty surrounding future demand, postponing the expansion appears to be a reasonable decision.",
+          "translation": "限られた予算と将来の需要をめぐる不確実性を考えると、事業拡大を延期することは合理的な判断に思われる。",
+          "note": "reason（理性・理由）＋ -able。判断の妥当性。"
+        },
+        {
+          "word": "convincing",
+          "pos": "形容詞",
+          "ipa": "/kənˈvɪnsɪŋ/",
+          "meaning": "説得力のある、納得させる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The research team presented convincing evidence that the new treatment significantly improved recovery rates without increasing serious side effects.",
+          "translation": "研究チームは新しい治療法が深刻な副作用を増やすことなく回復率を大幅に改善するという説得力のある証拠を提示した。",
+          "note": "convince ← ラテン語 convincere（論破する）＋ -ing。"
+        },
+        {
+          "word": "feasible",
+          "pos": "形容詞",
+          "ipa": "/ˈfiːzəbəl/",
+          "meaning": "実行可能な、実現可能な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Although the proposed infrastructure project would require substantial investment, the engineering assessment concluded that it was technically feasible.",
+          "translation": "提案されたインフラ事業には多額の投資が必要だが、技術評価では技術的に実現可能であると結論づけられた。",
+          "note": "古フランス語 faisable ← ラテン語 facere（行う）。"
+        },
+        {
+          "word": "probable",
+          "pos": "形容詞",
+          "ipa": "/ˈprɑːbəbəl/",
+          "meaning": "起こりそうな、可能性が高い",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Given the current economic indicators, analysts consider a gradual decline in inflation more probable than a sudden and dramatic increase.",
+          "translation": "現在の経済指標を踏まえるとアナリストたちはインフレ率の突然かつ急激な上昇よりも緩やかな低下の方が起こる可能性が高いと考えている。",
+          "note": "ラテン語 probabilis ← probare（試す、証明する）。"
+        },
+        {
+          "word": "conceivable",
+          "pos": "形容詞",
+          "ipa": "/kənˈsiːvəbəl/",
+          "meaning": "考えられる、想像できる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "It is conceivable that advances in artificial intelligence could fundamentally change how scientific discoveries are made over the coming decades.",
+          "translation": "人工知能の進歩によって今後数十年の間に科学的発見の方法が根本的に変わることも考えられる。",
+          "note": "conceive ← ラテン語 concipere（心に抱く）＋ -able。"
+        }
+      ],
+      "comparison": "plausible＝筋が通っていてあり得るが未証明でもよい／credible＝信用するに足る／reasonable＝判断が理にかなう／convincing＝人を納得させる／feasible＝計画が実行可能／probable＝起こる確率が高い／conceivable＝想像できる。科学的仮説は plausible でも proven とは限らない。"
     }
   ]
 }
