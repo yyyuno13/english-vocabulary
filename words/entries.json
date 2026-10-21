@@ -2432,6 +2432,202 @@
         }
       ],
       "comparison": "transparent＝中身・意図まで見通せる／clear＝明瞭で曖昧さがない／translucent＝半透明で光は通すが像は明瞭でない／candid＝本音を隠さず率直／open＝開かれている／obvious＝誰の目にも明白／straightforward＝回りくどくない。candid CEO＝率直に話すCEO、transparent company＝情報を隠さず公開する企業。"
+    },
+    {
+      "id": "prevail",
+      "word": "prevail",
+      "pos": "動詞・自動詞",
+      "ipa": "/prɪˈveɪl/",
+      "meaning": "勝利する、打ち勝つ／普及している、優勢である／（prevail on/upon）説得して〜させる",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 praevalēre（他より強い、優勢である）← prae-（前に、優位に）＋ valēre（強い、力がある）。古フランス語を経て英語へ。",
+      "core": "複数の力が競い合い、あるものが他より優勢になる。競争で勝つ、考え方や慣習が支配的になる、説得によって抵抗を上回る。",
+      "usage": "prevail over/against ...（〜に打ち勝つ）、ultimately prevail（最終的に勝利する）、justice prevails（正義が勝つ）、prevail on/upon someone to do（人を説得して〜させる）、prevailing view/market conditions/interest rates（支配的見解・市場環境・一般的な金利水準）。",
+      "examples": [
+        [
+          "Despite facing strong opposition from established competitors, the startup eventually prevailed by offering a more affordable and innovative solution.",
+          "既存の競合企業から強い抵抗を受けたにもかかわらず、そのスタートアップはより手頃で革新的な解決策を提供することで最終的に勝利した。"
+        ],
+        [
+          "After years of legal disputes, the environmental organization prevailed in court and secured stronger protections for the endangered species.",
+          "何年にもわたる法廷闘争の末、その環境保護団体は裁判で勝訴し、絶滅危惧種に対するより強力な保護措置を勝ち取った。"
+        ],
+        [
+          "Although the negotiations were difficult, common sense ultimately prevailed, and both parties agreed to a compromise.",
+          "交渉は難航したものの、最終的には良識が勝り、双方が妥協案に合意した。"
+        ],
+        [
+          "Traditional farming practices still prevail in many rural communities, despite the rapid development of modern agricultural technologies.",
+          "現代の農業技術が急速に発展しているにもかかわらず、多くの農村地域では伝統的な農法が今も広く行われている。"
+        ],
+        [
+          "A sense of uncertainty prevailed throughout the financial markets as investors waited for the central bank's interest-rate decision.",
+          "投資家が中央銀行の金利決定を待つ中、金融市場全体には不確実性が広がっていた。"
+        ],
+        [
+          "The prevailing view among economists is that long-term productivity growth depends heavily on technological innovation and investment in human capital.",
+          "経済学者の間で支配的な見解は、長期的な生産性の向上は技術革新と人的資本への投資に大きく依存するというものだ。"
+        ],
+        [
+          "After several rounds of discussion, the project manager finally prevailed upon the executives to approve additional funding for the delayed development program.",
+          "何度も話し合いを重ねた末、プロジェクトマネージャーは遅延していた開発計画への追加資金を承認するよう、ついに幹部たちを説得した。"
+        ],
+        [
+          "Her colleagues prevailed on her to reconsider her resignation, arguing that her experience was essential to the success of the project.",
+          "同僚たちは、彼女の経験がプロジェクトの成功に不可欠だと訴え、辞職を考え直すよう彼女を説得した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "prevalent",
+          "pos": "形容詞",
+          "ipa": "/ˈprevələnt/",
+          "meaning": "広く普及している、蔓延している、一般的な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Remote work has become increasingly prevalent in the technology sector, particularly among companies seeking to attract skilled employees from different regions.",
+          "translation": "リモートワークは、特にさまざまな地域から優秀な人材を獲得しようとする企業の間で、テクノロジー業界にますます普及している。",
+          "note": "ラテン語 praevalēre（優勢である）。prevail と同じ語源。"
+        },
+        {
+          "word": "prevalence",
+          "pos": "名詞",
+          "ipa": "/ˈprevələns/",
+          "meaning": "普及、蔓延、有病率",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The study examined the prevalence of sleep disorders among shift workers and identified several factors associated with increased health risks.",
+          "translation": "その研究は交代勤務者における睡眠障害の有病率を調査し、健康リスクの増加に関連するいくつかの要因を特定した。",
+          "note": "prevalent と同じ praevalēre に由来。"
+        },
+        {
+          "word": "value",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈvæljuː/",
+          "meaning": "価値、価格／評価する、重視する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company places considerable value on long-term customer relationships rather than focusing exclusively on short-term revenue growth.",
+          "translation": "その企業は短期的な売上成長だけに注目するのではなく、長期的な顧客関係を非常に重視している。",
+          "note": "ラテン語 valēre（強い、価値がある）に由来。"
+        },
+        {
+          "word": "valid",
+          "pos": "形容詞",
+          "ipa": "/ˈvælɪd/",
+          "meaning": "有効な、妥当な、正当な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Although the proposal raises several valid concerns about data security, the committee believes that the potential benefits justify further investigation.",
+          "translation": "その提案はデータセキュリティについていくつかのもっともな懸念を提起しているが、委員会は潜在的な利点を考えればさらなる調査に値すると考えている。",
+          "note": "ラテン語 validus（強い、効力のある）← valēre。"
+        },
+        {
+          "word": "evaluate",
+          "pos": "動詞",
+          "ipa": "/ɪˈvæljueɪt/",
+          "meaning": "評価する、査定する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Before expanding into the overseas market, the company needs to evaluate potential regulatory risks, local consumer preferences, and the financial viability of the investment.",
+          "translation": "海外市場に進出する前に、その企業は規制上の潜在的なリスク、現地消費者の好み、投資の財務的な実行可能性を評価する必要がある。",
+          "note": "e-（外へ）＋ value（価値）＋ -ate（動詞化）。"
+        },
+        {
+          "word": "equivalent",
+          "pos": "形容詞・名詞",
+          "ipa": "/ɪˈkwɪvələnt/",
+          "meaning": "同等の、等価の／同等物",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The certification is considered equivalent to a university degree in several countries, allowing qualified applicants to pursue advanced professional opportunities.",
+          "translation": "その資格は複数の国で大学の学位と同等とみなされており、資格保有者は高度な専門職の機会を追求できる。",
+          "note": "ラテン語 aequivalēre（等しい価値・力を持つ）← aequi-（等しい）＋ valēre。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "triumph",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈtraɪəmf/",
+          "meaning": "勝利する、打ち勝つ／大勝利",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Against all expectations, the small research team triumphed over its much larger competitors by developing a breakthrough battery technology.",
+          "translation": "予想に反して、その小規模な研究チームは画期的な電池技術を開発し、はるかに大きな競合相手に勝利した。",
+          "note": "ラテン語 triumphus（凱旋、勝利の祝賀）。華々しい勝利。"
+        },
+        {
+          "word": "overcome",
+          "pos": "動詞",
+          "ipa": "/ˌoʊvərˈkʌm/",
+          "meaning": "克服する、乗り越える",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "The company managed to overcome severe supply-chain disruptions by diversifying its suppliers and investing in more flexible production systems.",
+          "translation": "その企業は供給業者を多様化し、より柔軟な生産システムに投資することで、深刻なサプライチェーンの混乱を克服した。",
+          "note": "over（上を越えて）＋ come（来る）。障害を乗り越える。"
+        },
+        {
+          "word": "dominate",
+          "pos": "動詞",
+          "ipa": "/ˈdɑːməneɪt/",
+          "meaning": "支配する、圧倒する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "A handful of multinational corporations continue to dominate the global semiconductor market, making it difficult for smaller firms to compete.",
+          "translation": "少数の多国籍企業が世界の半導体市場を引き続き支配しており、中小企業が競争することを難しくしている。",
+          "note": "ラテン語 dominus（主人、支配者）。強い支配力。"
+        },
+        {
+          "word": "persist",
+          "pos": "動詞",
+          "ipa": "/pərˈsɪst/",
+          "meaning": "持続する、根強く残る、粘り強く続ける",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Despite repeated efforts to improve workplace safety, several structural problems persisted and required more fundamental changes to management practices.",
+          "translation": "職場の安全性を改善するために繰り返し努力したにもかかわらず、いくつかの構造的問題は残り続け、経営慣行のより根本的な変更が必要となった。",
+          "note": "ラテン語 persistere（立ち続ける）。継続性を強調。"
+        },
+        {
+          "word": "widespread",
+          "pos": "形容詞",
+          "ipa": "/ˈwaɪdspred/",
+          "meaning": "広範囲に広がった、普及した",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The widespread adoption of digital payment systems has transformed consumer behavior and created new opportunities for financial technology companies.",
+          "translation": "デジタル決済システムの広範な普及は消費者行動を変化させ、フィンテック企業に新たな機会を生み出した。",
+          "note": "wide（広い）＋ spread（広がる）。分布の広さ。"
+        },
+        {
+          "word": "persuade",
+          "pos": "動詞",
+          "ipa": "/pərˈsweɪd/",
+          "meaning": "説得する、納得させる",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "The project leader persuaded senior management to extend the deadline by presenting detailed evidence that additional testing would significantly reduce operational risks.",
+          "translation": "プロジェクト責任者は、追加のテストによって業務上のリスクが大幅に減少するという詳細な証拠を示し、期限を延長するよう経営上層部を説得した。",
+          "note": "ラテン語 persuadēre（説得する）。prevail upon より一般的。"
+        }
+      ],
+      "comparison": "prevail＝他より優勢になる、勝つ、広く行き渡る／triumph＝華々しい勝利／overcome＝困難を克服／dominate＝圧倒的支配／persist＝継続／widespread＝広く分布／persuade＝説得。prevail は動詞、prevalent は形容詞。prevail on/upon someone to do は相手の抵抗を乗り越えて説得する、やや格式ばった表現。"
     }
   ]
 }
