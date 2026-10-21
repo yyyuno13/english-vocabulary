@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "tests": [
+    {
+      "id": "vocabulary-review-1-2026-10-22",
+      "date": "2026-10-22",
+      "total": 15,
+      "correct": 12,
+      "questions": [
+        {
+          "number": 1,
+          "target": "plausible",
+          "answer": "plasisible",
+          "correct": false
+        },
+        {
+          "number": 2,
+          "target": "transparent",
+          "answer": "transparent",
+          "correct": true
+        },
+        {
+          "number": 3,
+          "target": "prevail",
+          "answer": "prevailed",
+          "correct": true
+        },
+        {
+          "number": 4,
+          "target": "apparent",
+          "answer": "apparent",
+          "correct": true
+        },
+        {
+          "number": 5,
+          "target": "faint",
+          "answer": "faint",
+          "correct": true
+        },
+        {
+          "number": 6,
+          "target": "incorporate",
+          "answer": "incorporate",
+          "correct": true
+        },
+        {
+          "number": 7,
+          "target": "intriguing",
+          "answer": "intriguing",
+          "correct": true
+        },
+        {
+          "number": 8,
+          "target": "credible",
+          "answer": "？",
+          "correct": false
+        },
+        {
+          "number": 9,
+          "target": "feasible",
+          "answer": "？",
+          "correct": false
+        },
+        {
+          "number": 10,
+          "target": "candid",
+          "answer": "candid",
+          "correct": true
+        },
+        {
+          "number": 11,
+          "target": "prevalent",
+          "answer": "prevalent",
+          "correct": true
+        },
+        {
+          "number": 12,
+          "target": "convincing",
+          "answer": "convincing",
+          "correct": true
+        },
+        {
+          "number": 13,
+          "target": "preside",
+          "answer": "preside",
+          "correct": true
+        },
+        {
+          "number": 14,
+          "target": "malfunction",
+          "answer": "malfunction",
+          "correct": true
+        },
+        {
+          "number": 15,
+          "target": "signify",
+          "answer": "indicate",
+          "correct": true,
+          "acceptedAlternative": "indicate"
+        }
+      ]
+    }
+  ],
+  "words": {
+    "plausible": {
+      "asked": 1,
+      "incorrect": 1
+    },
+    "transparent": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "prevail": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "apparent": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "faint": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "incorporate": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "intriguing": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "credible": {
+      "asked": 1,
+      "incorrect": 1
+    },
+    "feasible": {
+      "asked": 1,
+      "incorrect": 1
+    },
+    "candid": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "prevalent": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "convincing": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "preside": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "malfunction": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "signify": {
+      "asked": 1,
+      "incorrect": 0
+    }
+  }
+}
