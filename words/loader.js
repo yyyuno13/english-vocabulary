@@ -168,7 +168,7 @@
     return '<section class="family searchable" id="'+id+'" data-search="'+escapeHTML([entry.word,entry.meaning,...(entry.related||[]).map(x=>x.word),...(entry.synonyms||[]).map(x=>x.word)].join(' '))+'">'+
       '<h2>'+number+'. '+w+'</h2><button aria-label="'+w+' の発音を再生" class="pronounce-btn" data-say="'+w+'" lang="en-US" type="button">🔊 発音</button>'+
       '<div class="backlinks"><a href="#toc">↑ 目次へ</a><a href="#word-index">単語インデックスへ</a></div>'+
-      '<div class="meta"><span class="pill">'+escapeHTML(entry.pos)+'</span>'+grammarHTML(entry.word,entry.pos)<span class="pill">発音：'+escapeHTML(entry.ipa)+'</span>'+
+      '<div class="meta"><span class="pill">'+escapeHTML(entry.pos)+'</span>'+grammarHTML(entry.word,entry.pos)+'<span class="pill">発音：'+escapeHTML(entry.ipa)+'</span>'+
       '<span class="pill difficulty">難易度 '+stars(entry.difficulty)+'</span><span class="pill">日常 '+stars(entry.daily)+'</span><span class="pill">ビジネス '+stars(entry.business)+'</span></div>'+
       '<div class="field"><b>意味</b>'+escapeHTML(entry.meaning)+'</div>'+
       '<div class="field"><b>① 語源の分解と解説</b>'+escapeHTML(entry.etymology)+'</div>'+
