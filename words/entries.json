@@ -3744,6 +3744,166 @@
         }
       ],
       "comparison": "reduce＝量・規模・程度を小さくする（幅広い）／decrease＝数値・数量が客観的に減る／diminish＝効果・重要性・強さなどが弱まる／cut＝意図的・直接的に削る／lower＝価格・金利・温度などの水準を下げる／mitigate＝リスク・被害の悪影響を和らげる／curtail＝活動・支出・自由などを制限・短縮する"
+    },
+    {
+      "id": "prosper",
+      "word": "prosper",
+      "pos": "動詞 I（自動詞）",
+      "ipa": "/ˈprɑːspər/（米）・/ˈprɒspə/（英）",
+      "meaning": "① 繁栄する、栄える ② 事業が成功する、順調に発展する ③ 人が豊かになる、成功する",
+      "difficulty": 3,
+      "daily": 2,
+      "business": 4,
+      "etymology": "ラテン語 prosperus（順調な、好都合な、成功した）に由来。pro-＋sper-という分解は補助的な理解にとどまり、古い語源は確定していない。",
+      "core": "追い風を受けるように、物事が順調に成長し、豊かで成功した状態に向かう。金銭面に限定されない。",
+      "usage": "自動詞 I。prosper in ～（分野・環境で成功する）、prosper under ～（制度・指導者の下で繁栄する）、prosper from ～（～の恩恵で繁栄する）。通常 prosper the business とはせず、help the business prosper と表現。",
+      "examples": [
+        [
+          "Companies that continuously innovate are more likely to prosper in highly competitive markets.",
+          "継続的にイノベーションを起こす企業は、競争の激しい市場で繁栄する可能性が高い。"
+        ],
+        [
+          "The country's economy prospered during a period of political stability and expanding international trade.",
+          "その国の経済は、政治的安定と国際貿易の拡大が続いた時期に繁栄した。"
+        ],
+        [
+          "Some small businesses managed to prosper despite rising costs and declining consumer spending.",
+          "一部の中小企業は、コスト上昇と個人消費の減少にもかかわらず、成長を続けることができた。"
+        ],
+        [
+          "The company prospered under the leadership of its new CEO.",
+          "その企業は新しいCEOの指導の下で繁栄した。"
+        ],
+        [
+          "Local restaurants and hotels prospered from the rapid growth of tourism.",
+          "地元のレストランやホテルは、観光業の急成長によって繁盛した。"
+        ],
+        [
+          "She prospered in her new role because she was willing to learn and adapt to change.",
+          "彼女は学習意欲が高く、変化への適応をいとわなかったため、新しい役職で成功した。"
+        ],
+        [
+          "Certain plant species prosper in environments where other species struggle to survive.",
+          "ある種の植物は、ほかの種が生存に苦労する環境でもよく育つ。"
+        ],
+        [
+          "For communities to prosper, they need access to quality education, healthcare, and economic opportunities.",
+          "地域社会が繁栄するためには、質の高い教育、医療、経済的機会へのアクセスが必要だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "prosperity",
+          "pos": "名詞 U",
+          "ipa": "/prɑːˈsperəti/",
+          "meaning": "繁栄、成功、経済的豊かさ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Economic prosperity depends not only on growth but also on how wealth is distributed.",
+          "translation": "経済的繁栄は、成長だけでなく、富がどのように分配されるかにも左右される。",
+          "note": "ラテン語 prosperitas（順調さ・幸運・成功）。"
+        },
+        {
+          "word": "prosperous",
+          "pos": "形容詞",
+          "ipa": "/ˈprɑːspərəs/",
+          "meaning": "繁栄した、裕福な、成功している",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The city became a prosperous commercial center thanks to its strategic location.",
+          "translation": "その都市は戦略的に有利な立地のおかげで、繁栄した商業中心地となった。",
+          "note": "ラテン語 prosperus に由来。"
+        },
+        {
+          "word": "prosperously",
+          "pos": "副詞",
+          "ipa": "/ˈprɑːspərəsli/",
+          "meaning": "繁栄して、裕福に、順調に",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The family lived prosperously for many years after establishing a successful business.",
+          "translation": "その一家は事業を成功させた後、長年にわたり裕福に暮らした。",
+          "note": "prosperous＋-ly。使用頻度は低い。"
+        },
+        {
+          "word": "unprosperous",
+          "pos": "形容詞",
+          "ipa": "/ʌnˈprɑːspərəs/",
+          "meaning": "繁栄していない、不景気な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The region remained unprosperous despite several attempts to stimulate economic growth.",
+          "translation": "その地域は経済成長を促す複数の試みにもかかわらず、繁栄しない状態が続いた。",
+          "note": "un-＋prosperous。まれな語。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "thrive",
+          "pos": "動詞 I",
+          "ipa": "/θraɪv/",
+          "meaning": "繁栄する、成功する、すくすく育つ",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Startups often thrive in environments that encourage experimentation and collaboration.",
+          "translation": "スタートアップは、実験や協働を奨励する環境で大きく成長することが多い。",
+          "note": "古ノルド語 þrífask に関連。力強い成長。"
+        },
+        {
+          "word": "flourish",
+          "pos": "動詞 I/T",
+          "ipa": "/ˈflɜːrɪʃ/",
+          "meaning": "繁栄する、盛んになる／振りかざす",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Creative industries flourish when people have the freedom to exchange ideas.",
+          "translation": "人々が自由に意見を交換できるとき、創造的な産業は発展する。",
+          "note": "ラテン語 flos, floris（花）。花開くような発展。"
+        },
+        {
+          "word": "succeed",
+          "pos": "動詞 I/T",
+          "ipa": "/səkˈsiːd/",
+          "meaning": "成功する／後を継ぐ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company succeeded in entering the European market.",
+          "translation": "その企業は欧州市場への参入に成功した。",
+          "note": "sub-＋cedere（進む）。目標達成を強調。"
+        },
+        {
+          "word": "boom",
+          "pos": "動詞 I・名詞 C",
+          "ipa": "/buːm/",
+          "meaning": "急成長する、活況を呈する／好景気",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The renewable energy sector boomed as investment in clean technology increased.",
+          "translation": "クリーン技術への投資が増えるにつれて、再生可能エネルギー部門は急成長した。",
+          "note": "大きく響く音を表す擬音的語。急拡大。"
+        },
+        {
+          "word": "survive",
+          "pos": "動詞 I/T",
+          "ipa": "/sərˈvaɪv/",
+          "meaning": "生き残る、存続する／～を生き延びる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Many businesses survived the recession, but only a few managed to prosper.",
+          "translation": "多くの企業が不況を生き延びたが、繁栄するまでに至った企業はごく少数だった。",
+          "note": "super-＋vivere（生きる）。対比語であり厳密な同義語ではない。"
+        }
+      ],
+      "comparison": "prosper＝経済的成功・安定した発展を連想しやすい／thrive＝力強い成長・好調／flourish＝文化・才能・産業が花開くように発展／succeed＝目標達成の結果／boom＝短期間の急成長・好景気／survive＝存続するだけで繁栄を意味しない（対比語）"
     }
   ]
 }
