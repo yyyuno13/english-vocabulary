@@ -2996,6 +2996,190 @@
         }
       ],
       "comparison": "provincial＝州・地方の／視野の狭い（中立と否定の両用法）／regional＝中立的な地域区分／local＝地元・近隣地域／rural＝農村地域／parochial＝狭い集団の利益にとらわれる／narrow-minded＝考え方が狭いという直接的批判／insular＝外部との交流に閉鎖的"
+    },
+    {
+      "id": "converge",
+      "word": "converge",
+      "pos": "動詞 I（自動詞）",
+      "ipa": "/kənˈvɜːrdʒ/",
+      "meaning": "① 一点に集まる・合流する ② 意見・考えが一致する方向に向かう ③ 数値・価格が収束する",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "ラテン語 con-（一緒に）＋vergere（傾く・向かう）→近代ラテン語 convergere→英語 converge。反対語 diverge は di-/dis-（離れて）＋vergere。",
+      "core": "複数のものが異なる方向から同じ一点へ近づく。物理的合流→意見の接近→数学・経済の収束。すでに一致しているとは限らず、近づく過程を表せる。",
+      "usage": "自動詞 I。converge on/upon ～（〜に集まる・集中する）、converge at ～（地点で合流する）、converge toward(s) ～（〜へ収束する）、converge with ～（〜と合流する）。数学では converge to ～（〜に収束する）。通常 converge a plan のような他動詞用法はしない。",
+      "examples": [
+        [
+          "Several major roads converge at the center of the city, causing heavy traffic during rush hour.",
+          "いくつかの主要道路が市の中心部で合流するため、ラッシュアワーには激しい渋滞が発生する。"
+        ],
+        [
+          "Thousands of demonstrators converged on the square to demand political reform.",
+          "数千人のデモ参加者が政治改革を求めて広場に集結した。"
+        ],
+        [
+          "After several rounds of discussion, the two teams began to converge on a common strategy.",
+          "数回にわたる議論の末、両チームは共通の戦略について合意に近づき始めた。"
+        ],
+        [
+          "As competition intensifies, prices in different markets may gradually converge.",
+          "競争が激しくなるにつれて、異なる市場の価格は徐々に収束する可能性がある。"
+        ],
+        [
+          "Artificial intelligence and robotics are converging to create new opportunities in manufacturing.",
+          "人工知能とロボット工学は融合しつつあり、製造業に新たな機会を生み出している。"
+        ],
+        [
+          "Independent studies using different methods have converged on similar conclusions.",
+          "異なる手法を用いた独立した研究が、似通った結論に収束している。"
+        ],
+        [
+          "The sequence converges to zero as the number of terms approaches infinity.",
+          "項数が無限大に近づくにつれて、その数列はゼロに収束する。"
+        ],
+        [
+          "The interests of investors and management do not always converge, especially when short-term profits conflict with long-term growth.",
+          "投資家と経営陣の利害は、特に短期的な利益と長期的な成長が対立する場合、必ずしも一致しない。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "diverge",
+          "pos": "動詞 I",
+          "ipa": "/daɪˈvɜːrdʒ/",
+          "meaning": "分岐する、意見が分かれる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The two companies' strategies began to diverge after the merger.",
+          "translation": "合併後、両社の戦略は次第に異なる方向へ進み始めた。",
+          "note": "di-/dis-（離れて）＋vergere（向かう）。convergeの反対。"
+        },
+        {
+          "word": "convergence",
+          "pos": "名詞 U/C",
+          "ipa": "/kənˈvɜːrdʒəns/",
+          "meaning": "収束、合流、融合",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The convergence of digital technologies has transformed the financial services industry.",
+          "translation": "デジタル技術の融合は、金融サービス業界を大きく変えた。",
+          "note": "converge＋-ence（状態・過程）。"
+        },
+        {
+          "word": "convergent",
+          "pos": "形容詞",
+          "ipa": "/kənˈvɜːrdʒənt/",
+          "meaning": "収束する、同じ方向に向かう",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "example": "The researchers observed convergent patterns in data collected from different regions.",
+          "translation": "研究者たちは、異なる地域で収集したデータに収束する傾向を観察した。",
+          "note": "converge＋-ent（〜する性質の）。"
+        },
+        {
+          "word": "divergence",
+          "pos": "名詞 U/C",
+          "ipa": "/daɪˈvɜːrdʒəns/",
+          "meaning": "相違、分岐、乖離",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The divergence between revenue growth and profit growth raised concerns among investors.",
+          "translation": "売上高の伸びと利益の伸びの乖離が、投資家の懸念を引き起こした。",
+          "note": "diverge＋-ence。収束の反対。"
+        },
+        {
+          "word": "divergent",
+          "pos": "形容詞",
+          "ipa": "/daɪˈvɜːrdʒənt/",
+          "meaning": "異なる方向に進む、意見が食い違う",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The committee members expressed divergent views on the proposed investment.",
+          "translation": "委員会のメンバーは、提案された投資について異なる見解を示した。",
+          "note": "diverge＋-ent。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "merge",
+          "pos": "動詞 T/I",
+          "ipa": "/mɜːrdʒ/",
+          "meaning": "合併させる・合併する、融合する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The two departments will merge into a single division next year.",
+          "translation": "その2つの部署は来年、1つの事業部に統合される。",
+          "note": "ラテン語 mergere（沈める）。一体化の結果に重点。"
+        },
+        {
+          "word": "coincide",
+          "pos": "動詞 I",
+          "ipa": "/ˌkoʊɪnˈsaɪd/",
+          "meaning": "一致する、同時に起こる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The release of the new product coincided with a sharp increase in consumer demand.",
+          "translation": "新製品の発売は、消費者需要の急増と時期が重なった。",
+          "note": "com-（一緒に）＋incidere（落ちる・起こる）。時点・状態の一致。"
+        },
+        {
+          "word": "intersect",
+          "pos": "動詞 T/I",
+          "ipa": "/ˌɪntərˈsekt/",
+          "meaning": "交差する、交わる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The two railway lines intersect near the city's main transportation hub.",
+          "translation": "その2つの鉄道路線は、市内の主要交通拠点の近くで交差する。",
+          "note": "inter-（間で）＋secare（切る）。交差のみを表す。"
+        },
+        {
+          "word": "align",
+          "pos": "動詞 T/I",
+          "ipa": "/əˈlaɪn/",
+          "meaning": "整列させる・整列する、方針を一致させる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The management team worked to align its investment priorities with the company's long-term goals.",
+          "translation": "経営陣は、投資の優先順位を会社の長期目標と一致させようと取り組んだ。",
+          "note": "フランス語 aligner（線に沿って並べる）。意図的に方向をそろえる。"
+        },
+        {
+          "word": "unite",
+          "pos": "動詞 T/I",
+          "ipa": "/juˈnaɪt/",
+          "meaning": "結びつける・団結する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The crisis united employees around a shared goal of restoring customer trust.",
+          "translation": "その危機は、顧客の信頼を回復するという共通の目標のもとに社員を団結させた。",
+          "note": "ラテン語 unus（1つ）。団結・結合を強調。"
+        },
+        {
+          "word": "gather",
+          "pos": "動詞 T/I",
+          "ipa": "/ˈɡæðər/",
+          "meaning": "集める・集まる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Experts from around the world gathered to discuss the future of renewable energy.",
+          "translation": "世界各国の専門家が再生可能エネルギーの将来について議論するために集まった。",
+          "note": "古英語 gaderian（集める）。一般的な集合。"
+        }
+      ],
+      "comparison": "converge＝異なる方向から一点へ近づく（過程）／merge＝一体化する（統合結果）／coincide＝同じ位置・時点で重なる（過程は不要）／intersect＝交差する（一体化は不要）／align＝方向や目標をそろえる（意図的な調整）／unite＝団結・結合する／gather＝一般的に集まる"
     }
   ]
 }
