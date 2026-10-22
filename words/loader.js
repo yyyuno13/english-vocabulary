@@ -162,6 +162,23 @@
       '<p><b>例：</b>'+escapeHTML(item.example)+'<br><b>訳：</b>'+escapeHTML(item.translation)+'</p>'+
       '<p class="small"><b>語源・使い分け：</b>'+escapeHTML(item.note)+'</p>'+back(parent)+'</article>';
   }
+  // Lightweight inline SVG core-image diagrams for selected words.
+  // All labels and paths are fixed author-controlled markup (not JSON HTML).
+  const coreDiagrams = {
+    divert: '<path d="M20 90 H320" stroke="currentColor" stroke-opacity=".22" stroke-width="3" stroke-dasharray="7 7"/><path d="M20 90 H145 Q170 90 190 64 L268 18" stroke="#2563eb" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M252 20 L271 16 L265 34" stroke="#2563eb" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="145" cy="90" r="6" fill="#ea580c"/><text x="64" y="75">元の進路</text><text x="267" y="48">別の行き先</text><text x="268" y="111">本来の行き先</text><text x="145" y="118">方向転換</text>',
+    converge: '<path d="M30 20 L165 80 M30 140 L165 80 M310 20 L165 80 M310 140 L165 80" stroke="#2563eb" stroke-width="4" fill="none" stroke-linecap="round"/><circle cx="165" cy="80" r="10" fill="#16a34a"/><text x="165" y="58">一点に集まる</text><text x="165" y="113">converge</text>',
+    reduce: '<path d="M28 130 H310" stroke="currentColor" stroke-opacity=".3" stroke-width="2"/><rect x="48" y="25" width="74" height="105" rx="5" fill="#2563eb" fill-opacity=".75"/><rect x="220" y="78" width="74" height="52" rx="5" fill="#16a34a" fill-opacity=".75"/><path d="M140 68 H201" stroke="currentColor" stroke-width="2.5"/><path d="M191 59 L202 68 L191 77" stroke="currentColor" stroke-width="2.5" fill="none"/><text x="85" y="147">100</text><text x="257" y="147">50</text><text x="170" y="44">量を減らす</text>',
+    prosper: '<path d="M22 130 H318" stroke="currentColor" stroke-opacity=".3" stroke-width="2"/><rect x="38" y="108" width="33" height="22" rx="3" fill="#16a34a" fill-opacity=".4"/><rect x="92" y="89" width="33" height="41" rx="3" fill="#16a34a" fill-opacity=".5"/><rect x="146" y="66" width="33" height="64" rx="3" fill="#16a34a" fill-opacity=".6"/><rect x="200" y="43" width="33" height="87" rx="3" fill="#16a34a" fill-opacity=".7"/><rect x="254" y="19" width="33" height="111" rx="3" fill="#16a34a" fill-opacity=".8"/><path d="M42 99 Q148 91 275 12" stroke="#2563eb" stroke-width="3" fill="none"/><path d="M258 13 L278 10 L272 30" stroke="#2563eb" stroke-width="3" fill="none"/><text x="162" y="148">順調に成長・繁栄する</text>'
+  };
+  const coreDiagram = entry => {
+    const drawing=coreDiagrams[entry.id];
+    if(!drawing)return '';
+    return '<figure class="core-diagram"><svg viewBox="0 0 340 160" role="img" aria-label="'+escapeHTML(entry.word)+' のコアイメージ図解" xmlns="http://www.w3.org/2000/svg">'+drawing+'</svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
+  };
+  const diagramStyle=document.createElement('style');
+  diagramStyle.textContent='.core-diagram{margin:12px 0 18px;padding:12px;border:1px solid var(--line,#ddd);border-radius:12px;background:var(--paper,#fff)}.core-diagram svg{display:block;width:100%;height:auto;max-height:220px}.core-diagram svg text{font-size:12px;fill:currentColor;text-anchor:middle}.core-diagram figcaption{margin-top:8px;font-size:.87rem;color:var(--muted,#666);line-height:1.6}';
+  document.head.appendChild(diagramStyle);
+
   function family(entry, number) {
     const id=escapeHTML(entry.id), w=escapeHTML(entry.word);
     const examples=(entry.examples||[]).map(pair=>'<div class="example"><b>例：</b>'+escapeHTML(pair[0])+'<br><b>訳：</b>'+escapeHTML(pair[1])+'</div>').join('');
@@ -172,7 +189,7 @@
       '<span class="pill difficulty">難易度 '+stars(entry.difficulty)+'</span><span class="pill">日常 '+stars(entry.daily)+'</span><span class="pill">ビジネス '+stars(entry.business)+'</span></div>'+
       '<div class="field"><b>意味</b>'+escapeHTML(entry.meaning)+'</div>'+
       '<div class="field"><b>① 語源の分解と解説</b>'+escapeHTML(entry.etymology)+'</div>'+
-      '<div class="field"><b>② コアイメージ</b>'+escapeHTML(entry.core)+'</div>'+
+      '<div class="field"><b>② コアイメージ</b>'+escapeHTML(entry.core)+'</div>'+coreDiagram(entry)+
       '<div class="field"><b>③ 基本情報と例文</b>'+escapeHTML(entry.usage)+'</div>'+examples+
       '<div class="related"><h3>④ 同語源の単語</h3>'+(entry.related||[]).map(x=>relatedCard(entry.id,x)).join('')+
       '<h3>⑤ 同義語・類義語</h3>'+(entry.synonyms||[]).map(x=>relatedCard(entry.id,x)).join('')+
