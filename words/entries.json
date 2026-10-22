@@ -3904,6 +3904,202 @@
         }
       ],
       "comparison": "prosper＝経済的成功・安定した発展を連想しやすい／thrive＝力強い成長・好調／flourish＝文化・才能・産業が花開くように発展／succeed＝目標達成の結果／boom＝短期間の急成長・好景気／survive＝存続するだけで繁栄を意味しない（対比語）"
+    },
+    {
+      "id": "divert",
+      "word": "divert",
+      "pos": "動詞 T",
+      "ipa": "/daɪˈvɜːrt/（米）・/daɪˈvɜːt/（英）",
+      "meaning": "①方向・行き先を変える ②注意・関心をそらす ③資金・資源を別用途に振り向ける ④人を楽しませる・気晴らしさせる（やや形式的）",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 dis-/di-（離れて、別方向へ）＋vertere（回す、向きを変える）→divertere（別方向へ向ける）。converge/diverge の verge は別のラテン語 vergere（傾く）に由来。",
+      "core": "本来Aへ向かっていたものを途中でBへ向け直す。交通・注意・資金・気持ちなどを元の方向からそらす。",
+      "usage": "divert A to B（AをBへ迂回・転用する）、divert A from B（AをBからそらす）、divert A away from B（AをBから遠ざける）、divert A into B（AをBへ流し込む・振り向ける）、divert attention from ～（～から注意をそらす）。",
+      "examples": [
+        [
+          "They've diverted traffic because of the accident, so we might be late.",
+          "事故で車が迂回させられているから、遅れるかもしれないね。"
+        ],
+        [
+          "Can you distract him for a minute? I need to divert his attention while I hide the present.",
+          "ちょっと彼の気を引いてくれない？ プレゼントを隠す間、彼の注意をそらしたいんだ。"
+        ],
+        [
+          "Every time I ask him about his job, he tries to divert the conversation to something else.",
+          "仕事のことを聞くたびに、彼は話題を別のことにそらそうとするんだ。"
+        ],
+        [
+          "We need to divert the rainwater away from the garage before it floods.",
+          "ガレージが浸水する前に、雨水を別の方向へ流さないと。"
+        ],
+        [
+          "The company decided to divert part of its marketing budget to product development.",
+          "その企業はマーケティング予算の一部を製品開発に振り向けることにした。"
+        ],
+        [
+          "The executive was accused of trying to divert attention from the company's financial problems.",
+          "その幹部は、会社の財務問題から注意をそらそうとしたとして非難された。"
+        ],
+        [
+          "Several flights were diverted to nearby airports because of severe weather conditions.",
+          "悪天候のため、複数の便が近隣の空港へ目的地を変更した。"
+        ],
+        [
+          "The construction of the dam diverted water from the river into an artificial reservoir.",
+          "ダムの建設によって、川の水は人工貯水池へと流れるように変更された。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "diversion",
+          "pos": "名詞 C/U",
+          "ipa": "/daɪˈvɜːrʒən/",
+          "meaning": "迂回、注意をそらすこと、気晴らし",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Reading novels is a nice diversion when I'm stressed.",
+          "translation": "ストレスがたまっているとき、小説を読むのはいい気晴らしになるんだ。",
+          "note": "divertere（別方向へ向ける）に由来。"
+        },
+        {
+          "word": "convert",
+          "pos": "動詞 T/I",
+          "ipa": "/kənˈvɜːrt/",
+          "meaning": "変換する、転換する、改宗する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "I converted all my photos to JPEG files so I could share them more easily.",
+          "translation": "写真を全部JPEG形式に変換したよ。その方が簡単に共有できるから。",
+          "note": "con-＋vertere（回す）。"
+        },
+        {
+          "word": "invert",
+          "pos": "動詞 T",
+          "ipa": "/ɪnˈvɜːrt/",
+          "meaning": "逆さにする、反転させる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The image was accidentally inverted during editing.",
+          "translation": "編集中に画像が誤って上下反転してしまった。",
+          "note": "in-＋vertere。"
+        },
+        {
+          "word": "revert",
+          "pos": "動詞 I",
+          "ipa": "/rɪˈvɜːrt/",
+          "meaning": "元の状態に戻る",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "After trying the new layout for a week, I reverted to the old one.",
+          "translation": "新しいレイアウトを1週間試したけど、結局前のものに戻した。",
+          "note": "re-＋vertere。"
+        },
+        {
+          "word": "reverse",
+          "pos": "動詞 T/I・名詞 C・形容詞",
+          "ipa": "/rɪˈvɜːrs/",
+          "meaning": "逆転させる・逆転する／逆／逆の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I accidentally put the car in reverse instead of drive.",
+          "translation": "間違えて車のギアをドライブじゃなくてバックに入れちゃった。",
+          "note": "re-＋vertere。"
+        },
+        {
+          "word": "versatile",
+          "pos": "形容詞",
+          "ipa": "/ˈvɜːrsətl/",
+          "meaning": "多用途の、多才な、応用が利く",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "This jacket is really versatile. I can wear it to work or on weekends.",
+          "translation": "このジャケットは本当に着回しが利くんだ。仕事にも週末にも着ていけるよ。",
+          "note": "versatilis（回転できる）に由来し vertere と同語根。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "redirect",
+          "pos": "動詞 T",
+          "ipa": "/ˌriːdəˈrekt/",
+          "meaning": "向け直す、転送する、誘導する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The website automatically redirected me to the login page.",
+          "translation": "ウェブサイトが自動的にログインページへ転送した。",
+          "note": "re-＋direct。新しい方向への誘導。"
+        },
+        {
+          "word": "distract",
+          "pos": "動詞 T",
+          "ipa": "/dɪˈstrækt/",
+          "meaning": "注意をそらす、気を散らす",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 4,
+          "example": "Stop distracting me! I'm trying to finish this.",
+          "translation": "気を散らさないで！ これを終わらせようとしているんだから。",
+          "note": "dis-＋trahere（引っ張る）。集中を妨げる。"
+        },
+        {
+          "word": "deflect",
+          "pos": "動詞 T/I",
+          "ipa": "/dɪˈflekt/",
+          "meaning": "方向をそらす、かわす",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "She tried to deflect the question by making a joke.",
+          "translation": "彼女は冗談を言って、その質問をかわそうとした。",
+          "note": "de-＋flectere（曲げる）。質問・批判などをかわす。"
+        },
+        {
+          "word": "reroute",
+          "pos": "動詞 T",
+          "ipa": "/ˌriːˈruːt/",
+          "meaning": "経路を変更する、迂回させる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The navigation app rerouted us around the traffic jam.",
+          "translation": "ナビアプリが渋滞を避けるルートに変更してくれた。",
+          "note": "re-＋route。交通・通信・物流の経路。"
+        },
+        {
+          "word": "shift",
+          "pos": "動詞 T/I・名詞 C",
+          "ipa": "/ʃɪft/",
+          "meaning": "移す・移る・変化させる／変化・勤務時間帯",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We've shifted our plans from Saturday to Sunday.",
+          "translation": "予定を土曜日から日曜日に変更したよ。",
+          "note": "古英語系の語。重点や位置を移す。"
+        },
+        {
+          "word": "allocate",
+          "pos": "動詞 T",
+          "ipa": "/ˈæləkeɪt/",
+          "meaning": "割り当てる、配分する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "We need to allocate more time to testing before the product launch.",
+          "translation": "製品発売前のテストにもっと時間を割り当てる必要がある。",
+          "note": "ad-＋locare（置く）。元の用途から変更するとは限らない。"
+        }
+      ],
+      "comparison": "divert＝元の行き先・目的から別方向へそらす／redirect＝新しい方向・目的地へ誘導／distract＝人の注意・集中を散らす／deflect＝質問・批判・攻撃などをかわす／reroute＝交通・物流・通信の経路変更／shift＝位置・重点を移す／allocate＝資源・予算を割り当てる（転用とは限らない）"
     }
   ]
 }
