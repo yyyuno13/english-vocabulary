@@ -3364,6 +3364,190 @@
         }
       ],
       "comparison": "compromise＝妥協する／安全性・品質などを損なう／negotiate＝交渉の過程であり妥協するとは限らない／concede＝相手への一方的な譲歩・認容／accommodate＝相手の事情に合わせて調整する／undermine＝信頼や権威などの基盤を徐々に弱める／jeopardize＝危険にさらす（実害が確定しなくてもよい）／impair＝能力・機能を低下させる"
+    },
+    {
+      "id": "disruption",
+      "word": "disruption",
+      "pos": "名詞 C/U",
+      "ipa": "/dɪsˈrʌpʃən/",
+      "meaning": "① 混乱・支障・妨害 ② 中断・機能停止 ③ 既存市場・業界構造を根本から変える破壊的変革",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 dis-（離れて・ばらばらに）＋rumpere（破る・壊す）に由来する disrupt ＋ -ion（名詞化）。語根 rupt は rupture, interrupt, corrupt に共通。",
+      "core": "正常に連続して機能していた仕組みが断ち切られる。交通・生活・事業の支障から、既存産業構造を揺さぶる技術変革まで。",
+      "usage": "名詞 U：cause disruption（混乱を引き起こす）。名詞 C：a major disruption（大きな中断事象）。supply chain disruption（供給網の混乱）、service disruption（サービス障害）、minimize disruption（支障を最小化）。",
+      "examples": [
+        [
+          "Heavy snowfall caused major disruption to train services across the region.",
+          "大雪によって地域全体の鉄道運行に大きな混乱が生じた。"
+        ],
+        [
+          "The construction work was scheduled at night to minimize disruption to local residents.",
+          "工事は地域住民の生活への支障を最小限に抑えるため、夜間に予定された。"
+        ],
+        [
+          "The manufacturer experienced severe supply chain disruptions following the closure of several overseas ports.",
+          "複数の海外港湾が閉鎖されたことで、その製造業者は深刻なサプライチェーンの混乱に直面した。"
+        ],
+        [
+          "The company developed contingency plans to ensure business continuity during unexpected disruptions.",
+          "その企業は、予期せぬ業務中断が発生した際にも事業継続を確保するため、緊急対応計画を策定した。"
+        ],
+        [
+          "A software update triggered a temporary disruption of the company's online payment system.",
+          "ソフトウェアの更新によって、同社のオンライン決済システムに一時的な障害が発生した。"
+        ],
+        [
+          "Geopolitical tensions have increased the risk of disruption in global energy markets.",
+          "地政学的緊張により、世界のエネルギー市場が混乱するリスクが高まっている。"
+        ],
+        [
+          "The rapid adoption of artificial intelligence could lead to significant disruption across professional services industries.",
+          "人工知能の急速な普及は、専門サービス業界全体に大きな構造変革をもたらす可能性がある。"
+        ],
+        [
+          "Companies that fail to adapt to technological disruption may lose their competitive advantage.",
+          "技術革新による破壊的変革に適応できない企業は、競争優位性を失う可能性がある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "disrupt",
+          "pos": "動詞 T",
+          "ipa": "/dɪsˈrʌpt/",
+          "meaning": "妨害する、混乱させる、既存の仕組みを変革する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The cyberattack disrupted operations at several major hospitals.",
+          "translation": "そのサイバー攻撃は複数の主要病院の業務を混乱させた。",
+          "note": "dis-＋rupt（破る）。"
+        },
+        {
+          "word": "disruptive",
+          "pos": "形容詞",
+          "ipa": "/dɪsˈrʌptɪv/",
+          "meaning": "混乱を引き起こす、破壊的な、革新的な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The startup introduced a disruptive business model that challenged established competitors.",
+          "translation": "そのスタートアップは既存の競合企業に挑戦する革新的なビジネスモデルを導入した。",
+          "note": "disrupt＋-ive。"
+        },
+        {
+          "word": "interrupt",
+          "pos": "動詞 T/I",
+          "ipa": "/ˌɪntəˈrʌpt/",
+          "meaning": "中断させる、話を遮る／割り込む",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The presenter asked the audience not to interrupt until the question-and-answer session.",
+          "translation": "発表者は質疑応答の時間まで話を遮らないよう聴衆に求めた。",
+          "note": "inter-（間に）＋rumpere（破る）。"
+        },
+        {
+          "word": "rupture",
+          "pos": "名詞 C/U・動詞 T/I",
+          "ipa": "/ˈrʌptʃər/",
+          "meaning": "破裂・断裂・決裂／破裂させる・破裂する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The disagreement caused a serious rupture in relations between the two organizations.",
+          "translation": "その意見の対立は両組織の関係に深刻な亀裂を生じさせた。",
+          "note": "ラテン語 ruptura、rumpere（破る）。"
+        },
+        {
+          "word": "corrupt",
+          "pos": "形容詞・動詞 T",
+          "ipa": "/kəˈrʌpt/",
+          "meaning": "腐敗した・不正な／堕落させる・データを破損させる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The system failure corrupted several important financial records.",
+          "translation": "システム障害によって複数の重要な財務記録が破損した。",
+          "note": "com-＋rumpere（壊す）。"
+        },
+        {
+          "word": "abrupt",
+          "pos": "形容詞",
+          "ipa": "/əˈbrʌpt/",
+          "meaning": "突然の、唐突な、ぶっきらぼうな",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The abrupt resignation of the CEO created uncertainty among investors.",
+          "translation": "CEOの突然の辞任は投資家の間に不安を生じさせた。",
+          "note": "ab-＋rumpere（破る）。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "interruption",
+          "pos": "名詞 C/U",
+          "ipa": "/ˌɪntəˈrʌpʃən/",
+          "meaning": "中断、遮断、割り込み",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The team completed the migration without any interruption to customer services.",
+          "translation": "チームは顧客向けサービスを一切中断することなくシステム移行を完了した。",
+          "note": "inter-＋rupt＋-ion。進行中のものが途中で止まる。"
+        },
+        {
+          "word": "disturbance",
+          "pos": "名詞 C/U",
+          "ipa": "/dɪˈstɜːrbəns/",
+          "meaning": "騒動、妨害、平穏の乱れ",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The hotel apologized for the disturbance caused by renovation work.",
+          "translation": "ホテルは改修工事によって生じた騒音や迷惑について謝罪した。",
+          "note": "ラテン語 disturbare（乱す）。平穏や秩序の乱れ。"
+        },
+        {
+          "word": "upheaval",
+          "pos": "名詞 C/U",
+          "ipa": "/ʌpˈhiːvəl/",
+          "meaning": "大変動、激変、社会的混乱",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The industry underwent a period of upheaval following major regulatory reforms.",
+          "translation": "大規模な規制改革の後、その業界は激変の時期を経験した。",
+          "note": "up＋heave（持ち上げる）。秩序の大きな変動。"
+        },
+        {
+          "word": "turmoil",
+          "pos": "名詞 U",
+          "ipa": "/ˈtɜːrmɔɪl/",
+          "meaning": "混乱、動揺、騒乱",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Financial markets were thrown into turmoil following the unexpected policy announcement.",
+          "translation": "予想外の政策発表を受けて金融市場は混乱に陥った。",
+          "note": "語源の詳細は不確実。激しい混乱状態。"
+        },
+        {
+          "word": "transformation",
+          "pos": "名詞 C/U",
+          "ipa": "/ˌtrænsfərˈmeɪʃən/",
+          "meaning": "変革、変形、転換",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Digital transformation has fundamentally changed how banks interact with customers.",
+          "translation": "デジタルトランスフォーメーションは銀行が顧客と接する方法を根本的に変えた。",
+          "note": "trans-＋form＋-ation。仕組みの変化そのもの。"
+        }
+      ],
+      "comparison": "disruption＝正常な流れ・既存構造が妨げられる／interruption＝一時的な中断・割り込み／disturbance＝平穏や秩序の乱れ／upheaval＝社会・組織・制度の大規模な激変／turmoil＝激しい混乱・動揺／transformation＝仕組みの変革（混乱を伴うとは限らない）"
     }
   ]
 }
