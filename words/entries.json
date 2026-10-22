@@ -3180,6 +3180,190 @@
         }
       ],
       "comparison": "converge＝異なる方向から一点へ近づく（過程）／merge＝一体化する（統合結果）／coincide＝同じ位置・時点で重なる（過程は不要）／intersect＝交差する（一体化は不要）／align＝方向や目標をそろえる（意図的な調整）／unite＝団結・結合する／gather＝一般的に集まる"
+    },
+    {
+      "id": "compromise",
+      "word": "compromise",
+      "pos": "名詞 C/U・動詞 T/I",
+      "ipa": "/ˈkɑːmprəmaɪz/",
+      "meaning": "名詞 C：妥協案・折衷案／U：妥協・歩み寄り。動詞 I：妥協する・歩み寄る／T：安全性・品質・信頼性などを損なう、危険にさらす。",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 com-（共に）＋promittere（約束する）→compromittere（互いに約束する、紛争の裁定を委ねる）。promise と同じ語源要素を共有。",
+      "core": "対立する双方が譲って共通の着地点を見つける。別の語義では、安全性・原則・機密性などが損なわれる・危険にさらされる。",
+      "usage": "名詞C：reach a compromise（妥協案に達する）、名詞U：room for compromise（妥協の余地）。動詞I：compromise on ～（〜について妥協する）、compromise with ～（〜と妥協する）。動詞T：compromise security/quality/data（安全性・品質・データを損なう）。compromise on safety と compromise safety を区別。",
+      "examples": [
+        [
+          "After hours of negotiations, both parties finally reached a compromise on the contract terms.",
+          "数時間の交渉の末、双方はついに契約条件について妥協案に達した。"
+        ],
+        [
+          "Successful negotiations often require compromise from both sides.",
+          "交渉を成功させるには、双方の歩み寄りが必要になることが多い。"
+        ],
+        [
+          "The supplier refused to compromise on price despite the buyer's repeated requests.",
+          "供給業者は、買い手から繰り返し要請されても価格について妥協しなかった。"
+        ],
+        [
+          "Management was willing to compromise with the union to avoid a prolonged strike.",
+          "経営陣は長期ストライキを避けるため、労働組合と妥協する意思があった。"
+        ],
+        [
+          "Reducing production costs should not compromise the quality of the final product.",
+          "製造コストの削減によって、最終製品の品質を損なってはならない。"
+        ],
+        [
+          "A single weak password can compromise the security of an entire corporate network.",
+          "たった1つの脆弱なパスワードが、企業ネットワーク全体のセキュリティを危険にさらす可能性がある。"
+        ],
+        [
+          "The investigation revealed that sensitive customer data had been compromised during the cyberattack.",
+          "調査の結果、サイバー攻撃中に機密性の高い顧客データが漏えいしたことが明らかになった。"
+        ],
+        [
+          "Although the company was prepared to negotiate, it would not compromise on its ethical principles.",
+          "その企業は交渉に応じる用意はあったものの、倫理原則については妥協しない方針だった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "promise",
+          "pos": "名詞 C/U・動詞 T/I",
+          "ipa": "/ˈprɑːmɪs/",
+          "meaning": "約束、将来性／約束する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company promised to deliver the equipment before the end of the month.",
+          "translation": "その会社は月末までに機器を納入すると約束した。",
+          "note": "pro-（前へ）＋mittere（送る）。前もって言葉を差し出す。"
+        },
+        {
+          "word": "promising",
+          "pos": "形容詞",
+          "ipa": "/ˈprɑːmɪsɪŋ/",
+          "meaning": "有望な、将来性のある",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The preliminary results suggest that the new treatment is promising.",
+          "translation": "予備的な結果は、新しい治療法が有望であることを示唆している。",
+          "note": "promise＋-ing。良い結果を予感させる。"
+        },
+        {
+          "word": "premise",
+          "pos": "名詞 C",
+          "ipa": "/ˈpremɪs/",
+          "meaning": "前提、根拠",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The entire investment strategy rests on the premise that demand will continue to grow.",
+          "translation": "その投資戦略全体は、需要が今後も伸び続けるという前提に立っている。",
+          "note": "prae-（前に）＋mittere（送る・置く）。議論の前に置くもの。"
+        },
+        {
+          "word": "submit",
+          "pos": "動詞 T/I",
+          "ipa": "/səbˈmɪt/",
+          "meaning": "提出する／従う",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "All applicants must submit their documents by Friday.",
+          "translation": "応募者は全員、金曜日までに書類を提出しなければならない。",
+          "note": "sub-（下に）＋mittere（送る）。"
+        },
+        {
+          "word": "remit",
+          "pos": "動詞 T",
+          "ipa": "/rɪˈmɪt/",
+          "meaning": "送金する、免除する、差し戻す",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 4,
+          "example": "The client agreed to remit the outstanding balance within ten business days.",
+          "translation": "顧客は未払い残高を10営業日以内に送金することに同意した。",
+          "note": "re-（戻して）＋mittere（送る）。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "negotiate",
+          "pos": "動詞 T/I",
+          "ipa": "/nɪˈɡoʊʃieɪt/",
+          "meaning": "交渉する、取り決める",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The two companies negotiated the terms of their strategic partnership.",
+          "translation": "両社は戦略的提携の条件について交渉した。",
+          "note": "ラテン語 neg-（ない）＋otium（余暇）。交渉の過程。"
+        },
+        {
+          "word": "concede",
+          "pos": "動詞 T/I",
+          "ipa": "/kənˈsiːd/",
+          "meaning": "譲歩する、（しぶしぶ）認める",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The seller conceded that the original asking price was too high.",
+          "translation": "売り手は当初の希望価格が高すぎたことを認めた。",
+          "note": "con-＋cedere（譲る）。一方的な譲歩の含意。"
+        },
+        {
+          "word": "accommodate",
+          "pos": "動詞 T",
+          "ipa": "/əˈkɑːmədeɪt/",
+          "meaning": "要望に応じる、適応させる、収容する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The vendor adjusted its delivery schedule to accommodate the client's requirements.",
+          "translation": "業者は顧客の要望に応じるため、納入スケジュールを調整した。",
+          "note": "ad-＋commodus（適切な）。相手の事情に合わせる。"
+        },
+        {
+          "word": "undermine",
+          "pos": "動詞 T",
+          "ipa": "/ˌʌndərˈmaɪn/",
+          "meaning": "徐々に弱める、損なう",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Repeated delays undermined investors' confidence in the management team.",
+          "translation": "度重なる遅延は、経営陣に対する投資家の信頼を損なった。",
+          "note": "under＋mine。土台を下から掘り崩す。"
+        },
+        {
+          "word": "jeopardize",
+          "pos": "動詞 T",
+          "ipa": "/ˈdʒepərdaɪz/",
+          "meaning": "危険にさらす",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "A failure to comply with regulations could jeopardize the company's operating license.",
+          "translation": "規制を遵守しなければ、会社の営業許可が危うくなる可能性がある。",
+          "note": "jeopardy＋-ize。危険な状態に置く。"
+        },
+        {
+          "word": "impair",
+          "pos": "動詞 T",
+          "ipa": "/ɪmˈper/",
+          "meaning": "機能・能力・価値などを低下させる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "Excessive fatigue can impair employees' ability to make sound decisions.",
+          "translation": "過度の疲労は、社員が適切な判断を下す能力を低下させる可能性がある。",
+          "note": "古フランス語を経由した、悪い・より悪いを表すラテン語由来。"
+        }
+      ],
+      "comparison": "compromise＝妥協する／安全性・品質などを損なう／negotiate＝交渉の過程であり妥協するとは限らない／concede＝相手への一方的な譲歩・認容／accommodate＝相手の事情に合わせて調整する／undermine＝信頼や権威などの基盤を徐々に弱める／jeopardize＝危険にさらす（実害が確定しなくてもよい）／impair＝能力・機能を低下させる"
     }
   ]
 }
