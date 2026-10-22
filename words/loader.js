@@ -2,13 +2,115 @@
 (async function () {
   const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
   const stars = n => '★'.repeat(Math.max(1,Math.min(5,Number(n)||1))) + '☆'.repeat(5-Math.max(1,Math.min(5,Number(n)||1)));
+
+  // Grammar labels for all static and dynamically loaded vocabulary cards.
+  // C = countable, U = uncountable, T = transitive, I = intransitive.
+  const nounU=new Set(("drowsiness compensation chaos remuneration reimbursement fatigue sleepiness somnolence lethargy torpor folklore folk music literature writing fiction documentation literacy malnutrition malpractice infrastructure applause candor eminence prominence prevalence transparency plausibility feasibility significance incorporation speculation conjecture inference pavement paving radiation infrared ultraviolet malnutrition").split(" "));
+  const nounCU=new Set(("hiatus pause break recess gap predicament dilemma plight quandary fix mess salary wage pension indemnity reparation expense delegation legacy flock sediment residue ease session circulation circuit secret population community publication bibliography brochure function dysfunction failure breakdown defect glitch corporation corpus signal intrigue intricacy figure feint value triumph prospect assumption rumor guess appearance disappearance literature writing documentation fiction malfunction compensation speculation candidacy presidency presidency equivalent credit applause").split(" "));
+  const verbI=new Set(("drowse depend flock to flock together gravitate toward(s) converge on subside recede taper off return to get back to come back to reside preside prevail persist disappear appear pass out go wrong malfunction speculate faint triumph").split(" "));
+  const verbTI=new Set(("pause break drowse fatigue dictate compensate thin weaken reduce gather diminish abate ease circle circulate flock rush to pour into lead moderate govern function signal intrigue feint figure dim open clear manifest value merge assimilate integrate incorporate indicate signify imply mean represent symbolize inspect guess conjecture speculate prevail overcome dominate faint appear disappear persuade applaud feign persist reside").split(" "));
+  const verbMeaning={
+    "prevail":"I：勝利する／（慣習などが）広く行われる。prevail on/upon 人 to do：人を説得して〜させる",
+    "faint":"I：気絶する（形容詞：かすかな）",
+    "malfunction":"I：故障する（名詞：故障）",
+    "preside":"I：preside over ～＝〜を主宰する",
+    "subside":"I：（痛み・風・混乱などが）弱まる／収まる",
+    "flock":"I：群がる・押し寄せる／T：羊などを群れにする（まれ）",
+    "flock to":"I：flock to ～＝〜に大勢押し寄せる",
+    "depend":"I：depend on ～＝〜に依存する",
+    "speculate":"I：speculate about/on ～＝〜について推測・投機する／T：speculate that ...＝〜と推測する（that節）",
+    "compensate":"T：人に補償する／I：compensate for ～＝〜を埋め合わせる",
+    "delegate":"T：仕事・権限を委任する／I：代表として派遣する（まれ）",
+    "dilute":"T：〜を薄める／I：薄まる（まれ）",
+    "incorporate":"T：〜を組み込む／I：法人化する・合体する",
+    "signify":"T：〜を意味する・示す／I：重要である（まれ）",
+    "function":"I：機能する／名詞：機能・役割",
+    "triumph":"I：勝利する／名詞：勝利",
+    "persist":"I：続く、persist in ～＝〜を続ける",
+    "appear":"I：現れる、〜のように見える",
+    "disappear":"I：消える",
+    "overcome":"T：困難などを克服する",
+    "persuade":"T：人を説得する",
+    "indicate":"T：〜を示す、指し示す",
+    "inspect":"T：〜を検査する",
+    "pave":"T：道を舗装する／pave the way for ～＝〜への道を開く",
+    "lead":"T：人・組織を率いる／I：lead to ～＝〜につながる",
+    "moderate":"T：会議などを進行する／I：穏やかになる",
+    "circulate":"T：資料などを回覧する／I：うわさ・血液などが巡る",
+    "gather":"T：情報・人を集める／I：人が集まる",
+    "break":"T：〜を壊す／I：壊れる",
+    "pause":"T：再生などを一時停止する／I：一時停止する",
+    "diminish":"T：〜を減らす／I：減少する",
+    "abate":"T：〜を弱める／I：弱まる",
+    "ease":"T：〜を和らげる／I：和らぐ",
+    "merge":"T：〜を統合する／I：合併する",
+    "intrigue":"T：人の興味を引く／I：陰謀を企てる（古風）",
+    "faint":"I：気絶する",
+    "guess":"T：答えなどを推測する／I：推測する",
+    "conjecture":"T：〜と推測する／I：推測する（まれ）"
+  };
+  const nounMeaning={
+    "speculation":"U：憶測・投機／C：個々の推測（speculations）",
+    "literature":"U：文学・文献／C：特定分野の文献群を指す用法は通常集合的",
+    "compensation":"U：補償・報酬／C：個々の補償（限定的）",
+    "malfunction":"C：個々の故障（a malfunction）",
+    "faint":"C：気絶（a faint、主に英）",
+    "infrared":"U：赤外線（光・放射として）",
+    "transparency":"U：透明性",
+    "plausibility":"U：もっともらしさ／C：もっともらしい点・説明（まれ）",
+    "feasibility":"U：実現可能性",
+    "applause":"U：拍手・称賛",
+    "advice":"U：助言",
+    "information":"U：情報",
+    "drowsiness":"U：眠気",
+    "predicament":"C：困った状況",
+    "hiatus":"C：中断期間",
+    "subsidy":"C：補助金",
+    "amendment":"C：修正・改正条項",
+    "folk":"C：人々（通常 folks）／U：folk music などの修飾用法"
+  };
+  const grammarLabel=(word,pos)=>{
+    const w=String(word||'').trim().toLowerCase(),p=String(pos||'');
+    const noun=/名詞/.test(p),verb=/動詞|句動詞/.test(p);
+    if(!noun&&!verb)return '';
+    const parts=[];
+    if(noun)parts.push(nounMeaning[w]||((nounU.has(w)?'U':nounCU.has(w)?'C/U':'C')+'：'+(nounU.has(w)?'不可算':nounCU.has(w)?'可算・不可算（意味により異なる）':'可算')));
+    if(verb)parts.push(verbMeaning[w]||((verbI.has(w)?'I':verbTI.has(w)?'T/I':'T')+'：'+(verbI.has(w)?'自動詞':verbTI.has(w)?'他動詞・自動詞（用法による）':'他動詞')));
+    return parts.join('｜');
+  };
+  const grammarHTML=(word,pos)=>{const s=grammarLabel(word,pos);return s?'<span class="pill grammar-pill" title="T=他動詞 I=自動詞 C=可算 U=不可算">文法：'+escapeHTML(s)+'</span>':''};
+  function annotateStaticGrammar(){
+    // Existing chapters are authored directly in index.html; augment without rewriting their examples.
+    const sections=[...document.querySelectorAll('main section.family')];
+    sections.forEach(section=>{
+      const h=section.querySelector('h2');
+      if(!h)return;
+      const word=h.textContent.replace(/^\s*\d+\.\s*/,'').trim();
+      const meta=section.querySelector('.meta');
+      const posText=meta?.textContent||'';
+      const pos=(posText.match(/名詞|動詞|句動詞/g)||[]).join('・');
+      if(meta&&pos&&!meta.querySelector('.grammar-pill'))meta.insertAdjacentHTML('beforeend',grammarHTML(word,pos));
+      section.querySelectorAll('.wordcard').forEach(card=>{
+        const h4=card.querySelector('h4');
+        if(!h4)return;
+        const label=h4.textContent.trim();
+        const name=label.split(/\s+\//)[0].trim();
+        const cpos=(label.match(/名詞|動詞|句動詞/g)||[]).join('・');
+        const cardMeta=card.querySelector('.meta');
+        if(cardMeta&&cpos&&!cardMeta.querySelector('.grammar-pill'))cardMeta.insertAdjacentHTML('beforeend',grammarHTML(name,cpos));
+      });
+    });
+  }
+  document.addEventListener('DOMContentLoaded',annotateStaticGrammar,{once:true});
+  if(document.readyState!=='loading')annotateStaticGrammar();
+
   const back = id => '<div class="backlinks"><a href="#toc">↑ 目次へ</a><a href="#'+id+'">このテーマへ</a></div>';
   function relatedCard(parent, item) {
     const w=escapeHTML(item.word), id=escapeHTML(parent+'-'+item.word);
     return '<article class="wordcard searchable" data-search="'+escapeHTML([item.word,item.meaning,item.pos,item.note].join(' '))+'" id="'+id+'">'+
       '<h4>'+w+' <span class="small">'+escapeHTML(item.ipa)+'｜'+escapeHTML(item.pos)+'</span></h4>'+
       '<button aria-label="'+w+' の発音を再生" class="pronounce-btn" data-say="'+w+'" lang="en-US" type="button">🔊 発音</button>'+
-      '<div>'+escapeHTML(item.meaning)+'</div><div class="meta">'+
+      '<div>'+escapeHTML(item.meaning)+'</div><div class="meta">'+grammarHTML(item.word,item.pos)+
       '<span class="pill difficulty">難易度 '+stars(item.difficulty)+'</span><span class="pill">日常 '+stars(item.daily)+'</span><span class="pill">ビジネス '+stars(item.business)+'</span></div>'+
       '<p><b>例：</b>'+escapeHTML(item.example)+'<br><b>訳：</b>'+escapeHTML(item.translation)+'</p>'+
       '<p class="small"><b>語源・使い分け：</b>'+escapeHTML(item.note)+'</p>'+back(parent)+'</article>';
@@ -19,7 +121,7 @@
     return '<section class="family searchable" id="'+id+'" data-search="'+escapeHTML([entry.word,entry.meaning,...(entry.related||[]).map(x=>x.word),...(entry.synonyms||[]).map(x=>x.word)].join(' '))+'">'+
       '<h2>'+number+'. '+w+'</h2><button aria-label="'+w+' の発音を再生" class="pronounce-btn" data-say="'+w+'" lang="en-US" type="button">🔊 発音</button>'+
       '<div class="backlinks"><a href="#toc">↑ 目次へ</a><a href="#word-index">単語インデックスへ</a></div>'+
-      '<div class="meta"><span class="pill">'+escapeHTML(entry.pos)+'</span><span class="pill">発音：'+escapeHTML(entry.ipa)+'</span>'+
+      '<div class="meta"><span class="pill">'+escapeHTML(entry.pos)+'</span>'+grammarHTML(entry.word,entry.pos)<span class="pill">発音：'+escapeHTML(entry.ipa)+'</span>'+
       '<span class="pill difficulty">難易度 '+stars(entry.difficulty)+'</span><span class="pill">日常 '+stars(entry.daily)+'</span><span class="pill">ビジネス '+stars(entry.business)+'</span></div>'+
       '<div class="field"><b>意味</b>'+escapeHTML(entry.meaning)+'</div>'+
       '<div class="field"><b>① 語源の分解と解説</b>'+escapeHTML(entry.etymology)+'</div>'+
@@ -33,6 +135,7 @@
     const response=await fetch('./words/entries.json',{cache:'no-cache'});
     if(!response.ok) throw new Error('HTTP '+response.status);
     const data=await response.json();
+    annotateStaticGrammar();
     const main=document.querySelector('main'), toc=document.getElementById('toc'), index=document.getElementById('word-index');
     if(!main||!toc||!index) throw new Error('Vocabulary HTML structure not found');
     // Chapter numbers come from existing numbered headings, not the count of
