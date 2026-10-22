@@ -2824,6 +2824,178 @@
         }
       ],
       "comparison": "plausible＝筋が通っていてあり得るが未証明でもよい／credible＝信用するに足る／reasonable＝判断が理にかなう／convincing＝人を納得させる／feasible＝計画が実行可能／probable＝起こる確率が高い／conceivable＝想像できる。科学的仮説は plausible でも proven とは限らない。"
+    },
+    {
+      "id": "provincial",
+      "word": "provincial",
+      "pos": "形容詞・名詞 C（まれ）",
+      "ipa": "/prəˈvɪnʃəl/",
+      "meaning": "① 州の・地方行政の ② 地方の・地方特有の ③ 田舎じみた・視野の狭い／名詞 C：地方出身者（まれ、軽蔑的な場合あり）",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 3,
+      "etymology": "province（州・地方）＋-ial（〜に関する）。ラテン語 provincia（ローマの属州・行政管轄区域）に由来。provincia のさらに古い語源は確定的ではなく、pro-＋vincere と断定しない。",
+      "core": "州・地方という中心から離れた行政地域→地方特有の→比喩的に、外の世界に開かれていない・視野が狭い。中立的用法と否定的用法を区別。",
+      "usage": "形容詞：provincial government（州政府）、provincial regulations（州の規制）、provincial town（地方都市）、provincial attitude（視野の狭い態度）。名詞 C：a provincial（地方出身者、まれ）。行政単位の訳語は国によって州・省・県など異なる。",
+      "examples": [
+        [
+          "The provincial government announced a new housing policy to address rising property prices.",
+          "州政府は、不動産価格の上昇に対応するため、新たな住宅政策を発表した。"
+        ],
+        [
+          "The company plans to expand into provincial markets where competition is less intense.",
+          "その企業は、競争が比較的激しくない地方市場への進出を計画している。"
+        ],
+        [
+          "Businesses must comply with both federal and provincial regulations when operating in Canada.",
+          "カナダで事業を行う企業は、連邦と州の両方の規制を遵守しなければならない。"
+        ],
+        [
+          "She grew up in a quiet provincial town before moving to the capital for university.",
+          "彼女は大学進学のため首都に移るまで、静かな地方都市で育った。"
+        ],
+        [
+          "The museum's exhibition explores provincial traditions that have survived for centuries.",
+          "その博物館の展示は、何世紀にもわたって受け継がれてきた地方特有の伝統を紹介している。"
+        ],
+        [
+          "His provincial outlook prevented him from appreciating ideas that challenged local conventions.",
+          "彼の視野の狭い考え方は、地元の慣習に疑問を投げかける意見を理解する妨げとなった。"
+        ],
+        [
+          "The executive criticized the organization's provincial attitude toward international collaboration.",
+          "その幹部は、国際協力に対する組織の閉鎖的で視野の狭い姿勢を批判した。"
+        ],
+        [
+          "The novel portrays a young provincial struggling to adapt to life in the capital.",
+          "その小説は、首都での生活になじもうと苦労する若い地方出身者を描いている。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "province",
+          "pos": "名詞 C",
+          "ipa": "/ˈprɑːvɪns/",
+          "meaning": "州、地方、管轄分野",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The province has introduced tax incentives to attract foreign investment.",
+          "translation": "その州は外国からの投資を呼び込むため、税制優遇措置を導入した。",
+          "note": "ラテン語 provincia（属州・行政管轄区域）。provincial の直接の基礎。"
+        },
+        {
+          "word": "provincialism",
+          "pos": "名詞 U/C",
+          "ipa": "/prəˈvɪnʃəlɪzəm/",
+          "meaning": "地方根性、視野の狭さ／地方特有の言葉・慣習",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The company struggled to overcome provincialism as it expanded into international markets.",
+          "translation": "その企業は国際市場に進出する中で、地域内に閉じた考え方を克服するのに苦労した。",
+          "note": "provincial + -ism（傾向・考え方）。"
+        },
+        {
+          "word": "provincially",
+          "pos": "副詞",
+          "ipa": "/prəˈvɪnʃəli/",
+          "meaning": "地方的に、州のレベルで",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The program is funded provincially rather than by the federal government.",
+          "translation": "そのプログラムは連邦政府ではなく、州レベルで資金提供されている。",
+          "note": "provincial + -ly（副詞化）。"
+        },
+        {
+          "word": "provinciality",
+          "pos": "名詞 U",
+          "ipa": "/prəˌvɪnʃiˈæləti/",
+          "meaning": "地方的性質、視野の狭さ",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The essay examines the provinciality of cultural institutions that rarely engage with the wider world.",
+          "translation": "その論考は、外部の世界とほとんど交流しない文化機関の閉鎖的な地方性を検討している。",
+          "note": "provincial + -ity（性質・状態）。使用頻度は低い。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "regional",
+          "pos": "形容詞",
+          "ipa": "/ˈriːdʒənəl/",
+          "meaning": "地域の、地方の",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The company established a regional office to coordinate operations across Southeast Asia.",
+          "translation": "その企業は東南アジア全域の事業運営を調整するため、地域統括事務所を設立した。",
+          "note": "ラテン語 regio（地域・方向）。中立的な地域区分。"
+        },
+        {
+          "word": "local",
+          "pos": "形容詞",
+          "ipa": "/ˈloʊkəl/",
+          "meaning": "地元の、地域の",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Local businesses have benefited from the recent increase in tourism.",
+          "translation": "地元企業は最近の観光客増加によって恩恵を受けている。",
+          "note": "ラテン語 locus（場所）。特定の場所・近隣地域。"
+        },
+        {
+          "word": "rural",
+          "pos": "形容詞",
+          "ipa": "/ˈrʊrəl/",
+          "meaning": "農村の、田舎の",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Access to healthcare remains limited in some rural communities.",
+          "translation": "一部の農村地域では、医療サービスへのアクセスが依然として限られている。",
+          "note": "ラテン語 rus, ruris（農村）。農村地域の性質。"
+        },
+        {
+          "word": "parochial",
+          "pos": "形容詞",
+          "ipa": "/pəˈroʊkiəl/",
+          "meaning": "視野の狭い、地域のことしか考えない／教区の",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The board's parochial approach made it difficult to respond to changes in the global market.",
+          "translation": "取締役会の視野の狭いアプローチは、世界市場の変化への対応を困難にした。",
+          "note": "ギリシャ語 paroikia → 教区。狭い集団への関心に限定される。"
+        },
+        {
+          "word": "narrow-minded",
+          "pos": "形容詞",
+          "ipa": "/ˌnæroʊ ˈmaɪndɪd/",
+          "meaning": "偏狭な、考え方が狭い",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "A narrow-minded manager may overlook valuable suggestions from junior employees.",
+          "translation": "考え方の狭い管理職は、若手社員からの有益な提案を見落とすことがある。",
+          "note": "narrow + minded。考え方の狭さを直接批判。"
+        },
+        {
+          "word": "insular",
+          "pos": "形容詞",
+          "ipa": "/ˈɪnsələr/",
+          "meaning": "閉鎖的な、内向きの／島の",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The organization's insular culture discouraged employees from sharing ideas with external partners.",
+          "translation": "その組織の閉鎖的な文化は、社員が外部の協力先と意見を共有することを妨げていた。",
+          "note": "ラテン語 insula（島）。外部との交流から隔たる。"
+        }
+      ],
+      "comparison": "provincial＝州・地方の／視野の狭い（中立と否定の両用法）／regional＝中立的な地域区分／local＝地元・近隣地域／rural＝農村地域／parochial＝狭い集団の利益にとらわれる／narrow-minded＝考え方が狭いという直接的批判／insular＝外部との交流に閉鎖的"
     }
   ]
 }
