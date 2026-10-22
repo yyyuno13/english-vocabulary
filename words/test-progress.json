@@ -197,11 +197,161 @@
           "correct": true
         }
       ]
+    },
+    {
+      "id": "vocabulary-review-3-2026-10-22",
+      "date": "2026-10-22",
+      "total": 20,
+      "correct": 16,
+      "questions": [
+        {
+          "number": 1,
+          "theme": "日常・状況描写",
+          "target": "hiatus",
+          "answer": "hiatus",
+          "correct": true
+        },
+        {
+          "number": 2,
+          "theme": "日常・状況描写",
+          "target": "drowsiness",
+          "answer": "drowsiness",
+          "correct": true
+        },
+        {
+          "number": 3,
+          "theme": "日常・状況描写",
+          "target": "predicament",
+          "answer": "predicament",
+          "correct": true
+        },
+        {
+          "number": 4,
+          "theme": "日常・状況描写",
+          "target": "subside",
+          "answer": "subside",
+          "correct": true
+        },
+        {
+          "number": 5,
+          "theme": "ビジネス・会議",
+          "target": "delegate",
+          "answer": "entrust",
+          "correct": true,
+          "acceptedAlternative": "entrust"
+        },
+        {
+          "number": 6,
+          "theme": "ビジネス・会議",
+          "target": "compensate",
+          "answer": "compensate",
+          "correct": true
+        },
+        {
+          "number": 7,
+          "theme": "ビジネス・会議",
+          "target": "circle back",
+          "answer": "circle back",
+          "correct": true
+        },
+        {
+          "number": 8,
+          "theme": "ビジネス・会議",
+          "target": "subsidy",
+          "answer": "？",
+          "correct": false
+        },
+        {
+          "number": 9,
+          "theme": "ビジネス・会議",
+          "target": "amendment",
+          "answer": "amendment",
+          "correct": true
+        },
+        {
+          "number": 10,
+          "theme": "語義・ニュアンス",
+          "target": "ulterior",
+          "answer": "？",
+          "correct": false
+        },
+        {
+          "number": 11,
+          "theme": "語義・ニュアンス",
+          "target": "condescendingly",
+          "answer": "condescendingly",
+          "correct": true
+        },
+        {
+          "number": 12,
+          "theme": "語義・ニュアンス",
+          "target": "tolerable",
+          "answer": "lorerable",
+          "correct": false
+        },
+        {
+          "number": 13,
+          "theme": "語義・ニュアンス",
+          "target": "plausible",
+          "answer": "plausible",
+          "correct": true
+        },
+        {
+          "number": 14,
+          "theme": "語義・ニュアンス",
+          "target": "credible",
+          "answer": "credible",
+          "correct": true
+        },
+        {
+          "number": 15,
+          "theme": "科学・技術",
+          "target": "dilute",
+          "answer": "dilute",
+          "correct": true
+        },
+        {
+          "number": 16,
+          "theme": "科学・技術",
+          "target": "malfunction",
+          "answer": "malfunction",
+          "correct": true
+        },
+        {
+          "number": 17,
+          "theme": "科学・技術",
+          "target": "infrared",
+          "answer": "infrared",
+          "correct": true
+        },
+        {
+          "number": 18,
+          "theme": "科学・技術",
+          "target": "transparency",
+          "answer": "transparency",
+          "correct": true
+        },
+        {
+          "number": 19,
+          "theme": "語源・派生語",
+          "target": "prevalent",
+          "answer": "widespread",
+          "correct": true,
+          "acceptedAlternative": "widespread"
+        },
+        {
+          "number": 20,
+          "theme": "語源・派生語",
+          "target": "feasibility",
+          "answer": "feasible",
+          "correct": false
+        }
+      ]
     }
   ],
   "words": {
     "plausible": {
-      "asked": 2,
+      "asked": 3,
       "incorrect": 1
     },
     "transparent": {
@@ -229,7 +379,7 @@
       "incorrect": 0
     },
     "credible": {
-      "asked": 2,
+      "asked": 3,
       "incorrect": 1
     },
     "feasible": {
@@ -241,7 +391,7 @@
       "incorrect": 0
     },
     "prevalent": {
-      "asked": 2,
+      "asked": 3,
       "incorrect": 0
     },
     "convincing": {
@@ -253,7 +403,7 @@
       "incorrect": 0
     },
     "malfunction": {
-      "asked": 2,
+      "asked": 3,
       "incorrect": 0
     },
     "signify": {
@@ -269,12 +419,68 @@
       "incorrect": 0
     },
     "feasibility": {
+      "asked": 2,
+      "incorrect": 1
+    },
+    "transparency": {
+      "asked": 2,
+      "incorrect": 1
+    },
+    "hiatus": {
       "asked": 1,
       "incorrect": 0
     },
-    "transparency": {
+    "drowsiness": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "predicament": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "subside": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "delegate": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "compensate": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "circle back": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "subsidy": {
       "asked": 1,
       "incorrect": 1
+    },
+    "amendment": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "ulterior": {
+      "asked": 1,
+      "incorrect": 1
+    },
+    "condescendingly": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "tolerable": {
+      "asked": 1,
+      "incorrect": 1
+    },
+    "dilute": {
+      "asked": 1,
+      "incorrect": 0
+    },
+    "infrared": {
+      "asked": 1,
+      "incorrect": 0
     }
   }
 }
