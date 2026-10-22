@@ -104,6 +104,53 @@
   document.addEventListener('DOMContentLoaded',annotateStaticGrammar,{once:true});
   if(document.readyState!=='loading')annotateStaticGrammar();
 
+
+  // Render nuance comparisons as readable tables across old and new chapters.
+  const comparisonTable=(rows)=>{
+    if(!rows.length)return '';
+    return '<div class="comparison-scroll"><table class="nuance-table"><thead><tr><th scope="col">単語</th><th scope="col">ニュアンス・使い分け</th></tr></thead><tbody>'+
+      rows.map(([word,detail])=>'<tr><th scope="row">'+escapeHTML(word)+'</th><td>'+escapeHTML(detail)+'</td></tr>').join('')+'</tbody></table></div>';
+  };
+  const comparisonRows=text=>String(text||'').split(/[／\n]/).map(s=>s.trim()).filter(Boolean).map(part=>{
+    const m=part.match(/^([^＝=:：]+)[＝=:：]\s*(.+)$/);
+    return m?[m[1].trim(),m[2].trim()]:['補足',part];
+  });
+  const comparisonStyles=document.createElement('style');
+  comparisonStyles.textContent='.comparison-scroll{overflow-x:auto;margin:10px 0 16px}.nuance-table{width:100%;border-collapse:collapse;min-width:360px;font-size:.92rem;line-height:1.6}.nuance-table th,.nuance-table td{border:1px solid var(--line,#ddd);padding:9px 12px;text-align:left;vertical-align:top}.nuance-table thead th{background:var(--chip,#edf4f5);font-weight:700}.nuance-table tbody th{font-weight:700;white-space:nowrap;width:25%}.nuance-table tbody tr:nth-child(even){background:rgba(127,127,127,.035)}';
+  document.head.appendChild(comparisonStyles);
+  function annotateStaticComparisons(){
+    document.querySelectorAll('main section.family').forEach(section=>{
+      if(section.querySelector('.nuance-table'))return;
+      const groups=[...section.querySelectorAll('.related')];
+      if(!groups.length)return;
+      const group=groups[0];
+      const headings=[...group.querySelectorAll('h3')];
+      const synonymHeading=headings.find(h=>/類義|同義/.test(h.textContent));
+      if(!synonymHeading)return;
+      const cards=[];
+      let node=synonymHeading.nextElementSibling;
+      while(node&&node.tagName!=='H3'){
+        if(node.matches('.wordcard'))cards.push(node);
+        else cards.push(...node.querySelectorAll('.wordcard'));
+        node=node.nextElementSibling;
+      }
+      const rows=cards.map(card=>{
+        const title=card.querySelector('h4')?.textContent||'';
+        const word=title.split(/\s+\//)[0].trim();
+        const note=[...card.querySelectorAll('p')].find(p=>/語源・使い分け/.test(p.textContent));
+        const detail=note?.textContent.replace(/^\s*語源・使い分け：\s*/,'').trim()||card.querySelector('.small')?.textContent.trim()||'';
+        return [word,detail];
+      }).filter(row=>row[0]&&row[1]);
+      if(rows.length){
+        const wrap=document.createElement('div');
+        wrap.innerHTML='<h3>ニュアンス比較</h3>'+comparisonTable(rows);
+        group.appendChild(wrap);
+      }
+    });
+  }
+  document.addEventListener('DOMContentLoaded',annotateStaticComparisons,{once:true});
+  if(document.readyState!=='loading')annotateStaticComparisons();
+
   const back = id => '<div class="backlinks"><a href="#toc">↑ 目次へ</a><a href="#'+id+'">このテーマへ</a></div>';
   function relatedCard(parent, item) {
     const w=escapeHTML(item.word), id=escapeHTML(parent+'-'+item.word);
@@ -129,13 +176,14 @@
       '<div class="field"><b>③ 基本情報と例文</b>'+escapeHTML(entry.usage)+'</div>'+examples+
       '<div class="related"><h3>④ 同語源の単語</h3>'+(entry.related||[]).map(x=>relatedCard(entry.id,x)).join('')+
       '<h3>⑤ 同義語・類義語</h3>'+(entry.synonyms||[]).map(x=>relatedCard(entry.id,x)).join('')+
-      '<div class="field"><b>ニュアンス比較</b>'+escapeHTML(entry.comparison)+'</div></div></section>';
+      '<div class="field"><b>ニュアンス比較</b>'+comparisonTable(comparisonRows(entry.comparison))+'</div></div></section>';
   }
   try {
     const response=await fetch('./words/entries.json',{cache:'no-cache'});
     if(!response.ok) throw new Error('HTTP '+response.status);
     const data=await response.json();
     annotateStaticGrammar();
+    annotateStaticComparisons();
     const main=document.querySelector('main'), toc=document.getElementById('toc'), index=document.getElementById('word-index');
     if(!main||!toc||!index) throw new Error('Vocabulary HTML structure not found');
     // Chapter numbers come from existing numbered headings, not the count of
