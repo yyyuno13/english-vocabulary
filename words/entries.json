@@ -3548,6 +3548,202 @@
         }
       ],
       "comparison": "disruption＝正常な流れ・既存構造が妨げられる／interruption＝一時的な中断・割り込み／disturbance＝平穏や秩序の乱れ／upheaval＝社会・組織・制度の大規模な激変／turmoil＝激しい混乱・動揺／transformation＝仕組みの変革（混乱を伴うとは限らない）"
+    },
+    {
+      "id": "reduce",
+      "word": "reduce",
+      "pos": "動詞 T/I",
+      "ipa": "/rɪˈduːs/",
+      "meaning": "①（T）減らす・削減する・軽減する ②（I）減る・煮詰まる ③（T）～をある状態にする・追い込む ④（T）数学で簡約する・化学で還元する",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 5,
+      "etymology": "ラテン語 re-（後ろへ・元へ）＋ducere（導く・連れていく）→reducere（引き戻す）。語根 duc/duce は produce, introduce, deduce, induce, conduct と共通。",
+      "core": "今より小さな規模・低い水準・別の状態へ導く。量を減らす、程度を弱める、ある状態へ変える、複雑さを小さくする。",
+      "usage": "動詞 T が中心。reduce A by B（AをBだけ減らす：減少幅）、reduce A to B（AをBまで減らす：最終水準）、reduce A from X to Y（XからYへ）、be reduced to ～（～という状態に追い込まれる）。動詞 I は料理のソースが煮詰まる等の用法で比較的限定的。",
+      "examples": [
+        [
+          "The company aims to reduce operating costs by 15% over the next fiscal year.",
+          "その企業は次の会計年度に営業費用を15%削減することを目指している。"
+        ],
+        [
+          "The manufacturer reduced its defect rate from 5% to 2% by improving quality control.",
+          "その製造業者は品質管理を改善することで、不良率を5%から2%に下げた。"
+        ],
+        [
+          "Regular exercise can help reduce stress and improve overall well-being.",
+          "定期的な運動はストレスを軽減し、全体的な健康状態を改善するのに役立つ。"
+        ],
+        [
+          "The government introduced stricter regulations to reduce greenhouse gas emissions.",
+          "政府は温室効果ガス排出量を削減するため、より厳しい規制を導入した。"
+        ],
+        [
+          "Diversifying suppliers can reduce the risk of supply chain disruptions.",
+          "仕入先を分散することで、サプライチェーンの混乱リスクを軽減できる。"
+        ],
+        [
+          "The wildfire reduced several abandoned buildings to ashes.",
+          "山火事によって、複数の廃屋が灰になった。"
+        ],
+        [
+          "Allow the sauce to reduce over low heat until it becomes thick and rich.",
+          "ソースが濃厚になるまで、弱火で煮詰めてください。"
+        ],
+        [
+          "The students were asked to reduce the fraction to its simplest form.",
+          "生徒たちは、その分数を最も簡単な形に約分するよう求められた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "reduction",
+          "pos": "名詞 C/U",
+          "ipa": "/rɪˈdʌkʃən/",
+          "meaning": "削減、減少、縮小",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The company achieved a significant reduction in energy consumption.",
+          "translation": "その企業はエネルギー消費量の大幅な削減を実現した。",
+          "note": "reducere に由来、reduct-＋-ion。"
+        },
+        {
+          "word": "produce",
+          "pos": "動詞 T",
+          "ipa": "/prəˈduːs/",
+          "meaning": "生産する、生み出す、引き起こす",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The factory produces electronic components for electric vehicles.",
+          "translation": "その工場は電気自動車向けの電子部品を生産している。",
+          "note": "pro-（前へ）＋ducere（導く）。"
+        },
+        {
+          "word": "introduce",
+          "pos": "動詞 T",
+          "ipa": "/ˌɪntrəˈduːs/",
+          "meaning": "紹介する、導入する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company introduced a new performance evaluation system.",
+          "translation": "その会社は新しい人事評価制度を導入した。",
+          "note": "intro-（内へ）＋ducere。"
+        },
+        {
+          "word": "deduce",
+          "pos": "動詞 T",
+          "ipa": "/dɪˈduːs/",
+          "meaning": "推論する、演繹する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "From the available evidence, the researchers deduced that the reaction required a catalyst.",
+          "translation": "利用可能な証拠から、研究者たちはその反応には触媒が必要だと推論した。",
+          "note": "de-（そこから）＋ducere（導く）。"
+        },
+        {
+          "word": "induce",
+          "pos": "動詞 T",
+          "ipa": "/ɪnˈduːs/",
+          "meaning": "引き起こす、誘発する、説得して～させる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The new medication may induce drowsiness in some patients.",
+          "translation": "その新薬は一部の患者に眠気を引き起こす可能性がある。",
+          "note": "in-（中へ）＋ducere。"
+        },
+        {
+          "word": "conduct",
+          "pos": "動詞 T/I",
+          "ipa": "/kənˈdʌkt/",
+          "meaning": "実施する、指揮する、導く／伝導する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The research team conducted a comprehensive feasibility study before launching the project.",
+          "translation": "研究チームはプロジェクトを開始する前に包括的な実現可能性調査を実施した。",
+          "note": "con-（一緒に）＋ducere。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "decrease",
+          "pos": "動詞 T/I・名詞 C/U",
+          "ipa": "/dɪˈkriːs/（動詞）、/ˈdiːkriːs/（名詞）",
+          "meaning": "減らす・減る／減少",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company decreased its advertising budget in response to weaker demand.",
+          "translation": "その企業は需要の低迷を受けて広告予算を削減した。",
+          "note": "de-＋crescere（成長する）。数値の客観的減少。"
+        },
+        {
+          "word": "diminish",
+          "pos": "動詞 T/I",
+          "ipa": "/dɪˈmɪnɪʃ/",
+          "meaning": "減少させる・減少する、弱める",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The benefits of the investment may diminish over time.",
+          "translation": "その投資による利益は時間とともに減少する可能性がある。",
+          "note": "de-＋minuere（小さくする）。効果・重要性の低下。"
+        },
+        {
+          "word": "cut",
+          "pos": "動詞 T/I・名詞 C",
+          "ipa": "/kʌt/",
+          "meaning": "切る、削減する／削減",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The firm plans to cut administrative expenses by 10%.",
+          "translation": "その会社は管理費を10%削減する予定だ。",
+          "note": "中英語 cutten。直接的に削る。"
+        },
+        {
+          "word": "lower",
+          "pos": "動詞 T/I・形容詞",
+          "ipa": "/ˈloʊər/",
+          "meaning": "下げる・下がる／より低い",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The central bank lowered its benchmark interest rate.",
+          "translation": "中央銀行は政策金利を引き下げた。",
+          "note": "low に由来。価格・金利・温度などの水準。"
+        },
+        {
+          "word": "mitigate",
+          "pos": "動詞 T",
+          "ipa": "/ˈmɪtɪɡeɪt/",
+          "meaning": "悪影響・リスクなどを軽減する、緩和する",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 5,
+          "example": "The company implemented additional controls to mitigate cybersecurity risks.",
+          "translation": "その会社はサイバーセキュリティ上のリスクを軽減するため追加の管理策を導入した。",
+          "note": "ラテン語 mitis（穏やかな）。悪影響を和らげる。"
+        },
+        {
+          "word": "curtail",
+          "pos": "動詞 T",
+          "ipa": "/kɜːrˈteɪl/",
+          "meaning": "短縮する、削減する、制限する",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The airline curtailed several international routes due to rising operating costs.",
+          "translation": "その航空会社は運航コストの上昇により複数の国際路線を縮小した。",
+          "note": "古フランス語の「短い」に関係。切り詰める。"
+        }
+      ],
+      "comparison": "reduce＝量・規模・程度を小さくする（幅広い）／decrease＝数値・数量が客観的に減る／diminish＝効果・重要性・強さなどが弱まる／cut＝意図的・直接的に削る／lower＝価格・金利・温度などの水準を下げる／mitigate＝リスク・被害の悪影響を和らげる／curtail＝活動・支出・自由などを制限・短縮する"
     }
   ]
 }
