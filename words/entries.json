@@ -5388,6 +5388,202 @@
         }
       ],
       "comparison": "narrative＝出来事を結びつけた筋書き・解釈／story＝日常的な物語／account＝出来事の説明・報告／plot＝物語の展開／storyline＝話の流れ／discourse＝社会的な議論・言説／framing＝情報の提示の仕方。多読教材の An artist could depict a brief encounter rather than a carefully staged narrative. は、綿密に演出された物語ではなく一瞬の情景を描く印象派の特徴を述べる。"
+    },
+    {
+      "id": "preserve",
+      "word": "preserve",
+      "pos": "動詞 T",
+      "ipa": "米 /prɪˈzɝːv/・英 /prɪˈzɜːv/",
+      "meaning": "保存する、保護する；状態・性質・価値を維持する；食品を保存加工する；自然・文化・伝統を保全する",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "ラテン語 prae-（前もって）＋servare（守る、保つ）→praeservare（前もって守る）→preserve。同じ servare の系列に conserve, reserve, observe がある。",
+      "core": "何かが失われたり変化したりしないよう、元の状態や価値を守り続ける。危険が起こる前に守るという語源的イメージ。",
+      "usage": "preserve cultural heritage（文化遺産を保存する）、preserve the environment（環境を保護する）、preserve evidence（証拠を保全する）、preserve historical buildings（歴史的建造物を保存する）、preserve one's reputation（評判を守る）、preserve the status quo（現状を維持する）、preserve food（食品を保存する）、preserve confidentiality（秘密保持を維持する）。",
+      "examples": [
+        [
+          "The museum takes special measures to preserve ancient paintings.",
+          "その美術館は古い絵画を保存するために特別な対策を講じている。"
+        ],
+        [
+          "Local communities are working to preserve their traditional customs.",
+          "地域社会は伝統的な慣習を守ろうと取り組んでいる。"
+        ],
+        [
+          "We need to preserve natural habitats for future generations.",
+          "将来の世代のために自然の生息環境を保護する必要がある。"
+        ],
+        [
+          "Salt has been used to preserve food for thousands of years.",
+          "塩は何千年もの間、食品の保存に使われてきた。"
+        ],
+        [
+          "The company must preserve all relevant documents during the investigation.",
+          "会社は調査期間中、関連するすべての書類を保全しなければならない。"
+        ],
+        [
+          "Management introduced new measures to preserve the company's financial stability.",
+          "経営陣は会社の財務的安定性を維持するために新たな施策を導入した。"
+        ],
+        [
+          "The software update preserves all existing user settings.",
+          "そのソフトウェア更新では、既存のユーザー設定がすべて維持される。"
+        ],
+        [
+          "Impressionist paintings preserve glimpses of everyday life in nineteenth-century France.",
+          "印象派の絵画は19世紀フランスの日常生活の一端を後世に残している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "preservation",
+          "pos": "名詞 U",
+          "ipa": "/ˌprezərˈveɪʃən/",
+          "meaning": "保存、保護、維持",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The preservation of historical buildings requires substantial funding.",
+          "translation": "歴史的建造物の保存には多額の資金が必要だ。",
+          "note": "preserve の名詞形。"
+        },
+        {
+          "word": "preservative",
+          "pos": "名詞 C・形容詞",
+          "ipa": "/prɪˈzɝːvətɪv/",
+          "meaning": "保存料、防腐剤；保存のための",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "This product contains no artificial preservatives.",
+          "translation": "この製品には人工保存料が含まれていない。",
+          "note": "preserve に由来。"
+        },
+        {
+          "word": "conserved",
+          "pos": "動詞 conserve の過去形・過去分詞",
+          "ipa": "/kənˈsɝːvd/",
+          "meaning": "保存された、節約された",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "example": "The ancient manuscripts were carefully conserved.",
+          "translation": "古代の写本は慎重に保存処置が施された。",
+          "note": "conserve の活用形。"
+        },
+        {
+          "word": "reserve",
+          "pos": "動詞 T・名詞",
+          "ipa": "/rɪˈzɝːv/",
+          "meaning": "取っておく、予約する；蓄え、予備",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We reserved part of the budget for unexpected expenses.",
+          "translation": "私たちは予期しない支出に備えて予算の一部を確保した。",
+          "note": "ラテン語 reservare に由来し servare を共有。"
+        },
+        {
+          "word": "conserve",
+          "pos": "動詞 T",
+          "ipa": "/kənˈsɝːv/",
+          "meaning": "保護する、節約する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The company introduced new systems to conserve energy.",
+          "translation": "その会社はエネルギーを節約するために新しいシステムを導入した。",
+          "note": "con-＋servare の系列。"
+        },
+        {
+          "word": "observe",
+          "pos": "動詞 T/I",
+          "ipa": "/əbˈzɝːv/",
+          "meaning": "観察する、気づく、遵守する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Researchers observed changes in the behavior of the animals.",
+          "translation": "研究者たちは動物の行動の変化を観察した。",
+          "note": "ラテン語 observare に由来し servare の系列。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "protect",
+          "pos": "動詞 T",
+          "ipa": "/prəˈtekt/",
+          "meaning": "保護する、守る",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The new regulations are designed to protect consumers.",
+          "translation": "新しい規制は消費者を保護するために設計されている。",
+          "note": "危険・損害から守ることに重点。"
+        },
+        {
+          "word": "maintain",
+          "pos": "動詞 T",
+          "ipa": "/meɪnˈteɪn/",
+          "meaning": "維持する、保守する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company aims to maintain high service standards.",
+          "translation": "その会社は高いサービス水準を維持することを目指している。",
+          "note": "一定の状態や水準を継続的に保つ。"
+        },
+        {
+          "word": "conserve",
+          "pos": "動詞 T",
+          "ipa": "/kənˈsɝːv/",
+          "meaning": "保全する、節約する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The government introduced policies to conserve water resources.",
+          "translation": "政府は水資源を保全するための政策を導入した。",
+          "note": "資源を無駄にせず将来のために守る。"
+        },
+        {
+          "word": "retain",
+          "pos": "動詞 T",
+          "ipa": "/rɪˈteɪn/",
+          "meaning": "保持する、失わずに持ち続ける",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company managed to retain its key employees.",
+          "translation": "その会社は主要な従業員を引き留めることに成功した。",
+          "note": "所有・権利・人材・情報などを手放さず保持する。"
+        },
+        {
+          "word": "safeguard",
+          "pos": "動詞 T・名詞 C",
+          "ipa": "/ˈseɪfɡɑːrd/",
+          "meaning": "保護する；保護措置",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "Strong internal controls help safeguard company assets.",
+          "translation": "強固な内部統制は会社資産の保全に役立つ。",
+          "note": "リスクや不正、損害から守ることを強調。"
+        },
+        {
+          "word": "sustain",
+          "pos": "動詞 T",
+          "ipa": "/səˈsteɪn/",
+          "meaning": "持続させる、支える",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The business needs sufficient cash flow to sustain its operations.",
+          "translation": "その事業は運営を継続するために十分なキャッシュフローを必要とする。",
+          "note": "活動や状態を継続可能にすることに重点。"
+        }
+      ],
+      "comparison": "preserve＝元の状態や価値を失わないよう守る／protect＝危険・損害から守る／maintain＝状態・水準を維持する／conserve＝資源を保全・節約する／retain＝手放さず保持する／safeguard＝リスクから安全を確保する／sustain＝活動や状態を持続させる。preserve a historic building は歴史的価値を守る、maintain a building は建物を良好に保守する。"
     }
   ]
 }
