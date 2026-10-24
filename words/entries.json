@@ -5204,6 +5204,190 @@
         }
       ],
       "comparison": "pigment＝色を生み出す物質・顔料／dye＝素材を染める染料／paint＝塗るための絵の具・塗料／colorant＝着色剤全般／tint＝淡い色合い・着色／hue＝色相・色合い／melanin＝生体内の色素の一種"
+    },
+    {
+      "id": "narrative",
+      "word": "narrative",
+      "pos": "名詞 C/U・形容詞",
+      "ipa": "/ˈnærətɪv/",
+      "meaning": "物語、語り、叙述；語り口・ストーリー構成；説明の枠組み・社会で共有されるストーリー；物語の、叙述的な",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 narrare（語る、説明する）→narrativus（語ることに関する）→フランス語を経て英語 narrative。narr-（語る）＋-ative（〜に関する、〜する性質の）。narrare は gnarus（知っている）と関連する。",
+      "core": "個々の出来事をつなぎ、意味のある一つの筋書きとして語ること。事実をどう選び結びつけるかで異なる narrative が成立し、必ずしも客観的に正しいとは限らない。",
+      "usage": "a compelling narrative（説得力のあるストーリー）、a coherent narrative（一貫した筋書き）、a historical narrative（歴史的叙述）、the dominant narrative（主流の見方）、challenge the narrative（一般的な説明に異議を唱える）、shape/control the narrative（語られ方を形作る／主導する）、narrative structure（物語構成）、narrative painting（物語画）。",
+      "examples": [
+        [
+          "The novel has a complex narrative structure.",
+          "その小説は複雑な物語構成を持っている。"
+        ],
+        [
+          "The film tells its story through multiple narratives.",
+          "その映画は複数の物語を通してストーリーを展開する。"
+        ],
+        [
+          "Historical narratives often reflect the perspectives of those who write them.",
+          "歴史の叙述には、それを書いた人々の視点が反映されることが多い。"
+        ],
+        [
+          "Impressionist painters often captured fleeting moments rather than carefully staged narratives.",
+          "印象派の画家たちは、綿密に演出された物語よりも、一瞬の情景を捉えることが多かった。"
+        ],
+        [
+          "The CEO presented a compelling narrative about the company's future.",
+          "CEOは会社の将来について説得力のあるストーリーを提示した。"
+        ],
+        [
+          "Investors questioned whether the company's growth narrative was supported by actual results.",
+          "投資家たちは、その企業の成長ストーリーが実際の業績に裏付けられているか疑問を呈した。"
+        ],
+        [
+          "The campaign aims to change the public narrative surrounding the brand.",
+          "そのキャンペーンはブランドに対する世間の見方を変えることを目指している。"
+        ],
+        [
+          "New evidence challenged the dominant narrative about the event.",
+          "新たな証拠によって、その出来事に関する主流の説明に疑問が投げかけられた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "narrate",
+          "pos": "動詞 T/I",
+          "ipa": "/ˈnæreɪt/",
+          "meaning": "語る、説明する、ナレーションをする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The documentary is narrated by a famous actor.",
+          "translation": "そのドキュメンタリーでは有名な俳優がナレーションを担当している。",
+          "note": "narr-（語る）に由来。"
+        },
+        {
+          "word": "narrator",
+          "pos": "名詞 C",
+          "ipa": "/ˈnæreɪtər/",
+          "meaning": "語り手、ナレーター",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The story is told by an unreliable narrator.",
+          "translation": "その物語は信頼できない語り手によって語られている。",
+          "note": "narrate＋-or（〜する人）。"
+        },
+        {
+          "word": "narration",
+          "pos": "名詞 C/U",
+          "ipa": "/nəˈreɪʃən/",
+          "meaning": "語り、叙述、ナレーション",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The narration provides important background information.",
+          "translation": "ナレーションは重要な背景情報を提供している。",
+          "note": "narrate＋-ion（行為・結果）。"
+        },
+        {
+          "word": "narratively",
+          "pos": "副詞",
+          "ipa": "/ˈnærətɪvli/",
+          "meaning": "物語として、叙述の面で",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The film is visually impressive but narratively weak.",
+          "translation": "その映画は映像的には印象的だが、物語構成の面では弱い。",
+          "note": "narrative＋-ly。"
+        },
+        {
+          "word": "counter-narrative",
+          "pos": "名詞 C",
+          "ipa": "/ˈkaʊntər ˌnærətɪv/",
+          "meaning": "対抗的な物語、主流の説明に異議を唱える語り",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The documentary offers a counter-narrative to the official account.",
+          "translation": "そのドキュメンタリーは公式の説明に対抗する別の見方を提示している。",
+          "note": "counter-（対抗する）＋narrative。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "story",
+          "pos": "名詞 C",
+          "ipa": "/ˈstɔːri/",
+          "meaning": "物語、話、経緯",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "She told us the story of how she started her business.",
+          "translation": "彼女はどのように事業を始めたかを話してくれた。",
+          "note": "narrative より日常的。"
+        },
+        {
+          "word": "account",
+          "pos": "名詞 C",
+          "ipa": "/əˈkaʊnt/",
+          "meaning": "説明、報告、記述",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The witness gave a detailed account of the incident.",
+          "translation": "証人は事件について詳細な説明をした。",
+          "note": "実際の出来事の報告・記録を強調。"
+        },
+        {
+          "word": "plot",
+          "pos": "名詞 C",
+          "ipa": "/plɑːt/",
+          "meaning": "筋書き、プロット、陰謀",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "The movie has an unpredictable plot.",
+          "translation": "その映画は予測できない筋書きになっている。",
+          "note": "出来事の展開・構成。"
+        },
+        {
+          "word": "storyline",
+          "pos": "名詞 C",
+          "ipa": "/ˈstɔːrilaɪn/",
+          "meaning": "物語の筋、ストーリー展開",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The series follows several interconnected storylines.",
+          "translation": "そのシリーズでは複数の関連したストーリーが展開する。",
+          "note": "映画・ドラマ・小説の話の流れ。"
+        },
+        {
+          "word": "discourse",
+          "pos": "名詞 C/U",
+          "ipa": "/ˈdɪskɔːrs/",
+          "meaning": "議論、言説、談話",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "Social media has transformed public discourse.",
+          "translation": "SNSは公共の議論のあり方を変えた。",
+          "note": "社会で交わされる議論や言葉。"
+        },
+        {
+          "word": "framing",
+          "pos": "名詞 U",
+          "ipa": "/ˈfreɪmɪŋ/",
+          "meaning": "枠組みの設定、問題の提示の仕方",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The framing of the issue influences how people respond to it.",
+          "translation": "問題の提示の仕方は、人々の反応に影響を与える。",
+          "note": "情報の見せ方・解釈の枠組み。"
+        }
+      ],
+      "comparison": "narrative＝出来事を結びつけた筋書き・解釈／story＝日常的な物語／account＝出来事の説明・報告／plot＝物語の展開／storyline＝話の流れ／discourse＝社会的な議論・言説／framing＝情報の提示の仕方。多読教材の An artist could depict a brief encounter rather than a carefully staged narrative. は、綿密に演出された物語ではなく一瞬の情景を描く印象派の特徴を述べる。"
     }
   ]
 }
