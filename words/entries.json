@@ -4640,6 +4640,178 @@
         }
       ],
       "comparison": "dimension＝測定・分析する方向／aspect＝物事の一面／perspective＝物事を見る立場／facet＝複雑な物事の個別の面／size＝全体の大きさ／extent＝広がり・程度／scope＝対象となる範囲"
+    },
+    {
+      "id": "jury",
+      "word": "jury",
+      "pos": "名詞 C（集合名詞）",
+      "ipa": "/ˈdʒʊri/（米）、/ˈdʒʊəri/（英）",
+      "meaning": "陪審員団、陪審；審査員団、選考委員会",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 2,
+      "etymology": "ラテン語 jurare（誓う）→古フランス語 juree（宣誓、宣誓した人々）→英語 jury。宣誓して判断する人々の集団。現代英語の jur＋y という単純な接辞分解ではない。",
+      "core": "宣誓した複数の人々が証拠を検討し、共同で評決を下す。裁判から賞・コンテストの審査員団へも拡張。",
+      "usage": "a jury（陪審員団）、a juror（陪審員1人）、jury duty（陪審員としての義務）、jury selection（陪審員選任）、jury trial（陪審裁判）、reach a verdict（評決に達する）、The jury is still out on ...（まだ結論が出ていない）。複数形 juries。米語は the jury is、英語では構成員を意識して the jury are も可能。",
+      "examples": [
+        [
+          "The jury found the defendant not guilty.",
+          "陪審員団は被告人に無罪の評決を下した。"
+        ],
+        [
+          "I got called for jury duty next month.",
+          "来月、陪審員として出頭するよう呼び出されたんだ。"
+        ],
+        [
+          "The jury is still deliberating.",
+          "陪審員団はまだ評議中だ。"
+        ],
+        [
+          "It took the jury three days to reach a verdict.",
+          "陪審員団が評決に達するまで3日かかった。"
+        ],
+        [
+          "I didn't expect the jury to find him guilty.",
+          "陪審員団が彼を有罪と判断するとは思わなかった。"
+        ],
+        [
+          "The jury selected five finalists from over 200 entries.",
+          "審査員団は200件を超える応募作品から最終候補5件を選んだ。"
+        ],
+        [
+          "She served on the jury at an international film festival.",
+          "彼女は国際映画祭で審査員を務めた。"
+        ],
+        [
+          "The jury is still out on whether the new strategy will work.",
+          "新しい戦略がうまくいくかどうかは、まだ結論が出ていない。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "juror",
+          "pos": "名詞 C",
+          "ipa": "/ˈdʒʊrər/",
+          "meaning": "陪審員（個人）",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "Each juror must consider the evidence carefully.",
+          "translation": "各陪審員は証拠を慎重に検討しなければならない。",
+          "note": "juror は個人、jury は集団。"
+        },
+        {
+          "word": "perjury",
+          "pos": "名詞 U",
+          "ipa": "/ˈpɜːrdʒəri/",
+          "meaning": "偽証（罪）",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 2,
+          "example": "The witness was charged with perjury.",
+          "translation": "その証人は偽証罪で起訴された。",
+          "note": "ラテン語 perjurium。誓いに背くこと。"
+        },
+        {
+          "word": "jurisdiction",
+          "pos": "名詞 C/U",
+          "ipa": "/ˌdʒʊrɪsˈdɪkʃən/",
+          "meaning": "管轄権、司法権、管轄区域",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 5,
+          "example": "The case falls under the jurisdiction of the federal court.",
+          "translation": "その事件は連邦裁判所の管轄に属する。",
+          "note": "ラテン語 juris（法の）＋dictio（言うこと）。"
+        },
+        {
+          "word": "judicial",
+          "pos": "形容詞",
+          "ipa": "/dʒuˈdɪʃəl/",
+          "meaning": "司法の、裁判上の",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The decision is subject to judicial review.",
+          "translation": "その決定は司法審査の対象となる。",
+          "note": "ラテン語 judicium（裁判、判断）に由来。"
+        },
+        {
+          "word": "jurisprudence",
+          "pos": "名詞 U",
+          "ipa": "/ˌdʒʊrɪsˈpruːdəns/",
+          "meaning": "法学、法理学、判例法理",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "example": "She specializes in constitutional jurisprudence.",
+          "translation": "彼女は憲法に関する法理学を専門としている。",
+          "note": "ラテン語 juris（法の）＋prudentia（知識、思慮）。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "judge",
+          "pos": "名詞 C・動詞 T/I",
+          "ipa": "/dʒʌdʒ/",
+          "meaning": "裁判官、審査員、判断する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The judge explained the law to the jury.",
+          "translation": "裁判官は陪審員団に法律を説明した。",
+          "note": "裁判官は法律上の判断や訴訟指揮を担当。"
+        },
+        {
+          "word": "panel",
+          "pos": "名詞 C",
+          "ipa": "/ˈpænəl/",
+          "meaning": "委員会、審査団、専門家集団",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "A panel of experts reviewed the proposal.",
+          "translation": "専門家委員会がその提案を審査した。",
+          "note": "専門家委員会などにも使う広い語。"
+        },
+        {
+          "word": "committee",
+          "pos": "名詞 C",
+          "ipa": "/kəˈmɪti/",
+          "meaning": "委員会",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The committee approved the new policy.",
+          "translation": "委員会は新しい方針を承認した。",
+          "note": "審議・運営・意思決定を行う組織。"
+        },
+        {
+          "word": "tribunal",
+          "pos": "名詞 C",
+          "ipa": "/traɪˈbjuːnəl/",
+          "meaning": "裁判所、審判機関",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "The dispute was referred to an independent tribunal.",
+          "translation": "その紛争は独立した審判機関に付託された。",
+          "note": "司法・行政上の審判機関。"
+        },
+        {
+          "word": "arbitrator",
+          "pos": "名詞 C",
+          "ipa": "/ˈɑːrbɪtreɪtər/",
+          "meaning": "仲裁人",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "Both parties agreed to appoint an independent arbitrator.",
+          "translation": "両当事者は独立した仲裁人を選任することで合意した。",
+          "note": "当事者間の紛争を仲裁する人。"
+        }
+      ],
+      "comparison": "jury＝集団で証拠を検討し評決・審査を行う／juror＝陪審員個人／judge＝裁判官・審査員／panel＝特定目的の委員・専門家集団／committee＝組織的な審議・運営・意思決定／tribunal＝法的な審判機関／arbitrator＝紛争を仲裁する人"
     }
   ]
 }
