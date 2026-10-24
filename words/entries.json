@@ -4456,6 +4456,190 @@
         }
       ],
       "comparison": "conventional＝社会的に広く受け入れられた・従来の／traditional＝長く受け継がれてきた／standard＝基準に沿った／customary＝慣例として行われる／orthodox＝正統派の／typical＝典型的な／unconventional＝型破りな（反意語）"
+    },
+    {
+      "id": "dimension",
+      "word": "dimension",
+      "pos": "名詞 C",
+      "ipa": "/dɪˈmenʃən/",
+      "meaning": "寸法、大きさ；次元；側面、観点、要素；規模、広がり",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 dimetiri（測り分ける）→dimensus（測られた）→dimensio（測定、寸法）。歴史的には dis-（離れて、分けて）＋metiri（測る）。現代英語で単純に di＋mension と分解するのではない。",
+      "core": "あるものの広がりを一つの方向・観点から捉えること。物体の幅・高さ・奥行きという寸法から、物事を分析する複数の側面へ意味が広がる。",
+      "usage": "the dimensions of a room（部屋の寸法）、three dimensions（3次元）、a new dimension（新たな側面）、the economic dimension（経済的側面）、add another dimension to（新たな側面を加える）。寸法の意味では複数形 dimensions が一般的。",
+      "examples": [
+        [
+          "Do you know the dimensions of this desk?",
+          "この机の寸法って分かる？"
+        ],
+        [
+          "Could you check the package dimensions before shipping it?",
+          "発送する前に荷物の寸法を確認してくれる？"
+        ],
+        [
+          "The airline has strict rules about carry-on baggage dimensions.",
+          "その航空会社は機内持ち込み手荷物のサイズに厳しい規定がある。"
+        ],
+        [
+          "Traveling alone adds a whole new dimension to the experience.",
+          "一人旅をすると、その体験にまったく新しい側面が加わる。"
+        ],
+        [
+          "We need to consider the financial dimension of this project.",
+          "このプロジェクトの財務的な側面を考慮する必要がある。"
+        ],
+        [
+          "Employee satisfaction is an important dimension of organizational performance.",
+          "従業員満足度は組織の業績を評価するうえで重要な側面だ。"
+        ],
+        [
+          "Climate change has economic, political, and social dimensions.",
+          "気候変動には経済的、政治的、社会的な側面がある。"
+        ],
+        [
+          "Scientists use mathematical models to describe objects in multiple dimensions.",
+          "科学者は数学的モデルを使って、多次元の物体を記述する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "dimensional",
+          "pos": "形容詞",
+          "ipa": "/dɪˈmenʃənəl/",
+          "meaning": "次元の、寸法に関する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The engineer performed a dimensional analysis of the component.",
+          "translation": "技術者はその部品の寸法解析を行った。",
+          "note": "dimension＋-al。"
+        },
+        {
+          "word": "multidimensional",
+          "pos": "形容詞",
+          "ipa": "/ˌmʌltiˌdɪˈmenʃənəl/",
+          "meaning": "多次元の、多面的な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "Poverty is a multidimensional problem.",
+          "translation": "貧困は多面的な問題だ。",
+          "note": "multi-（多数の）＋dimensional。"
+        },
+        {
+          "word": "immense",
+          "pos": "形容詞",
+          "ipa": "/ɪˈmens/",
+          "meaning": "巨大な、莫大な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The project required an immense amount of effort.",
+          "translation": "そのプロジェクトには莫大な労力が必要だった。",
+          "note": "ラテン語 im-（否定）＋mensus（測られた）。"
+        },
+        {
+          "word": "measure",
+          "pos": "動詞 T/I・名詞 C",
+          "ipa": "/ˈmeʒər/",
+          "meaning": "測る、測定、対策",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We need to measure the impact of the new policy.",
+          "translation": "新しい政策の影響を測定する必要がある。",
+          "note": "ラテン語 metiri（測る）に遡る同語根。"
+        },
+        {
+          "word": "measurement",
+          "pos": "名詞 C/U",
+          "ipa": "/ˈmeʒərmənt/",
+          "meaning": "測定、寸法、測定値",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Please double-check the measurements before ordering.",
+          "translation": "注文する前に寸法を再確認してください。",
+          "note": "measure＋-ment。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "aspect",
+          "pos": "名詞 C",
+          "ipa": "/ˈæspekt/",
+          "meaning": "側面、観点",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We need to examine every aspect of the proposal.",
+          "translation": "その提案のあらゆる側面を検討する必要がある。",
+          "note": "最も汎用的な側面。"
+        },
+        {
+          "word": "perspective",
+          "pos": "名詞 C/U",
+          "ipa": "/pərˈspektɪv/",
+          "meaning": "視点、観点、物の見方",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Let's look at the issue from a different perspective.",
+          "translation": "その問題を別の視点から見てみよう。",
+          "note": "見る立場を強調。"
+        },
+        {
+          "word": "facet",
+          "pos": "名詞 C",
+          "ipa": "/ˈfæsɪt/",
+          "meaning": "側面、一面",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The report covers several facets of the company's operations.",
+          "translation": "その報告書は会社の事業運営の複数の側面を扱っている。",
+          "note": "複雑な対象の個別の面。"
+        },
+        {
+          "word": "size",
+          "pos": "名詞 C/U",
+          "ipa": "/saɪz/",
+          "meaning": "大きさ、サイズ",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "What size is the suitcase?",
+          "translation": "そのスーツケースはどのくらいの大きさ？",
+          "note": "全体的な大きさ。"
+        },
+        {
+          "word": "extent",
+          "pos": "名詞 U",
+          "ipa": "/ɪkˈstent/",
+          "meaning": "程度、範囲、広がり",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "We don't yet know the full extent of the damage.",
+          "translation": "被害の全容はまだ分かっていない。",
+          "note": "広がりや程度。"
+        },
+        {
+          "word": "scope",
+          "pos": "名詞 U/C",
+          "ipa": "/skoʊp/",
+          "meaning": "範囲、対象領域、余地",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The scope of the audit includes three subsidiaries.",
+          "translation": "監査の対象範囲には3つの子会社が含まれる。",
+          "note": "業務・調査の対象範囲。"
+        }
+      ],
+      "comparison": "dimension＝測定・分析する方向／aspect＝物事の一面／perspective＝物事を見る立場／facet＝複雑な物事の個別の面／size＝全体の大きさ／extent＝広がり・程度／scope＝対象となる範囲"
     }
   ]
 }
