@@ -5008,6 +5008,202 @@
         }
       ],
       "comparison": "visibility＝見える・把握できる状態／clarity＝明確で理解しやすいこと／transparency＝情報が隠されず公開されていること／awareness＝人々が認識していること／exposure＝人々の目に触れる機会／outlook＝将来の見通し／observability＝内部状態を観測・推定できること"
+    },
+    {
+      "id": "pigment",
+      "word": "pigment",
+      "pos": "名詞 C/U・動詞 T（専門的）",
+      "ipa": "/ˈpɪɡmənt/",
+      "meaning": "顔料、色素；（動詞）色素で着色する",
+      "difficulty": 3,
+      "daily": 2,
+      "business": 2,
+      "etymology": "ラテン語 pingere（描く、彩る）→pigmentum（着色材料、絵の具）→pigment。現代英語で pig＋ment と機械的に分解するのは不適切。picture や depict とも同じ語源系列。",
+      "core": "物質に色を与える小さな色の粒子・成分。絵画の顔料、皮膚のメラニンなどに使う。顔料は一般に媒体に溶けず分散し、染料は溶けるものが多い。",
+      "usage": "natural/synthetic/mineral pigments（天然・合成・鉱物顔料）、pigment particles（顔料粒子）、pigment concentration（顔料濃度）、skin pigmentation（皮膚の色素沈着）、lightfast pigments（耐光性の高い顔料）。pigment は色を作る材料、paint は結合材等を含む絵の具・塗料。",
+      "examples": [
+        [
+          "Monet used different pigments to capture the changing colors of light.",
+          "モネは光によって変化する色彩を表現するために、さまざまな顔料を使った。"
+        ],
+        [
+          "Some pigments in old paintings fade over time.",
+          "古い絵画に使われた顔料の中には、時間とともに色あせるものがある。"
+        ],
+        [
+          "This paint gets its bright color from a synthetic pigment.",
+          "この絵の具の鮮やかな色は合成顔料によるものだ。"
+        ],
+        [
+          "Melanin is the pigment that gives our skin and hair their color.",
+          "メラニンは皮膚や髪に色を与える色素だ。"
+        ],
+        [
+          "Conservators analyze pigments to determine how a painting was created.",
+          "修復保存の専門家は、絵画がどのように制作されたかを調べるために顔料を分析する。"
+        ],
+        [
+          "The stability of a pigment depends on its chemical composition.",
+          "顔料の安定性は、その化学組成によって決まる。"
+        ],
+        [
+          "The manufacturer developed a new pigment that is more resistant to sunlight.",
+          "メーカーは日光に対する耐性がより高い新しい顔料を開発した。"
+        ],
+        [
+          "Some traditional pigments contain heavy metals that require careful handling.",
+          "伝統的な顔料の中には、取り扱いに注意が必要な重金属を含むものがある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "pigmentation",
+          "pos": "名詞 U",
+          "ipa": "/ˌpɪɡmənˈteɪʃən/",
+          "meaning": "色素沈着、色素形成、着色",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Excessive sun exposure can cause changes in skin pigmentation.",
+          "translation": "日光を浴びすぎると、皮膚の色素沈着に変化が生じることがある。",
+          "note": "pigment から派生。"
+        },
+        {
+          "word": "pigmented",
+          "pos": "形容詞",
+          "ipa": "/ˈpɪɡməntɪd/",
+          "meaning": "色素を含んだ、着色された",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The artist chose highly pigmented paints for their vivid colors.",
+          "translation": "画家は鮮やかな発色を求めて、顔料の濃い絵の具を選んだ。",
+          "note": "pigment＋-ed。"
+        },
+        {
+          "word": "depigmentation",
+          "pos": "名詞 U",
+          "ipa": "/ˌdiːˌpɪɡmənˈteɪʃən/",
+          "meaning": "色素脱失、脱色",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "Depigmentation can occur when the skin loses melanin.",
+          "translation": "皮膚がメラニンを失うと、色素脱失が起こることがある。",
+          "note": "de-（除去・減少）＋pigmentation。"
+        },
+        {
+          "word": "picture",
+          "pos": "名詞 C・動詞 T",
+          "ipa": "/ˈpɪktʃər/",
+          "meaning": "絵、写真、想像する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "Can you picture what the city looked like a hundred years ago?",
+          "translation": "100年前のその街がどんな姿だったか想像できる？",
+          "note": "ラテン語 pingere の過去分詞 pictus に由来。"
+        },
+        {
+          "word": "depict",
+          "pos": "動詞 T",
+          "ipa": "/dɪˈpɪkt/",
+          "meaning": "描写する、描く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The painting depicts a quiet street in Paris.",
+          "translation": "その絵画はパリの静かな通りを描いている。",
+          "note": "ラテン語 depingere（描き表す）に由来。"
+        },
+        {
+          "word": "picturesque",
+          "pos": "形容詞",
+          "ipa": "/ˌpɪktʃəˈresk/",
+          "meaning": "絵のように美しい",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "We stayed in a picturesque village surrounded by mountains.",
+          "translation": "私たちは山々に囲まれた絵のように美しい村に泊まった。",
+          "note": "picture に由来。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "dye",
+          "pos": "名詞 C/U・動詞 T",
+          "ipa": "/daɪ/",
+          "meaning": "染料、染める",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "Natural dyes are often used to color fabrics.",
+          "translation": "天然染料は布を染めるためによく使われる。",
+          "note": "一般に媒体に溶けて素材を染める。"
+        },
+        {
+          "word": "paint",
+          "pos": "名詞 C/U・動詞 T/I",
+          "ipa": "/peɪnt/",
+          "meaning": "絵の具、塗料、描く",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 3,
+          "example": "Oil paint dries more slowly than acrylic paint.",
+          "translation": "油絵の具はアクリル絵の具より乾燥が遅い。",
+          "note": "顔料と結合材などからなる塗料・絵の具。"
+        },
+        {
+          "word": "colorant",
+          "pos": "名詞 C",
+          "ipa": "/ˈkʌlərənt/",
+          "meaning": "着色剤",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 3,
+          "example": "The company uses plant-based colorants in its products.",
+          "translation": "その会社は製品に植物由来の着色剤を使用している。",
+          "note": "顔料・染料を含む総称。"
+        },
+        {
+          "word": "tint",
+          "pos": "名詞 C・動詞 T",
+          "ipa": "/tɪnt/",
+          "meaning": "淡い色合い、色をつける",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The windows have a slight blue tint.",
+          "translation": "その窓にはわずかに青みがかかっている。",
+          "note": "色の微妙なニュアンス。"
+        },
+        {
+          "word": "hue",
+          "pos": "名詞 C",
+          "ipa": "/hjuː/",
+          "meaning": "色相、色合い",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The sky shifted from orange to a deep purple hue.",
+          "translation": "空はオレンジ色から深い紫色へと変化した。",
+          "note": "色そのものの種類・色相。"
+        },
+        {
+          "word": "melanin",
+          "pos": "名詞 U",
+          "ipa": "/ˈmelənɪn/",
+          "meaning": "メラニン色素",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Melanin helps protect the skin from ultraviolet radiation.",
+          "translation": "メラニンは紫外線から皮膚を守る働きをする。",
+          "note": "生体内の色素の一種。"
+        }
+      ],
+      "comparison": "pigment＝色を生み出す物質・顔料／dye＝素材を染める染料／paint＝塗るための絵の具・塗料／colorant＝着色剤全般／tint＝淡い色合い・着色／hue＝色相・色合い／melanin＝生体内の色素の一種"
     }
   ]
 }
