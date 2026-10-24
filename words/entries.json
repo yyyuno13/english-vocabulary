@@ -4100,6 +4100,166 @@
         }
       ],
       "comparison": "divert＝元の行き先・目的から別方向へそらす／redirect＝新しい方向・目的地へ誘導／distract＝人の注意・集中を散らす／deflect＝質問・批判・攻撃などをかわす／reroute＝交通・物流・通信の経路変更／shift＝位置・重点を移す／allocate＝資源・予算を割り当てる（転用とは限らない）"
+    },
+    {
+      "id": "shimmering",
+      "word": "shimmering",
+      "pos": "形容詞・動詞 shimmer の現在分詞",
+      "ipa": "/ˈʃɪmərɪŋ/",
+      "meaning": "きらきら輝く、ちらちら光る；ゆらめく；ほのかに光沢のある",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 1,
+      "etymology": "shimmer（揺らめくように光る）＋-ing（現在分詞・形容詞化）。shimmer は中英語期に見られ、ゲルマン語系の光を表す語群との関連が指摘されるが、語源の細部は確定していない。",
+      "core": "光が表面で細かく揺れながら柔らかくきらめく。単に明るいのではなく、光の細かな変化や揺らぎを感じさせる。",
+      "usage": "shimmer は基本的に自動詞（I）。shimmer in the sunlight、shimmer with reflected light。shimmering water / stars / dress / light / heat。",
+      "examples": [
+        [
+          "The lake was shimmering in the afternoon sunlight.",
+          "午後の日差しを受けて、湖がきらきら輝いていた。"
+        ],
+        [
+          "Look at the city lights shimmering across the water.",
+          "水面にきらめく街の明かりを見て。"
+        ],
+        [
+          "I love your shimmering dress! Where did you get it?",
+          "そのキラキラしたドレス、すごく素敵！ どこで買ったの？"
+        ],
+        [
+          "We spent the afternoon watching the shimmering ocean.",
+          "午後はきらめく海を眺めながら過ごした。"
+        ],
+        [
+          "Thousands of stars were shimmering in the clear night sky.",
+          "澄んだ夜空で、何千もの星がきらめいていた。"
+        ],
+        [
+          "The road seemed to be shimmering in the intense heat.",
+          "強烈な暑さの中で、道路がゆらゆら揺らいで見えた。"
+        ],
+        [
+          "This highlighter gives your skin a subtle, shimmering glow.",
+          "このハイライトを使うと、肌に控えめで繊細なツヤが出る。"
+        ],
+        [
+          "The distant mountains appeared through the shimmering haze.",
+          "遠くの山々が、ゆらめくもやの向こうに姿を現した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "shimmer",
+          "pos": "動詞 I・名詞 C/U",
+          "ipa": "/ˈʃɪmər/",
+          "meaning": "かすかにきらめく・きらめき",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "The sunlight shimmered on the surface of the pool.",
+          "translation": "太陽の光がプールの水面できらめいていた。",
+          "note": "shimmering の元になる動詞。"
+        },
+        {
+          "word": "glimmer",
+          "pos": "動詞 I・名詞 C",
+          "ipa": "/ˈɡlɪmər/",
+          "meaning": "かすかに光る・かすかな光",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "I could see a faint light glimmering in the distance.",
+          "translation": "遠くにかすかな光がちらちら見えた。",
+          "note": "語形・意味が近いが確実に同一語源とは断定しない。弱い光を強調。"
+        },
+        {
+          "word": "glistening",
+          "pos": "形容詞・現在分詞",
+          "ipa": "/ˈɡlɪsənɪŋ/",
+          "meaning": "濡れてつやつや輝く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "Her hair was glistening with rain.",
+          "translation": "彼女の髪は雨に濡れてつやつやと光っていた。",
+          "note": "同語源とは確認できない意味関連語。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "sparkle",
+          "pos": "動詞 I・名詞 C/U",
+          "ipa": "/ˈspɑːrkəl/",
+          "meaning": "きらきら輝く、火花のように光る",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "Her eyes sparkled with excitement.",
+          "translation": "彼女の目は興奮できらきら輝いていた。",
+          "note": "小さな強い光が点々と輝く。"
+        },
+        {
+          "word": "glitter",
+          "pos": "動詞 I・名詞 U",
+          "ipa": "/ˈɡlɪtər/",
+          "meaning": "きらきら光る、ラメ",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "The snow glittered under the morning sun.",
+          "translation": "雪が朝日に照らされてきらきら光っていた。",
+          "note": "多数の反射光。"
+        },
+        {
+          "word": "twinkle",
+          "pos": "動詞 I・名詞 C",
+          "ipa": "/ˈtwɪŋkəl/",
+          "meaning": "またたく、ちらちら光る",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 1,
+          "example": "The stars were twinkling above us.",
+          "translation": "頭上で星々がまたたいていた。",
+          "note": "点滅するような光。"
+        },
+        {
+          "word": "gleam",
+          "pos": "動詞 I・名詞 C",
+          "ipa": "/ɡliːm/",
+          "meaning": "つややかに光る",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The freshly polished floor gleamed.",
+          "translation": "磨きたての床がつやつやと輝いていた。",
+          "note": "滑らかな表面の光沢。"
+        },
+        {
+          "word": "flicker",
+          "pos": "動詞 I・名詞 C",
+          "ipa": "/ˈflɪkər/",
+          "meaning": "ちらつく、明滅する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "The candlelight flickered in the wind.",
+          "translation": "ろうそくの光が風でちらちら揺れていた。",
+          "note": "不規則に光が揺れる。"
+        },
+        {
+          "word": "shine",
+          "pos": "動詞 I・名詞 U",
+          "ipa": "/ʃaɪn/",
+          "meaning": "光る、輝く、光沢",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 3,
+          "example": "The sun was shining brightly.",
+          "translation": "太陽が明るく輝いていた。",
+          "note": "光を放つ・反射する一般的な表現。"
+        }
+      ],
+      "comparison": "shimmer＝柔らかく細かく揺らめく／sparkle＝小さな強い光が点々と輝く／glitter＝多数の反射光がきらきら光る／twinkle＝点滅するようにまたたく／glimmer＝弱い光がかすかに見える／gleam＝滑らかな表面が光る／flicker＝不規則にちらつく／shine＝光る一般表現"
     }
   ]
 }
