@@ -66,7 +66,47 @@
        doc.addEventListener('toggle',resizeFrame,true);
        doc.addEventListener('click',()=>setTimeout(resizeFrame,50),true);
      }
-     resizeFrame();
+     // Make the Latin source word in each etymology explanation clickable.
+     const linkEtymologies=()=>{
+       for(const section of doc.querySelectorAll('section.family[id]')){
+         const info=rootMap[section.id.toLowerCase()];
+         if(!info||info[0]==='その他')continue;
+         const root=info[0];
+         const source=(info[1]||'').split('｜')[0].trim();
+         if(!/^[A-Za-z]{3,}$/.test(source))continue;
+         const etymology=[...section.querySelectorAll('.field')].find(el=>(el.querySelector('b')?.textContent||'').includes('語源の分解'));
+         if(!etymology||etymology.dataset.rootLinksReady==='1')continue;
+         const walker=doc.createTreeWalker(etymology,NodeFilter.SHOW_TEXT);
+         const nodes=[];
+         const matcher=new RegExp('\\b'+source+'\\b','gi');
+         while(walker.nextNode()){
+           const node=walker.currentNode;
+           if(node.parentElement?.closest('a,button,b,script,style'))continue;
+           if(matcher.test(node.nodeValue))nodes.push(node);
+           matcher.lastIndex=0;
+         }
+         for(const node of nodes){
+           const content=node.nodeValue;
+           const frag=doc.createDocumentFragment();
+           let last=0;
+           for(const match of content.matchAll(matcher)){
+             if(match.index>last)frag.appendChild(doc.createTextNode(content.slice(last,match.index)));
+             const a=doc.createElement('a');
+             a.href='#root='+encodeURIComponent(root);
+             a.textContent=match[0];
+             a.title='語源別「'+root+'」を表示';
+             a.className='etymology-root-link';
+             a.addEventListener('click',e=>{e.preventDefault();showRoot(root);});
+             frag.appendChild(a);
+             last=match.index+match[0].length;
+           }
+           if(last<content.length)frag.appendChild(doc.createTextNode(content.slice(last)));
+           node.replaceWith(frag);
+         }
+         etymology.dataset.rootLinksReady='1';
+       }
+     };
+     linkEtymologies();
      // Keep the original compact top-right TOC shortcut; no sticky navigation bar.
      const oldNav=doc.getElementById('return-to-roots');
      if(oldNav)oldNav.remove();
@@ -74,7 +114,7 @@
      if(!css){
        const style=doc.createElement('style');
        style.id='embedded-keyword-layout';
-       style.textContent='.toolbar{position:static!important;top:auto!important;backdrop-filter:none!important}.toc{position:static!important;top:auto!important;max-height:none!important}.toc-fab{display:none!important}';
+       style.textContent='.toolbar{position:static!important;top:auto!important;backdrop-filter:none!important}.toc{position:static!important;top:auto!important;max-height:none!important}.toc-fab{display:none!important}.etymology-root-link{color:#245f73!important;text-decoration:underline!important;text-underline-offset:3px;font-weight:700}';
        doc.head.appendChild(style);
      }
    }catch(err){console.warn('Cross-view links unavailable',err)}
@@ -84,6 +124,7 @@
    // The legacy vocabulary loader creates sections asynchronously.
    setTimeout(attach,350);
    setTimeout(attach,1200);
+   setTimeout(attach,3000);
  });
  const menuToggle=document.getElementById('mode-menu-toggle');
  const modeMenu=document.getElementById('mode-menu');
