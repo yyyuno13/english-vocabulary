@@ -4260,6 +4260,202 @@
         }
       ],
       "comparison": "shimmer＝柔らかく細かく揺らめく／sparkle＝小さな強い光が点々と輝く／glitter＝多数の反射光がきらきら光る／twinkle＝点滅するようにまたたく／glimmer＝弱い光がかすかに見える／gleam＝滑らかな表面が光る／flicker＝不規則にちらつく／shine＝光る一般表現"
+    },
+    {
+      "id": "conventional",
+      "word": "conventional",
+      "pos": "形容詞",
+      "ipa": "/kənˈvenʃənəl/",
+      "meaning": "従来の・従来型の；慣習的な・伝統的な；ありきたりな・型にはまった；通常兵器の・非核の",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 con-（一緒に）＋venire（来る）→convenire（集まる、意見が一致する）→conventio（合意、集会、取り決め）→convention（慣習）＋-al（形容詞化）。人々が共有する取り決めに従うイメージ。",
+      "core": "多くの人が共有している普通・標準・慣習の枠の中にあること。文脈により中立的（従来型）、肯定的（実績のある）、否定的（ありきたり）になる。",
+      "usage": "conventional wisdom（通説）、conventional approach/methods（従来の方法）、conventional medicine（標準的な医療）、conventional energy（従来型エネルギー）、conventional weapons（通常兵器）、conventional lifestyle（一般的な生活様式）。必ずしも古いという意味ではない。",
+      "examples": [
+        [
+          "I've never really wanted a conventional nine-to-five job.",
+          "いわゆる普通の9時〜5時の仕事には、あまり憧れたことがないんだよね。"
+        ],
+        [
+          "My parents are pretty conventional when it comes to marriage.",
+          "うちの親は結婚に関しては結構保守的なんだ。"
+        ],
+        [
+          "Her style is a little unconventional, but I think it's really cool.",
+          "彼女のファッションはちょっと個性的だけど、すごくかっこいいと思う。"
+        ],
+        [
+          "I still prefer a conventional paper book to an e-book.",
+          "電子書籍より、やっぱり普通の紙の本の方が好きだな。"
+        ],
+        [
+          "The company is moving away from conventional advertising methods and focusing more on social media.",
+          "その企業は従来型の広告手法から離れ、SNSにさらに注力している。"
+        ],
+        [
+          "Contrary to conventional wisdom, working longer hours does not necessarily lead to higher productivity.",
+          "一般的な通説に反して、長時間働くことが必ずしも生産性の向上につながるわけではない。"
+        ],
+        [
+          "Renewable energy is becoming increasingly competitive with conventional energy sources.",
+          "再生可能エネルギーは、従来型のエネルギー源に対して競争力を高めつつある。"
+        ],
+        [
+          "Unlike conventional batteries, solid-state batteries use a solid electrolyte.",
+          "従来の電池とは異なり、全固体電池は固体電解質を使用する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "convention",
+          "pos": "名詞 C/U",
+          "ipa": "/kənˈvenʃən/",
+          "meaning": "慣習、しきたり、大会、協定",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "It's a social convention to shake hands when meeting someone for the first time.",
+          "translation": "初対面の人と握手するのは社会的な慣習だ。",
+          "note": "ラテン語 conventio（集まり、合意）。"
+        },
+        {
+          "word": "convene",
+          "pos": "動詞 T/I",
+          "ipa": "/kənˈviːn/",
+          "meaning": "招集する、集まる、会合を開く",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "The committee will convene next Monday to discuss the proposal.",
+          "translation": "委員会はその提案について話し合うため、来週月曜日に会合を開く。",
+          "note": "con-＋venire。"
+        },
+        {
+          "word": "convenient",
+          "pos": "形容詞",
+          "ipa": "/kənˈviːniənt/",
+          "meaning": "便利な、都合のよい",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Is tomorrow afternoon convenient for you?",
+          "translation": "明日の午後は都合がいいですか？",
+          "note": "convenire（うまく合う）に由来。"
+        },
+        {
+          "word": "convenience",
+          "pos": "名詞 C/U",
+          "ipa": "/kənˈviːniəns/",
+          "meaning": "便利さ、利便性、便利なもの",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 4,
+          "example": "I usually shop online for convenience.",
+          "translation": "便利だから、普段はネットで買い物をしている。",
+          "note": "convenient と同語源。"
+        },
+        {
+          "word": "intervene",
+          "pos": "動詞 I",
+          "ipa": "/ˌɪntərˈviːn/",
+          "meaning": "介入する、間に入る",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "I didn't want to intervene in their argument.",
+          "translation": "二人の口論に割って入りたくなかった。",
+          "note": "inter-（間に）＋venire。"
+        },
+        {
+          "word": "prevent",
+          "pos": "動詞 T",
+          "ipa": "/prɪˈvent/",
+          "meaning": "防ぐ、予防する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Washing your hands regularly helps prevent infections.",
+          "translation": "定期的に手を洗うことは感染症の予防に役立つ。",
+          "note": "prae-（前に）＋venire（来る）。先回りして防ぐ。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "traditional",
+          "pos": "形容詞",
+          "ipa": "/trəˈdɪʃənəl/",
+          "meaning": "伝統的な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "We had a traditional Japanese breakfast at the hotel.",
+          "translation": "ホテルで伝統的な和朝食を食べた。",
+          "note": "長い歴史を通じて受け継がれてきたこと。"
+        },
+        {
+          "word": "standard",
+          "pos": "形容詞・名詞 C/U",
+          "ipa": "/ˈstændərd/",
+          "meaning": "標準的な、標準",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "This is the standard procedure for checking in.",
+          "translation": "これがチェックインの標準的な手続きです。",
+          "note": "基準として採用されていること。"
+        },
+        {
+          "word": "customary",
+          "pos": "形容詞",
+          "ipa": "/ˈkʌstəmeri/",
+          "meaning": "慣例となっている、いつもの",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "It's customary to tip servers in the United States.",
+          "translation": "アメリカでは飲食店の店員にチップを渡すのが慣例だ。",
+          "note": "社会的習慣・慣例。"
+        },
+        {
+          "word": "orthodox",
+          "pos": "形容詞",
+          "ipa": "/ˈɔːrθədɑːks/",
+          "meaning": "正統的な、伝統的な考え方に従った",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "His approach is more orthodox than innovative.",
+          "translation": "彼のアプローチは革新的というより正統派だ。",
+          "note": "正統と認められた考え方に忠実。"
+        },
+        {
+          "word": "typical",
+          "pos": "形容詞",
+          "ipa": "/ˈtɪpɪkəl/",
+          "meaning": "典型的な、よくある",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "That's a typical response from him.",
+          "translation": "いかにも彼らしい反応だね。",
+          "note": "特徴的でよく見られる。"
+        },
+        {
+          "word": "unconventional",
+          "pos": "形容詞",
+          "ipa": "/ˌʌnkənˈvenʃənəl/",
+          "meaning": "型破りな、慣習にとらわれない",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "She took an unconventional approach to solving the problem.",
+          "translation": "彼女はその問題の解決に型破りなアプローチを取った。",
+          "note": "conventional の直接的な反意語。"
+        }
+      ],
+      "comparison": "conventional＝社会的に広く受け入れられた・従来の／traditional＝長く受け継がれてきた／standard＝基準に沿った／customary＝慣例として行われる／orthodox＝正統派の／typical＝典型的な／unconventional＝型破りな（反意語）"
     }
   ]
 }
