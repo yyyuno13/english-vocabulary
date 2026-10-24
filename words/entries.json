@@ -4812,6 +4812,202 @@
         }
       ],
       "comparison": "jury＝集団で証拠を検討し評決・審査を行う／juror＝陪審員個人／judge＝裁判官・審査員／panel＝特定目的の委員・専門家集団／committee＝組織的な審議・運営・意思決定／tribunal＝法的な審判機関／arbitrator＝紛争を仲裁する人"
+    },
+    {
+      "id": "visibility",
+      "word": "visibility",
+      "pos": "名詞 U",
+      "ipa": "/ˌvɪzəˈbɪləti/",
+      "meaning": "視界、視認性；認知度、露出度；可視性、状況の把握しやすさ",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 videre（見る）→visibilis（見ることができる）→visible（見える）＋-ity（性質・状態）。語根 vis-（見る）と接尾辞 -ible（〜できる）、-ity（性質・状態）を理解する。",
+      "core": "対象がどれだけはっきり見える状態にあるか。物理的な視界、ブランドの認知度、業務・情報の把握可能性へ広がる。",
+      "usage": "poor/low visibility（視界不良）、high visibility（高い視認性・認知度）、brand visibility（ブランド露出度）、online visibility（オンライン上の露出度）、visibility into operations（業務状況の把握可能性）、lack of visibility（状況が見えないこと）、revenue visibility（将来の売上の見通しの立てやすさ）。通常不可算名詞。",
+      "examples": [
+        [
+          "Visibility was so poor that we could barely see the road.",
+          "視界が悪すぎて、道路がほとんど見えなかった。"
+        ],
+        [
+          "Slow down. Visibility is getting worse because of the fog.",
+          "速度を落として。霧で視界が悪くなってきてる。"
+        ],
+        [
+          "The weather cleared up, and visibility improved dramatically.",
+          "天気が回復して、視界が劇的によくなった。"
+        ],
+        [
+          "The campaign significantly increased the brand's visibility.",
+          "そのキャンペーンによってブランドの認知度が大幅に高まった。"
+        ],
+        [
+          "We're investing more in digital marketing to improve our online visibility.",
+          "オンライン上での露出度を高めるため、デジタルマーケティングへの投資を増やしている。"
+        ],
+        [
+          "We need better visibility into our operating costs.",
+          "営業費用の状況をもっと把握できるようにする必要がある。"
+        ],
+        [
+          "The new system provides real-time visibility into inventory levels.",
+          "新しいシステムによって、在庫水準をリアルタイムで把握できるようになる。"
+        ],
+        [
+          "Limited revenue visibility makes it difficult to forecast next quarter's earnings.",
+          "将来の売上の見通しが立ちにくいため、来四半期の利益を予測するのが難しい。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "visible",
+          "pos": "形容詞",
+          "ipa": "/ˈvɪzəbəl/",
+          "meaning": "見える、目に見える、明白な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The mountain was clearly visible from our hotel.",
+          "translation": "ホテルから山がはっきり見えた。",
+          "note": "visibility の直接の基になる形容詞。"
+        },
+        {
+          "word": "invisible",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈvɪzəbəl/",
+          "meaning": "見えない、目に見えない",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "Some risks are invisible until something goes wrong.",
+          "translation": "問題が起こるまで見えないリスクもある。",
+          "note": "in-（否定）＋visible。"
+        },
+        {
+          "word": "vision",
+          "pos": "名詞 C/U",
+          "ipa": "/ˈvɪʒən/",
+          "meaning": "視力、視覚、将来像、構想",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The CEO outlined her vision for the company's future.",
+          "translation": "CEOは会社の将来像を説明した。",
+          "note": "ラテン語 visio（見ること）に由来。"
+        },
+        {
+          "word": "visual",
+          "pos": "形容詞・名詞 C",
+          "ipa": "/ˈvɪʒuəl/",
+          "meaning": "視覚の、視覚的な、画像資料",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Visual aids can make complex ideas easier to understand.",
+          "translation": "視覚資料は複雑な考えを理解しやすくする。",
+          "note": "ラテン語 visus（視覚）に由来。"
+        },
+        {
+          "word": "supervise",
+          "pos": "動詞 T",
+          "ipa": "/ˈsuːpərvaɪz/",
+          "meaning": "監督する、管理する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "She supervises a team of ten employees.",
+          "translation": "彼女は10人の従業員からなるチームを監督している。",
+          "note": "super-（上から）＋vis-（見る）。"
+        },
+        {
+          "word": "revise",
+          "pos": "動詞 T",
+          "ipa": "/rɪˈvaɪz/",
+          "meaning": "修正する、改訂する、復習する（主に英）",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We need to revise the budget before the meeting.",
+          "translation": "会議前に予算を修正する必要がある。",
+          "note": "re-（再び）＋vis-（見る）。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "clarity",
+          "pos": "名詞 U",
+          "ipa": "/ˈklærəti/",
+          "meaning": "明瞭さ、明確さ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "We need greater clarity on the project's objectives.",
+          "translation": "プロジェクトの目的をもっと明確にする必要がある。",
+          "note": "情報や説明がはっきりしていること。"
+        },
+        {
+          "word": "transparency",
+          "pos": "名詞 U",
+          "ipa": "/trænsˈpærənsi/",
+          "meaning": "透明性、情報公開の度合い",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company is working to improve financial transparency.",
+          "translation": "その企業は財務情報の透明性向上に取り組んでいる。",
+          "note": "情報が隠されず開示されていること。"
+        },
+        {
+          "word": "awareness",
+          "pos": "名詞 U",
+          "ipa": "/əˈwernəs/",
+          "meaning": "認識、認知、意識",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The campaign raised awareness of the issue.",
+          "translation": "そのキャンペーンはその問題への認識を高めた。",
+          "note": "人々が知っている状態。"
+        },
+        {
+          "word": "exposure",
+          "pos": "名詞 U/C",
+          "ipa": "/ɪkˈspoʊʒər/",
+          "meaning": "露出、接触、さらされること",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Social media gives small businesses more exposure.",
+          "translation": "SNSは小規模企業により多くの露出機会を与える。",
+          "note": "人々の目に触れる機会。"
+        },
+        {
+          "word": "outlook",
+          "pos": "名詞 C",
+          "ipa": "/ˈaʊtlʊk/",
+          "meaning": "見通し、展望、考え方",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The economic outlook remains uncertain.",
+          "translation": "経済の見通しは依然として不透明だ。",
+          "note": "将来どうなるかについての予測。"
+        },
+        {
+          "word": "observability",
+          "pos": "名詞 U",
+          "ipa": "/əbˌzɜːrvəˈbɪləti/",
+          "meaning": "可観測性",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 4,
+          "example": "The engineering team improved system observability by adding better monitoring tools.",
+          "translation": "エンジニアリングチームは監視ツールを改善することで、システムの可観測性を高めた。",
+          "note": "システム内部の状態を外部情報から把握できる性質。"
+        }
+      ],
+      "comparison": "visibility＝見える・把握できる状態／clarity＝明確で理解しやすいこと／transparency＝情報が隠されず公開されていること／awareness＝人々が認識していること／exposure＝人々の目に触れる機会／outlook＝将来の見通し／observability＝内部状態を観測・推定できること"
     }
   ]
 }
