@@ -6224,6 +6224,190 @@
         }
       ],
       "comparison": "tectonic shift は地殻変動の比喩で長期的・構造的な大変化。seismic shift は衝撃的・劇的な変化。structural change は仕組み自体の変化を中立的に表し、fundamental change は本質的な変化、transformative change は変革をもたらす変化を表す。"
+    },
+    {
+      "id": "compression",
+      "word": "compression",
+      "pos": "名詞 U/C",
+      "ipa": "/kəmˈpreʃən/",
+      "meaning": "圧縮、圧迫；データ圧縮；時間や格差の縮小",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 comprimere（押し縮める）に由来する compress の名詞形。com-（一緒に）＋premere（押す）の語源を持ち、press- はラテン語の過去分詞語幹に対応する。名詞化接尾辞 -ion が付いた形。",
+      "core": "広がっていたものを押し集め、小さい空間・容量・範囲に収める。物理・情報・時間・経済の文脈に広がる。",
+      "usage": "data compression（データ圧縮）、image compression（画像圧縮）、chest compressions（胸骨圧迫）、compression injury（圧迫損傷）、wage compression（賃金格差の縮小）、margin compression（利益率の圧迫）、schedule compression（工程の短縮）。",
+      "examples": [
+        [
+          "Compression reduces the volume of a gas by increasing the pressure applied to it.",
+          "圧縮は、気体に加える圧力を高めることでその体積を減少させる。"
+        ],
+        [
+          "Rocks can undergo compression when tectonic plates move toward each other.",
+          "プレートが互いに近づくと、岩石には圧縮力が作用することがある。"
+        ],
+        [
+          "Data compression allows large files to be stored more efficiently.",
+          "データ圧縮によって、大きなファイルをより効率的に保存できる。"
+        ],
+        [
+          "Excessive image compression can reduce picture quality.",
+          "過度な画像圧縮は画質を低下させることがある。"
+        ],
+        [
+          "The paramedic immediately began chest compressions.",
+          "救急救命士は直ちに胸骨圧迫を開始した。"
+        ],
+        [
+          "Rising production costs have led to margin compression.",
+          "生産コストの上昇によって利益率が圧迫されている。"
+        ],
+        [
+          "Wage compression occurs when the pay gap between employees becomes smaller.",
+          "給与格差の圧縮は、従業員間の賃金差が小さくなるときに生じる。"
+        ],
+        [
+          "The team achieved schedule compression by carrying out several tasks simultaneously.",
+          "チームは複数の作業を同時並行で実施することでスケジュールを短縮した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "compress",
+          "pos": "動詞 T",
+          "ipa": "/kəmˈpres/",
+          "meaning": "圧縮する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The software can compress files without losing information.",
+          "translation": "そのソフトウェアは情報を失わずにファイルを圧縮できる。",
+          "note": "compression の動詞形。"
+        },
+        {
+          "word": "compressed",
+          "pos": "形容詞・過去分詞",
+          "ipa": "/kəmˈprest/",
+          "meaning": "圧縮された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The equipment operates using compressed air.",
+          "translation": "その装置は圧縮空気を利用して作動する。",
+          "note": "compress の過去分詞。"
+        },
+        {
+          "word": "pressure",
+          "pos": "名詞 U/C",
+          "ipa": "/ˈpreʃər/",
+          "meaning": "圧力、重圧",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company is under pressure to reduce operating costs.",
+          "translation": "その会社は営業費用を削減するよう圧力を受けている。",
+          "note": "ラテン語 premere に由来。"
+        },
+        {
+          "word": "depress",
+          "pos": "動詞 T",
+          "ipa": "/dɪˈpres/",
+          "meaning": "押し下げる、落ち込ませる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Higher interest rates may depress consumer spending.",
+          "translation": "金利の上昇は消費支出を抑制する可能性がある。",
+          "note": "de- と premere の系列。"
+        },
+        {
+          "word": "suppress",
+          "pos": "動詞 T",
+          "ipa": "/səˈpres/",
+          "meaning": "抑圧する、抑える",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The government introduced measures to suppress inflation.",
+          "translation": "政府はインフレを抑制するための措置を導入した。",
+          "note": "sub- と premere の系列。"
+        },
+        {
+          "word": "impress",
+          "pos": "動詞 T",
+          "ipa": "/ɪmˈpres/",
+          "meaning": "印象づける、感銘を与える",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Her ability to solve complex problems impressed the interviewers.",
+          "translation": "複雑な問題を解決する彼女の能力は面接官たちに強い印象を与えた。",
+          "note": "in- と premere の系列。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "compaction",
+          "pos": "名詞 U",
+          "ipa": "/kəmˈpækʃən/",
+          "meaning": "密に詰めること",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Soil compaction can restrict the growth of plant roots.",
+          "translation": "土壌の締め固めは植物の根の成長を妨げることがある。",
+          "note": "密度を高めて詰め固める。"
+        },
+        {
+          "word": "condensation",
+          "pos": "名詞 U/C",
+          "ipa": "/ˌkɑːndenˈseɪʃən/",
+          "meaning": "凝縮、要約",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Condensation formed on the cold window.",
+          "translation": "冷たい窓に結露が生じた。",
+          "note": "気体が液体になる現象など、圧縮とは異なる。"
+        },
+        {
+          "word": "reduction",
+          "pos": "名詞 U/C",
+          "ipa": "/rɪˈdʌkʃən/",
+          "meaning": "減少、削減",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The company announced a reduction in operating expenses.",
+          "translation": "会社は営業費用の削減を発表した。",
+          "note": "量や程度の減少。"
+        },
+        {
+          "word": "contraction",
+          "pos": "名詞 U/C",
+          "ipa": "/kənˈtrækʃən/",
+          "meaning": "収縮、縮小",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The economy experienced a sharp contraction during the recession.",
+          "translation": "景気後退期に経済は急激に縮小した。",
+          "note": "全体の規模が小さくなる。"
+        },
+        {
+          "word": "squeezing",
+          "pos": "名詞 U",
+          "ipa": "/ˈskwiːzɪŋ/",
+          "meaning": "強く押し縮めること",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The squeezing of profit margins has forced the company to reconsider its pricing strategy.",
+          "translation": "利益率の圧迫によって、その会社は価格戦略の再検討を迫られている。",
+          "note": "外部からの圧力を強調。"
+        }
+      ],
+      "comparison": "compression＝圧力などによって押し縮める；compaction＝密に詰め固める；condensation＝凝縮・要約；reduction＝量を減らす；contraction＝規模が縮小する。ビジネスでは margin compression（利益率の圧迫）が重要。"
     }
   ]
 }
