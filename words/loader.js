@@ -116,7 +116,7 @@
     return m?[m[1].trim(),m[2].trim()]:['補足',part];
   });
   const comparisonStyles=document.createElement('style');
-  comparisonStyles.textContent='.comparison-scroll{overflow-x:auto;margin:10px 0 16px}.nuance-table{width:100%;border-collapse:collapse;min-width:360px;font-size:.92rem;line-height:1.6}.nuance-table th,.nuance-table td{border:1px solid var(--line,#ddd);padding:9px 12px;text-align:left;vertical-align:top}.nuance-table thead th{background:var(--chip,#edf4f5);font-weight:700}.nuance-table tbody th{font-weight:700;white-space:nowrap;width:25%}.nuance-table tbody tr:nth-child(even){background:rgba(127,127,127,.035)}';
+  comparisonStyles.textContent='.comparison-scroll{overflow-x:auto;margin:10px 0 16px}.nuance-table{width:100%;border-collapse:collapse;min-width:0;table-layout:fixed;font-size:.92rem;line-height:1.6}.nuance-table th,.nuance-table td{border:1px solid var(--line,#ddd);padding:9px 12px;text-align:left;vertical-align:top;overflow-wrap:anywhere}.nuance-table thead th{background:var(--chip,#edf4f5);font-weight:700}.nuance-table tbody th{font-weight:700;overflow-wrap:anywhere;width:30%}.nuance-table tbody tr:nth-child(even){background:rgba(127,127,127,.035)}';
   document.head.appendChild(comparisonStyles);
   function annotateStaticComparisons(){
     document.querySelectorAll('main section.family').forEach(section=>{
@@ -180,7 +180,15 @@
   };
   const coreDiagram = entry => {
     const drawing=coreDiagrams[entry.id];
-    if(!drawing)return '';
+    if(!drawing){
+      // Every dynamic entry gets a meaningful semantic diagram, even when no bespoke SVG exists.
+      const shorten=(value,n=30)=>String(value||'').replace(/\\s+/g,' ').slice(0,n);
+      const root=shorten(entry.etymology,34), core=shorten(entry.core,45);
+      return '<figure class="core-diagram"><svg viewBox="0 0 340 154" role="img" aria-label="'+escapeHTML(entry.word)+' の語源とコアイメージ" xmlns="http://www.w3.org/2000/svg">'+
+        '<rect x="8" y="12" width="324" height="48" rx="10" fill="#e0f2fe" stroke="#0e7490"/><text x="170" y="30" fill="#0f172a" font-size="11" text-anchor="middle">語源・出発点</text><text x="170" y="47" fill="#0f172a" font-size="11" text-anchor="middle">'+escapeHTML(root)+'</text>'+
+        '<path d="M170 61 V87 M164 81 L170 89 L176 81" stroke="#2563eb" stroke-width="2.5" fill="none"/>'+
+        '<rect x="8" y="94" width="324" height="48" rx="10" fill="#dcfce7" stroke="#15803d"/><text x="170" y="112" fill="#14532d" font-size="11" text-anchor="middle">現在のコアイメージ</text><text x="170" y="129" fill="#14532d" font-size="11" text-anchor="middle">'+escapeHTML(core)+'</text></svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
+    }
     return '<figure class="core-diagram"><svg viewBox="0 0 340 160" role="img" aria-label="'+escapeHTML(entry.word)+' のコアイメージ図解" xmlns="http://www.w3.org/2000/svg">'+drawing+'</svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
   };
   const diagramStyle=document.createElement('style');
@@ -201,7 +209,7 @@
       '<div class="field"><b>③ 基本情報と例文</b>'+escapeHTML(entry.usage)+'</div>'+examples+
       '<div class="related"><h3>④ 同語源の単語</h3>'+(entry.related||[]).map(x=>relatedCard(entry.id,x)).join('')+
       '<h3>⑤ 同義語・類義語</h3>'+(entry.synonyms||[]).map(x=>relatedCard(entry.id,x)).join('')+
-      '<div class="field"><b>ニュアンス比較</b>'+comparisonTable(comparisonRows(entry.comparison))+'</div></div></section>';
+      '<div class="field"><b>ニュアンス比較</b>'+comparisonTable([[entry.word,entry.core],...(entry.synonyms||[]).map(item=>[item.word,item.note||item.meaning])])+'</div></div></section>';
   }
   try {
     const response=await fetch('./words/entries.json',{cache:'no-cache'});
