@@ -5892,6 +5892,178 @@
         }
       ],
       "comparison": "scenery＝周囲の風景全体（不可算）；landscape＝地形・土地の景観（可算）；view＝特定の場所からの眺め（可算）；sight＝個々の光景・見もの（可算）；panorama＝広範囲に広がる全景（可算）。"
+    },
+    {
+      "id": "temperate",
+      "word": "temperate",
+      "pos": "形容詞",
+      "ipa": "/ˈtempərət/",
+      "meaning": "温暖な、温帯の；節度のある、穏健な",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 2,
+      "etymology": "ラテン語 temperare（適切な割合で混ぜる、調整する、和らげる）の過去分詞 temperatus に由来。temper-（調整）という語幹に関連するが、-ate を現代英語の自由な形容詞接尾辞として単純に分解するのは正確でない。",
+      "core": "暑すぎず寒すぎず、あるいは極端に走らず、適度な状態に保たれている。",
+      "usage": "temperate climate（温暖な気候）、temperate zone（温帯）、temperate forest（温帯林）、temperate habits（節度のある習慣）、temperate response（穏健な対応）。気候では地理的な温帯・穏やかさ、態度では自制・節度を表す。",
+      "examples": [
+        [
+          "The region has a temperate climate with relatively mild winters.",
+          "その地域は冬が比較的穏やかな温暖な気候である。"
+        ],
+        [
+          "Temperate forests support a wide variety of plant and animal species.",
+          "温帯林は多種多様な動植物を育んでいる。"
+        ],
+        [
+          "Much of Japan lies within the temperate zone.",
+          "日本の大部分は温帯に位置する。"
+        ],
+        [
+          "The island's temperate weather makes it a popular destination throughout the year.",
+          "その島の穏やかな気候は、年間を通して人気の旅行先となる理由の一つだ。"
+        ],
+        [
+          "He maintained a temperate lifestyle despite his considerable wealth.",
+          "彼はかなりの資産を持ちながらも、節度ある生活を維持した。"
+        ],
+        [
+          "The committee adopted a temperate approach to the controversial issue.",
+          "委員会はその論争の的となっている問題に穏健な姿勢で臨んだ。"
+        ],
+        [
+          "Her temperate response helped prevent the disagreement from escalating.",
+          "彼女の節度ある対応は意見の対立が激化するのを防ぐのに役立った。"
+        ],
+        [
+          "Executives should use temperate language when discussing sensitive matters.",
+          "経営幹部は慎重な問題について議論する際、穏当な言葉遣いを心がけるべきだ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "temper",
+          "pos": "名詞 C・動詞 T",
+          "ipa": "/ˈtempər/",
+          "meaning": "気質、機嫌；和らげる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The manager tried to temper expectations about the company's growth.",
+          "translation": "マネージャーは会社の成長に対する期待を和らげようとした。",
+          "note": "同じラテン語 temperare に由来。"
+        },
+        {
+          "word": "temperature",
+          "pos": "名詞 C/U",
+          "ipa": "/ˈtemprətʃər/",
+          "meaning": "温度、体温",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The temperature dropped sharply overnight.",
+          "translation": "夜間に気温が急激に下がった。",
+          "note": "同じ語源の系列。"
+        },
+        {
+          "word": "temperament",
+          "pos": "名詞 C/U",
+          "ipa": "/ˈtemprəmənt/",
+          "meaning": "気質、性分",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "She has the temperament required for effective leadership.",
+          "translation": "彼女には効果的なリーダーシップに必要な気質がある。",
+          "note": "同じ語源の系列。"
+        },
+        {
+          "word": "temperance",
+          "pos": "名詞 U",
+          "ipa": "/ˈtempərəns/",
+          "meaning": "節制、禁酒",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "example": "Temperance was regarded as an important virtue.",
+          "translation": "節制は重要な美徳と考えられていた。",
+          "note": "節度・自制を表す同語源語。"
+        },
+        {
+          "word": "tempering",
+          "pos": "名詞 U",
+          "ipa": "/ˈtempərɪŋ/",
+          "meaning": "焼き戻し、調整",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Tempering improves the toughness of certain metals.",
+          "translation": "焼き戻しは特定の金属の靭性を高める。",
+          "note": "temper の派生形。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "mild",
+          "pos": "形容詞",
+          "ipa": "/maɪld/",
+          "meaning": "穏やかな、厳しくない",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The coastal region enjoys mild winters.",
+          "translation": "その沿岸地域は冬が穏やかだ。",
+          "note": "日常的で意味が広い。"
+        },
+        {
+          "word": "moderate",
+          "pos": "形容詞",
+          "ipa": "/ˈmɑːdərət/",
+          "meaning": "中程度の、穏健な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company expects moderate growth next year.",
+          "translation": "会社は来年、緩やかな成長を見込んでいる。",
+          "note": "中程度という度合いを重視。"
+        },
+        {
+          "word": "restrained",
+          "pos": "形容詞",
+          "ipa": "/rɪˈstreɪnd/",
+          "meaning": "抑制された、控えめな",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "He gave a restrained reaction to the criticism.",
+          "translation": "彼は批判に対して感情を抑えた反応を示した。",
+          "note": "意識的な抑制を含意。"
+        },
+        {
+          "word": "measured",
+          "pos": "形容詞",
+          "ipa": "/ˈmeʒərd/",
+          "meaning": "慎重で落ち着いた",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The CEO delivered a measured response to the allegations.",
+          "translation": "CEOはその疑惑に対して慎重で落ち着いた回答をした。",
+          "note": "熟慮された対応。"
+        },
+        {
+          "word": "balmy",
+          "pos": "形容詞",
+          "ipa": "/ˈbɑːmi/",
+          "meaning": "暖かく心地よい",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "We enjoyed a balmy evening by the sea.",
+          "translation": "私たちは海辺で暖かく心地よい夕べを過ごした。",
+          "note": "心地よい暖かさに限定。"
+        }
+      ],
+      "comparison": "temperate は気候や態度が極端でないこと。mild は穏やかで厳しくないこと、moderate は程度が中くらいであること、restrained は意識的な抑制、measured は慎重な判断、balmy は心地よい暖かさを表す。"
     }
   ]
 }
