@@ -6580,6 +6580,178 @@
         }
       ],
       "comparison": "erosion は外部作用で徐々に削り取られること。weathering はその場での風化・変質、abrasion は摩擦による摩耗、deterioration は状態の悪化、depletion は資源・蓄積の減少、degradation は品質・機能の低下。"
+    },
+    {
+      "id": "precipitation",
+      "word": "precipitation",
+      "pos": "名詞 U（主に）",
+      "ipa": "米 /prɪˌsɪpɪˈteɪʃən/・英 /prɪˌsɪpɪˈteɪʃən/",
+      "meaning": "降水、降水量；（化学）沈殿；急激に引き起こすこと",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 2,
+      "etymology": "ラテン語 praecipitare（頭から落とす、真っ逆さまに投げ落とす）に由来。praeceps（頭から先に落ちる、急勾配の）は prae-（前へ）と caput（頭）に遡る。現代英語の綴りを機械的に pre- + cipit- と切るより、ラテン語の語形成で理解する。",
+      "core": "上から下へ、あるいは安定した状態から外へ、急に落ち出すこと。降水、化学的沈殿、事態の急発生に意味が広がる。",
+      "usage": "annual precipitation（年間降水量）、heavy precipitation（激しい降水）、probability of precipitation（降水確率）、precipitation patterns（降水パターン）、precipitation reaction（沈殿反応）。rainfall は雨だけ、precipitation は雪やひょうも含む。",
+      "examples": [
+        [
+          "The region receives relatively little precipitation throughout the year.",
+          "その地域は年間を通して降水量が比較的少ない。"
+        ],
+        [
+          "Precipitation can occur in the form of rain, snow, sleet, or hail.",
+          "降水は雨、雪、みぞれ、ひょうなどの形で生じる。"
+        ],
+        [
+          "Changes in precipitation patterns can affect agricultural productivity.",
+          "降水パターンの変化は農業生産性に影響を与える可能性がある。"
+        ],
+        [
+          "The forecast indicates a high probability of precipitation tomorrow.",
+          "予報によると、明日は降水確率が高い。"
+        ],
+        [
+          "Reduced precipitation has contributed to water shortages in the area.",
+          "降水量の減少がその地域の水不足の一因となっている。"
+        ],
+        [
+          "Heavy precipitation can accelerate soil erosion on steep slopes.",
+          "激しい降水は急斜面での土壌侵食を加速させることがある。"
+        ],
+        [
+          "The addition of the reagent caused the precipitation of a white solid.",
+          "その試薬を加えると、白色固体が沈殿した。"
+        ],
+        [
+          "The unexpected announcement contributed to the precipitation of a political crisis.",
+          "予期せぬ発表が政治危機の急激な発生を促した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "precipitate",
+          "pos": "動詞 T",
+          "ipa": "/prɪˈsɪpɪteɪt/",
+          "meaning": "急に引き起こす、沈殿させる",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The sudden withdrawal of funding precipitated the project's collapse.",
+          "translation": "資金提供の突然の打ち切りが、そのプロジェクトの崩壊を引き起こした。",
+          "note": "同語源の動詞。"
+        },
+        {
+          "word": "precipitate",
+          "pos": "形容詞",
+          "ipa": "/prɪˈsɪpɪtət/",
+          "meaning": "性急な、軽率な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The board was criticized for making a precipitate decision.",
+          "translation": "取締役会は性急な決定を下したとして批判された。",
+          "note": "同じ綴りでも動詞と発音が異なる。"
+        },
+        {
+          "word": "precipitate",
+          "pos": "名詞 C",
+          "ipa": "/prɪˈsɪpɪtət/",
+          "meaning": "沈殿物",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "A white precipitate formed at the bottom of the test tube.",
+          "translation": "試験管の底に白い沈殿物が生じた。",
+          "note": "化学専門語。"
+        },
+        {
+          "word": "precipitous",
+          "pos": "形容詞",
+          "ipa": "/prɪˈsɪpɪtəs/",
+          "meaning": "急勾配の、急激な",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The company experienced a precipitous decline in revenue.",
+          "translation": "その会社は売上高の急激な減少を経験した。",
+          "note": "ラテン語 praecipit- に由来。"
+        },
+        {
+          "word": "precipice",
+          "pos": "名詞 C",
+          "ipa": "/ˈpresəpɪs/",
+          "meaning": "絶壁、危機の瀬戸際",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The country stood on the precipice of an economic crisis.",
+          "translation": "その国は経済危機の瀬戸際に立っていた。",
+          "note": "ラテン語 praeceps に関連。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "rainfall",
+          "pos": "名詞 U",
+          "ipa": "/ˈreɪnfɔːl/",
+          "meaning": "降雨、降雨量",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "Annual rainfall has declined significantly over the past decade.",
+          "translation": "過去10年間で年間降雨量は大幅に減少した。",
+          "note": "雨だけを指す。"
+        },
+        {
+          "word": "snowfall",
+          "pos": "名詞 U/C",
+          "ipa": "/ˈsnoʊfɔːl/",
+          "meaning": "降雪、降雪量",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 1,
+          "example": "Heavy snowfall disrupted transportation across the region.",
+          "translation": "大雪が地域全体の交通に支障をきたした。",
+          "note": "雪に限定。"
+        },
+        {
+          "word": "downpour",
+          "pos": "名詞 C",
+          "ipa": "/ˈdaʊnpɔːr/",
+          "meaning": "土砂降り",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 1,
+          "example": "An unexpected downpour flooded several streets.",
+          "translation": "突然の土砂降りで複数の道路が冠水した。",
+          "note": "短時間の激しい雨。"
+        },
+        {
+          "word": "sedimentation",
+          "pos": "名詞 U",
+          "ipa": "/ˌsedɪmenˈteɪʃən/",
+          "meaning": "堆積、沈降",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "Sedimentation gradually reduced the reservoir's storage capacity.",
+          "translation": "堆積によって貯水池の貯水容量が徐々に減少した。",
+          "note": "粒子の沈降・堆積。"
+        },
+        {
+          "word": "deposition",
+          "pos": "名詞 U/C",
+          "ipa": "/ˌdepəˈzɪʃən/",
+          "meaning": "堆積、沈着",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Sediment deposition altered the shape of the river delta.",
+          "translation": "堆積物の堆積によって河口デルタの形状が変化した。",
+          "note": "物質がある場所に積もる・付着する。"
+        }
+      ],
+      "comparison": "precipitation は雨・雪・みぞれ・ひょうなどの降水全般、rainfall は雨のみ、snowfall は雪のみ、downpour は激しい雨。化学での precipitation（沈殿）は sedimentation（粒子の沈降・堆積）や deposition（物質の堆積・沈着）と区別する。"
     }
   ]
 }
