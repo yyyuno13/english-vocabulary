@@ -6924,6 +6924,178 @@
         }
       ],
       "comparison": "comparative は比較に関する。relative は相対的、contrasting は対照的、analogous は構造的に類似、equivalent は同等、commensurate は釣り合う。"
+    },
+    {
+      "id": "excavate",
+      "word": "excavate",
+      "pos": "動詞 T/I",
+      "ipa": "/ˈekskəveɪt/",
+      "meaning": "掘削する、発掘する；（比喩）埋もれた情報を掘り起こす",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 2,
+      "etymology": "ラテン語 excavare（くり抜く、穴を掘る）から。ex-（外へ）＋ cavus（中が空洞の、くぼんだ）に由来。cav- は cave、cavity、concave と同語源。",
+      "core": "中に詰まっているものを取り除き、空洞を作る。考古学では土を慎重に除去して遺物や遺構を調べる。",
+      "usage": "excavate an archaeological site（遺跡を発掘する）、excavate artifacts（遺物を発掘する）、excavate the ground（地面を掘削する）、excavate a tunnel（トンネルを掘削する）、excavate foundations（基礎部分を掘削する）。dig より専門的・計画的な語。",
+      "examples": [
+        [
+          "Archaeologists excavated the remains of an ancient settlement.",
+          "考古学者たちは古代集落の遺構を発掘した。"
+        ],
+        [
+          "The team excavated several pottery fragments from the site.",
+          "調査チームはその遺跡から複数の土器片を発掘した。"
+        ],
+        [
+          "Workers excavated a large area to prepare the building's foundations.",
+          "作業員たちは建物の基礎を設けるため、広い範囲を掘削した。"
+        ],
+        [
+          "Engineers used specialized machinery to excavate the tunnel.",
+          "技術者たちは特殊な機械を使ってトンネルを掘削した。"
+        ],
+        [
+          "The tomb was excavated more than a century after its discovery.",
+          "その墓は発見から100年以上たって発掘された。"
+        ],
+        [
+          "Researchers must excavate carefully to avoid damaging fragile artifacts.",
+          "研究者たちは壊れやすい遺物を傷つけないよう慎重に発掘しなければならない。"
+        ],
+        [
+          "The excavation revealed several distinct layers of sediment.",
+          "その掘削によって、いくつかの異なる堆積層が明らかになった。"
+        ],
+        [
+          "The historian excavated forgotten stories from old letters and diaries.",
+          "その歴史家は古い手紙や日記から忘れられた物語を掘り起こした。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "excavation",
+          "pos": "名詞 U/C",
+          "ipa": "/ˌekskəˈveɪʃən/",
+          "meaning": "発掘、掘削、発掘現場",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The excavation uncovered the foundations of a Roman villa.",
+          "translation": "その発掘によってローマ時代の別荘の基礎が発見された。",
+          "note": "excavate の名詞形。"
+        },
+        {
+          "word": "excavator",
+          "pos": "名詞 C",
+          "ipa": "/ˈekskəveɪtər/",
+          "meaning": "掘削機、発掘者",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "An excavator removed the soil from the construction site.",
+          "translation": "掘削機が建設現場の土を取り除いた。",
+          "note": "excavate の派生語。"
+        },
+        {
+          "word": "cavity",
+          "pos": "名詞 C",
+          "ipa": "/ˈkævəti/",
+          "meaning": "空洞、虫歯",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "The dentist found a small cavity in one of my molars.",
+          "translation": "歯科医は私の奥歯に小さな虫歯を見つけた。",
+          "note": "ラテン語 cavus（空洞の）と同語源。"
+        },
+        {
+          "word": "cave",
+          "pos": "名詞 C",
+          "ipa": "/keɪv/",
+          "meaning": "洞窟",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 1,
+          "example": "The explorers discovered paintings deep inside the cave.",
+          "translation": "探検家たちは洞窟の奥深くで壁画を発見した。",
+          "note": "cavus と同語源。"
+        },
+        {
+          "word": "concave",
+          "pos": "形容詞",
+          "ipa": "/kɑːnˈkeɪv/",
+          "meaning": "凹面の、内側に曲がった",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The mirror has a concave surface that focuses incoming light.",
+          "translation": "その鏡には入射光を集める凹面がある。",
+          "note": "cavus に由来。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "dig",
+          "pos": "動詞 T/I",
+          "ipa": "/dɪɡ/",
+          "meaning": "掘る",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The children dug a hole in the garden.",
+          "translation": "子どもたちは庭に穴を掘った。",
+          "note": "最も一般的な掘る。"
+        },
+        {
+          "word": "unearth",
+          "pos": "動詞 T",
+          "ipa": "/ʌnˈɜːrθ/",
+          "meaning": "掘り出す、発見する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Archaeologists unearthed a rare bronze statue.",
+          "translation": "考古学者たちは珍しい青銅像を発掘した。",
+          "note": "発見という結果に重点。"
+        },
+        {
+          "word": "uncover",
+          "pos": "動詞 T",
+          "ipa": "/ʌnˈkʌvər/",
+          "meaning": "覆いを取り除く、明らかにする",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The investigation uncovered evidence of financial misconduct.",
+          "translation": "その調査は財務上の不正行為を示す証拠を明らかにした。",
+          "note": "隠れたものを明らかにする。"
+        },
+        {
+          "word": "extract",
+          "pos": "動詞 T",
+          "ipa": "/ɪkˈstrækt/",
+          "meaning": "抜き出す、抽出する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company extracts minerals from underground deposits.",
+          "translation": "その企業は地下鉱床から鉱物を採掘している。",
+          "note": "必要な物質を取り出す。"
+        },
+        {
+          "word": "dredge",
+          "pos": "動詞 T/I",
+          "ipa": "/dredʒ/",
+          "meaning": "水底を浚渫する",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 2,
+          "example": "The port authority dredged the harbor to accommodate larger ships.",
+          "translation": "港湾当局は大型船を受け入れられるよう港を浚渫した。",
+          "note": "水底の土砂を除去する。"
+        }
+      ],
+      "comparison": "excavate は専門的・計画的な掘削・発掘、dig は一般的に掘る、unearth は埋まっていたものの発見、uncover は隠れたものを明らかにする、extract は必要なものを取り出す、dredge は水底の土砂を取り除く。"
     }
   ]
 }
