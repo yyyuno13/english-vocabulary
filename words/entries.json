@@ -6408,6 +6408,178 @@
         }
       ],
       "comparison": "compression＝圧力などによって押し縮める；compaction＝密に詰め固める；condensation＝凝縮・要約；reduction＝量を減らす；contraction＝規模が縮小する。ビジネスでは margin compression（利益率の圧迫）が重要。"
+    },
+    {
+      "id": "erosion",
+      "word": "erosion",
+      "pos": "名詞 U（通常）",
+      "ipa": "米 /ɪˈroʊʒən/・英 /ɪˈrəʊʒən/",
+      "meaning": "侵食、浸食、摩耗；信頼・価値・利益率などの漸減",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 erodere（かじり取る、削り取る）に由来。ex-（外へ）＋rodere（かじる）から成り、過去分詞 erosus の語幹 eros- に -ion が付いた形。rodent（齧歯類）も rodere に由来する。",
+      "core": "外部の作用が繰り返され、もともとあったものが少しずつ削り取られ、失われていく。自然の侵食から信頼・購買力・利益率の低下に広がる。",
+      "usage": "soil erosion（土壌侵食）、coastal erosion（海岸侵食）、wind erosion（風食）、erosion of trust（信頼の低下）、erosion of authority（権威の衰退）、erosion of purchasing power（購買力の低下）、margin erosion（利益率の漸減）。margin compression は圧迫による利益率縮小、margin erosion は徐々に削られることに重点。",
+      "examples": [
+        [
+          "Heavy rainfall can accelerate soil erosion on steep slopes.",
+          "激しい降雨は急斜面での土壌侵食を加速させることがある。"
+        ],
+        [
+          "Coastal erosion has threatened several villages along the shoreline.",
+          "海岸侵食によって海岸線沿いの複数の村が脅かされている。"
+        ],
+        [
+          "Over millions of years, erosion has shaped the surrounding landscape.",
+          "数百万年にわたり、侵食が周囲の地形を形作ってきた。"
+        ],
+        [
+          "Deforestation increases the risk of erosion by exposing the soil to wind and rain.",
+          "森林伐採は土壌を風雨にさらすため、侵食のリスクを高める。"
+        ],
+        [
+          "Repeated failures led to a gradual erosion of public trust.",
+          "度重なる失敗によって、公衆の信頼が徐々に失われた。"
+        ],
+        [
+          "Inflation causes an erosion of consumers' purchasing power.",
+          "インフレは消費者の購買力を低下させる。"
+        ],
+        [
+          "Rising labor costs have contributed to the erosion of profit margins.",
+          "人件費の上昇が利益率の低下につながっている。"
+        ],
+        [
+          "The erosion of democratic institutions can occur gradually rather than suddenly.",
+          "民主的制度の弱体化は、突然ではなく徐々に進行することがある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "erode",
+          "pos": "動詞 T/I",
+          "ipa": "/ɪˈroʊd/",
+          "meaning": "侵食する、徐々に損なう",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Persistent inflation can erode the real value of savings.",
+          "translation": "継続的なインフレは貯蓄の実質価値を徐々に目減りさせることがある。",
+          "note": "erosion の動詞形。"
+        },
+        {
+          "word": "erosive",
+          "pos": "形容詞",
+          "ipa": "/ɪˈroʊsɪv/",
+          "meaning": "侵食性の、徐々に損なう",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The erosive force of the river gradually widened the valley.",
+          "translation": "川の侵食力が谷を徐々に広げた。",
+          "note": "同じ語源の形容詞。"
+        },
+        {
+          "word": "rodent",
+          "pos": "名詞 C",
+          "ipa": "/ˈroʊdənt/",
+          "meaning": "齧歯類",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "Rodents have strong front teeth adapted for gnawing.",
+          "translation": "齧歯類には、かじることに適した丈夫な前歯がある。",
+          "note": "ラテン語 rodere（かじる）に由来。"
+        },
+        {
+          "word": "corrosion",
+          "pos": "名詞 U",
+          "ipa": "/kəˈroʊʒən/",
+          "meaning": "腐食、徐々に損なうこと",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Saltwater exposure can accelerate the corrosion of steel structures.",
+          "translation": "海水への曝露は鉄鋼構造物の腐食を加速させることがある。",
+          "note": "com-＋rodere に由来。"
+        },
+        {
+          "word": "corrode",
+          "pos": "動詞 T/I",
+          "ipa": "/kəˈroʊd/",
+          "meaning": "腐食する、徐々にむしばむ",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Moisture can corrode metal surfaces over time.",
+          "translation": "湿気は時間とともに金属表面を腐食させることがある。",
+          "note": "rodere と同語源。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "weathering",
+          "pos": "名詞 U",
+          "ipa": "/ˈweðərɪŋ/",
+          "meaning": "風化、岩石などの変質・崩壊",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "Weathering gradually breaks down rocks at the Earth's surface.",
+          "translation": "風化は地表の岩石を徐々に分解する。",
+          "note": "その場で変質・崩壊する過程。"
+        },
+        {
+          "word": "abrasion",
+          "pos": "名詞 U/C",
+          "ipa": "/əˈbreɪʒən/",
+          "meaning": "摩耗、こすれによる削れ",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Repeated friction caused abrasion of the protective coating.",
+          "translation": "繰り返される摩擦によって保護膜が摩耗した。",
+          "note": "摩擦による物理的な削れ。"
+        },
+        {
+          "word": "deterioration",
+          "pos": "名詞 U",
+          "ipa": "/dɪˌtɪriəˈreɪʃən/",
+          "meaning": "悪化、劣化",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The deterioration of infrastructure poses serious economic risks.",
+          "translation": "インフラの老朽化は重大な経済的リスクをもたらす。",
+          "note": "状態の悪化を広く表す。"
+        },
+        {
+          "word": "depletion",
+          "pos": "名詞 U",
+          "ipa": "/dɪˈpliːʃən/",
+          "meaning": "資源・蓄積などの枯渇",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The depletion of groundwater has become a major environmental concern.",
+          "translation": "地下水の枯渇は重大な環境問題になっている。",
+          "note": "蓄積が使われ減る。"
+        },
+        {
+          "word": "degradation",
+          "pos": "名詞 U",
+          "ipa": "/ˌdeɡrəˈdeɪʃən/",
+          "meaning": "品質・環境などの劣化",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Soil degradation can reduce agricultural productivity.",
+          "translation": "土壌の劣化は農業生産性を低下させることがある。",
+          "note": "品質や機能の低下。"
+        }
+      ],
+      "comparison": "erosion は外部作用で徐々に削り取られること。weathering はその場での風化・変質、abrasion は摩擦による摩耗、deterioration は状態の悪化、depletion は資源・蓄積の減少、degradation は品質・機能の低下。"
     }
   ]
 }
