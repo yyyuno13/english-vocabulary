@@ -5756,6 +5756,142 @@
         }
       ],
       "comparison": "strike は打つ・強い印象を与えるなど幅広い。hit は日常的な打撃、impact は結果としての影響、impress は好印象、occur は考えが浮かぶこと、negotiate は交渉過程、stun は強い驚きを表す。"
+    },
+    {
+      "id": "scenery",
+      "word": "scenery",
+      "pos": "名詞 U",
+      "ipa": "/ˈsiːnəri/",
+      "meaning": "景色、風景；（演劇の）舞台装置・書き割り",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 2,
+      "etymology": "scene（場面・舞台）＋-ery（集合・関連するもの）。scene はラテン語 scaena を経て古代ギリシャ語 skēnē（舞台の建物、テント）に由来。演劇の舞台を指す語から風景全体の意味に発展。",
+      "core": "目の前に広がる、ひとまとまりの風景。山・空・湖・森林など周囲の景色全体を捉える。",
+      "usage": "原則として不可算名詞。beautiful scenery は正しいが a beautiful scenery / many sceneries は通常不可。breathtaking scenery（息をのむ風景）、spectacular scenery（壮観な風景）、mountain scenery（山岳風景）、enjoy the scenery（景色を楽しむ）、a change of scenery（気分転換）。",
+      "examples": [
+        [
+          "New Zealand is famous for its breathtaking scenery.",
+          "ニュージーランドは息をのむような景色で有名だ。"
+        ],
+        [
+          "The scenery around the lake was absolutely stunning.",
+          "湖の周囲の景色は本当に見事だった。"
+        ],
+        [
+          "We stopped several times along the road to admire the scenery.",
+          "私たちは景色を眺めるため、道中で何度か立ち止まった。"
+        ],
+        [
+          "The train journey offers spectacular mountain scenery.",
+          "その列車の旅では壮観な山岳風景を楽しめる。"
+        ],
+        [
+          "I need a change of scenery after spending all week in the office.",
+          "一週間ずっとオフィスにいたので、気分転換が必要だ。"
+        ],
+        [
+          "The region attracts tourists with its diverse natural scenery.",
+          "その地域は変化に富んだ自然の風景で観光客を引きつけている。"
+        ],
+        [
+          "The scenery for the play was designed to resemble a medieval village.",
+          "その劇の舞台装置は中世の村を模して設計された。"
+        ],
+        [
+          "The development project raised concerns about preserving the area's natural scenery.",
+          "その開発計画は地域の自然景観の保全について懸念を生んだ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "scene",
+          "pos": "名詞 C",
+          "ipa": "/siːn/",
+          "meaning": "場面、現場、光景",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The final scene of the movie was particularly moving.",
+          "translation": "映画の最後の場面は特に感動的だった。",
+          "note": "同じ語源の基礎語。"
+        },
+        {
+          "word": "scenic",
+          "pos": "形容詞",
+          "ipa": "/ˈsiːnɪk/",
+          "meaning": "景色のよい、風光明媚な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "We took a scenic route through the mountains.",
+          "translation": "私たちは山々を通る景色のよいルートを選んだ。",
+          "note": "scene の派生語。"
+        },
+        {
+          "word": "scenario",
+          "pos": "名詞 C",
+          "ipa": "/səˈnɛrioʊ/",
+          "meaning": "想定される状況、シナリオ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "We need to prepare for the worst-case scenario.",
+          "translation": "私たちは最悪の事態に備える必要がある。",
+          "note": "イタリア語の演劇用語を経由し scene と歴史的につながる。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "landscape",
+          "pos": "名詞 C",
+          "ipa": "/ˈlændskeɪp/",
+          "meaning": "景観、地形を含む風景",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The volcanic landscape was unlike anything I had seen before.",
+          "translation": "火山地帯の景観は、それまで見たことのないものだった。",
+          "note": "地形や地理的特徴に重点。"
+        },
+        {
+          "word": "view",
+          "pos": "名詞 C",
+          "ipa": "/vjuː/",
+          "meaning": "眺め、特定の場所から見える景色",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "Our hotel room had a wonderful view of the mountains.",
+          "translation": "ホテルの部屋から山々の素晴らしい眺めが楽しめた。",
+          "note": "ある視点から見える景色。"
+        },
+        {
+          "word": "sight",
+          "pos": "名詞 C",
+          "ipa": "/saɪt/",
+          "meaning": "目に見えるもの、光景、名所",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The northern lights were an unforgettable sight.",
+          "translation": "オーロラは忘れられない光景だった。",
+          "note": "個々の光景や印象的な見もの。"
+        },
+        {
+          "word": "panorama",
+          "pos": "名詞 C",
+          "ipa": "/ˌpænəˈræmə/",
+          "meaning": "パノラマ、広がる全景",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "From the summit, we enjoyed a panorama of the surrounding valleys.",
+          "translation": "山頂から周囲の谷々を見渡すパノラマを楽しんだ。",
+          "note": "広範囲に広がる全景。"
+        }
+      ],
+      "comparison": "scenery＝周囲の風景全体（不可算）；landscape＝地形・土地の景観（可算）；view＝特定の場所からの眺め（可算）；sight＝個々の光景・見もの（可算）；panorama＝広範囲に広がる全景（可算）。"
     }
   ]
 }
