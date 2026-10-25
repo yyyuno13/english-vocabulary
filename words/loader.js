@@ -182,7 +182,7 @@
     const drawing=coreDiagrams[entry.id];
     if(!drawing){
       // Every dynamic entry gets a meaningful semantic diagram, even when no bespoke SVG exists.
-      const shorten=(value,n=30)=>String(value||'').replace(/\\s+/g,' ').slice(0,n);
+      const shorten=(value,n=30)=>String(value||'').replace(/\s+/g,' ').slice(0,n);
       const root=shorten(entry.etymology,34), core=shorten(entry.core,45);
       return '<figure class="core-diagram"><svg viewBox="0 0 340 154" role="img" aria-label="'+escapeHTML(entry.word)+' の語源とコアイメージ" xmlns="http://www.w3.org/2000/svg">'+
         '<rect x="8" y="12" width="324" height="48" rx="10" fill="#e0f2fe" stroke="#0e7490"/><text x="170" y="30" fill="#0f172a" font-size="11" text-anchor="middle">語源・出発点</text><text x="170" y="47" fill="#0f172a" font-size="11" text-anchor="middle">'+escapeHTML(root)+'</text>'+
