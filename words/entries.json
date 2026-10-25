@@ -6752,6 +6752,178 @@
         }
       ],
       "comparison": "precipitation は雨・雪・みぞれ・ひょうなどの降水全般、rainfall は雨のみ、snowfall は雪のみ、downpour は激しい雨。化学での precipitation（沈殿）は sedimentation（粒子の沈降・堆積）や deposition（物質の堆積・沈着）と区別する。"
+    },
+    {
+      "id": "comparative",
+      "word": "comparative",
+      "pos": "形容詞・名詞",
+      "ipa": "/kəmˈpærətɪv/",
+      "meaning": "比較の、比較による、相対的な；比較級",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 comparare（比較する、同等にする）から。com-（一緒に）と par（等しい）に関連する。compare と同語源。",
+      "core": "複数の対象を共通の基準で並べ、違いや共通点を明らかにする。",
+      "usage": "comparative analysis、comparative study、comparative advantage、comparative financial statements、comparative figures、comparative literature、comparative degree。comparative は比較に関する、comparable は比較可能な。",
+      "examples": [
+        [
+          "The report provides a comparative analysis of the two companies' financial performance.",
+          "その報告書は2社の財務業績について比較分析を提供している。"
+        ],
+        [
+          "The financial statements include comparative figures for the previous fiscal year.",
+          "財務諸表には前事業年度の比較数値が含まれている。"
+        ],
+        [
+          "Researchers conducted a comparative study of education systems in five countries.",
+          "研究者たちは5か国の教育制度について比較研究を行った。"
+        ],
+        [
+          "Countries benefit from trade by specializing in goods in which they have a comparative advantage.",
+          "各国は比較優位を持つ財の生産に特化することで貿易から利益を得られる。"
+        ],
+        [
+          "The company assessed its comparative strengths before entering the new market.",
+          "その企業は新市場への参入前に他社と比べた強みを評価した。"
+        ],
+        [
+          "The comparative form of good is better.",
+          "good の比較級は better である。"
+        ],
+        [
+          "She specializes in comparative literature.",
+          "彼女は比較文学を専門としている。"
+        ],
+        [
+          "The comparative data reveals differences in productivity.",
+          "比較データは生産性の違いを示している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "compare",
+          "pos": "動詞",
+          "ipa": "/kəmˈper/",
+          "meaning": "比較する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We compared actual results with the budget.",
+          "translation": "実績を予算と比較した。",
+          "note": "同語源。"
+        },
+        {
+          "word": "comparison",
+          "pos": "名詞",
+          "ipa": "/kəmˈpærɪsən/",
+          "meaning": "比較",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The comparison reveals key differences.",
+          "translation": "比較は重要な違いを示す。",
+          "note": "派生語。"
+        },
+        {
+          "word": "comparable",
+          "pos": "形容詞",
+          "ipa": "/ˈkɑːmpərəbəl/",
+          "meaning": "比較可能な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The analyst selected comparable companies.",
+          "translation": "アナリストは類似企業を選んだ。",
+          "note": "比較できること。"
+        },
+        {
+          "word": "parity",
+          "pos": "名詞",
+          "ipa": "/ˈpærəti/",
+          "meaning": "同等、均衡",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The policy aims to achieve pay parity.",
+          "translation": "方針は賃金の均衡を目指す。",
+          "note": "ラテン語 par（等しい）に由来。"
+        },
+        {
+          "word": "disparity",
+          "pos": "名詞",
+          "ipa": "/dɪˈspærəti/",
+          "meaning": "格差",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The report identified an income disparity.",
+          "translation": "報告書は所得格差を明らかにした。",
+          "note": "par（等しい）と関連。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "relative",
+          "pos": "形容詞",
+          "ipa": "/ˈrelətɪv/",
+          "meaning": "相対的な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Its relative position improved.",
+          "translation": "相対的な地位は改善した。",
+          "note": "他との関係で決まる。"
+        },
+        {
+          "word": "contrasting",
+          "pos": "形容詞",
+          "ipa": "/kənˈtræstɪŋ/",
+          "meaning": "対照的な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "They adopted contrasting approaches.",
+          "translation": "彼らは対照的な方法を採った。",
+          "note": "相違点を強調。"
+        },
+        {
+          "word": "analogous",
+          "pos": "形容詞",
+          "ipa": "/əˈnæləɡəs/",
+          "meaning": "類似した",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The situation is analogous to a past crisis.",
+          "translation": "その状況は過去の危機と似ている。",
+          "note": "構造の類似。"
+        },
+        {
+          "word": "equivalent",
+          "pos": "形容詞",
+          "ipa": "/ɪˈkwɪvələnt/",
+          "meaning": "同等の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The roles require equivalent experience.",
+          "translation": "その職務には同等の経験が必要だ。",
+          "note": "価値・程度が同等。"
+        },
+        {
+          "word": "commensurate",
+          "pos": "形容詞",
+          "ipa": "/kəˈmenʃərət/",
+          "meaning": "釣り合った",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 4,
+          "example": "Pay should be commensurate with responsibility.",
+          "translation": "給与は責任に見合うべきだ。",
+          "note": "基準に相応しい。"
+        }
+      ],
+      "comparison": "comparative は比較に関する。relative は相対的、contrasting は対照的、analogous は構造的に類似、equivalent は同等、commensurate は釣り合う。"
     }
   ]
 }
