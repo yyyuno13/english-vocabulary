@@ -6064,6 +6064,166 @@
         }
       ],
       "comparison": "temperate は気候や態度が極端でないこと。mild は穏やかで厳しくないこと、moderate は程度が中くらいであること、restrained は意識的な抑制、measured は慎重な判断、balmy は心地よい暖かさを表す。"
+    },
+    {
+      "id": "tectonic",
+      "word": "tectonic",
+      "pos": "形容詞",
+      "ipa": "米 /tekˈtɑːnɪk/・英 /tekˈtɒnɪk/",
+      "meaning": "地殻構造の、プレート運動に関する；（比喩）根本的・大規模な",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 3,
+      "etymology": "古代ギリシャ語 téktōn（大工、建築者、職人）に由来し、tektonikós（建築・構造に関する）から発達。tecton- は建築者に由来する語幹、-ic は「〜に関する」を意味する形容詞語尾。地質学で地球の構造形成や地殻変動を指すようになった。",
+      "core": "巨大な構造を形成し、動かし、変化させる力。地球の構造変化から、社会・経済の根本的な変化にも比喩的に用いる。",
+      "usage": "tectonic plates（プレート）、tectonic activity（地殻変動）、tectonic forces（地殻を変形させる力）、plate tectonics（プレートテクトニクス）、tectonic shift（構造を根底から変える大きな変化）。比喩では tectonic shift が特に重要。",
+      "examples": [
+        [
+          "The Earth's outer shell is divided into several major tectonic plates.",
+          "地球の外側の殻はいくつかの主要なプレートに分かれている。"
+        ],
+        [
+          "Most earthquakes occur along tectonic plate boundaries.",
+          "多くの地震はプレート境界に沿って発生する。"
+        ],
+        [
+          "The Himalayas were formed by tectonic forces acting over millions of years.",
+          "ヒマラヤ山脈は数百万年にわたって作用した地殻変動の力によって形成された。"
+        ],
+        [
+          "The region experiences intense tectonic and volcanic activity.",
+          "その地域では活発な地殻変動と火山活動が見られる。"
+        ],
+        [
+          "Scientists study tectonic movements to understand the evolution of continents.",
+          "科学者たちは大陸の進化を理解するためにプレートの動きを研究している。"
+        ],
+        [
+          "The rise of artificial intelligence could trigger a tectonic shift in the global economy.",
+          "人工知能の発展は世界経済に根本的な構造変化を引き起こす可能性がある。"
+        ],
+        [
+          "The industry is undergoing a tectonic transformation driven by new technologies.",
+          "その業界は新技術によって根本的な変革の最中にある。"
+        ],
+        [
+          "The agreement marked a tectonic shift in regional political relations.",
+          "その合意は地域の政治関係における大きな構造転換を示した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "tectonics",
+          "pos": "名詞 U",
+          "ipa": "/tekˈtɑːnɪks/",
+          "meaning": "地殻構造学、テクトニクス",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "Plate tectonics explains the movement of Earth's lithospheric plates.",
+          "translation": "プレートテクトニクスは地球のリソスフェアを構成するプレートの運動を説明する。",
+          "note": "tectonic の関連語。"
+        },
+        {
+          "word": "architect",
+          "pos": "名詞 C",
+          "ipa": "/ˈɑːrkɪtekt/",
+          "meaning": "建築家、設計者",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The architect designed a building that could withstand earthquakes.",
+          "translation": "その建築家は地震に耐えられる建物を設計した。",
+          "note": "ギリシャ語 arkhitéktōn（棟梁）に由来し、téktōn を共有。"
+        },
+        {
+          "word": "architecture",
+          "pos": "名詞 U",
+          "ipa": "/ˈɑːrkɪtektʃər/",
+          "meaning": "建築、構造、設計思想",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company redesigned its software architecture to improve scalability.",
+          "translation": "その会社は拡張性を高めるためソフトウェアの設計構造を見直した。",
+          "note": "architect と同系統。"
+        },
+        {
+          "word": "tectonism",
+          "pos": "名詞 U",
+          "ipa": "/ˈtektənɪzəm/",
+          "meaning": "地殻変動作用",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The mountain range shows evidence of ancient tectonism.",
+          "translation": "その山脈には古代の地殻変動作用の痕跡が見られる。",
+          "note": "地質学専門語。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "geological",
+          "pos": "形容詞",
+          "ipa": "/ˌdʒiːəˈlɑːdʒɪkəl/",
+          "meaning": "地質学的な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "The geological history of the island spans millions of years.",
+          "translation": "その島の地質学的な歴史は数百万年に及ぶ。",
+          "note": "地質全般に関する広い概念。"
+        },
+        {
+          "word": "seismic",
+          "pos": "形容詞",
+          "ipa": "/ˈsaɪzmɪk/",
+          "meaning": "地震の、激震的な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The announcement caused a seismic shift in investor sentiment.",
+          "translation": "その発表は投資家心理に激震的な変化をもたらした。",
+          "note": "衝撃や突然性を強調。"
+        },
+        {
+          "word": "structural",
+          "pos": "形容詞",
+          "ipa": "/ˈstrʌktʃərəl/",
+          "meaning": "構造上の、構造的な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The economy faces structural challenges that cannot be solved by short-term measures.",
+          "translation": "その経済は短期的な対策では解決できない構造的な課題に直面している。",
+          "note": "仕組みや構造に関する中立的表現。"
+        },
+        {
+          "word": "fundamental",
+          "pos": "形容詞",
+          "ipa": "/ˌfʌndəˈmentəl/",
+          "meaning": "根本的な、基礎的な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The reform represents a fundamental change in how the organization operates.",
+          "translation": "その改革は組織の運営方法に根本的な変化をもたらす。",
+          "note": "本質に関わる変化。"
+        },
+        {
+          "word": "transformative",
+          "pos": "形容詞",
+          "ipa": "/trænsˈfɔːrmətɪv/",
+          "meaning": "変革をもたらす",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Digital technology has had a transformative impact on the financial industry.",
+          "translation": "デジタル技術は金融業界に変革的な影響を与えてきた。",
+          "note": "変化の結果に重点。"
+        }
+      ],
+      "comparison": "tectonic shift は地殻変動の比喩で長期的・構造的な大変化。seismic shift は衝撃的・劇的な変化。structural change は仕組み自体の変化を中立的に表し、fundamental change は本質的な変化、transformative change は変革をもたらす変化を表す。"
     }
   ]
 }
