@@ -7096,6 +7096,178 @@
         }
       ],
       "comparison": "excavate は専門的・計画的な掘削・発掘、dig は一般的に掘る、unearth は埋まっていたものの発見、uncover は隠れたものを明らかにする、extract は必要なものを取り出す、dredge は水底の土砂を取り除く。"
+    },
+    {
+      "id": "plateaus",
+      "word": "plateaus",
+      "pos": "名詞（plateau の複数形）・動詞（plateau の三人称単数現在形）",
+      "ipa": "米 /plæˈtoʊz/・英 /ˈplætəʊz/",
+      "meaning": "高原・台地（複数）；横ばいになる・頭打ちになる（三人称単数）",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "フランス語 plateau（平らな高台、台地）から。フランス語 plat（平らな）と関連し、俗ラテン語 plattus（平らな）に遡る。plateaus は英語の規則的な複数形で、plateaux という複数形もある。",
+      "core": "上昇した先に平らな状態が続く。地形の高原から、売上・成長・学習進捗が横ばいになる意味に発展。",
+      "usage": "reach/hit a plateau（停滞期に入る）、sales plateau（売上が頭打ちになる）、growth plateaus（成長が横ばいになる）、a learning plateau（学習の停滞期）、a high plateau（高原）。動詞 plateau は plateaued, plateauing と活用。",
+      "examples": [
+        [
+          "The region consists of several plateaus separated by deep valleys.",
+          "その地域は深い谷によって隔てられたいくつかの高原から成っている。"
+        ],
+        [
+          "After three years of rapid growth, the company's sales began to plateau.",
+          "3年間の急成長の後、その企業の売上は頭打ちになり始めた。"
+        ],
+        [
+          "Operating margins plateaued at around 15%.",
+          "営業利益率は約15％で横ばいになった。"
+        ],
+        [
+          "Language learners often hit a plateau after making rapid initial progress.",
+          "語学学習者は初期に急速な上達を遂げた後、しばしば停滞期に入る。"
+        ],
+        [
+          "The temperature rose steadily before reaching a plateau.",
+          "温度は着実に上昇した後、一定の水準に達した。"
+        ],
+        [
+          "Population growth is expected to plateau over the next decade.",
+          "人口増加は今後10年間で横ばいになると予想されている。"
+        ],
+        [
+          "The management team is exploring new markets because domestic demand has plateaued.",
+          "国内需要が頭打ちになっているため、経営陣は新市場を模索している。"
+        ],
+        [
+          "Productivity gains eventually plateaued despite continued investment in technology.",
+          "技術への投資を継続したにもかかわらず、生産性の改善は最終的に頭打ちになった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "plateau",
+          "pos": "名詞・動詞",
+          "ipa": "米 /plæˈtoʊ/・英 /ˈplætəʊ/",
+          "meaning": "高原、横ばい状態；横ばいになる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Sales reached a plateau.",
+          "translation": "売上は横ばいの状態に達した。",
+          "note": "plateaus の単数形・原形。"
+        },
+        {
+          "word": "plateaued",
+          "pos": "動詞（過去形・過去分詞）",
+          "ipa": "/plæˈtoʊd/",
+          "meaning": "横ばいになった",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Demand plateaued after the initial surge.",
+          "translation": "需要は当初の急増後に横ばいとなった。",
+          "note": "plateau の活用形。"
+        },
+        {
+          "word": "plateauing",
+          "pos": "動詞（現在分詞）",
+          "ipa": "/plæˈtoʊɪŋ/",
+          "meaning": "横ばいになりつつある",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The market is showing signs of plateauing.",
+          "translation": "市場には成長が頭打ちになりつつある兆候が見られる。",
+          "note": "plateau の活用形。"
+        },
+        {
+          "word": "plate",
+          "pos": "名詞",
+          "ipa": "/pleɪt/",
+          "meaning": "皿、板",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The technician placed the sample on a metal plate.",
+          "translation": "技術者は試料を金属板の上に置いた。",
+          "note": "平らなものに関する語源的関連。"
+        },
+        {
+          "word": "platform",
+          "pos": "名詞",
+          "ipa": "/ˈplætfɔːrm/",
+          "meaning": "台、基盤",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "The company developed a platform for online transactions.",
+          "translation": "その企業はオンライン取引のための基盤を開発した。",
+          "note": "flat な台の意味に関連するが plateau の直接派生語ではない。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "stabilize",
+          "pos": "動詞 T/I",
+          "ipa": "/ˈsteɪbəlaɪz/",
+          "meaning": "安定する・させる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Inflation stabilized at around 2%.",
+          "translation": "インフレ率は約2％で安定した。",
+          "note": "上昇後とは限らず変動が小さくなる。"
+        },
+        {
+          "word": "level off",
+          "pos": "句動詞 I",
+          "ipa": "/ˈlevəl ɔːf/",
+          "meaning": "横ばいになる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Revenue growth began to level off in the second half of the year.",
+          "translation": "売上高の成長は年後半に横ばいになり始めた。",
+          "note": "上昇・下降の傾きがなくなる。"
+        },
+        {
+          "word": "stagnate",
+          "pos": "動詞 I",
+          "ipa": "/ˈstæɡneɪt/",
+          "meaning": "停滞する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The economy stagnated despite government stimulus measures.",
+          "translation": "政府の景気刺激策にもかかわらず、経済は停滞した。",
+          "note": "成長・活動の停滞という否定的な含み。"
+        },
+        {
+          "word": "peak",
+          "pos": "動詞 I/T",
+          "ipa": "/piːk/",
+          "meaning": "頂点に達する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Demand peaked in the summer and declined afterward.",
+          "translation": "需要は夏にピークを迎え、その後減少した。",
+          "note": "最高点に達するがその後横ばいとは限らない。"
+        },
+        {
+          "word": "flatten",
+          "pos": "動詞 T/I",
+          "ipa": "/ˈflætən/",
+          "meaning": "平らになる・する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The growth curve gradually flattened.",
+          "translation": "成長曲線は徐々に平坦になった。",
+          "note": "グラフの傾きが小さくなる。"
+        }
+      ],
+      "comparison": "plateau は上昇後に横ばいになる。level off は上昇・下降の傾きがなくなる。stabilize は変動が小さくなり安定する。stagnate は成長・進歩が停滞する。peak は最高点に達する。flatten は曲線や傾きが平らになる。"
     }
   ]
 }
