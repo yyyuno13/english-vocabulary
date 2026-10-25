@@ -5584,6 +5584,178 @@
         }
       ],
       "comparison": "preserve＝元の状態や価値を失わないよう守る／protect＝危険・損害から守る／maintain＝状態・水準を維持する／conserve＝資源を保全・節約する／retain＝手放さず保持する／safeguard＝リスクから安全を確保する／sustain＝活動や状態を持続させる。preserve a historic building は歴史的価値を守る、maintain a building は建物を良好に保守する。"
+    },
+    {
+      "id": "strike",
+      "word": "strike",
+      "pos": "動詞 T/I・名詞 C",
+      "ipa": "/straɪk/",
+      "meaning": "打つ、衝突する；災害などが襲う；強い印象を与える；突然気づく；ストライキをする；契約を結ぶ；一打、ストライキ",
+      "difficulty": 4,
+      "daily": 5,
+      "business": 4,
+      "etymology": "古英語 strīcan（こする、なでる、動かす）に由来するゲルマン語系の語。現代英語で str- と -ike に分解するのは不適切。こする・触れるから打つ・衝突するなどへ意味が発展した。",
+      "core": "何かに強く当たり、影響や変化を与える。物理的な衝突から、心理的な衝撃や社会的な行動へ意味が広がる。",
+      "usage": "活用 strike–struck–struck（stricken も特定の用法で使用）。strike a balance（バランスを取る）、strike a deal（契約をまとめる）、strike someone as ...（人に…という印象を与える）、It struck me that ...（突然…と気づいた）、go on strike（ストライキをする）、strike a provision（条項を削除する）。",
+      "examples": [
+        [
+          "The ball struck the window and shattered the glass.",
+          "ボールが窓に当たり、ガラスが粉々になった。"
+        ],
+        [
+          "A powerful earthquake struck the region early in the morning.",
+          "早朝、その地域を強い地震が襲った。"
+        ],
+        [
+          "She strikes me as a highly competent manager.",
+          "彼女は非常に有能な管理職だという印象を受ける。"
+        ],
+        [
+          "It suddenly struck me that we had overlooked an important detail.",
+          "重要な細部を見落としていたことに突然気づいた。"
+        ],
+        [
+          "The workers went on strike to demand better working conditions.",
+          "労働者たちは労働条件の改善を求めてストライキを行った。"
+        ],
+        [
+          "The two companies finally struck a deal after months of negotiations.",
+          "数か月に及ぶ交渉の末、両社はついに合意に達した。"
+        ],
+        [
+          "We need to strike a balance between profitability and long-term sustainability.",
+          "収益性と長期的な持続可能性のバランスを取る必要がある。"
+        ],
+        [
+          "The committee decided to strike the provision from the final agreement.",
+          "委員会は最終合意書からその条項を削除することを決定した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "striking",
+          "pos": "形容詞",
+          "ipa": "/ˈstraɪkɪŋ/",
+          "meaning": "印象的な、際立った",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "There is a striking difference between the two financial forecasts.",
+          "translation": "2つの財務予測には著しい違いがある。",
+          "note": "strike の現在分詞に由来。"
+        },
+        {
+          "word": "striker",
+          "pos": "名詞 C",
+          "ipa": "/ˈstraɪkər/",
+          "meaning": "ストライキ参加者、攻撃手",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The team's leading striker scored twice.",
+          "translation": "チームの主力ストライカーが2得点を挙げた。",
+          "note": "strike の派生語。"
+        },
+        {
+          "word": "stricken",
+          "pos": "形容詞・過去分詞",
+          "ipa": "/ˈstrɪkən/",
+          "meaning": "苦しめられた、打ちのめされた",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The government provided assistance to flood-stricken communities.",
+          "translation": "政府は洪水の被害を受けた地域社会に支援を提供した。",
+          "note": "strike の過去分詞形に由来。"
+        },
+        {
+          "word": "stroke",
+          "pos": "名詞 C",
+          "ipa": "/stroʊk/",
+          "meaning": "一打、ひとなで、脳卒中",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "He suffered a stroke last year.",
+          "translation": "彼は昨年、脳卒中を起こした。",
+          "note": "ゲルマン語系の歴史的関連語。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "hit",
+          "pos": "動詞 T・名詞",
+          "ipa": "/hɪt/",
+          "meaning": "打つ、当たる",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 3,
+          "example": "The car hit a tree.",
+          "translation": "車が木に衝突した。",
+          "note": "strike より日常的。"
+        },
+        {
+          "word": "impact",
+          "pos": "動詞 T・名詞",
+          "ipa": "/ɪmˈpækt/",
+          "meaning": "衝突する、影響を与える",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The new regulations could significantly impact small businesses.",
+          "translation": "新しい規制は中小企業に大きな影響を与える可能性がある。",
+          "note": "結果や影響に重点。"
+        },
+        {
+          "word": "impress",
+          "pos": "動詞 T",
+          "ipa": "/ɪmˈpres/",
+          "meaning": "好印象を与える",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Her presentation impressed the board.",
+          "translation": "彼女のプレゼンテーションは取締役会に好印象を与えた。",
+          "note": "通常は好意的な印象。"
+        },
+        {
+          "word": "occur",
+          "pos": "動詞 I",
+          "ipa": "/əˈkɝː/",
+          "meaning": "起こる、思い浮かぶ",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "It never occurred to me that the figures might be inaccurate.",
+          "translation": "その数値が不正確かもしれないとは思いもしなかった。",
+          "note": "考えが浮かぶこと自体に重点。"
+        },
+        {
+          "word": "negotiate",
+          "pos": "動詞 T/I",
+          "ipa": "/nɪˈɡoʊʃieɪt/",
+          "meaning": "交渉する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The parties negotiated the terms of the agreement.",
+          "translation": "当事者たちは契約条件について交渉した。",
+          "note": "交渉の過程に重点。"
+        },
+        {
+          "word": "stun",
+          "pos": "動詞 T",
+          "ipa": "/stʌn/",
+          "meaning": "強い衝撃や驚きを与える",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The unexpected announcement stunned investors.",
+          "translation": "予想外の発表は投資家たちに衝撃を与えた。",
+          "note": "強い驚きやショック。"
+        }
+      ],
+      "comparison": "strike は打つ・強い印象を与えるなど幅広い。hit は日常的な打撃、impact は結果としての影響、impress は好印象、occur は考えが浮かぶこと、negotiate は交渉過程、stun は強い驚きを表す。"
     }
   ]
 }
