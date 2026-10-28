@@ -230,7 +230,11 @@
     const svg='<svg viewBox="0 0 340 184" role="img" aria-label="'+escapeHTML(id)+' の意味を示す個別概念図" xmlns="http://www.w3.org/2000/svg">'+art+t(85,173,left,12)+t(255,173,right,12)+'</svg>';
     return '<figure class="core-diagram" data-core-word="'+escapeHTML(id)+'">'+svg+'<figcaption>'+escapeHTML(description||left+' → '+right)+'</figcaption></figure>';
   };
-  const coreDiagram=entry=>conceptDiagram(entry.id,entry.core);
+  const coreDiagram=entry=>{
+    const drawing=coreDiagrams[entry.id];
+    if(!drawing)return conceptDiagram(entry.id,entry.core);
+    return '<figure class="core-diagram" data-core-word="'+escapeHTML(entry.id)+'"><svg viewBox="0 0 340 160" role="img" aria-label="'+escapeHTML(entry.word)+' の個別コアイメージ図" xmlns="http://www.w3.org/2000/svg">'+drawing+'</svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
+  };
   function annotateStaticCoreDiagrams(){
     document.querySelectorAll('main section.family').forEach(section=>{
       if(!semanticSpecs[section.id]||section.querySelector('.core-diagram'))return;
