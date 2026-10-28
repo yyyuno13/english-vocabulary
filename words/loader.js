@@ -111,7 +111,7 @@
     return '<div class="comparison-scroll"><table class="nuance-table"><thead><tr><th scope="col">単語</th><th scope="col">ニュアンス・使い分け</th></tr></thead><tbody>'+
       rows.map(([word,detail])=>'<tr><th scope="row">'+escapeHTML(word)+'</th><td>'+escapeHTML(detail)+'</td></tr>').join('')+'</tbody></table></div>';
   };
-  const comparisonRows=text=>String(text||'').split(/[／\n]/).map(s=>s.trim()).filter(Boolean).map(part=>{
+  // Legacy parser is retained for historical notes only. New entries use comparisonRows objects.\n  const comparisonRows=text=>String(text||'').split(/[／\n]/).map(s=>s.trim()).filter(Boolean).map(part=>{
     const m=part.match(/^([^＝=:：]+)[＝=:：]\s*(.+)$/);
     return m?[m[1].trim(),m[2].trim()]:['補足',part];
   });
@@ -165,6 +165,7 @@
   // Lightweight inline SVG core-image diagrams for selected words.
   // All labels and paths are fixed author-controlled markup (not JSON HTML).
   const coreDiagrams = {
+    clue: '<path d="M30 32 H112 V64 H60 V110 H144 V84 H206 V128 H292" fill="none" stroke="#94a3b8" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><path d="M30 32 H112 V64 H60 V110 H144 V84 H206 V128 H292" fill="none" stroke="#f8fafc" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M30 32 H112 V64 H60 V110 H144 V84 H206 V128 H292" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="5 4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="30" cy="32" r="10" fill="#f59e0b"/><circle cx="292" cy="128" r="12" fill="#16a34a"/><text x="47" y="16">糸玉</text><text x="262" y="109">出口</text><text x="166" y="54">糸をたどる</text>',
     divert: '<path d="M20 90 H320" stroke="currentColor" stroke-opacity=".22" stroke-width="3" stroke-dasharray="7 7"/><path d="M20 90 H145 Q170 90 190 64 L268 18" stroke="#2563eb" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M252 20 L271 16 L265 34" stroke="#2563eb" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="145" cy="90" r="6" fill="#ea580c"/><text x="64" y="75">元の進路</text><text x="267" y="48">別の行き先</text><text x="268" y="111">本来の行き先</text><text x="145" y="118">方向転換</text>',
     converge: '<path d="M30 20 L165 80 M30 140 L165 80 M310 20 L165 80 M310 140 L165 80" stroke="#2563eb" stroke-width="4" fill="none" stroke-linecap="round"/><circle cx="165" cy="80" r="10" fill="#16a34a"/><text x="165" y="58">一点に集まる</text><text x="165" y="113">converge</text>',
     reduce: '<path d="M28 130 H310" stroke="currentColor" stroke-opacity=".3" stroke-width="2"/><rect x="48" y="25" width="74" height="105" rx="5" fill="#2563eb" fill-opacity=".75"/><rect x="220" y="78" width="74" height="52" rx="5" fill="#16a34a" fill-opacity=".75"/><path d="M140 68 H201" stroke="currentColor" stroke-width="2.5"/><path d="M191 59 L202 68 L191 77" stroke="currentColor" stroke-width="2.5" fill="none"/><text x="85" y="147">100</text><text x="257" y="147">50</text><text x="170" y="44">量を減らす</text>',
@@ -264,7 +265,7 @@
       '<div class="field"><b>③ 基本情報と例文</b>'+escapeHTML(entry.usage)+'</div>'+examples+
       '<div class="related"><h3>④ 同語源の単語</h3>'+(entry.related||[]).map(x=>relatedCard(entry.id,x)).join('')+
       '<h3>⑤ 同義語・類義語</h3>'+(entry.synonyms||[]).map(x=>relatedCard(entry.id,x)).join('')+
-      '<div class="field"><b>ニュアンス比較</b>'+comparisonTable([[entry.word,entry.core],...(entry.synonyms||[]).map(item=>[item.word,item.note||item.meaning])])+'</div></div></section>';
+      '<div class="field"><b>ニュアンス比較</b>'+comparisonTable((entry.comparisonRows&&entry.comparisonRows.length?entry.comparisonRows.map(item=>[item.word,item.nuance]):[[entry.word,entry.core],...(entry.synonyms||[]).map(item=>[item.word,item.note||item.meaning])]))+'</div></div></section>';
   }
   try {
     const response=await fetch('./words/entries.json',{cache:'no-cache'});
@@ -405,6 +406,14 @@
       };
       search.addEventListener('input',event=>{event.stopImmediatePropagation();updateSearch();},true);
       updateSearch();
+    }
+    // Resolve deep links even when the requested chapter was created asynchronously.
+    const requested=decodeURIComponent(location.hash.slice(1));
+    const requestedTarget=document.getElementById(requested);
+    if(requestedTarget){
+      if(requestedTarget.closest('details'))requestedTarget.closest('details').open=true;
+      requestAnimationFrame(()=>requestedTarget.scrollIntoView({block:'start'}));
+      window.parent?.postMessage({type:'vocabulary-target-ready',id:requested},location.origin);
     }
     // If a URL points to a related word, make sure the target is visible.
     if(location.hash) {
