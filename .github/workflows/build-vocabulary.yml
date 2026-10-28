@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'words/entries.json'
+      - 'words/root-map.json'
       - 'templates/index.template.html'
       - 'scripts/build-vocabulary.cjs'
       - '.github/workflows/build-vocabulary.yml'
