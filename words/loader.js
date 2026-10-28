@@ -269,9 +269,15 @@
       '<div class="field"><b>ニュアンス比較</b>'+comparisonTable((entry.comparisonRows&&entry.comparisonRows.length?entry.comparisonRows.map(item=>[item.word,item.nuance]):[[entry.word,entry.core],...(entry.synonyms||[]).map(item=>[item.word,item.note||item.meaning])]))+'</div></div></section>';
   }
   try {
-    const response=await fetch('./words/entries.json',{cache:'no-cache'});
-    if(!response.ok) throw new Error('HTTP '+response.status);
-    const data=await response.json();
+    // Primary data is embedded in index.html, so chapters do not depend on a second network request.
+    const embedded=document.getElementById('vocabulary-data');
+    let data;
+    if(embedded){data=JSON.parse(embedded.textContent);}
+    else {
+      const response=await fetch('./words/entries.json',{cache:'no-store'});
+      if(!response.ok)throw new Error('HTTP '+response.status);
+      data=await response.json();
+    }
     annotateStaticGrammar();
     annotateStaticComparisons();
     const main=document.querySelector('main'), toc=document.getElementById('toc'), index=document.getElementById('word-index');
