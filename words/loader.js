@@ -178,19 +178,70 @@
     narrative: '<rect x="20" y="15" width="90" height="40" rx="7" fill="#64748b" fill-opacity=".12" stroke="#64748b"/><rect x="125" y="15" width="90" height="40" rx="7" fill="#64748b" fill-opacity=".12" stroke="#64748b"/><rect x="230" y="15" width="90" height="40" rx="7" fill="#64748b" fill-opacity=".12" stroke="#64748b"/><text x="65" y="40">Event A</text><text x="170" y="40">Event B</text><text x="275" y="40">Event C</text><path d="M65 60 V85 H275 V60 M170 85 V115" fill="none" stroke="#64748b" stroke-width="2"/><rect x="55" y="120" width="230" height="45" rx="10" fill="#2563eb" fill-opacity=".12" stroke="#2563eb"/><text x="170" y="148">Narrative</text>',
     preserve: '<rect x="12" y="32" width="90" height="65" rx="8" fill="#64748b" fill-opacity=".1" stroke="#64748b"/><circle cx="57" cy="66" r="16" fill="#16a34a" fill-opacity=".2" stroke="#16a34a"/><path d="M107 66 H155 M146 58 L155 66 L146 74" stroke="currentColor" fill="none" stroke-width="2"/><path d="M164 35 L194 25 L224 35 V63 Q220 84 194 96 Q168 84 164 63 Z" fill="#2563eb" fill-opacity=".1" stroke="#2563eb" stroke-width="2"/><path d="M181 60 L191 71 L208 49" fill="none" stroke="#16a34a" stroke-width="4"/><path d="M229 66 H270 M261 58 L270 66 L261 74" stroke="currentColor" fill="none" stroke-width="2"/><circle cx="300" cy="66" r="16" fill="#16a34a" fill-opacity=".2" stroke="#16a34a"/><text x="57" y="118">Original</text><text x="194" y="118">Preserve</text><text x="300" y="118">Retained</text>'
   };
-  const coreDiagram = entry => {
-    const drawing=coreDiagrams[entry.id];
-    if(!drawing){
-      // Every dynamic entry gets a meaningful semantic diagram, even when no bespoke SVG exists.
-      const shorten=(value,n=30)=>String(value||'').replace(/\s+/g,' ').slice(0,n);
-      const root=shorten(entry.etymology,34), core=shorten(entry.core,45);
-      return '<figure class="core-diagram"><svg viewBox="0 0 340 154" role="img" aria-label="'+escapeHTML(entry.word)+' の語源とコアイメージ" xmlns="http://www.w3.org/2000/svg">'+
-        '<rect x="8" y="12" width="324" height="48" rx="10" fill="#e0f2fe" stroke="#0e7490"/><text x="170" y="30" fill="#0f172a" font-size="11" text-anchor="middle">語源・出発点</text><text x="170" y="47" fill="#0f172a" font-size="11" text-anchor="middle">'+escapeHTML(root)+'</text>'+
-        '<path d="M170 61 V87 M164 81 L170 89 L176 81" stroke="#2563eb" stroke-width="2.5" fill="none"/>'+
-        '<rect x="8" y="94" width="324" height="48" rx="10" fill="#dcfce7" stroke="#15803d"/><text x="170" y="112" fill="#14532d" font-size="11" text-anchor="middle">現在のコアイメージ</text><text x="170" y="129" fill="#14532d" font-size="11" text-anchor="middle">'+escapeHTML(core)+'</text></svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
+
+  // Curated semantic diagrams: every headword has an explicit concept and diagram type.
+  const semanticSpecs={"hiatus":["gap","活動","空白期間"],"drowsiness":["fade","覚醒","眠気"],"predicament":["trap","困難","抜け出しにくい"],"compensation":["balance","損失","埋め合わせ"],"dilute":["spread","濃い","薄い"],"delegate":["transfer","自分の仕事","他者へ委任"],"flock-to":["gather","各地の人","一か所に集まる"],"subside":["fall","高い水準","落ち着く"],"circle-back":["cycle","話題","再び戻る"],"ulterior":["hidden","表向きの理由","隠れた目的"],"folk":["gather","個々の人","共同体"],"permissible":["gate","規則・基準","許容される"],"condescendingly":["hierarchy","相手を下に見る","上から話す"],"subsidy":["transfer","公的資金","支援対象"],"tolerable":["threshold","負担・不快","耐えられる範囲"],"amendment":["edit","元の規定","一部を修正"],"hilarious":["rise","面白さ","大笑い"],"speculation":["branch","手がかり","複数の推測"],"pave":["path","障害のある道","通れる道"],"candidly":["reveal","隠していたこと","率直に伝える"],"prominent":["standout","周囲","際立つ"],"preside":["center","参加者","議事を取り仕切る"],"literature":["gather","文字・記録","作品・文献群"],"malfunction":["break","正常な動作","不具合"],"incorporate":["merge","別々の要素","一つの全体"],"signify":["signal","見えるしるし","背後の意味"],"intriguing":["mystery","わからないこと","知りたい気持ち"],"infrared":["spectrum","可視光の赤","赤外線"],"faint":["fade","強い感覚","かすか"],"apparent":["reveal","見えているもの","明白／見かけ"],"transparent":["reveal","遮るもの","内部が見える"],"prevail":["contest","競い合う力","一方が優勢"],"plausible":["gate","説明・仮説","筋が通る"],"provincial":["center","中心都市","地方・周辺"],"converge":["gather","別々の方向","一点に近づく"],"compromise":["balance","対立する立場","歩み寄る"],"disruption":["break","連続した流れ","途中で断絶"],"reduce":["fall","大きい・多い","小さい・少ない"],"prosper":["rise","現在の状態","発展・繁栄"],"divert":["fork","元の進路","別方向へ"],"shimmering":["wave","光の反射","細かなきらめき"],"conventional":["standout","共通の型","慣習・標準"],"dimension":["axes","一つの対象","複数の側面"],"jury":["gather","証拠・証言","共同で評決"],"visibility":["reveal","見えにくい","はっきり見える"],"pigment":["spread","色の粒子","物に色を与える"],"narrative":["sequence","個々の出来事","一つの筋書き"],"preserve":["shield","守る対象","状態を維持"],"strike":["impact","動くもの","強く当たる"],"scenery":["panorama","山・空・湖","一つの風景"],"temperate":["balance","暑い・寒い","適度な状態"],"tectonic":["shift","巨大な地殻","構造が動く"],"compression":["squeeze","広い状態","押し縮める"],"erosion":["erode","元の地形","少しずつ削れる"],"precipitation":["rain","雲・大気","地表へ落ちる"],"comparative":["compare","対象A・対象B","共通基準で比較"],"excavate":["excavate","地中に埋まる","土を除き発掘"],"plateaus":["plateau","上昇する値","高い水準で横ばい"],"valid":["gate","条件・証拠","基準を満たす"]};
+  const conceptDiagram=(id,description='')=>{
+    const spec=semanticSpecs[id];if(!spec)return '';
+    const [kind,left,right]=spec;
+    const t=(x,y,value,size=12)=>'<text x="'+x+'" y="'+y+'" text-anchor="middle" font-size="'+size+'" fill="#334155">'+escapeHTML(value)+'</text>';
+    const line=(d,color='#2563eb',width=3)=>'<path d="'+d+'" fill="none" stroke="'+color+'" stroke-width="'+width+'" stroke-linecap="round" stroke-linejoin="round"/>';
+    const rect=(x,y,w,h,color='#e0f2fe')=>'<rect x="'+x+'" y="'+y+'" width="'+w+'" height="'+h+'" rx="9" fill="'+color+'" stroke="#94a3b8"/>';
+    let art='';
+    if(['rise','fall','plateau','fade','erode','wave','spectrum'].includes(kind)){
+      art=line('M26 140 H314 M26 140 V18','#94a3b8',1.5);
+      const shapes={rise:'M32 123 L88 114 L140 90 L195 66 L250 40 L305 23',fall:'M32 25 L88 45 L140 75 L195 100 L250 119 L305 127',plateau:'M32 130 L105 83 L167 45 L235 45 L305 45',fade:'M32 27 L90 52 L145 84 L205 109 L305 125',erode:'M32 38 L90 43 L145 62 L200 79 L255 101 L305 125',wave:'M32 83 Q54 30 76 83 T120 83 T164 83 T208 83 T252 83 T296 83',spectrum:'M32 100 H125 L125 100 L210 100 L210 100 L305 100'};
+      art+=line(shapes[kind],kind==='erode'?'#b45309':'#2563eb',4);
+      if(kind==='spectrum')art+='<rect x="34" y="75" width="165" height="45" rx="5" fill="#bfdbfe"/><rect x="199" y="75" width="103" height="45" rx="5" fill="#fecaca"/>'+line('M198 62 V132','#ef4444',2);
+      if(kind==='wave')art+=line('M32 112 Q54 59 76 112 T120 112 T164 112 T208 112 T252 112 T296 112','#60a5fa',2);
+    }else if(['gather','center','merge','contest','balance','compare','branch'].includes(kind)){
+      art+=rect(120,60,100,48,'#dcfce7');
+      if(kind==='compare'||kind==='balance'){art+=rect(18,60,75,48)+rect(247,60,75,48)+line('M94 84 H118 M222 84 H246');}
+      else if(kind==='branch'){art+=line('M170 60 L65 28 M170 60 L275 28 M170 108 L65 138 M170 108 L275 138');}
+      else {art+=rect(16,22,77,38)+rect(16,118,77,38)+rect(247,22,77,38)+rect(247,118,77,38)+line('M94 42 L119 68 M94 137 L119 100 M246 42 L221 68 M246 137 L221 100');}
+      art+=t(170,88,kind==='compare'?'比較':kind==='balance'?'調整':kind==='contest'?'優勢':kind==='branch'?'推測':'集約',13);
+    }else if(['gate','threshold','trap','shield','hidden','reveal','mystery'].includes(kind)){
+      art+=rect(30,46,108,76)+rect(204,46,108,76,'#dcfce7')+line('M139 84 H201 M191 77 L201 84 L191 91');
+      art+=t(84,89,kind==='hidden'?'表面':kind==='trap'?'困難':'入力');
+      art+=t(258,89,kind==='shield'?'保護':kind==='gate'?'承認':kind==='threshold'?'許容':'発見');
+      if(kind==='gate'||kind==='shield')art+=line('M250 103 L260 113 L279 94','#16a34a',4);
+    }else if(['fork','path','transfer','cycle','sequence','edit','signal','impact','break','shift','squeeze','excavate','rain','spread','panorama','standout','hierarchy','axes'].includes(kind)){
+      const special={
+      fork:line('M25 124 H125 Q153 124 177 88 L286 25')+line('M177 88 L286 124','#94a3b8',2),
+      path:line('M25 128 L90 111 L145 89 L205 65 L310 33','#16a34a',8),
+      transfer:rect(18,55,110,62)+rect(212,55,110,62,'#dcfce7')+line('M132 86 H207 M198 78 L207 86 L198 94'),
+      cycle:line('M70 94 C70 10 270 10 270 94 C270 170 70 170 70 94')+line('M257 82 L270 94 L280 80'),
+      sequence:rect(14,55,88,62)+rect(126,55,88,62)+rect(238,55,88,62)+line('M103 86 H125 M215 86 H237'),
+      edit:rect(35,45,115,78)+rect(190,45,115,78,'#dcfce7')+line('M151 85 H189')+line('M215 88 L235 104 L280 60','#16a34a',4),
+      signal:rect(26,55,104,64)+line('M130 87 H211')+rect(212,55,102,64,'#dcfce7'),
+      impact:line('M35 40 L160 95 L125 97 M160 95 L146 62')+line('M160 95 L245 95','#ea580c',5),
+      break:line('M25 85 H140 M200 85 H315')+line('M140 65 L160 105 L180 65 L200 85','#dc2626',4),
+      shift:rect(35,45,110,90)+rect(195,45,110,90,'#dcfce7')+line('M145 88 L194 66 M185 62 L194 66 L188 76'),
+      squeeze:rect(24,45,125,90)+rect(225,65,70,50,'#dcfce7')+line('M151 88 H221'),
+      excavate:'<path d="M24 55 H316 V138 H24Z" fill="#c4a484"/><path d="M130 55 V118 H220 V55" fill="#f8fafc" stroke="#92400e" stroke-width="3"/>'+line('M175 105 V23 M167 31 L175 23 L183 31'),
+      rain:'<path d="M110 50 Q90 16 125 18 Q148 0 175 22 Q205 5 220 34 Q250 38 238 57Z" fill="#bfdbfe" stroke="#2563eb"/>'+line('M135 70 L123 99 M180 70 L168 99 M225 70 L213 99')+line('M26 128 H314','#64748b',2),
+      spread:'<circle cx="68" cy="87" r="24" fill="#2563eb"/><circle cx="205" cy="48" r="9" fill="#2563eb"/><circle cx="260" cy="84" r="9" fill="#2563eb"/><circle cx="210" cy="124" r="9" fill="#2563eb"/>'+line('M99 87 H165 M156 79 L165 87 L156 95'),
+      panorama:'<path d="M20 130 L80 40 L130 110 L190 30 L260 118 L320 55 V145 H20Z" fill="#bbf7d0" stroke="#15803d"/>',
+      standout:'<circle cx="70" cy="90" r="13" fill="#94a3b8"/><circle cx="130" cy="90" r="13" fill="#94a3b8"/><circle cx="190" cy="62" r="22" fill="#2563eb"/><circle cx="260" cy="90" r="13" fill="#94a3b8"/>',
+      hierarchy:rect(115,15,110,42)+rect(35,105,110,42)+rect(195,105,110,42)+line('M170 58 V82 H90 V103 M170 82 H250 V103'),
+      axes:line('M70 120 H275 M70 120 V25 M70 120 L135 55')+line('M275 120 L265 114 M275 120 L265 126')
+      };art+=special[kind]||'';
     }
-    return '<figure class="core-diagram"><svg viewBox="0 0 340 160" role="img" aria-label="'+escapeHTML(entry.word)+' のコアイメージ図解" xmlns="http://www.w3.org/2000/svg">'+drawing+'</svg><figcaption>'+escapeHTML(entry.core)+'</figcaption></figure>';
+    const svg='<svg viewBox="0 0 340 184" role="img" aria-label="'+escapeHTML(id)+' の意味を示す個別概念図" xmlns="http://www.w3.org/2000/svg">'+art+t(85,173,left,12)+t(255,173,right,12)+'</svg>';
+    return '<figure class="core-diagram" data-core-word="'+escapeHTML(id)+'">'+svg+'<figcaption>'+escapeHTML(description||left+' → '+right)+'</figcaption></figure>';
   };
+  const coreDiagram=entry=>conceptDiagram(entry.id,entry.core);
+  function annotateStaticCoreDiagrams(){
+    document.querySelectorAll('main section.family').forEach(section=>{
+      if(!semanticSpecs[section.id]||section.querySelector('.core-diagram'))return;
+      const field=[...section.querySelectorAll(':scope > .field')].find(el=>el.querySelector('b')?.textContent.includes('コアイメージ'));
+      if(!field)return;
+      const description=field.textContent.replace(/^.*?コアイメージ/,'').trim();
+      field.insertAdjacentHTML('afterend',conceptDiagram(section.id,description));
+    });
+  }
+  document.addEventListener('DOMContentLoaded',annotateStaticCoreDiagrams,{once:true});
+  if(document.readyState!=='loading')annotateStaticCoreDiagrams();
   const diagramStyle=document.createElement('style');
   diagramStyle.textContent='.core-diagram{margin:12px 0 18px;padding:12px;border:1px solid var(--line,#ddd);border-radius:12px;background:var(--paper,#fff)}.core-diagram svg{display:block;width:100%;height:auto;max-height:220px}.core-diagram svg text{font-size:12px;fill:currentColor;text-anchor:middle}.core-diagram figcaption{margin-top:8px;font-size:.87rem;color:var(--muted,#666);line-height:1.6}';
   document.head.appendChild(diagramStyle);
