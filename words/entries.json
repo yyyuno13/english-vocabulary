@@ -7452,6 +7452,142 @@
         }
       ],
       "comparison": "valid は基準・条件・論理を満たす。legitimate は法律や規範に照らして正当。reasonable は常識や状況に照らして妥当。sound は論理・根拠が堅固。credible は信頼に値する。effective は実際に効果がある。"
+    },
+    {
+      "id": "clue",
+      "word": "clue",
+      "pos": "名詞・動詞",
+      "ipa": "/kluː/（米英共通）",
+      "meaning": "手がかり・ヒント／（clue someone in）事情を知らせる",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 4,
+      "etymology": "古英語 cliewen（糸玉）→中英語 clewe → clue。古い綴り clew も残る。迷宮から脱出する糸という比喩を通じ、問題を解く手がかりの意味に発展した。ギリシャ神話は比喩の背景であり、単語そのものの直接の起源ではない。",
+      "core": "迷宮で糸をたどるように、断片的な情報をたどって謎・原因・答えに近づく。clue は答えそのものではなく、解明につながる手がかり。",
+      "usage": "可算名詞：a clue / clues。a clue to/about ～、look for clues、find a clue、a vital/crucial clue。have no clue (what/how/why ...)＝まったくわからない（口語）。動詞は clue someone in on ～＝人に事情を教える（口語）。フォーマルには brief/update someone on ～。",
+      "examples": [
+        [
+          "The police found a crucial clue at the crime scene.",
+          "警察は犯罪現場で重要な手がかりを発見した。"
+        ],
+        [
+          "This document may provide a clue to the cause of the problem.",
+          "この文書は問題の原因を解明する手がかりになるかもしれない。"
+        ],
+        [
+          "I have no clue what he's talking about.",
+          "彼が何を話しているのか、まったくわからない。"
+        ],
+        [
+          "Can you give me a clue?",
+          "ちょっとヒントをくれない？"
+        ],
+        [
+          "The sudden decline in sales gave us a clue about changing consumer behavior.",
+          "売上の急激な減少は消費者行動の変化を理解する手がかりとなった。"
+        ],
+        [
+          "We are looking for clues as to why the project failed.",
+          "私たちはプロジェクトが失敗した理由を探っている。"
+        ],
+        [
+          "She doesn't have a clue how to operate the system.",
+          "彼女はそのシステムの操作方法がまったくわからない。"
+        ],
+        [
+          "Could you clue me in on what happened at the meeting?",
+          "会議で何があったのか教えてもらえますか？"
+        ]
+      ],
+      "related": [
+        {
+          "word": "clew",
+          "pos": "名詞",
+          "ipa": "/kluː/",
+          "meaning": "糸玉（古風）",
+          "difficulty": 3,
+          "daily": 1,
+          "business": 1,
+          "example": "The old tale mentions a clew of thread.",
+          "translation": "古い物語には糸玉が登場する。",
+          "note": "clue と同じ語の古い綴り・語義。"
+        },
+        {
+          "word": "clueless",
+          "pos": "形容詞",
+          "ipa": "/ˈkluːləs/",
+          "meaning": "何もわかっていない",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "He seemed clueless about the new regulations.",
+          "translation": "彼は新しい規制についてまったく理解していないようだった。",
+          "note": "clue + -less。人に使うと批判的に響くことがある。"
+        },
+        {
+          "word": "clue in",
+          "pos": "句動詞",
+          "ipa": "/kluː ɪn/",
+          "meaning": "事情を知らせる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Please clue me in on the changes.",
+          "translation": "変更点を教えてください。",
+          "note": "clue someone in on ～。口語的。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "hint",
+          "pos": "名詞",
+          "ipa": "/hɪnt/",
+          "meaning": "ヒント・ほのめかし",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The manager gave us a hint about the announcement.",
+          "translation": "マネージャーは発表について少しほのめかした。",
+          "note": "clue は謎を解く情報、hint は答えを直接言わずに示すもの。"
+        },
+        {
+          "word": "evidence",
+          "pos": "名詞",
+          "ipa": "/ˈevɪdəns/",
+          "meaning": "証拠",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The auditors found evidence of fraudulent transactions.",
+          "translation": "監査人は不正取引の証拠を発見した。",
+          "note": "事実・主張を裏付ける材料。clue は必ずしも証拠ではない。"
+        },
+        {
+          "word": "indication",
+          "pos": "名詞",
+          "ipa": "/ˌɪndɪˈkeɪʃən/",
+          "meaning": "兆候・示唆",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The figures provide an indication of declining profitability.",
+          "translation": "その数値は収益性低下の兆候を示している。",
+          "note": "状態や傾向を示す。"
+        },
+        {
+          "word": "lead",
+          "pos": "名詞",
+          "ipa": "/liːd/",
+          "meaning": "捜査・調査の糸口",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Investigators are following a promising lead.",
+          "translation": "調査官たちは有望な手がかりを追っている。",
+          "note": "次の調査行動につながる情報。"
+        }
+      ],
+      "comparison": "clue は謎や原因の解明につながる情報。hint は間接的な助言・ほのめかし。evidence は事実や主張を裏付ける証拠。indication は状態・傾向を示す兆候。lead は調査を進める有望な糸口。"
     }
   ]
 }
