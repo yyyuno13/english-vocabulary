@@ -130,6 +130,12 @@
        }
      };
      linkEtymologies();
+     // Direct group links generated from the same root-map as the static keyword HTML.
+     for(const a of doc.querySelectorAll('a.etymology-root-link[data-root]')){
+       if(a.dataset.integratedReady==='1')continue;
+       a.dataset.integratedReady='1';
+       a.addEventListener('click',event=>{event.preventDefault();showRoot(a.dataset.root);});
+     }
      // Keep the original compact top-right TOC shortcut; no sticky navigation bar.
      const oldNav=doc.getElementById('return-to-roots');
      if(oldNav)oldNav.remove();
