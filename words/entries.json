@@ -7268,6 +7268,190 @@
         }
       ],
       "comparison": "plateau は上昇後に横ばいになる。level off は上昇・下降の傾きがなくなる。stabilize は変動が小さくなり安定する。stagnate は成長・進歩が停滞する。peak は最高点に達する。flatten は曲線や傾きが平らになる。"
+    },
+    {
+      "id": "valid",
+      "word": "valid",
+      "pos": "形容詞",
+      "ipa": "/ˈvælɪd/",
+      "meaning": "有効な、妥当な、正当な；条件を満たした",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 validus（強い、しっかりした）から。語源は valēre（強い、健康である、力を持つ）。強さ・効力から、法的に有効、論理的に妥当の意味に発展。英語の接頭辞 val- と接尾辞 -id に機械的に分解する語ではない。",
+      "core": "一定の基準・条件・論理を満たし、正式に認められる。",
+      "usage": "valid until（～まで有効）、valid for（～の期間有効）、valid passport、valid contract、valid reason、valid argument、valid evidence、valid concern、validity period。valid（有効・妥当）と effective（効果的、効力発生）は異なる。",
+      "examples": [
+        [
+          "Your passport must be valid for at least six months after your arrival.",
+          "パスポートは到着後少なくとも6か月間有効でなければならない。"
+        ],
+        [
+          "The contract is valid only if both parties sign it.",
+          "その契約は両当事者が署名した場合に限り有効である。"
+        ],
+        [
+          "She had a valid reason for missing the meeting.",
+          "彼女には会議を欠席する正当な理由があった。"
+        ],
+        [
+          "The analyst raised a valid point about the company's financial risks.",
+          "アナリストはその企業の財務リスクについて妥当な指摘をした。"
+        ],
+        [
+          "Please enter a valid email address to complete your registration.",
+          "登録を完了するには有効なメールアドレスを入力してください。"
+        ],
+        [
+          "The client's concerns are valid and should be addressed promptly.",
+          "顧客の懸念にはもっともな理由があり、速やかに対処すべきだ。"
+        ],
+        [
+          "The results are valid only under the assumptions used in the model.",
+          "その結果はモデルで使用した仮定の下でのみ妥当である。"
+        ],
+        [
+          "This discount code is valid until the end of the month.",
+          "この割引コードは月末まで有効だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "validity",
+          "pos": "名詞",
+          "ipa": "/vəˈlɪdəti/",
+          "meaning": "有効性、妥当性",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The auditor questioned the validity of the underlying assumptions.",
+          "translation": "監査人は基礎となる仮定の妥当性に疑問を呈した。",
+          "note": "valid の名詞形。"
+        },
+        {
+          "word": "validate",
+          "pos": "動詞 T",
+          "ipa": "/ˈvælɪdeɪt/",
+          "meaning": "有効と認める、検証する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "We need to validate the data before using it in the financial model.",
+          "translation": "財務モデルで使用する前にデータを検証する必要がある。",
+          "note": "valid の派生語。"
+        },
+        {
+          "word": "validation",
+          "pos": "名詞",
+          "ipa": "/ˌvælɪˈdeɪʃən/",
+          "meaning": "検証、妥当性確認",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "The software performs automatic validation of user inputs.",
+          "translation": "そのソフトウェアはユーザー入力の妥当性を自動的に検証する。",
+          "note": "validate の名詞形。"
+        },
+        {
+          "word": "invalid",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈvælɪd/",
+          "meaning": "無効な、妥当でない",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The agreement may be invalid if it violates applicable laws.",
+          "translation": "その合意は適用法令に違反する場合、無効となる可能性がある。",
+          "note": "in-（否定）＋ valid。"
+        },
+        {
+          "word": "value",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈvæljuː/",
+          "meaning": "価値、評価する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Investors value companies based on expected future cash flows.",
+          "translation": "投資家は予想将来キャッシュフローに基づいて企業を評価する。",
+          "note": "ラテン語 valēre と同語源。"
+        },
+        {
+          "word": "prevail",
+          "pos": "動詞 I",
+          "ipa": "/prɪˈveɪl/",
+          "meaning": "勝つ、広く行われる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The prevailing market conditions made financing more expensive.",
+          "translation": "支配的な市場環境によって資金調達コストが高くなった。",
+          "note": "ラテン語 praevalēre（優勢である）に由来。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "legitimate",
+          "pos": "形容詞",
+          "ipa": "/lɪˈdʒɪtɪmət/",
+          "meaning": "合法的・正当な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company has a legitimate business interest in protecting confidential information.",
+          "translation": "その企業には機密情報を保護する正当な事業上の利益がある。",
+          "note": "法律・制度・社会的な基準に照らして正当。"
+        },
+        {
+          "word": "reasonable",
+          "pos": "形容詞",
+          "ipa": "/ˈriːzənəbəl/",
+          "meaning": "合理的な、もっともな",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The proposed budget appears reasonable given the project's scope.",
+          "translation": "提案された予算はプロジェクトの範囲を考慮すると妥当に思われる。",
+          "note": "常識・状況・根拠に照らして無理がない。"
+        },
+        {
+          "word": "sound",
+          "pos": "形容詞",
+          "ipa": "/saʊnd/",
+          "meaning": "根拠が確かで堅実な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The investment decision was based on sound financial analysis.",
+          "translation": "その投資判断は堅実な財務分析に基づいていた。",
+          "note": "論理や判断の基礎がしっかりしている。"
+        },
+        {
+          "word": "credible",
+          "pos": "形容詞",
+          "ipa": "/ˈkredəbəl/",
+          "meaning": "信頼できる、説得力がある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The witness provided a credible explanation of the events.",
+          "translation": "その証人は出来事について信頼できる説明を行った。",
+          "note": "信頼性や説得力がある。"
+        },
+        {
+          "word": "effective",
+          "pos": "形容詞",
+          "ipa": "/ɪˈfektɪv/",
+          "meaning": "効果的な、効力を持つ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The new internal controls proved effective in reducing errors.",
+          "translation": "新しい内部統制は誤りを減らすうえで効果的であることが示された。",
+          "note": "実際に期待された効果を生む。"
+        }
+      ],
+      "comparison": "valid は基準・条件・論理を満たす。legitimate は法律や規範に照らして正当。reasonable は常識や状況に照らして妥当。sound は論理・根拠が堅固。credible は信頼に値する。effective は実際に効果がある。"
     }
   ]
 }
