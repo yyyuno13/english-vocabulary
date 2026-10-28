@@ -1,7 +1,6 @@
 name: Build vocabulary HTML
 on:
   push:
-    branches: [main]
     paths:
       - 'words/entries.json'
       - 'templates/index.template.html'
