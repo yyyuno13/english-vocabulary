@@ -111,7 +111,8 @@
     return '<div class="comparison-scroll"><table class="nuance-table"><thead><tr><th scope="col">単語</th><th scope="col">ニュアンス・使い分け</th></tr></thead><tbody>'+
       rows.map(([word,detail])=>'<tr><th scope="row">'+escapeHTML(word)+'</th><td>'+escapeHTML(detail)+'</td></tr>').join('')+'</tbody></table></div>';
   };
-  // Legacy parser is retained for historical notes only. New entries use comparisonRows objects.\n  const comparisonRows=text=>String(text||'').split(/[／\n]/).map(s=>s.trim()).filter(Boolean).map(part=>{
+  // Legacy parser is retained for historical notes only. New entries use comparisonRows objects.
+  const comparisonRows=text=>String(text||'').split(/[／\n]/).map(s=>s.trim()).filter(Boolean).map(part=>{
     const m=part.match(/^([^＝=:：]+)[＝=:：]\s*(.+)$/);
     return m?[m[1].trim(),m[2].trim()]:['補足',part];
   });
