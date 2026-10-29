@@ -31,7 +31,8 @@
           "example": "The doctor diagnosed a hiatal hernia.",
           "translation": "医師は食道裂孔ヘルニアと診断した。",
           "note": "hiatus と同じ「開口・裂け目」の語源に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "hiant",
@@ -44,7 +45,8 @@
           "example": "The term is rarely used in modern English.",
           "translation": "この語は現代英語ではほとんど使われない。",
           "note": "ラテン語 hiare（口を開ける）に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -59,7 +61,9 @@
           "example": "Sorry for the interruption.",
           "translation": "話を遮ってすみません。",
           "note": "interrupt（途中に割り込む）から。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 inter-（間に）＋ rumpere（破る）に由来。"
         },
         {
           "word": "pause",
@@ -72,7 +76,9 @@
           "example": "Let’s pause here and continue later.",
           "translation": "ここでいったん止めて、後で続けよう。",
           "note": "一時的に止まることを表す一般語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 pausa（休止）を経由し、ギリシャ語 pausis（停止）にさかのぼる。"
         },
         {
           "word": "break",
@@ -85,7 +91,9 @@
           "example": "We took a short break.",
           "translation": "私たちは短い休憩を取った。",
           "note": "連続性を断つイメージ。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 brecan（壊す）に由来。"
         },
         {
           "word": "gap",
@@ -98,7 +106,9 @@
           "example": "There is a gap between the two estimates.",
           "translation": "2つの見積もりには差がある。",
           "note": "物理的・抽象的な空白や差。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古ノルド語 gap（裂け目）と関連する語。"
         },
         {
           "word": "recess",
@@ -111,7 +121,9 @@
           "example": "The meeting is in recess until Monday.",
           "translation": "会議は月曜日まで休会となっている。",
           "note": "ラテン語 recessus（後退・引き下がること）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 re-（後ろへ）＋ cedere（進む）→ recessus（退くこと）。"
         }
       ],
       "legacySource": false
@@ -146,7 +158,8 @@
           "example": "I started to drowse on the train.",
           "translation": "電車でうとうとし始めた。",
           "note": "drowsy / drowsiness と同じ語族。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "drowsy",
@@ -159,7 +172,8 @@
           "example": "I feel drowsy after lunch.",
           "translation": "昼食後は眠くなる。",
           "note": "drowse に形容詞語尾 -y が付いた形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "drowsily",
@@ -172,7 +186,8 @@
           "example": "He answered drowsily.",
           "translation": "彼は眠そうに答えた。",
           "note": "drowsy の副詞形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -187,7 +202,9 @@
           "example": "Sleepiness can affect concentration.",
           "translation": "眠気は集中力に影響することがある。",
           "note": "sleep + -y + -ness の語形成。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 slǣpan（眠る）から sleep、-y、-ness。"
         },
         {
           "word": "somnolence",
@@ -200,7 +217,9 @@
           "example": "Somnolence is a possible side effect.",
           "translation": "傾眠は副作用の可能性がある。",
           "note": "ラテン語 somnus（睡眠）に関連する医学寄りの語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 somnus（眠り）＋ -olent に由来。"
         },
         {
           "word": "lethargy",
@@ -213,7 +232,9 @@
           "example": "He experienced fatigue and lethargy.",
           "translation": "彼は疲労と倦怠感を経験した。",
           "note": "ギリシャ語由来で、活力が乏しい状態を表す。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ギリシャ語 lēthargia（無気力）に由来。"
         },
         {
           "word": "torpor",
@@ -226,8 +247,13 @@
           "example": "The heat left everyone in a state of torpor.",
           "translation": "暑さで皆がぐったりしていた。",
           "note": "ラテン語 torpere（麻痺する、動かない）に由来。",
-          "ratingEstimated": true
-        },
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 torpere（しびれる・動かない）に由来。"
+        }
+      ],
+      "legacySource": false,
+      "reference": [
         {
           "word": "fatigue",
           "pos": "名詞・動詞",
@@ -239,10 +265,10 @@
           "example": "The long flight caused fatigue.",
           "translation": "長時間のフライトで疲労が生じた。",
           "note": "フランス語経由で「疲れさせる」に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "reference"
         }
-      ],
-      "legacySource": false
+      ]
     },
     {
       "id": "predicament",
@@ -274,7 +300,8 @@
           "example": "The valuation is predicated on future growth.",
           "translation": "その評価は将来の成長を前提としている。",
           "note": "ラテン語 praedicare（公に述べる）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "dictate",
@@ -287,7 +314,8 @@
           "example": "Market conditions dictate the strategy.",
           "translation": "市場環境が戦略を左右する。",
           "note": "ラテン語 dicere（言う）系の語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "diction",
@@ -300,7 +328,8 @@
           "example": "Her diction is clear.",
           "translation": "彼女の言葉遣いは明瞭だ。",
           "note": "ラテン語 dictio（言うこと、表現）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "indicate",
@@ -313,7 +342,8 @@
           "example": "The data indicate a decline in revenue.",
           "translation": "データは売上高の減少を示している。",
           "note": "ラテン語 indicare（示す、知らせる）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -328,7 +358,9 @@
           "example": "We face a dilemma: cut costs or reduce headcount.",
           "translation": "コスト削減か人員削減かというジレンマに直面している。",
           "note": "ギリシャ語由来で、元来は二つの選択肢に関わる論理的な問題。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ギリシャ語 di-（二つ）＋ lēmma（前提）に由来。"
         },
         {
           "word": "plight",
@@ -341,7 +373,9 @@
           "example": "The report describes the plight of small suppliers.",
           "translation": "その報告書は小規模サプライヤーの窮状を描いている。",
           "note": "歴史的には「状態・約束」などの意味を持つ語から発展。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "中英語 plight（状態・境遇）に由来。"
         },
         {
           "word": "quandary",
@@ -354,7 +388,9 @@
           "example": "I’m in a quandary about which offer to accept.",
           "translation": "どちらのオファーを受けるべきか悩んでいる。",
           "note": "語源は不確実。選択や判断に迷う状態を表す。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "語源は不確実。"
         },
         {
           "word": "fix",
@@ -367,7 +403,9 @@
           "example": "I’m in a fix and need your advice.",
           "translation": "困った状況にいて、君の助言が必要だ。",
           "note": "「固定する」から、逃げにくい状況という口語的用法もある。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 figere（固定する）に由来する fix の口語的用法。"
         },
         {
           "word": "mess",
@@ -380,8 +418,13 @@
           "example": "The deal became a real mess.",
           "translation": "その取引は本当に厄介なことになった。",
           "note": "語源は歴史的に「混ぜたもの・食事」などに関連し、現在は混乱を表す。",
-          "ratingEstimated": true
-        },
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 mes（食事・一皿）から、混乱の意味へ発展。"
+        }
+      ],
+      "legacySource": false,
+      "reference": [
         {
           "word": "chaos",
           "pos": "名詞",
@@ -393,10 +436,10 @@
           "example": "The system outage caused chaos.",
           "translation": "システム障害が大混乱を引き起こした。",
           "note": "ギリシャ語 khaos（深い空隙・混沌）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "reference"
         }
-      ],
-      "legacySource": false
+      ]
     },
     {
       "id": "compensation",
@@ -428,7 +471,8 @@
           "example": "The payment compensates for the loss.",
           "translation": "その支払いは損失を補償する。",
           "note": "compensation の動詞形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "expend",
@@ -441,7 +485,8 @@
           "example": "The company expended significant resources.",
           "translation": "会社は多くの資源を費やした。",
           "note": "ラテン語 expendere（重さを量る、支払う）に由来し、pendere 系。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "suspend",
@@ -454,7 +499,8 @@
           "example": "The company suspended the project.",
           "translation": "会社はそのプロジェクトを一時停止した。",
           "note": "ラテン語 suspendere（下につるす）に由来。pendere 系の語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "depend",
@@ -467,7 +513,8 @@
           "example": "The outcome depends on market conditions.",
           "translation": "結果は市場環境次第だ。",
           "note": "ラテン語 dependere（ぶら下がる）に由来。pendere 系。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "pension",
@@ -480,7 +527,22 @@
           "example": "The plan includes a pension benefit.",
           "translation": "その制度には年金給付が含まれる。",
           "note": "ラテン語 pensio（支払い）に由来し、支払い・定期給付に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
+        },
+        {
+          "word": "expense",
+          "pos": "名詞",
+          "ipa": "/ɪkˈspens/",
+          "meaning": "費用、経費",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Travel expenses will be reimbursed.",
+          "translation": "旅費は払い戻される。",
+          "note": "ラテン語 expendere（支出する）に関連。",
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -495,7 +557,9 @@
           "example": "Executive remuneration was reviewed.",
           "translation": "経営陣の報酬が見直された。",
           "note": "ラテン語 remunerari（報いる）に由来。compensation より形式的。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 remunerari（報いる）から。"
         },
         {
           "word": "salary",
@@ -508,7 +572,9 @@
           "example": "Her annual salary increased.",
           "translation": "彼女の年収ベースの給与が増えた。",
           "note": "ラテン語 salarium に由来。現代では定期的な給与を指す。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 salarium（給付・給与）から。"
         },
         {
           "word": "wage",
@@ -521,7 +587,9 @@
           "example": "Hourly wages rose last year.",
           "translation": "昨年、時給が上がった。",
           "note": "歴史的には担保・報酬などに関連。一般に時間・日単位の賃金でよく使う。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 wage/gage（担保・報酬）から。"
         },
         {
           "word": "reimbursement",
@@ -534,7 +602,9 @@
           "example": "Employees can claim reimbursement for travel expenses.",
           "translation": "従業員は旅費の払い戻しを請求できる。",
           "note": "reimburse（返金する）+ -ment。支出を元に戻すイメージ。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "re-（戻す）＋ reimburse（払い戻す）＋ -ment。"
         },
         {
           "word": "indemnity",
@@ -547,7 +617,9 @@
           "example": "The agreement contains an indemnity clause.",
           "translation": "契約には補償条項が含まれている。",
           "note": "ラテン語 indemnis（損害を受けていない）に関連。契約・法務で重要。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 indemnis（損害のない）から。"
         },
         {
           "word": "reparation",
@@ -560,20 +632,9 @@
           "example": "The country demanded reparations for the damage.",
           "translation": "その国は損害に対する賠償を要求した。",
           "note": "repair 系の語と歴史的につながり、損なわれたものを修復・償う意味。",
-          "ratingEstimated": true
-        },
-        {
-          "word": "expense",
-          "pos": "名詞",
-          "ipa": "/ɪkˈspens/",
-          "meaning": "費用、経費",
-          "difficulty": 2,
-          "daily": 4,
-          "business": 4,
-          "example": "Travel expenses will be reimbursed.",
-          "translation": "旅費は払い戻される。",
-          "note": "ラテン語 expendere（支出する）に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 reparare（修復する）から。"
         }
       ],
       "legacySource": false
@@ -608,7 +669,8 @@
           "example": "The transaction may result in dilution.",
           "translation": "その取引は希薄化をもたらす可能性がある。",
           "note": "dilute の名詞形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "diluent",
@@ -621,7 +683,8 @@
           "example": "Water can act as a diluent.",
           "translation": "水は希釈剤として働くことがある。",
           "note": "dilute と同じ語源。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "dilutive",
@@ -634,7 +697,8 @@
           "example": "The options are potentially dilutive.",
           "translation": "そのオプションは潜在的に希薄化効果を持つ。",
           "note": "dilute + -ive。財務・会計で使う。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "undiluted",
@@ -647,7 +711,8 @@
           "example": "The founder retained an undiluted stake.",
           "translation": "創業者は希薄化していない持分を維持した。",
           "note": "un-（否定）+ diluted。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -662,7 +727,9 @@
           "example": "Add water to thin the sauce.",
           "translation": "ソースを薄めるため水を加える。",
           "note": "基本語で、液体を薄める意味に使える。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 þynne（薄い）に由来。"
         },
         {
           "word": "weaken",
@@ -675,7 +742,9 @@
           "example": "The evidence weakened the argument.",
           "translation": "その証拠はその主張を弱めた。",
           "note": "weak + -en（〜にする）。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古ノルド語 veikr（弱い）に関連する weak ＋ -en。"
         },
         {
           "word": "water down",
@@ -688,7 +757,9 @@
           "example": "The final proposal was watered down.",
           "translation": "最終提案は骨抜きにされた。",
           "note": "文字通り水で薄めることから比喩的に「弱める」。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 wæter（水）を使った句動詞。"
         },
         {
           "word": "attenuate",
@@ -701,7 +772,9 @@
           "example": "The treatment attenuated the symptoms.",
           "translation": "その治療は症状を和らげた。",
           "note": "ラテン語 attenuare（細くする）に由来。やや専門的。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 attenuare（細くする・弱める）から。"
         },
         {
           "word": "reduce",
@@ -714,7 +787,9 @@
           "example": "The company reduced operating costs.",
           "translation": "会社は営業費用を削減した。",
           "note": "ラテン語 reducere（後ろへ導く）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 re-（後ろへ）＋ ducere（導く）から。"
         }
       ],
       "legacySource": false
@@ -749,7 +824,8 @@
           "example": "The delegation of authority was documented.",
           "translation": "権限委譲は文書化された。",
           "note": "delegate の名詞形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "legate",
@@ -762,7 +838,8 @@
           "example": "A papal legate represented the pope.",
           "translation": "教皇特使が教皇を代表した。",
           "note": "ラテン語 legatus（使節）に由来し、委任・派遣の語源に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "legacy",
@@ -775,7 +852,8 @@
           "example": "The acquisition left a legacy of complex systems.",
           "translation": "その買収は複雑なシステムを残した。",
           "note": "legate と歴史的に同じラテン語 legare 系に関連。意味のつながりは現代では薄い。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "relegate",
@@ -788,7 +866,8 @@
           "example": "The issue was relegated to a footnote.",
           "translation": "その論点は脚注に追いやられた。",
           "note": "ラテン語 relegare（送り返す、追放する）に由来。delegate と綴りが似るが意味は異なる。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -803,7 +882,9 @@
           "example": "The team assigned the review to me.",
           "translation": "チームはそのレビューを私に割り当てた。",
           "note": "ラテン語 assignare（印を付けて割り当てる）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 ad-（〜へ）＋ signare（印を付ける）から。"
         },
         {
           "word": "entrust",
@@ -816,7 +897,9 @@
           "example": "She entrusted him with the project.",
           "translation": "彼女は彼を信頼してそのプロジェクトを任せた。",
           "note": "en- + trust。信頼を基盤に任せること。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "en-（〜にする）＋ trust（信頼）。"
         },
         {
           "word": "assign responsibility",
@@ -829,7 +912,9 @@
           "example": "The board assigned responsibility for oversight to the committee.",
           "translation": "取締役会は監督責任を委員会に割り当てた。",
           "note": "assign（割り当てる）+ responsibility（責任）。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "assign（ラテン語 signare 系）＋ responsibility（ラテン語 respondere 系）。"
         },
         {
           "word": "entrust someone with something",
@@ -842,7 +927,9 @@
           "example": "They entrusted her with a sensitive task.",
           "translation": "彼らは機微な仕事を彼女に任せた。",
           "note": "entrust の典型的な構文。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "entrust（en-＋trust）を用いた構文。"
         }
       ],
       "legacySource": false,
@@ -858,7 +945,8 @@
           "example": "Please consult the legal team.",
           "translation": "法務チームに相談してください。",
           "note": "ラテン語 lex / legis（法律）に由来。delegate と直接同じ語ではないが、leg- という形の似た別系統を混同しない。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "reference"
         }
       ]
     },
@@ -892,7 +980,8 @@
           "example": "A flock of tourists gathered outside.",
           "translation": "観光客の一団が外に集まった。",
           "note": "flock to の中心語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "flock together",
@@ -905,7 +994,8 @@
           "example": "People with similar interests tend to flock together.",
           "translation": "似た関心を持つ人は集まりがちだ。",
           "note": "鳥などが群れを作るイメージから。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -920,7 +1010,9 @@
           "example": "Investors gathered at the conference.",
           "translation": "投資家たちは会議に集まった。",
           "note": "一般的な「集まる」。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 gad(e)rian（集める）に由来。"
         },
         {
           "word": "rush to",
@@ -933,7 +1025,9 @@
           "example": "Investors rushed to sell their shares.",
           "translation": "投資家たちは急いで株式を売却しようとした。",
           "note": "rush（急ぐ）+ to（方向・行為）。「大勢が集まる」より急ぐことに焦点。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "rush（中英語 rushen、急ぐ）＋ to。"
         },
         {
           "word": "pour into",
@@ -946,7 +1040,9 @@
           "example": "Capital poured into the sector.",
           "translation": "資金がそのセクターに大量に流れ込んだ。",
           "note": "液体が流れ込むイメージの比喩。資金流入の描写に自然。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "pour（古フランス語由来）＋ into。"
         },
         {
           "word": "gravitate toward(s)",
@@ -959,7 +1055,9 @@
           "example": "Investors gravitate toward stable assets.",
           "translation": "投資家は安定資産に引き寄せられる。",
           "note": "gravity（重力）と同じ語源。引力に引かれるイメージ。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 gravis（重い）→ gravitas（重さ）から。"
         },
         {
           "word": "converge on",
@@ -972,7 +1070,9 @@
           "example": "Several bidders converged on the same target.",
           "translation": "複数の買い手候補が同じ買収対象に集中した。",
           "note": "con-（共に）+ verger（向きを変える）系。複数が一点へ向かう。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 con-（共に）＋ vergere（傾く・向かう）から。"
         }
       ],
       "legacySource": false
@@ -1007,7 +1107,8 @@
           "example": "Sediment settled at the bottom.",
           "translation": "沈殿物が底にたまった。",
           "note": "ラテン語 sedere（座る・沈む）系に関連し、沈んでたまったもの。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "sedentary",
@@ -1020,7 +1121,8 @@
           "example": "A sedentary lifestyle can affect health.",
           "translation": "座りがちな生活は健康に影響することがある。",
           "note": "ラテン語 sedere（座る）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "session",
@@ -1033,7 +1135,8 @@
           "example": "The board held a two-hour session.",
           "translation": "取締役会は2時間の会議を開いた。",
           "note": "ラテン語 sessio（座ること、会合）に由来し、座る系の語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "residue",
@@ -1046,7 +1149,8 @@
           "example": "A residue remained after the process.",
           "translation": "その工程の後に残留物が残った。",
           "note": "ラテン語 residuum（残ったもの）に由来し、sedere 系の「とどまる」に関連。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1061,7 +1165,9 @@
           "example": "The pressure eased by the afternoon.",
           "translation": "午後には圧力が和らいだ。",
           "note": "負担や緊張が軽くなる一般語。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 aise（快適さ・余裕）から。"
         },
         {
           "word": "abate",
@@ -1074,7 +1180,9 @@
           "example": "The storm began to abate.",
           "translation": "嵐は弱まり始めた。",
           "note": "古フランス語由来で、強さ・勢いが落ちること。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 abatre（打ち倒す）から。"
         },
         {
           "word": "diminish",
@@ -1087,7 +1195,9 @@
           "example": "The risk diminished over time.",
           "translation": "リスクは時間とともに減少した。",
           "note": "ラテン語 minuere（小さくする）系。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 de-＋ minuere（小さくする）から。"
         },
         {
           "word": "recede",
@@ -1100,7 +1210,9 @@
           "example": "The floodwaters began to recede.",
           "translation": "洪水の水が引き始めた。",
           "note": "ラテン語 recedere（後ろへ退く）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 re-（後ろへ）＋ cedere（進む）から。"
         },
         {
           "word": "taper off",
@@ -1113,7 +1225,9 @@
           "example": "Demand tapered off toward year-end.",
           "translation": "年末に向けて需要は徐々に減少した。",
           "note": "先細りになる taper のイメージ。数量・活動の漸減に使う。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "taper（先細りになる）＋ off。"
         }
       ],
       "legacySource": false
@@ -1148,7 +1262,8 @@
           "example": "The team circled the key issue.",
           "translation": "チームは重要論点を丸で囲んだ。",
           "note": "ラテン語 circulus（小さな輪）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "circular",
@@ -1161,7 +1276,8 @@
           "example": "The process became circular.",
           "translation": "そのプロセスは堂々巡りになった。",
           "note": "circle と同じ輪の語源。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "circulate",
@@ -1174,7 +1290,8 @@
           "example": "Please circulate the draft to the team.",
           "translation": "ドラフトをチームに回覧してください。",
           "note": "輪を描くように動くイメージ。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "circulation",
@@ -1187,7 +1304,8 @@
           "example": "The document is in circulation.",
           "translation": "その文書は回覧中だ。",
           "note": "circulate の名詞形。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1202,7 +1320,9 @@
           "example": "We should revisit the assumptions.",
           "translation": "前提を再検討すべきだ。",
           "note": "re-（再び）+ visit（訪れる）。資料・論点の再検討に便利。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "re-（再び）＋ visit（ラテン語 visitare、訪れる）。"
         },
         {
           "word": "return to",
@@ -1215,7 +1335,9 @@
           "example": "I’ll return to that point later.",
           "translation": "その点には後ほど戻る。",
           "note": "return（戻る）を使う直接的な表現。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 retourner（引き返す）＋ to。"
         },
         {
           "word": "follow up on",
@@ -1228,7 +1350,9 @@
           "example": "We need to follow up on the variance.",
           "translation": "その差異について追加確認が必要だ。",
           "note": "follow（追う）+ up（さらに）で、続けて確認する。FDDで有用。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 folgian（従う）から follow、up、on。"
         },
         {
           "word": "get back to",
@@ -1241,7 +1365,9 @@
           "example": "I’ll get back to you tomorrow.",
           "translation": "明日改めて連絡する。",
           "note": "get + back（戻る）+ to。日常・ビジネス会話で自然。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古ノルド語 geta（得る）と古英語 bæc（後ろ）を用いた句。"
         },
         {
           "word": "come back to",
@@ -1254,7 +1380,9 @@
           "example": "Let’s come back to this later.",
           "translation": "この話は後でまた戻ろう。",
           "note": "come back（戻ってくる）の基本的な表現。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 cuman（来る）＋ bæc（後ろ）＋ to。"
         }
       ],
       "legacySource": false,
@@ -1270,7 +1398,8 @@
           "example": "The circuit was completed.",
           "translation": "回路が完成した／一周が完了した。",
           "note": "ラテン語 circuitus（周回）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "reference"
         }
       ]
     },
@@ -1304,7 +1433,8 @@
           "example": "The proposal was considered ultra-conservative.",
           "translation": "その提案は極めて保守的だと考えられた。",
           "note": "ラテン語 ultra（向こう側、越えて）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "ulteriorly",
@@ -1317,7 +1447,8 @@
           "example": "This adverb is rarely used.",
           "translation": "この副詞はほとんど使われない。",
           "note": "ulterior + -ly。一般には ulterior motive の形を覚えれば十分。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1332,7 +1463,9 @@
           "example": "There may be hidden costs.",
           "translation": "隠れたコストがあるかもしれない。",
           "note": "hide（隠す）の過去分詞由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古英語 hȳdan（隠す）に由来。"
         },
         {
           "word": "underlying",
@@ -1345,7 +1478,9 @@
           "example": "We need to understand the underlying drivers.",
           "translation": "根本的な要因を理解する必要がある。",
           "note": "under（下に）+ lie（横たわる）。表面の下にあるもの。FDDで非常に有用。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "under（下）＋ lie（古英語 licgan、横たわる）。"
         },
         {
           "word": "covert",
@@ -1358,7 +1493,9 @@
           "example": "The review found no evidence of covert payments.",
           "translation": "レビューでは秘密裏の支払いの証拠は見つからなかった。",
           "note": "ラテン語 cooperire（覆う）に関連し、覆い隠された状態。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "古フランス語 covrir（覆う）から。"
         },
         {
           "word": "hidden agenda",
@@ -1371,7 +1508,9 @@
           "example": "She suspected a hidden agenda.",
           "translation": "彼女は裏の狙いを疑った。",
           "note": "hidden（隠れた）+ agenda（議題・計画）。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "hidden（hide の過去分詞）＋ agenda（ラテン語 agere、行う）。"
         },
         {
           "word": "secret",
@@ -1384,7 +1523,9 @@
           "example": "The terms of the deal remained secret.",
           "translation": "取引条件は秘密のままだった。",
           "note": "ラテン語 secretus（分けられた、隠された）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 se-（離れて）＋ cernere（分ける）→ secretus。"
         }
       ],
       "legacySource": false
@@ -1419,7 +1560,8 @@
           "example": "The region is known for its folklore.",
           "translation": "その地域は民間伝承で知られている。",
           "note": "folk（人々）+ lore（伝承・知識）。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "folksy",
@@ -1432,7 +1574,8 @@
           "example": "The speaker has a folksy style.",
           "translation": "その話し手は親しみやすい語り口だ。",
           "note": "folk + -y。人々に親しみやすい雰囲気。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
         },
         {
           "word": "folk music",
@@ -1445,7 +1588,22 @@
           "example": "She enjoys folk music.",
           "translation": "彼女はフォーク音楽を楽しんでいる。",
           "note": "folk（伝統文化）+ music。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "cognate"
+        },
+        {
+          "word": "folks",
+          "pos": "名詞・複数形",
+          "ipa": "/foʊks/",
+          "meaning": "みんな、家族、仲間（くだけた表現）",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I’ll check with the finance folks.",
+          "translation": "財務チームの人たちに確認するよ。",
+          "note": "folk の複数形。口語的で親しみのある表現。",
+          "ratingEstimated": true,
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1460,20 +1618,9 @@
           "example": "People are reviewing the proposal.",
           "translation": "人々がその提案を検討している。",
           "note": "一般的で幅広い「人々」。ビジネスでも自然。",
-          "ratingEstimated": true
-        },
-        {
-          "word": "folks",
-          "pos": "名詞・複数形",
-          "ipa": "/foʊks/",
-          "meaning": "みんな、家族、仲間（くだけた表現）",
-          "difficulty": 3,
-          "daily": 4,
-          "business": 4,
-          "example": "I’ll check with the finance folks.",
-          "translation": "財務チームの人たちに確認するよ。",
-          "note": "folk の複数形。口語的で親しみのある表現。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 populus（人々）から。"
         },
         {
           "word": "population",
@@ -1486,7 +1633,9 @@
           "example": "The population has grown steadily.",
           "translation": "人口は着実に増えている。",
           "note": "ラテン語 populus（人々）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 populus（人々）から。"
         },
         {
           "word": "community",
@@ -1499,7 +1648,9 @@
           "example": "The local community supported the project.",
           "translation": "地域社会はそのプロジェクトを支援した。",
           "note": "ラテン語 communis（共有の、共通の）に由来。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "ラテン語 communis（共通の）から。"
         }
       ],
       "legacySource": false
@@ -1537,7 +1688,8 @@
           "business": 4,
           "example": "The company permits employees to work remotely.",
           "translation": "その会社は従業員がリモートで働くことを許可している。",
-          "note": ""
+          "note": "",
+          "relationship": "cognate"
         },
         {
           "word": "permission",
@@ -1549,7 +1701,8 @@
           "business": 4,
           "example": "You need permission to access this file.",
           "translation": "このファイルにアクセスするには許可が必要です。",
-          "note": ""
+          "note": "",
+          "relationship": "cognate"
         },
         {
           "word": "submit",
@@ -1561,7 +1714,8 @@
           "business": 5,
           "example": "Please submit your report by Friday.",
           "translation": "金曜日までに報告書を提出してください。",
-          "note": ""
+          "note": "",
+          "relationship": "cognate"
         },
         {
           "word": "transmit",
@@ -1573,7 +1727,8 @@
           "business": 4,
           "example": "The data is transmitted securely.",
           "translation": "データは安全に送信されます。",
-          "note": ""
+          "note": "",
+          "relationship": "cognate"
         },
         {
           "word": "emit",
@@ -1585,7 +1740,8 @@
           "business": 4,
           "example": "The machine emits very little noise.",
           "translation": "その機械はほとんど騒音を発しません。",
-          "note": ""
+          "note": "",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1599,7 +1755,9 @@
           "business": 4,
           "example": "Parking is allowed here.",
           "translation": "ここでは駐車が許可されています。",
-          "note": ""
+          "note": "",
+          "relationship": "synonym",
+          "etymology": "古フランス語 alouer（認める）から allow の過去分詞。"
         },
         {
           "word": "acceptable",
@@ -1611,7 +1769,9 @@
           "business": 5,
           "example": "Your proposal is acceptable to us.",
           "translation": "あなたの提案は私たちにとって受け入れ可能です。",
-          "note": ""
+          "note": "",
+          "relationship": "synonym",
+          "etymology": "ラテン語 accipere（受け取る）から accept ＋ -able。"
         },
         {
           "word": "allowable",
@@ -1623,7 +1783,9 @@
           "business": 4,
           "example": "The maximum allowable weight is 20 kilograms.",
           "translation": "許容される最大重量は20キログラムです。",
-          "note": ""
+          "note": "",
+          "relationship": "synonym",
+          "etymology": "allow（許す）＋ -able。"
         },
         {
           "word": "legitimate",
@@ -1635,7 +1797,9 @@
           "business": 5,
           "example": "The company has a legitimate reason for rejecting the request.",
           "translation": "その会社には依頼を拒否する正当な理由があります。",
-          "note": ""
+          "note": "",
+          "relationship": "synonym",
+          "etymology": "ラテン語 legitimus（合法の）から。"
         }
       ],
       "legacySource": false
@@ -1669,7 +1833,8 @@
           "business": 4,
           "example": "Her tone sounded condescending.",
           "translation": "彼女の口調は人を見下すように聞こえた。",
-          "note": "condescend の現在分詞から形容詞化。人の態度・口調・説明の仕方を修飾する。"
+          "note": "condescend の現在分詞から形容詞化。人の態度・口調・説明の仕方を修飾する。",
+          "relationship": "cognate"
         },
         {
           "word": "condescend",
@@ -1681,7 +1846,8 @@
           "business": 3,
           "example": "He never condescends to explain his decisions.",
           "translation": "彼は自分の決定をわざわざ説明してやるようなことはしない。",
-          "note": "con-（ともに）＋ descendere（降りる）。「自分の地位を下げて接する」から、現代では上から目線の含みを持つことが多い。"
+          "note": "con-（ともに）＋ descendere（降りる）。「自分の地位を下げて接する」から、現代では上から目線の含みを持つことが多い。",
+          "relationship": "cognate"
         },
         {
           "word": "condescension",
@@ -1693,7 +1859,8 @@
           "business": 3,
           "example": "I was offended by his condescension.",
           "translation": "私は彼の見下す態度に腹を立てた。",
-          "note": "condescend に名詞語尾 -sion が付いた形。態度そのものを名詞で表す。"
+          "note": "condescend に名詞語尾 -sion が付いた形。態度そのものを名詞で表す。",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1707,7 +1874,9 @@
           "business": 4,
           "example": "She smiled at me patronizingly.",
           "translation": "彼女は私に恩着せがましい笑みを向けた。",
-          "note": "patron（保護者・後援者）に由来する patronize の形容詞 patronizing に -ly。condescendingly と近いが、相手を未熟な子どものように扱う感じが強い。"
+          "note": "patron（保護者・後援者）に由来する patronize の形容詞 patronizing に -ly。condescendingly と近いが、相手を未熟な子どものように扱う感じが強い。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 patronus（保護者）→ patronize → patronizingly。"
         },
         {
           "word": "arrogantly",
@@ -1719,7 +1888,9 @@
           "business": 4,
           "example": "He arrogantly dismissed their concerns.",
           "translation": "彼は傲慢にも彼らの懸念を一蹴した。",
-          "note": "arrogant（傲慢な）＋ -ly。相手を見下す話し方に限らず、自分を過大評価する態度全般に使う。"
+          "note": "arrogant（傲慢な）＋ -ly。相手を見下す話し方に限らず、自分を過大評価する態度全般に使う。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 ad-＋ rogare（求める）→ arrogare（自分のものと主張する）。"
         },
         {
           "word": "disdainfully",
@@ -1731,7 +1902,9 @@
           "business": 3,
           "example": "She looked at the suggestion disdainfully.",
           "translation": "彼女はその提案を軽蔑するように見た。",
-          "note": "disdain（軽蔑する）＋ -ful（〜に満ちた）＋ -ly。相手や物事を価値の低いものと判断する軽蔑の感情が中心。"
+          "note": "disdain（軽蔑する）＋ -ful（〜に満ちた）＋ -ly。相手や物事を価値の低いものと判断する軽蔑の感情が中心。",
+          "relationship": "synonym",
+          "etymology": "古フランス語 desdeignier（軽蔑する）→ disdain ＋ -ful ＋ -ly。"
         },
         {
           "word": "contemptuously",
@@ -1743,7 +1916,9 @@
           "business": 3,
           "example": "He laughed contemptuously at the proposal.",
           "translation": "彼はその提案を侮蔑するように笑った。",
-          "note": "contempt（軽蔑）に形容詞語尾 -uous と副詞語尾 -ly。condescendingly より、相手を軽蔑・侮辱する気持ちが前面に出る。"
+          "note": "contempt（軽蔑）に形容詞語尾 -uous と副詞語尾 -ly。condescendingly より、相手を軽蔑・侮辱する気持ちが前面に出る。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 contemnere（軽蔑する）→ contemptuous ＋ -ly。"
         }
       ],
       "legacySource": false
@@ -1785,7 +1960,8 @@
           "business": 4,
           "example": "The government subsidizes public transportation.",
           "translation": "政府は公共交通機関に補助金を出している。",
-          "note": "subsidy に動詞化の -ize を付けた語。補助金を通じて支援する。"
+          "note": "subsidy に動詞化の -ize を付けた語。補助金を通じて支援する。",
+          "relationship": "cognate"
         },
         {
           "word": "subsidized",
@@ -1797,7 +1973,8 @@
           "business": 4,
           "example": "Students can apply for subsidized housing.",
           "translation": "学生は家賃補助のある住宅に申し込める。",
-          "note": "subsidize + -ed。補助された状態を表す。"
+          "note": "subsidize + -ed。補助された状態を表す。",
+          "relationship": "cognate"
         },
         {
           "word": "subsidiary",
@@ -1809,7 +1986,8 @@
           "business": 5,
           "example": "The company established a subsidiary in Singapore.",
           "translation": "その企業はシンガポールに子会社を設立した。",
-          "note": "ラテン語 subsidiarius（補助のための）に由来。主となるものを支えるという意味から発展。"
+          "note": "ラテン語 subsidiarius（補助のための）に由来。主となるものを支えるという意味から発展。",
+          "relationship": "cognate"
         },
         {
           "word": "subside",
@@ -1821,7 +1999,8 @@
           "business": 3,
           "example": "The storm gradually subsided.",
           "translation": "嵐は徐々に収まった。",
-          "note": "ラテン語 subsidere（沈む、落ち着く）に由来。下に落ち着く→勢いが弱まる。"
+          "note": "ラテン語 subsidere（沈む、落ち着く）に由来。下に落ち着く→勢いが弱まる。",
+          "relationship": "cognate"
         },
         {
           "word": "subsidence",
@@ -1833,7 +2012,8 @@
           "business": 2,
           "example": "Excessive groundwater extraction can cause land subsidence.",
           "translation": "地下水の過剰な汲み上げは地盤沈下を引き起こす可能性がある。",
-          "note": "subside + -ence（状態・現象）。沈下する現象を表す。"
+          "note": "subside + -ence（状態・現象）。沈下する現象を表す。",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1847,7 +2027,9 @@
           "business": 4,
           "example": "The university received a research grant.",
           "translation": "その大学は研究助成金を受け取った。",
-          "note": "古フランス語 graanter（認める）に由来。特定目的の資金交付に多い。subsidy は費用負担の軽減や政策的支援を強調。"
+          "note": "古フランス語 graanter（認める）に由来。特定目的の資金交付に多い。subsidy は費用負担の軽減や政策的支援を強調。",
+          "relationship": "synonym",
+          "etymology": "古フランス語 graanter（認める）から。"
         },
         {
           "word": "financial aid",
@@ -1860,7 +2042,9 @@
           "example": "She applied for financial aid to pay her tuition.",
           "translation": "彼女は授業料を支払うために経済的援助を申請した。",
           "note": "financial（財政の）＋ aid（援助、古フランス語 aide）。学生支援などを含む広い経済援助。",
-          "ratingEstimated": true
+          "ratingEstimated": true,
+          "relationship": "synonym",
+          "etymology": "financial（ラテン語 finis に遡る）＋ aid（古フランス語 aide）。"
         },
         {
           "word": "allowance",
@@ -1872,7 +2056,9 @@
           "business": 4,
           "example": "Employees receive a monthly housing allowance.",
           "translation": "従業員には毎月住宅手当が支給される。",
-          "note": "allow（認める、割り当てる）＋ -ance。制度的な手当や定期支給に使う。"
+          "note": "allow（認める、割り当てる）＋ -ance。制度的な手当や定期支給に使う。",
+          "relationship": "synonym",
+          "etymology": "allow（認める）＋ -ance。"
         },
         {
           "word": "funding",
@@ -1884,7 +2070,9 @@
           "business": 5,
           "example": "The startup secured funding from several investors.",
           "translation": "そのスタートアップは複数の投資家から資金を確保した。",
-          "note": "fund（資金、ラテン語 fundus にさかのぼる）＋ -ing。投資・融資・寄付などを含む資金提供全般。"
+          "note": "fund（資金、ラテン語 fundus にさかのぼる）＋ -ing。投資・融資・寄付などを含む資金提供全般。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 fundus（底・基盤）→ fund ＋ -ing。"
         }
       ],
       "legacySource": false
@@ -1918,7 +2106,8 @@
           "business": 3,
           "example": "I cannot tolerate the noise.",
           "translation": "騒音に耐えられない。",
-          "note": "ラテン語 tolerare。"
+          "note": "ラテン語 tolerare。",
+          "relationship": "cognate"
         },
         {
           "word": "tolerance",
@@ -1930,7 +2119,8 @@
           "business": 3,
           "example": "We need more tolerance.",
           "translation": "もっと寛容さが必要だ。",
-          "note": "toler- に由来する名詞。"
+          "note": "toler- に由来する名詞。",
+          "relationship": "cognate"
         },
         {
           "word": "tolerant",
@@ -1942,7 +2132,8 @@
           "business": 3,
           "example": "She is tolerant of others.",
           "translation": "彼女は他人に寛容だ。",
-          "note": "toler- に由来する形容詞。"
+          "note": "toler- に由来する形容詞。",
+          "relationship": "cognate"
         },
         {
           "word": "intolerable",
@@ -1954,7 +2145,8 @@
           "business": 3,
           "example": "The heat is intolerable.",
           "translation": "暑さに耐えられない。",
-          "note": "in-（否定）＋ tolerable。"
+          "note": "in-（否定）＋ tolerable。",
+          "relationship": "cognate"
         },
         {
           "word": "tolerably",
@@ -1966,7 +2158,8 @@
           "business": 3,
           "example": "It went tolerably well.",
           "translation": "まずまずうまくいった。",
-          "note": "tolerable ＋ -ly。"
+          "note": "tolerable ＋ -ly。",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -1980,7 +2173,9 @@
           "business": 3,
           "example": "The pain is bearable.",
           "translation": "痛みは耐えられる。",
-          "note": "bear（耐える）＋ -able。"
+          "note": "bear（耐える）＋ -able。",
+          "relationship": "synonym",
+          "etymology": "古英語 beran（運ぶ・耐える）→ bear ＋ -able。"
         },
         {
           "word": "acceptable",
@@ -1992,7 +2187,9 @@
           "business": 3,
           "example": "The result is acceptable.",
           "translation": "結果は許容範囲だ。",
-          "note": "accept ＋ -able。"
+          "note": "accept ＋ -able。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 accipere（受け取る）→ accept ＋ -able。"
         },
         {
           "word": "manageable",
@@ -2004,7 +2201,9 @@
           "business": 3,
           "example": "The workload is manageable.",
           "translation": "仕事量は対処可能だ。",
-          "note": "manage ＋ -able。"
+          "note": "manage ＋ -able。",
+          "relationship": "synonym",
+          "etymology": "イタリア語 maneggiare（手で扱う）→ manage ＋ -able。"
         },
         {
           "word": "endurable",
@@ -2016,7 +2215,9 @@
           "business": 3,
           "example": "The discomfort was endurable.",
           "translation": "不快感は耐えられる程度だった。",
-          "note": "endure ＋ -able。"
+          "note": "endure ＋ -able。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 durare（持続する・耐える）→ endure ＋ -able。"
         }
       ],
       "legacySource": false
@@ -2050,7 +2251,8 @@
           "business": 3,
           "example": "We will amend the contract.",
           "translation": "契約を修正する。",
-          "note": "ラテン語 emendare。"
+          "note": "ラテン語 emendare。",
+          "relationship": "cognate"
         },
         {
           "word": "emend",
@@ -2062,7 +2264,8 @@
           "business": 3,
           "example": "The editor emended the text.",
           "translation": "編集者は文章を校訂した。",
-          "note": "amend と同じ語源。文章の校訂に特化。"
+          "note": "amend と同じ語源。文章の校訂に特化。",
+          "relationship": "cognate"
         },
         {
           "word": "emendation",
@@ -2074,7 +2277,8 @@
           "business": 3,
           "example": "The scholar proposed an emendation.",
           "translation": "学者は校訂案を提案した。",
-          "note": "ラテン語 emendatio。"
+          "note": "ラテン語 emendatio。",
+          "relationship": "cognate"
         },
         {
           "word": "amendable",
@@ -2086,7 +2290,8 @@
           "business": 3,
           "example": "The contract is amendable.",
           "translation": "契約は修正可能だ。",
-          "note": "amend ＋ -able。"
+          "note": "amend ＋ -able。",
+          "relationship": "cognate"
         },
         {
           "word": "amended",
@@ -2098,7 +2303,8 @@
           "business": 3,
           "example": "Read the amended agreement.",
           "translation": "修正後の契約を読んでください。",
-          "note": "amend ＋ -ed。"
+          "note": "amend ＋ -ed。",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -2112,7 +2318,9 @@
           "business": 3,
           "example": "The report needs revisions.",
           "translation": "報告書は改訂が必要だ。",
-          "note": "re-（再び）＋ videre（見る）。"
+          "note": "re-（再び）＋ videre（見る）。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 re-（再び）＋ videre（見る）から。"
         },
         {
           "word": "modification",
@@ -2124,7 +2332,9 @@
           "business": 3,
           "example": "The design needs modification.",
           "translation": "設計には変更が必要だ。",
-          "note": "ラテン語 modus（尺度）に由来。"
+          "note": "ラテン語 modus（尺度）に由来。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 modus（尺度・方法）から。"
         },
         {
           "word": "alteration",
@@ -2136,7 +2346,9 @@
           "business": 3,
           "example": "The building underwent alterations.",
           "translation": "建物は改修された。",
-          "note": "ラテン語 alter（別の）に由来。"
+          "note": "ラテン語 alter（別の）に由来。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 alter（他方の）から。"
         },
         {
           "word": "correction",
@@ -2148,7 +2360,9 @@
           "business": 3,
           "example": "Please make the correction.",
           "translation": "訂正してください。",
-          "note": "ラテン語 corrigere（正す）に由来。"
+          "note": "ラテン語 corrigere（正す）に由来。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 corrigere（正す）から。"
         },
         {
           "word": "addendum",
@@ -2160,7 +2374,9 @@
           "business": 3,
           "example": "An addendum was attached.",
           "translation": "追加文書が添付された。",
-          "note": "ラテン語 addere（加える）に由来。"
+          "note": "ラテン語 addere（加える）に由来。",
+          "relationship": "synonym",
+          "etymology": "ラテン語 addere（加える）の動形容詞から。"
         }
       ],
       "legacySource": false
@@ -2194,7 +2410,8 @@
           "business": 3,
           "example": "The joke caused great hilarity.",
           "translation": "冗談は大笑いを巻き起こした。",
-          "note": "ラテン語 hilaritas（陽気さ）。"
+          "note": "ラテン語 hilaritas（陽気さ）。",
+          "relationship": "cognate"
         },
         {
           "word": "hilariously",
@@ -2206,7 +2423,8 @@
           "business": 3,
           "example": "He performed hilariously.",
           "translation": "彼はとても面白く演じた。",
-          "note": "hilarious ＋ -ly。"
+          "note": "hilarious ＋ -ly。",
+          "relationship": "cognate"
         },
         {
           "word": "exhilarate",
@@ -2218,7 +2436,8 @@
           "business": 3,
           "example": "The ride exhilarated us.",
           "translation": "乗り物は私たちをわくわくさせた。",
-          "note": "ラテン語 exhilarare（陽気にする）。"
+          "note": "ラテン語 exhilarare（陽気にする）。",
+          "relationship": "cognate"
         },
         {
           "word": "exhilarating",
@@ -2230,7 +2449,8 @@
           "business": 3,
           "example": "It was exhilarating.",
           "translation": "それは爽快だった。",
-          "note": "exhilarate ＋ -ing。"
+          "note": "exhilarate ＋ -ing。",
+          "relationship": "cognate"
         },
         {
           "word": "hilarity-inducing",
@@ -2242,7 +2462,8 @@
           "business": 3,
           "example": "It was a hilarity-inducing show.",
           "translation": "大笑いを誘うショーだった。",
-          "note": "hilarity ＋ inducing の複合表現。"
+          "note": "hilarity ＋ inducing の複合表現。",
+          "relationship": "cognate"
         }
       ],
       "synonyms": [
@@ -2256,7 +2477,9 @@
           "business": 3,
           "example": "That joke is funny.",
           "translation": "その冗談は面白い。",
-          "note": "fun ＋ -y。"
+          "note": "fun ＋ -y。",
+          "relationship": "synonym",
+          "etymology": "fun（楽しみ）＋ -y。"
         },
         {
           "word": "amusing",
@@ -2268,7 +2491,9 @@
           "business": 3,
           "example": "I found it amusing.",
           "translation": "それは愉快だった。",
-          "note": "amuse ＋ -ing。"
+          "note": "amuse ＋ -ing。",
+          "relationship": "synonym",
+          "etymology": "古フランス語 amuser（楽しませる）から。"
         },
         {
           "word": "comical",
@@ -2280,7 +2505,9 @@
           "business": 3,
           "example": "His expression was comical.",
           "translation": "彼の表情は滑稽だった。",
-          "note": "ギリシャ語 komikos（喜劇の）。"
+          "note": "ギリシャ語 komikos（喜劇の）。",
+          "relationship": "synonym",
+          "etymology": "ギリシャ語 kōmikos（喜劇の）から。"
         },
         {
           "word": "hysterical",
@@ -2292,7 +2519,9 @@
           "business": 3,
           "example": "The comedian was hysterical.",
           "translation": "その芸人は爆笑ものだった。",
-          "note": "ギリシャ語 hystera に由来。"
+          "note": "ギリシャ語 hystera に由来。",
+          "relationship": "synonym",
+          "etymology": "ギリシャ語 hystera（子宮）に由来。現代の意味は歴史的な医学概念を経て発展。"
         },
         {
           "word": "side-splitting",
@@ -2304,7 +2533,9 @@
           "business": 3,
           "example": "The show was side-splitting.",
           "translation": "ショーは腹がよじれるほど面白かった。",
-          "note": "side（脇腹）＋ splitting（裂ける）。"
+          "note": "side（脇腹）＋ splitting（裂ける）。",
+          "relationship": "synonym",
+          "etymology": "side（脇腹）＋ splitting（裂く）の比喩。"
         }
       ],
       "legacySource": false
