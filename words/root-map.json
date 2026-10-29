@@ -170,5 +170,73 @@
   "valid": [
     "val-",
     "valēre｜強い・力を持つ"
+  ],
+  "hiatus": [
+    "hia-/hiat-",
+    "hiare｜口を開ける"
+  ],
+  "drowsiness": [
+    "drows-",
+    "drowse｜うとうとする（さらに古い語源は不確実）"
+  ],
+  "predicament": [
+    "dic-/dict-",
+    "dicere｜言う・宣言する"
+  ],
+  "compensation": [
+    "pens-/pend-",
+    "pendere｜重さを量る・支払う"
+  ],
+  "dilute": [
+    "lut-/lu-",
+    "diluere｜洗い流す・薄める"
+  ],
+  "delegate": [
+    "leg-",
+    "legare｜任せる・派遣する"
+  ],
+  "flock-to": [
+    "flock-",
+    "flocc｜群れ（古英語）"
+  ],
+  "subside": [
+    "sed-/sid-",
+    "sedere｜座る・沈む"
+  ],
+  "circle-back": [
+    "circ-/circul-",
+    "circulus｜小さな輪"
+  ],
+  "ulterior": [
+    "ulter-/ultra-",
+    "ulter｜向こう側の"
+  ],
+  "folk": [
+    "folk-",
+    "folc｜人々（古英語）"
+  ],
+  "permissible": [
+    "mit-/miss-",
+    "mittere｜送る・放つ"
+  ],
+  "condescendingly": [
+    "scend-/scens-",
+    "scandere｜登る・進む（descendere＝下る）"
+  ],
+  "subsidy": [
+    "sed-/sid-",
+    "subsidium｜援軍・支援（sedereに関連）"
+  ],
+  "tolerable": [
+    "toler-",
+    "tolerare｜耐える・支える"
+  ],
+  "amendment": [
+    "mend-/emend-",
+    "emendare｜誤りを正す"
+  ],
+  "hilarious": [
+    "hilar-",
+    "hilaris｜陽気な"
   ]
 }
