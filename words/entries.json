@@ -100,7 +100,8 @@
           "business": 3,
           "example": "My guess is that she missed the train.",
           "translation": "彼女は電車に乗り遅れたのだと思う。",
-          "note": "中英語 gessen 由来（遠い語源は不確か）。speculation より直感的・口語的。"
+          "note": "中英語 gessen 由来（遠い語源は不確か）。speculation より直感的・口語的。",
+          "etymology": "中英語 gessen 由来"
         },
         {
           "word": "assumption",
@@ -124,7 +125,8 @@
           "business": 2,
           "example": "That explanation is only conjecture.",
           "translation": "その説明は単なる憶測にすぎない。",
-          "note": "ラテン語 con-（一緒に）+ jacere（投げる）。限られた情報から推測する硬い表現。"
+          "note": "ラテン語 con-（一緒に）+ jacere（投げる）。限られた情報から推測する硬い表現。",
+          "etymology": "ラテン語 con-（一緒に）+ jacere（投げる）。限られた情報から"
         },
         {
           "word": "inference",
@@ -136,7 +138,8 @@
           "business": 4,
           "example": "We drew an inference from the survey results.",
           "translation": "調査結果から推論を導いた。",
-          "note": "ラテン語 in-（中へ）+ ferre（運ぶ）。証拠から結論を導く点で speculation と異なる。"
+          "note": "ラテン語 in-（中へ）+ ferre（運ぶ）。証拠から結論を導く点で speculation と異なる。",
+          "etymology": "ラテン語 in-（中へ）+ ferre（運ぶ）。証拠から"
         },
         {
           "word": "rumor",
@@ -276,7 +279,8 @@
           "business": 4,
           "example": "The discovery opened the door to new treatments.",
           "translation": "その発見は新しい治療法への可能性を開いた。",
-          "note": "扉を開ける比喩。新しい選択肢の発生を強調。"
+          "note": "扉を開ける比喩。新しい選択肢の発生を強調。",
+          "etymology": "open（古英語 open）＋ door（古英語 duru）を用いた比喩表現。"
         },
         {
           "word": "clear the way",
@@ -596,7 +600,8 @@
           "business": 5,
           "example": "He is an influential figure in the technology industry.",
           "translation": "彼はテクノロジー業界の有力人物だ。",
-          "note": "ラテン語 influere（流れ込む）に由来。知名度より影響力を強調。"
+          "note": "ラテン語 influere（流れ込む）に由来。知名度より影響力を強調。",
+          "etymology": "ラテン語 influere（流れ込む）に由来"
         }
       ],
       "comparison": "prominent＝存在感・重要性が際立つ／noticeable＝気づくほど目立つ／distinguished＝高い評価や実績がある／notable＝注目に値する／conspicuous＝視覚的に非常に目立つ／influential＝他者に影響を与える力がある。"
@@ -716,7 +721,8 @@
           "business": 5,
           "example": "She will chair tomorrow's meeting.",
           "translation": "彼女が明日の会議の議長を務める。",
-          "note": "ラテン語 cathedra（座席）由来。会議の実務的な進行に自然。"
+          "note": "ラテン語 cathedra（座席）由来。会議の実務的な進行に自然。",
+          "etymology": "ラテン語 cathedra（座席）由来"
         },
         {
           "word": "lead",
@@ -920,7 +926,8 @@
           "business": 5,
           "example": "Please review the technical documentation before installation.",
           "translation": "インストール前に技術文書を確認してください。",
-          "note": "ラテン語 documentum（教訓、証拠）由来。実務資料。"
+          "note": "ラテン語 documentum（教訓、証拠）由来。実務資料。",
+          "etymology": "ラテン語 documentum（教訓、証拠）由来"
         },
         {
           "word": "bibliography",
@@ -1244,7 +1251,8 @@
           "business": 5,
           "example": "We need to integrate the new software with our existing systems.",
           "translation": "新しいソフトウェアを既存のシステムと統合する必要がある。",
-          "note": "integer（完全な）に由来。連携させる。"
+          "note": "integer（完全な）に由来。連携させる。",
+          "etymology": "integer（完全な）に由来"
         },
         {
           "word": "include",
@@ -1616,7 +1624,8 @@
           "business": 5,
           "example": "The report provides interesting insights into changing consumer preferences.",
           "translation": "その報告書は変化する消費者の好みに関して興味深い洞察を提供している。",
-          "note": "interest + -ing。interest はラテン語 interesse（間にある、重要である）に由来。一般的な面白さ。"
+          "note": "interest + -ing。interest はラテン語 interesse（間にある、重要である）に由来。一般的な面白さ。",
+          "etymology": "interest + -ing。interest はラテン語 interesse（間にある、重要である）に由来"
         },
         {
           "word": "fascinating",
@@ -1652,7 +1661,8 @@
           "business": 3,
           "example": "The artist's captivating paintings attracted visitors from across the country.",
           "translation": "その画家の人々を魅了する絵画は全国から訪問者を引きつけた。",
-          "note": "ラテン語 captivus（捕らわれた）に由来。心を捕まえる。"
+          "note": "ラテン語 captivus（捕らわれた）に由来。心を捕まえる。",
+          "etymology": "ラテン語 captivus（捕らわれた）に由来"
         },
         {
           "word": "mysterious",
@@ -2012,7 +2022,8 @@
           "business": 5,
           "example": "The radio picked up a weak signal from the remote research station, but the message was difficult to understand.",
           "translation": "無線機は遠隔地の研究施設から微弱な信号を受信したがそのメッセージを理解するのは難しかった。",
-          "note": "ゲルマン語系の語。一般的な強度の弱さ。"
+          "note": "ゲルマン語系の語。一般的な強度の弱さ。",
+          "etymology": "ゲルマン語系の語"
         },
         {
           "word": "slight",
@@ -2024,7 +2035,8 @@
           "business": 5,
           "example": "There was a slight improvement in customer satisfaction following the introduction of the new support system.",
           "translation": "新しいサポートシステムの導入後顧客満足度にわずかな改善が見られた。",
-          "note": "中英語 sliht などに由来。程度・量の小ささ。"
+          "note": "中英語 sliht などに由来。程度・量の小ささ。",
+          "etymology": "中英語 sliht などに由来"
         },
         {
           "word": "pass out",
@@ -2992,7 +3004,8 @@
           "business": 3,
           "example": "The organization's insular culture discouraged employees from sharing ideas with external partners.",
           "translation": "その組織の閉鎖的な文化は、社員が外部の協力先と意見を共有することを妨げていた。",
-          "note": "ラテン語 insula（島）。外部との交流から隔たる。"
+          "note": "ラテン語 insula（島）。外部との交流から隔たる。",
+          "etymology": "ラテン語 insula（島）。外部との交流から"
         }
       ],
       "comparison": "provincial＝州・地方の／視野の狭い（中立と否定の両用法）／regional＝中立的な地域区分／local＝地元・近隣地域／rural＝農村地域／parochial＝狭い集団の利益にとらわれる／narrow-minded＝考え方が狭いという直接的批判／insular＝外部との交流に閉鎖的"
@@ -3336,7 +3349,8 @@
           "business": 5,
           "example": "Repeated delays undermined investors' confidence in the management team.",
           "translation": "度重なる遅延は、経営陣に対する投資家の信頼を損なった。",
-          "note": "under＋mine。土台を下から掘り崩す。"
+          "note": "under＋mine。土台を下から掘り崩す。",
+          "etymology": "under＋mine。土台を下から"
         },
         {
           "word": "jeopardize",
@@ -3360,7 +3374,8 @@
           "business": 4,
           "example": "Excessive fatigue can impair employees' ability to make sound decisions.",
           "translation": "過度の疲労は、社員が適切な判断を下す能力を低下させる可能性がある。",
-          "note": "古フランス語を経由した、悪い・より悪いを表すラテン語由来。"
+          "note": "古フランス語を経由した、悪い・より悪いを表すラテン語由来。",
+          "etymology": "古フランス語を経由した、悪い・より悪いを表すラテン語由来"
         }
       ],
       "comparison": "compromise＝妥協する／安全性・品質などを損なう／negotiate＝交渉の過程であり妥協するとは限らない／concede＝相手への一方的な譲歩・認容／accommodate＝相手の事情に合わせて調整する／undermine＝信頼や権威などの基盤を徐々に弱める／jeopardize＝危険にさらす（実害が確定しなくてもよい）／impair＝能力・機能を低下させる"
@@ -3532,7 +3547,8 @@
           "business": 4,
           "example": "Financial markets were thrown into turmoil following the unexpected policy announcement.",
           "translation": "予想外の政策発表を受けて金融市場は混乱に陥った。",
-          "note": "語源の詳細は不確実。激しい混乱状態。"
+          "note": "語源の詳細は不確実。激しい混乱状態。",
+          "etymology": "語源"
         },
         {
           "word": "transformation",
@@ -3716,7 +3732,8 @@
           "business": 5,
           "example": "The central bank lowered its benchmark interest rate.",
           "translation": "中央銀行は政策金利を引き下げた。",
-          "note": "low に由来。価格・金利・温度などの水準。"
+          "note": "low に由来。価格・金利・温度などの水準。",
+          "etymology": "low に由来"
         },
         {
           "word": "mitigate",
@@ -3740,7 +3757,8 @@
           "business": 4,
           "example": "The airline curtailed several international routes due to rising operating costs.",
           "translation": "その航空会社は運航コストの上昇により複数の国際路線を縮小した。",
-          "note": "古フランス語の「短い」に関係。切り詰める。"
+          "note": "古フランス語の「短い」に関係。切り詰める。",
+          "etymology": "古フランス語の「短い」に関係"
         }
       ],
       "comparison": "reduce＝量・規模・程度を小さくする（幅広い）／decrease＝数値・数量が客観的に減る／diminish＝効果・重要性・強さなどが弱まる／cut＝意図的・直接的に削る／lower＝価格・金利・温度などの水準を下げる／mitigate＝リスク・被害の悪影響を和らげる／curtail＝活動・支出・自由などを制限・短縮する"
@@ -3888,7 +3906,8 @@
           "business": 5,
           "example": "The renewable energy sector boomed as investment in clean technology increased.",
           "translation": "クリーン技術への投資が増えるにつれて、再生可能エネルギー部門は急成長した。",
-          "note": "大きく響く音を表す擬音的語。急拡大。"
+          "note": "大きく響く音を表す擬音的語。急拡大。",
+          "etymology": "大きく響く音を表す擬音的語"
         },
         {
           "word": "survive",
@@ -4084,7 +4103,8 @@
           "business": 5,
           "example": "We've shifted our plans from Saturday to Sunday.",
           "translation": "予定を土曜日から日曜日に変更したよ。",
-          "note": "古英語系の語。重点や位置を移す。"
+          "note": "古英語系の語。重点や位置を移す。",
+          "etymology": "古英語系の語"
         },
         {
           "word": "allocate",
@@ -4096,7 +4116,8 @@
           "business": 5,
           "example": "We need to allocate more time to testing before the product launch.",
           "translation": "製品発売前のテストにもっと時間を割り当てる必要がある。",
-          "note": "ad-＋locare（置く）。元の用途から変更するとは限らない。"
+          "note": "ad-＋locare（置く）。元の用途から変更するとは限らない。",
+          "etymology": "ad-＋locare（置く）。元の用途から"
         }
       ],
       "comparison": "divert＝元の行き先・目的から別方向へそらす／redirect＝新しい方向・目的地へ誘導／distract＝人の注意・集中を散らす／deflect＝質問・批判・攻撃などをかわす／reroute＝交通・物流・通信の経路変更／shift＝位置・重点を移す／allocate＝資源・予算を割り当てる（転用とは限らない）"
@@ -4196,7 +4217,8 @@
           "business": 2,
           "example": "Her eyes sparkled with excitement.",
           "translation": "彼女の目は興奮できらきら輝いていた。",
-          "note": "小さな強い光が点々と輝く。"
+          "note": "小さな強い光が点々と輝く。",
+          "etymology": "語源は不確実。中英語 sparken（火花を散らす）との関連が指摘される。"
         },
         {
           "word": "glitter",
@@ -4208,7 +4230,8 @@
           "business": 2,
           "example": "The snow glittered under the morning sun.",
           "translation": "雪が朝日に照らされてきらきら光っていた。",
-          "note": "多数の反射光。"
+          "note": "多数の反射光。",
+          "etymology": "中英語 gliteren（きらめく）に由来。"
         },
         {
           "word": "twinkle",
@@ -4220,7 +4243,8 @@
           "business": 1,
           "example": "The stars were twinkling above us.",
           "translation": "頭上で星々がまたたいていた。",
-          "note": "点滅するような光。"
+          "note": "点滅するような光。",
+          "etymology": "古英語 twincian（まばたく）に由来。"
         },
         {
           "word": "gleam",
@@ -4232,7 +4256,8 @@
           "business": 2,
           "example": "The freshly polished floor gleamed.",
           "translation": "磨きたての床がつやつやと輝いていた。",
-          "note": "滑らかな表面の光沢。"
+          "note": "滑らかな表面の光沢。",
+          "etymology": "古英語 glæm（輝き）に由来。"
         },
         {
           "word": "flicker",
@@ -4244,7 +4269,8 @@
           "business": 2,
           "example": "The candlelight flickered in the wind.",
           "translation": "ろうそくの光が風でちらちら揺れていた。",
-          "note": "不規則に光が揺れる。"
+          "note": "不規則に光が揺れる。",
+          "etymology": "中英語 flikeren（揺れ動く）に由来。"
         },
         {
           "word": "shine",
@@ -4256,7 +4282,8 @@
           "business": 3,
           "example": "The sun was shining brightly.",
           "translation": "太陽が明るく輝いていた。",
-          "note": "光を放つ・反射する一般的な表現。"
+          "note": "光を放つ・反射する一般的な表現。",
+          "etymology": "古英語 scīnan（輝く）に由来。"
         }
       ],
       "comparison": "shimmer＝柔らかく細かく揺らめく／sparkle＝小さな強い光が点々と輝く／glitter＝多数の反射光がきらきら光る／twinkle＝点滅するようにまたたく／glimmer＝弱い光がかすかに見える／gleam＝滑らかな表面が光る／flicker＝不規則にちらつく／shine＝光る一般表現"
@@ -4392,7 +4419,8 @@
           "business": 4,
           "example": "We had a traditional Japanese breakfast at the hotel.",
           "translation": "ホテルで伝統的な和朝食を食べた。",
-          "note": "長い歴史を通じて受け継がれてきたこと。"
+          "note": "長い歴史を通じて受け継がれてきたこと。",
+          "etymology": "ラテン語 tradere（引き渡す）から tradition（伝統）へ。"
         },
         {
           "word": "standard",
@@ -4404,7 +4432,8 @@
           "business": 5,
           "example": "This is the standard procedure for checking in.",
           "translation": "これがチェックインの標準的な手続きです。",
-          "note": "基準として採用されていること。"
+          "note": "基準として採用されていること。",
+          "etymology": "古フランス語 estandard（旗・基準）に由来。"
         },
         {
           "word": "customary",
@@ -5004,7 +5033,8 @@
           "business": 4,
           "example": "The engineering team improved system observability by adding better monitoring tools.",
           "translation": "エンジニアリングチームは監視ツールを改善することで、システムの可観測性を高めた。",
-          "note": "システム内部の状態を外部情報から把握できる性質。"
+          "note": "システム内部の状態を外部情報から把握できる性質。",
+          "etymology": "システム内部の状態を外部情報から"
         }
       ],
       "comparison": "visibility＝見える・把握できる状態／clarity＝明確で理解しやすいこと／transparency＝情報が隠されず公開されていること／awareness＝人々が認識していること／exposure＝人々の目に触れる機会／outlook＝将来の見通し／observability＝内部状態を観測・推定できること"
@@ -5152,7 +5182,8 @@
           "business": 3,
           "example": "Oil paint dries more slowly than acrylic paint.",
           "translation": "油絵の具はアクリル絵の具より乾燥が遅い。",
-          "note": "顔料と結合材などからなる塗料・絵の具。"
+          "note": "顔料と結合材などからなる塗料・絵の具。",
+          "etymology": "顔料と結合材などから"
         },
         {
           "word": "colorant",
@@ -5520,7 +5551,8 @@
           "business": 5,
           "example": "The new regulations are designed to protect consumers.",
           "translation": "新しい規制は消費者を保護するために設計されている。",
-          "note": "危険・損害から守ることに重点。"
+          "note": "危険・損害から守ることに重点。",
+          "etymology": "危険・損害から"
         },
         {
           "word": "maintain",
@@ -5568,7 +5600,8 @@
           "business": 5,
           "example": "Strong internal controls help safeguard company assets.",
           "translation": "強固な内部統制は会社資産の保全に役立つ。",
-          "note": "リスクや不正、損害から守ることを強調。"
+          "note": "リスクや不正、損害から守ることを強調。",
+          "etymology": "リスクや不正、損害から"
         },
         {
           "word": "sustain",
@@ -5864,7 +5897,8 @@
           "business": 4,
           "example": "Our hotel room had a wonderful view of the mountains.",
           "translation": "ホテルの部屋から山々の素晴らしい眺めが楽しめた。",
-          "note": "ある視点から見える景色。"
+          "note": "ある視点から見える景色。",
+          "etymology": "ある視点から"
         },
         {
           "word": "sight",
@@ -6404,7 +6438,8 @@
           "business": 3,
           "example": "The squeezing of profit margins has forced the company to reconsider its pricing strategy.",
           "translation": "利益率の圧迫によって、その会社は価格戦略の再検討を迫られている。",
-          "note": "外部からの圧力を強調。"
+          "note": "外部からの圧力を強調。",
+          "etymology": "外部から"
         }
       ],
       "comparison": "compression＝圧力などによって押し縮める；compaction＝密に詰め固める；condensation＝凝縮・要約；reduction＝量を減らす；contraction＝規模が縮小する。ビジネスでは margin compression（利益率の圧迫）が重要。"
