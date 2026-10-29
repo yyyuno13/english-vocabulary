@@ -778,16 +778,16 @@
           "ratingEstimated": true
         },
         {
-          "word": "legal",
-          "pos": "形容詞",
-          "ipa": "/ˈliːɡəl/",
-          "meaning": "法律の、合法の",
-          "difficulty": 2,
+          "word": "relegate",
+          "pos": "動詞",
+          "ipa": "/ˈrelɪɡeɪt/",
+          "meaning": "格下げする、後回しにする",
+          "difficulty": 3,
           "daily": 4,
           "business": 4,
-          "example": "Please consult the legal team.",
-          "translation": "法務チームに相談してください。",
-          "note": "ラテン語 lex / legis（法律）に由来。delegate と直接同じ語ではないが、leg- という形の似た別系統を混同しない。",
+          "example": "The issue was relegated to a footnote.",
+          "translation": "その論点は脚注に追いやられた。",
+          "note": "ラテン語 relegare（送り返す、追放する）に由来。delegate と綴りが似るが意味は異なる。",
           "ratingEstimated": true
         }
       ],
@@ -843,22 +843,24 @@
           "translation": "彼らは機微な仕事を彼女に任せた。",
           "note": "entrust の典型的な構文。",
           "ratingEstimated": true
-        },
-        {
-          "word": "relegate",
-          "pos": "動詞",
-          "ipa": "/ˈrelɪɡeɪt/",
-          "meaning": "格下げする、後回しにする",
-          "difficulty": 3,
-          "daily": 4,
-          "business": 4,
-          "example": "The issue was relegated to a footnote.",
-          "translation": "その論点は脚注に追いやられた。",
-          "note": "ラテン語 relegare（送り返す、追放する）に由来。delegate と綴りが似るが意味は異なる。",
-          "ratingEstimated": true
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "reference": [
+        {
+          "word": "legal",
+          "pos": "形容詞",
+          "ipa": "/ˈliːɡəl/",
+          "meaning": "法律の、合法の",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Please consult the legal team.",
+          "translation": "法務チームに相談してください。",
+          "note": "ラテン語 lex / legis（法律）に由来。delegate と直接同じ語ではないが、leg- という形の似た別系統を混同しない。",
+          "ratingEstimated": true
+        }
+      ]
     },
     {
       "id": "flock-to",
@@ -1186,19 +1188,6 @@
           "translation": "その文書は回覧中だ。",
           "note": "circulate の名詞形。",
           "ratingEstimated": true
-        },
-        {
-          "word": "circuit",
-          "pos": "名詞",
-          "ipa": "/ˈsɜːrkɪt/",
-          "meaning": "回路、一周、巡回",
-          "difficulty": 3,
-          "daily": 4,
-          "business": 4,
-          "example": "The circuit was completed.",
-          "translation": "回路が完成した／一周が完了した。",
-          "note": "ラテン語 circuitus（周回）に由来。",
-          "ratingEstimated": true
         }
       ],
       "synonyms": [
@@ -1268,7 +1257,22 @@
           "ratingEstimated": true
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "reference": [
+        {
+          "word": "circuit",
+          "pos": "名詞",
+          "ipa": "/ˈsɜːrkɪt/",
+          "meaning": "回路、一周、巡回",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The circuit was completed.",
+          "translation": "回路が完成した／一周が完了した。",
+          "note": "ラテン語 circuitus（周回）に由来。",
+          "ratingEstimated": true
+        }
+      ]
     },
     {
       "id": "ulterior",
