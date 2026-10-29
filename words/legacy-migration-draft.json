@@ -1,0 +1,2212 @@
+{
+  "entries": [
+    {
+      "id": "hiatus",
+      "word": "hiatus",
+      "pos": "名詞",
+      "ipa": "/haɪˈeɪtəs/",
+      "meaning": "中断、空白期間、途切れ",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 hiare（口を開ける、ぽっかり開く）に由来。連続していたものに「開いた隙間」ができるイメージ。",
+      "core": "連続していた活動・期間・文章などにできた空白。",
+      "usage": "日常：中／一般ビジネス：中／FDD・M&A：低〜中",
+      "examples": [
+        [
+          "After a six-month hiatus, the band returned.",
+          "6か月の活動休止を経て、そのバンドは復帰した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "hiatal",
+          "pos": "形容詞",
+          "ipa": "/haɪˈeɪtəl/",
+          "meaning": "裂孔の、裂孔に関する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The doctor diagnosed a hiatal hernia.",
+          "translation": "医師は食道裂孔ヘルニアと診断した。",
+          "note": "hiatus と同じ「開口・裂け目」の語源に由来。"
+        },
+        {
+          "word": "hiant",
+          "pos": "形容詞・まれ",
+          "ipa": "/ˈhaɪənt/",
+          "meaning": "口を開けた",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "The term is rarely used in modern English.",
+          "translation": "この語は現代英語ではほとんど使われない。",
+          "note": "ラテン語 hiare（口を開ける）に関連。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "interruption",
+          "pos": "名詞",
+          "ipa": "/ˌɪntəˈrʌpʃən/",
+          "meaning": "中断、妨害",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Sorry for the interruption.",
+          "translation": "話を遮ってすみません。",
+          "note": "interrupt（途中に割り込む）から。"
+        },
+        {
+          "word": "pause",
+          "pos": "名詞・動詞",
+          "ipa": "/pɔːz/",
+          "meaning": "小休止する、間を置く",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Let’s pause here and continue later.",
+          "translation": "ここでいったん止めて、後で続けよう。",
+          "note": "一時的に止まることを表す一般語。"
+        },
+        {
+          "word": "break",
+          "pos": "名詞・動詞",
+          "ipa": "/breɪk/",
+          "meaning": "休憩、中断、壊す",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "We took a short break.",
+          "translation": "私たちは短い休憩を取った。",
+          "note": "連続性を断つイメージ。"
+        },
+        {
+          "word": "gap",
+          "pos": "名詞",
+          "ipa": "/ɡæp/",
+          "meaning": "隙間、隔たり、差",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "There is a gap between the two estimates.",
+          "translation": "2つの見積もりには差がある。",
+          "note": "物理的・抽象的な空白や差。"
+        },
+        {
+          "word": "recess",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈriːses/",
+          "meaning": "休会、休憩、引っ込んだ部分",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The meeting is in recess until Monday.",
+          "translation": "会議は月曜日まで休会となっている。",
+          "note": "ラテン語 recessus（後退・引き下がること）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "drowsiness",
+      "word": "drowsiness",
+      "pos": "名詞",
+      "ipa": "/ˈdraʊzinəs/",
+      "meaning": "眠気",
+      "difficulty": 2,
+      "daily": null,
+      "business": null,
+      "etymology": "drowse → drowsy → drowsiness という語形成。drowse のさらに古い語源は確実でないため、無理に分解しない。",
+      "core": "眠くて頭や体の働きが鈍くなっている状態。",
+      "usage": "日常：高／一般ビジネス：低／FDD・M&A：低",
+      "examples": [
+        [
+          "This medicine may cause drowsiness.",
+          "この薬は眠気を引き起こすことがある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "drowse",
+          "pos": "動詞・名詞",
+          "ipa": "/draʊz/",
+          "meaning": "うとうとする、うたた寝",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "I started to drowse on the train.",
+          "translation": "電車でうとうとし始めた。",
+          "note": "drowsy / drowsiness と同じ語族。"
+        },
+        {
+          "word": "drowsy",
+          "pos": "形容詞",
+          "ipa": "/ˈdraʊzi/",
+          "meaning": "眠い、眠気を催した",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "I feel drowsy after lunch.",
+          "translation": "昼食後は眠くなる。",
+          "note": "drowse に形容詞語尾 -y が付いた形。"
+        },
+        {
+          "word": "drowsily",
+          "pos": "副詞",
+          "ipa": "/ˈdraʊzɪli/",
+          "meaning": "眠そうに、うとうとしながら",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "He answered drowsily.",
+          "translation": "彼は眠そうに答えた。",
+          "note": "drowsy の副詞形。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "sleepiness",
+          "pos": "名詞",
+          "ipa": "/ˈsliːpinəs/",
+          "meaning": "眠気",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Sleepiness can affect concentration.",
+          "translation": "眠気は集中力に影響することがある。",
+          "note": "sleep + -y + -ness の語形成。"
+        },
+        {
+          "word": "somnolence",
+          "pos": "名詞",
+          "ipa": "/ˈsɑːmnələns/",
+          "meaning": "眠気、傾眠",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Somnolence is a possible side effect.",
+          "translation": "傾眠は副作用の可能性がある。",
+          "note": "ラテン語 somnus（睡眠）に関連する医学寄りの語。"
+        },
+        {
+          "word": "lethargy",
+          "pos": "名詞",
+          "ipa": "/ˈleθərdʒi/",
+          "meaning": "無気力、倦怠、だるさ",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "He experienced fatigue and lethargy.",
+          "translation": "彼は疲労と倦怠感を経験した。",
+          "note": "ギリシャ語由来で、活力が乏しい状態を表す。"
+        },
+        {
+          "word": "torpor",
+          "pos": "名詞",
+          "ipa": "/ˈtɔːrpər/",
+          "meaning": "活動低下、無気力、昏睡状態",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "The heat left everyone in a state of torpor.",
+          "translation": "暑さで皆がぐったりしていた。",
+          "note": "ラテン語 torpere（麻痺する、動かない）に由来。"
+        },
+        {
+          "word": "fatigue",
+          "pos": "名詞・動詞",
+          "ipa": "/fəˈtiːɡ/",
+          "meaning": "疲労、疲れさせる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The long flight caused fatigue.",
+          "translation": "長時間のフライトで疲労が生じた。",
+          "note": "フランス語経由で「疲れさせる」に関連。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "predicament",
+      "word": "predicament",
+      "pos": "名詞",
+      "ipa": "/prɪˈdɪkəmənt/",
+      "meaning": "困難な状況、苦境",
+      "difficulty": 4,
+      "daily": null,
+      "business": null,
+      "etymology": "歴史的にはラテン語 praedicamentum に由来し、哲学では「範疇・分類」の意味もあった。現代の「苦境」という意味を単純に pre + dic + -ment と分解するのは不正確。",
+      "core": "簡単には抜け出せない、困った状況に置かれていること。",
+      "usage": "日常：中／一般ビジネス：中／FDD・M&A：低〜中",
+      "examples": [
+        [
+          "The company found itself in a difficult predicament.",
+          "その会社は困難な状況に陥った。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "predicate",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈpredɪkeɪt/",
+          "meaning": "断言する、〜を前提とする／述語",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The valuation is predicated on future growth.",
+          "translation": "その評価は将来の成長を前提としている。",
+          "note": "ラテン語 praedicare（公に述べる）に由来。"
+        },
+        {
+          "word": "dictate",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈdɪkteɪt/",
+          "meaning": "命令する、規定する／指図",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Market conditions dictate the strategy.",
+          "translation": "市場環境が戦略を左右する。",
+          "note": "ラテン語 dicere（言う）系の語。"
+        },
+        {
+          "word": "diction",
+          "pos": "名詞",
+          "ipa": "/ˈdɪkʃən/",
+          "meaning": "言葉遣い、発音・話し方",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Her diction is clear.",
+          "translation": "彼女の言葉遣いは明瞭だ。",
+          "note": "ラテン語 dictio（言うこと、表現）に由来。"
+        },
+        {
+          "word": "indicate",
+          "pos": "動詞",
+          "ipa": "/ˈɪndɪkeɪt/",
+          "meaning": "示す、指し示す",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The data indicate a decline in revenue.",
+          "translation": "データは売上高の減少を示している。",
+          "note": "ラテン語 indicare（示す、知らせる）に由来。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "dilemma",
+          "pos": "名詞",
+          "ipa": "/dɪˈlemə/",
+          "meaning": "ジレンマ、板挟み",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "We face a dilemma: cut costs or reduce headcount.",
+          "translation": "コスト削減か人員削減かというジレンマに直面している。",
+          "note": "ギリシャ語由来で、元来は二つの選択肢に関わる論理的な問題。"
+        },
+        {
+          "word": "plight",
+          "pos": "名詞",
+          "ipa": "/plaɪt/",
+          "meaning": "苦境、窮状",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The report describes the plight of small suppliers.",
+          "translation": "その報告書は小規模サプライヤーの窮状を描いている。",
+          "note": "歴史的には「状態・約束」などの意味を持つ語から発展。"
+        },
+        {
+          "word": "quandary",
+          "pos": "名詞",
+          "ipa": "/ˈkwɑːndəri/",
+          "meaning": "困惑、窮地",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "I’m in a quandary about which offer to accept.",
+          "translation": "どちらのオファーを受けるべきか悩んでいる。",
+          "note": "語源は不確実。選択や判断に迷う状態を表す。"
+        },
+        {
+          "word": "fix",
+          "pos": "名詞・動詞",
+          "ipa": "/fɪks/",
+          "meaning": "困った状況、窮地／固定する・解決する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "I’m in a fix and need your advice.",
+          "translation": "困った状況にいて、君の助言が必要だ。",
+          "note": "「固定する」から、逃げにくい状況という口語的用法もある。"
+        },
+        {
+          "word": "mess",
+          "pos": "名詞",
+          "ipa": "/mes/",
+          "meaning": "混乱、厄介な状況",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The deal became a real mess.",
+          "translation": "その取引は本当に厄介なことになった。",
+          "note": "語源は歴史的に「混ぜたもの・食事」などに関連し、現在は混乱を表す。"
+        },
+        {
+          "word": "chaos",
+          "pos": "名詞",
+          "ipa": "/ˈkeɪɑːs/",
+          "meaning": "大混乱、無秩序",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The system outage caused chaos.",
+          "translation": "システム障害が大混乱を引き起こした。",
+          "note": "ギリシャ語 khaos（深い空隙・混沌）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "pos": "名詞",
+      "ipa": "/ˌkɑːmpənˈseɪʃən/",
+      "meaning": "補償、報酬、賠償",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 compensare（釣り合わせる、相殺する）に由来。com-（共に）と pensare / pendere（重さを量る）に歴史的につながる。",
+      "core": "損失・労働・サービスなどに対して、価値を与えて釣り合わせること。",
+      "usage": "日常：中／一般ビジネス：高／FDD・M&A：高",
+      "examples": [
+        [
+          "The company offers competitive compensation.",
+          "その会社は競争力のある報酬を提供している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "compensate",
+          "pos": "動詞",
+          "ipa": "/ˈkɑːmpənseɪt/",
+          "meaning": "補償する、埋め合わせる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The payment compensates for the loss.",
+          "translation": "その支払いは損失を補償する。",
+          "note": "compensation の動詞形。"
+        },
+        {
+          "word": "expend",
+          "pos": "動詞",
+          "ipa": "/ɪkˈspend/",
+          "meaning": "費やす、支出する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The company expended significant resources.",
+          "translation": "会社は多くの資源を費やした。",
+          "note": "ラテン語 expendere（重さを量る、支払う）に由来し、pendere 系。"
+        },
+        {
+          "word": "suspend",
+          "pos": "動詞",
+          "ipa": "/səˈspend/",
+          "meaning": "一時停止する、保留する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The company suspended the project.",
+          "translation": "会社はそのプロジェクトを一時停止した。",
+          "note": "ラテン語 suspendere（下につるす）に由来。pendere 系の語。"
+        },
+        {
+          "word": "depend",
+          "pos": "動詞",
+          "ipa": "/dɪˈpend/",
+          "meaning": "依存する、〜次第である",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The outcome depends on market conditions.",
+          "translation": "結果は市場環境次第だ。",
+          "note": "ラテン語 dependere（ぶら下がる）に由来。pendere 系。"
+        },
+        {
+          "word": "pension",
+          "pos": "名詞",
+          "ipa": "/ˈpenʃən/",
+          "meaning": "年金",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The plan includes a pension benefit.",
+          "translation": "その制度には年金給付が含まれる。",
+          "note": "ラテン語 pensio（支払い）に由来し、支払い・定期給付に関連。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "remuneration",
+          "pos": "名詞",
+          "ipa": "/rɪˌmjuːnəˈreɪʃən/",
+          "meaning": "報酬、対価",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Executive remuneration was reviewed.",
+          "translation": "経営陣の報酬が見直された。",
+          "note": "ラテン語 remunerari（報いる）に由来。compensation より形式的。"
+        },
+        {
+          "word": "salary",
+          "pos": "名詞",
+          "ipa": "/ˈsæləri/",
+          "meaning": "給料、月給・年俸",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Her annual salary increased.",
+          "translation": "彼女の年収ベースの給与が増えた。",
+          "note": "ラテン語 salarium に由来。現代では定期的な給与を指す。"
+        },
+        {
+          "word": "wage",
+          "pos": "名詞・動詞",
+          "ipa": "/weɪdʒ/",
+          "meaning": "賃金、（戦いなどを）行う",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Hourly wages rose last year.",
+          "translation": "昨年、時給が上がった。",
+          "note": "歴史的には担保・報酬などに関連。一般に時間・日単位の賃金でよく使う。"
+        },
+        {
+          "word": "reimbursement",
+          "pos": "名詞",
+          "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+          "meaning": "立替費用の払い戻し",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Employees can claim reimbursement for travel expenses.",
+          "translation": "従業員は旅費の払い戻しを請求できる。",
+          "note": "reimburse（返金する）+ -ment。支出を元に戻すイメージ。"
+        },
+        {
+          "word": "indemnity",
+          "pos": "名詞",
+          "ipa": "/ɪnˈdemnəti/",
+          "meaning": "補償、損害賠償、補償条項",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The agreement contains an indemnity clause.",
+          "translation": "契約には補償条項が含まれている。",
+          "note": "ラテン語 indemnis（損害を受けていない）に関連。契約・法務で重要。"
+        },
+        {
+          "word": "reparation",
+          "pos": "名詞",
+          "ipa": "/ˌrepəˈreɪʃən/",
+          "meaning": "賠償、償い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The country demanded reparations for the damage.",
+          "translation": "その国は損害に対する賠償を要求した。",
+          "note": "repair 系の語と歴史的につながり、損なわれたものを修復・償う意味。"
+        },
+        {
+          "word": "expense",
+          "pos": "名詞",
+          "ipa": "/ɪkˈspens/",
+          "meaning": "費用、経費",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Travel expenses will be reimbursed.",
+          "translation": "旅費は払い戻される。",
+          "note": "ラテン語 expendere（支出する）に関連。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "dilute",
+      "word": "dilute",
+      "pos": "動詞・形容詞",
+      "ipa": "/daɪˈluːt/",
+      "meaning": "薄める、弱める、（株式・EPSを）希薄化する",
+      "difficulty": 4,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 diluere（洗い流す、溶かして薄める）に由来。現代英語で di- + lute と機械的に分けるのは適切でない。",
+      "core": "何かを加えたり作用させたりして、濃度・強さ・持分比率を薄くする。",
+      "usage": "日常：中／一般ビジネス：中／FDD・M&A：高",
+      "examples": [
+        [
+          "The new shares will dilute existing shareholders’ ownership.",
+          "新株発行により既存株主の持分比率が希薄化する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "dilution",
+          "pos": "名詞",
+          "ipa": "/daɪˈluːʃən/",
+          "meaning": "希薄化",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The transaction may result in dilution.",
+          "translation": "その取引は希薄化をもたらす可能性がある。",
+          "note": "dilute の名詞形。"
+        },
+        {
+          "word": "diluent",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈdɪluənt/",
+          "meaning": "希釈剤、希釈するもの",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "Water can act as a diluent.",
+          "translation": "水は希釈剤として働くことがある。",
+          "note": "dilute と同じ語源。"
+        },
+        {
+          "word": "dilutive",
+          "pos": "形容詞",
+          "ipa": "/daɪˈluːtɪv/",
+          "meaning": "希薄化をもたらす",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The options are potentially dilutive.",
+          "translation": "そのオプションは潜在的に希薄化効果を持つ。",
+          "note": "dilute + -ive。財務・会計で使う。"
+        },
+        {
+          "word": "undiluted",
+          "pos": "形容詞",
+          "ipa": "/ˌʌndaɪˈluːtɪd/",
+          "meaning": "薄められていない、希薄化していない",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The founder retained an undiluted stake.",
+          "translation": "創業者は希薄化していない持分を維持した。",
+          "note": "un-（否定）+ diluted。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "thin",
+          "pos": "動詞・形容詞",
+          "ipa": "/θɪn/",
+          "meaning": "薄くする、薄い",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Add water to thin the sauce.",
+          "translation": "ソースを薄めるため水を加える。",
+          "note": "基本語で、液体を薄める意味に使える。"
+        },
+        {
+          "word": "weaken",
+          "pos": "動詞",
+          "ipa": "/ˈwiːkən/",
+          "meaning": "弱める、弱くなる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The evidence weakened the argument.",
+          "translation": "その証拠はその主張を弱めた。",
+          "note": "weak + -en（〜にする）。"
+        },
+        {
+          "word": "water down",
+          "pos": "句動詞",
+          "ipa": "/ˌwɔːtər ˈdaʊn/",
+          "meaning": "水で薄める、内容を骨抜きにする",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The final proposal was watered down.",
+          "translation": "最終提案は骨抜きにされた。",
+          "note": "文字通り水で薄めることから比喩的に「弱める」。"
+        },
+        {
+          "word": "attenuate",
+          "pos": "動詞",
+          "ipa": "/əˈtenjueɪt/",
+          "meaning": "弱める、減衰させる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The treatment attenuated the symptoms.",
+          "translation": "その治療は症状を和らげた。",
+          "note": "ラテン語 attenuare（細くする）に由来。やや専門的。"
+        },
+        {
+          "word": "reduce",
+          "pos": "動詞",
+          "ipa": "/rɪˈduːs/",
+          "meaning": "減らす、低下させる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The company reduced operating costs.",
+          "translation": "会社は営業費用を削減した。",
+          "note": "ラテン語 reducere（後ろへ導く）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "delegate",
+      "word": "delegate",
+      "pos": "動詞・名詞",
+      "ipa": "動詞 /ˈdelɪɡeɪt/；名詞 /ˈdelɪɡət/",
+      "meaning": "委任する、任せる／代表者",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 delegare（委ねる、任命する）に由来。de- は移す・離す方向、legare は使者として送る・委ねることに関連。",
+      "core": "仕事や権限を、自分以外の人に正式に任せる。",
+      "usage": "日常：中／一般ビジネス：高／FDD・M&A：中",
+      "examples": [
+        [
+          "The manager delegated the task to her team.",
+          "マネージャーはその仕事をチームに委任した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "delegation",
+          "pos": "名詞",
+          "ipa": "/ˌdelɪˈɡeɪʃən/",
+          "meaning": "委任、代表団",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The delegation of authority was documented.",
+          "translation": "権限委譲は文書化された。",
+          "note": "delegate の名詞形。"
+        },
+        {
+          "word": "legate",
+          "pos": "名詞",
+          "ipa": "/ˈleɡət/",
+          "meaning": "使節、特使（歴史的）",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "A papal legate represented the pope.",
+          "translation": "教皇特使が教皇を代表した。",
+          "note": "ラテン語 legatus（使節）に由来し、委任・派遣の語源に関連。"
+        },
+        {
+          "word": "legacy",
+          "pos": "名詞",
+          "ipa": "/ˈleɡəsi/",
+          "meaning": "遺産、後世に残るもの",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The acquisition left a legacy of complex systems.",
+          "translation": "その買収は複雑なシステムを残した。",
+          "note": "legate と歴史的に同じラテン語 legare 系に関連。意味のつながりは現代では薄い。"
+        },
+        {
+          "word": "legal",
+          "pos": "形容詞",
+          "ipa": "/ˈliːɡəl/",
+          "meaning": "法律の、合法の",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Please consult the legal team.",
+          "translation": "法務チームに相談してください。",
+          "note": "ラテン語 lex / legis（法律）に由来。delegate と直接同じ語ではないが、leg- という形の似た別系統を混同しない。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "assign",
+          "pos": "動詞",
+          "ipa": "/əˈsaɪn/",
+          "meaning": "割り当てる、任命する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The team assigned the review to me.",
+          "translation": "チームはそのレビューを私に割り当てた。",
+          "note": "ラテン語 assignare（印を付けて割り当てる）に由来。"
+        },
+        {
+          "word": "entrust",
+          "pos": "動詞",
+          "ipa": "/ɪnˈtrʌst/",
+          "meaning": "信頼して任せる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "She entrusted him with the project.",
+          "translation": "彼女は彼を信頼してそのプロジェクトを任せた。",
+          "note": "en- + trust。信頼を基盤に任せること。"
+        },
+        {
+          "word": "assign responsibility",
+          "pos": "動詞句",
+          "ipa": "/əˈsaɪn rɪˌspɑːnsəˈbɪləti/",
+          "meaning": "責任を割り当てる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The board assigned responsibility for oversight to the committee.",
+          "translation": "取締役会は監督責任を委員会に割り当てた。",
+          "note": "assign（割り当てる）+ responsibility（責任）。"
+        },
+        {
+          "word": "entrust someone with something",
+          "pos": "動詞句",
+          "ipa": "/ɪnˈtrʌst ˈsʌmwʌn wɪð ˈsʌmθɪŋ/",
+          "meaning": "人に何かを信頼して任せる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "They entrusted her with a sensitive task.",
+          "translation": "彼らは機微な仕事を彼女に任せた。",
+          "note": "entrust の典型的な構文。"
+        },
+        {
+          "word": "relegate",
+          "pos": "動詞",
+          "ipa": "/ˈrelɪɡeɪt/",
+          "meaning": "格下げする、後回しにする",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The issue was relegated to a footnote.",
+          "translation": "その論点は脚注に追いやられた。",
+          "note": "ラテン語 relegare（送り返す、追放する）に由来。delegate と綴りが似るが意味は異なる。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "flock-to",
+      "word": "flock to",
+      "pos": "動詞句",
+      "ipa": "/flɑːk tuː/（米）",
+      "meaning": "大勢で〜に集まる、殺到する",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "flock はもともと動物の群れを表し、そこから人々が群れをなして集まる意味に発展。to は方向を示す。",
+      "core": "多くの人や投資家が同じ場所・市場・対象に向かって集まる。",
+      "usage": "日常：中／一般ビジネス：中／FDD・M&A：低〜中",
+      "examples": [
+        [
+          "Investors flocked to the new market.",
+          "投資家たちは新しい市場に殺到した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "flock",
+          "pos": "名詞・動詞",
+          "ipa": "/flɑːk/",
+          "meaning": "群れ、群れで集まる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "A flock of tourists gathered outside.",
+          "translation": "観光客の一団が外に集まった。",
+          "note": "flock to の中心語。"
+        },
+        {
+          "word": "flock together",
+          "pos": "動詞句",
+          "ipa": "/flɑːk təˈɡeðər/",
+          "meaning": "群れ集まる、似た者同士が集まる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "People with similar interests tend to flock together.",
+          "translation": "似た関心を持つ人は集まりがちだ。",
+          "note": "鳥などが群れを作るイメージから。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "gather",
+          "pos": "動詞",
+          "ipa": "/ˈɡæðər/",
+          "meaning": "集まる、集める",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Investors gathered at the conference.",
+          "translation": "投資家たちは会議に集まった。",
+          "note": "一般的な「集まる」。"
+        },
+        {
+          "word": "rush to",
+          "pos": "動詞句",
+          "ipa": "/rʌʃ tuː/",
+          "meaning": "急いで〜する、急いで向かう",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Investors rushed to sell their shares.",
+          "translation": "投資家たちは急いで株式を売却しようとした。",
+          "note": "rush（急ぐ）+ to（方向・行為）。「大勢が集まる」より急ぐことに焦点。"
+        },
+        {
+          "word": "pour into",
+          "pos": "動詞句",
+          "ipa": "/pɔːr ˈɪntuː/",
+          "meaning": "大量に流れ込む",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Capital poured into the sector.",
+          "translation": "資金がそのセクターに大量に流れ込んだ。",
+          "note": "液体が流れ込むイメージの比喩。資金流入の描写に自然。"
+        },
+        {
+          "word": "gravitate toward(s)",
+          "pos": "動詞句",
+          "ipa": "/ˈɡrævɪteɪt təˈwɔːrdz/",
+          "meaning": "自然に引き寄せられる、〜に向かう",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Investors gravitate toward stable assets.",
+          "translation": "投資家は安定資産に引き寄せられる。",
+          "note": "gravity（重力）と同じ語源。引力に引かれるイメージ。"
+        },
+        {
+          "word": "converge on",
+          "pos": "動詞句",
+          "ipa": "/kənˈvɜːrdʒ ɑːn/",
+          "meaning": "一点に集まる、集中する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Several bidders converged on the same target.",
+          "translation": "複数の買い手候補が同じ買収対象に集中した。",
+          "note": "con-（共に）+ verger（向きを変える）系。複数が一点へ向かう。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "subside",
+      "word": "subside",
+      "pos": "動詞（主に自動詞）",
+      "ipa": "/səbˈsaɪd/",
+      "meaning": "収まる、和らぐ、沈下する",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 subsidere（下に沈む、落ち着く）に由来。sub-（下へ）+ sidere（座る・腰を下ろす）で、sedere（座る）とも関連。",
+      "core": "高まっていたもの・強かったものが、下がって落ち着く。",
+      "usage": "日常：中／一般ビジネス：中／FDD・M&A：低",
+      "examples": [
+        [
+          "The pain gradually subsided.",
+          "痛みは徐々に和らいだ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "sediment",
+          "pos": "名詞",
+          "ipa": "/ˈsedɪmənt/",
+          "meaning": "沈殿物、堆積物",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Sediment settled at the bottom.",
+          "translation": "沈殿物が底にたまった。",
+          "note": "ラテン語 sedere（座る・沈む）系に関連し、沈んでたまったもの。"
+        },
+        {
+          "word": "sedentary",
+          "pos": "形容詞",
+          "ipa": "/ˈsedənteri/",
+          "meaning": "座りがちな、座業の",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "A sedentary lifestyle can affect health.",
+          "translation": "座りがちな生活は健康に影響することがある。",
+          "note": "ラテン語 sedere（座る）に由来。"
+        },
+        {
+          "word": "session",
+          "pos": "名詞",
+          "ipa": "/ˈseʃən/",
+          "meaning": "会議、会期、セッション",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The board held a two-hour session.",
+          "translation": "取締役会は2時間の会議を開いた。",
+          "note": "ラテン語 sessio（座ること、会合）に由来し、座る系の語。"
+        },
+        {
+          "word": "residue",
+          "pos": "名詞",
+          "ipa": "/ˈrezɪduː/",
+          "meaning": "残留物、残余",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "A residue remained after the process.",
+          "translation": "その工程の後に残留物が残った。",
+          "note": "ラテン語 residuum（残ったもの）に由来し、sedere 系の「とどまる」に関連。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "ease",
+          "pos": "動詞・名詞",
+          "ipa": "/iːz/",
+          "meaning": "和らぐ、和らげる／容易さ",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The pressure eased by the afternoon.",
+          "translation": "午後には圧力が和らいだ。",
+          "note": "負担や緊張が軽くなる一般語。"
+        },
+        {
+          "word": "abate",
+          "pos": "動詞",
+          "ipa": "/əˈbeɪt/",
+          "meaning": "弱まる、減少する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The storm began to abate.",
+          "translation": "嵐は弱まり始めた。",
+          "note": "古フランス語由来で、強さ・勢いが落ちること。"
+        },
+        {
+          "word": "diminish",
+          "pos": "動詞",
+          "ipa": "/dɪˈmɪnɪʃ/",
+          "meaning": "減少する、弱める",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The risk diminished over time.",
+          "translation": "リスクは時間とともに減少した。",
+          "note": "ラテン語 minuere（小さくする）系。"
+        },
+        {
+          "word": "recede",
+          "pos": "動詞",
+          "ipa": "/rɪˈsiːd/",
+          "meaning": "後退する、遠ざかる、引く",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The floodwaters began to recede.",
+          "translation": "洪水の水が引き始めた。",
+          "note": "ラテン語 recedere（後ろへ退く）に由来。"
+        },
+        {
+          "word": "taper off",
+          "pos": "句動詞",
+          "ipa": "/ˈteɪpər ɔːf/",
+          "meaning": "徐々に減る、先細りになる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Demand tapered off toward year-end.",
+          "translation": "年末に向けて需要は徐々に減少した。",
+          "note": "先細りになる taper のイメージ。数量・活動の漸減に使う。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "circle-back",
+      "word": "circle back",
+      "pos": "句動詞",
+      "ipa": "/ˈsɜːrkəl bæk/（米）",
+      "meaning": "後で話題に戻る、改めて確認する",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "circle（円を描く）+ back（戻る）。一周して元の話題へ戻るイメージ。",
+      "core": "いったん離れた話題・相手・論点に、後で戻る。",
+      "usage": "日常：中／一般ビジネス：高／FDD・M&A：中",
+      "examples": [
+        [
+          "Let’s circle back to this issue tomorrow.",
+          "この論点は明日改めて取り上げよう。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "circle",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈsɜːrkəl/",
+          "meaning": "円、円を描く・取り囲む",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The team circled the key issue.",
+          "translation": "チームは重要論点を丸で囲んだ。",
+          "note": "ラテン語 circulus（小さな輪）に由来。"
+        },
+        {
+          "word": "circular",
+          "pos": "形容詞・名詞",
+          "ipa": "/ˈsɜːrkjələr/",
+          "meaning": "円形の、循環する／回覧文書",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The process became circular.",
+          "translation": "そのプロセスは堂々巡りになった。",
+          "note": "circle と同じ輪の語源。"
+        },
+        {
+          "word": "circulate",
+          "pos": "動詞",
+          "ipa": "/ˈsɜːrkjəleɪt/",
+          "meaning": "循環する、回覧する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Please circulate the draft to the team.",
+          "translation": "ドラフトをチームに回覧してください。",
+          "note": "輪を描くように動くイメージ。"
+        },
+        {
+          "word": "circulation",
+          "pos": "名詞",
+          "ipa": "/ˌsɜːrkjəˈleɪʃən/",
+          "meaning": "循環、流通、回覧",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The document is in circulation.",
+          "translation": "その文書は回覧中だ。",
+          "note": "circulate の名詞形。"
+        },
+        {
+          "word": "circuit",
+          "pos": "名詞",
+          "ipa": "/ˈsɜːrkɪt/",
+          "meaning": "回路、一周、巡回",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The circuit was completed.",
+          "translation": "回路が完成した／一周が完了した。",
+          "note": "ラテン語 circuitus（周回）に由来。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "revisit",
+          "pos": "動詞",
+          "ipa": "/ˌriːˈvɪzɪt/",
+          "meaning": "再検討する、再訪する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "We should revisit the assumptions.",
+          "translation": "前提を再検討すべきだ。",
+          "note": "re-（再び）+ visit（訪れる）。資料・論点の再検討に便利。"
+        },
+        {
+          "word": "return to",
+          "pos": "動詞句",
+          "ipa": "/rɪˈtɜːrn tuː/",
+          "meaning": "〜に戻る、再び取り上げる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "I’ll return to that point later.",
+          "translation": "その点には後ほど戻る。",
+          "note": "return（戻る）を使う直接的な表現。"
+        },
+        {
+          "word": "follow up on",
+          "pos": "動詞句",
+          "ipa": "/ˈfɑːloʊ ʌp ɑːn/",
+          "meaning": "〜を追加確認する、フォローアップする",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "We need to follow up on the variance.",
+          "translation": "その差異について追加確認が必要だ。",
+          "note": "follow（追う）+ up（さらに）で、続けて確認する。FDDで有用。"
+        },
+        {
+          "word": "get back to",
+          "pos": "動詞句",
+          "ipa": "/ɡet bæk tuː/",
+          "meaning": "後で返事する、話題に戻る",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "I’ll get back to you tomorrow.",
+          "translation": "明日改めて連絡する。",
+          "note": "get + back（戻る）+ to。日常・ビジネス会話で自然。"
+        },
+        {
+          "word": "come back to",
+          "pos": "動詞句",
+          "ipa": "/kʌm bæk tuː/",
+          "meaning": "〜に戻る、話題を再開する",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "Let’s come back to this later.",
+          "translation": "この話は後でまた戻ろう。",
+          "note": "come back（戻ってくる）の基本的な表現。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "ulterior",
+      "word": "ulterior",
+      "pos": "形容詞",
+      "ipa": "/ʌlˈtɪriər/",
+      "meaning": "隠れた、表向きではない（特に ulterior motive）",
+      "difficulty": 4,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 ulter（向こう側、さらに先）+ 比較級語尾 -ior。表面の向こうにあるもの、という発想。",
+      "core": "表に見えている理由のさらに奥に隠れた意図。しばしば疑い・悪意を含む。",
+      "usage": "日常：中／一般ビジネス：低〜中／FDD・M&A：低",
+      "examples": [
+        [
+          "I suspect he has an ulterior motive.",
+          "彼には何か裏の動機があるのではないかと思う。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "ultra",
+          "pos": "接頭辞・形容詞・副詞",
+          "ipa": "/ˈʌltrə/",
+          "meaning": "超〜、極端な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The proposal was considered ultra-conservative.",
+          "translation": "その提案は極めて保守的だと考えられた。",
+          "note": "ラテン語 ultra（向こう側、越えて）に由来。"
+        },
+        {
+          "word": "ulteriorly",
+          "pos": "副詞・まれ",
+          "ipa": "/ʌlˈtɪriərli/",
+          "meaning": "裏の意図をもって（まれ）",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "This adverb is rarely used.",
+          "translation": "この副詞はほとんど使われない。",
+          "note": "ulterior + -ly。一般には ulterior motive の形を覚えれば十分。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "hidden",
+          "pos": "形容詞",
+          "ipa": "/ˈhɪdən/",
+          "meaning": "隠れた",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "There may be hidden costs.",
+          "translation": "隠れたコストがあるかもしれない。",
+          "note": "hide（隠す）の過去分詞由来。"
+        },
+        {
+          "word": "underlying",
+          "pos": "形容詞",
+          "ipa": "/ˌʌndərˈlaɪɪŋ/",
+          "meaning": "根底にある、基礎となる",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "We need to understand the underlying drivers.",
+          "translation": "根本的な要因を理解する必要がある。",
+          "note": "under（下に）+ lie（横たわる）。表面の下にあるもの。FDDで非常に有用。"
+        },
+        {
+          "word": "covert",
+          "pos": "形容詞",
+          "ipa": "/ˈkoʊvərt/",
+          "meaning": "秘密の、隠された",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The review found no evidence of covert payments.",
+          "translation": "レビューでは秘密裏の支払いの証拠は見つからなかった。",
+          "note": "ラテン語 cooperire（覆う）に関連し、覆い隠された状態。"
+        },
+        {
+          "word": "hidden agenda",
+          "pos": "名詞句",
+          "ipa": "/ˈhɪdən əˈdʒendə/",
+          "meaning": "隠された意図、裏の狙い",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "She suspected a hidden agenda.",
+          "translation": "彼女は裏の狙いを疑った。",
+          "note": "hidden（隠れた）+ agenda（議題・計画）。"
+        },
+        {
+          "word": "secret",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈsiːkrət/",
+          "meaning": "秘密、秘密の",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The terms of the deal remained secret.",
+          "translation": "取引条件は秘密のままだった。",
+          "note": "ラテン語 secretus（分けられた、隠された）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "folk",
+      "word": "folk",
+      "pos": "名詞・形容詞",
+      "ipa": "/foʊk/",
+      "meaning": "人々、家族・仲間（folks）；民俗の、伝統的な",
+      "difficulty": 2,
+      "daily": null,
+      "business": null,
+      "etymology": "古英語 folc に由来し、ドイツ語 Volk（人々）と同系。",
+      "core": "人々・共同体、または共同体に伝わる文化。folks はくだけた「みんな・家族」。",
+      "usage": "日常：中〜高／一般ビジネス：低／FDD・M&A：低",
+      "examples": [
+        [
+          "Thanks, folks, for joining the meeting.",
+          "皆さん、会議に参加してくれてありがとうございます。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "folklore",
+          "pos": "名詞",
+          "ipa": "/ˈfoʊklɔːr/",
+          "meaning": "民間伝承、民俗文化",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The region is known for its folklore.",
+          "translation": "その地域は民間伝承で知られている。",
+          "note": "folk（人々）+ lore（伝承・知識）。"
+        },
+        {
+          "word": "folksy",
+          "pos": "形容詞",
+          "ipa": "/ˈfoʊksi/",
+          "meaning": "庶民的な、親しみやすい",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "The speaker has a folksy style.",
+          "translation": "その話し手は親しみやすい語り口だ。",
+          "note": "folk + -y。人々に親しみやすい雰囲気。"
+        },
+        {
+          "word": "folk music",
+          "pos": "名詞句",
+          "ipa": "/foʊk ˈmjuːzɪk/",
+          "meaning": "民俗音楽、フォーク音楽",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "She enjoys folk music.",
+          "translation": "彼女はフォーク音楽を楽しんでいる。",
+          "note": "folk（伝統文化）+ music。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "people",
+          "pos": "名詞",
+          "ipa": "/ˈpiːpəl/",
+          "meaning": "人々、人",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "People are reviewing the proposal.",
+          "translation": "人々がその提案を検討している。",
+          "note": "一般的で幅広い「人々」。ビジネスでも自然。"
+        },
+        {
+          "word": "folks",
+          "pos": "名詞・複数形",
+          "ipa": "/foʊks/",
+          "meaning": "みんな、家族、仲間（くだけた表現）",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "I’ll check with the finance folks.",
+          "translation": "財務チームの人たちに確認するよ。",
+          "note": "folk の複数形。口語的で親しみのある表現。"
+        },
+        {
+          "word": "population",
+          "pos": "名詞",
+          "ipa": "/ˌpɑːpjəˈleɪʃən/",
+          "meaning": "人口、母集団",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The population has grown steadily.",
+          "translation": "人口は着実に増えている。",
+          "note": "ラテン語 populus（人々）に由来。"
+        },
+        {
+          "word": "community",
+          "pos": "名詞",
+          "ipa": "/kəˈmjuːnəti/",
+          "meaning": "共同体、地域社会、コミュニティ",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The local community supported the project.",
+          "translation": "地域社会はそのプロジェクトを支援した。",
+          "note": "ラテン語 communis（共有の、共通の）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "permissible",
+      "word": "permissible",
+      "pos": "形容詞",
+      "ipa": "/pərˈmɪsəbəl/",
+      "meaning": "許される、許可される、許容できる",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "permit（許可する）に由来する形容詞。-ible は「〜できる／〜されうる」を表す。permit はラテン語 permittere（通す、許す）にさかのぼり、mittere（送る、放つ）と関連する。per- を現代の意味だけで機械的に訳すのは避ける。",
+      "core": "規則・法律・基準に照らして「OK」と認められる範囲にある。",
+      "usage": "",
+      "examples": [
+        [
+          "Smoking is not permissible in this area.",
+          "この区域では喫煙は認められていません。"
+        ],
+        [
+          "Only permissible expenses will be reimbursed.",
+          "許容される経費のみが払い戻されます。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "permit",
+          "pos": "動詞・名詞",
+          "ipa": "/pərˈmɪt/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The company permits employees to work remotely.",
+          "translation": "その会社は従業員がリモートで働くことを許可している。",
+          "note": ""
+        },
+        {
+          "word": "permission",
+          "pos": "名詞",
+          "ipa": "/pərˈmɪʃən/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "You need permission to access this file.",
+          "translation": "このファイルにアクセスするには許可が必要です。",
+          "note": ""
+        },
+        {
+          "word": "submit",
+          "pos": "動詞",
+          "ipa": "/səbˈmɪt/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Please submit your report by Friday.",
+          "translation": "金曜日までに報告書を提出してください。",
+          "note": ""
+        },
+        {
+          "word": "transmit",
+          "pos": "動詞",
+          "ipa": "/trænzˈmɪt/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The data is transmitted securely.",
+          "translation": "データは安全に送信されます。",
+          "note": ""
+        },
+        {
+          "word": "emit",
+          "pos": "動詞",
+          "ipa": "/iˈmɪt/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The machine emits very little noise.",
+          "translation": "その機械はほとんど騒音を発しません。",
+          "note": ""
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "allowed",
+          "pos": "形容詞",
+          "ipa": "/əˈlaʊd/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Parking is allowed here.",
+          "translation": "ここでは駐車が許可されています。",
+          "note": ""
+        },
+        {
+          "word": "acceptable",
+          "pos": "形容詞",
+          "ipa": "/əkˈseptəbəl/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Your proposal is acceptable to us.",
+          "translation": "あなたの提案は私たちにとって受け入れ可能です。",
+          "note": ""
+        },
+        {
+          "word": "allowable",
+          "pos": "形容詞",
+          "ipa": "/əˈlaʊəbəl/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The maximum allowable weight is 20 kilograms.",
+          "translation": "許容される最大重量は20キログラムです。",
+          "note": ""
+        },
+        {
+          "word": "legitimate",
+          "pos": "形容詞",
+          "ipa": "/lɪˈdʒɪtəmət/",
+          "meaning": "",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The company has a legitimate reason for rejecting the request.",
+          "translation": "その会社には依頼を拒否する正当な理由があります。",
+          "note": ""
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "condescendingly",
+      "word": "condescendingly",
+      "pos": "副詞",
+      "ipa": "/ˌkɑːndɪˈsendɪŋli/（米）",
+      "meaning": "見下すように、恩着せがましく、相手を子ども扱いするように",
+      "difficulty": 4,
+      "daily": null,
+      "business": null,
+      "etymology": "",
+      "core": "自分を相手より上に置き、「教えてあげる」という上から目線で話す。",
+      "usage": "日常：★★★☆☆ 3/5｜ビジネス：★★★★☆ 4/5",
+      "examples": [
+        [
+          "He spoke to me condescendingly.",
+          "彼は私に見下すような口調で話した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "condescending",
+          "pos": "形容詞",
+          "ipa": "/ˌkɑːndɪˈsendɪŋ/",
+          "meaning": "見下すような、恩着せがましい",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "Her tone sounded condescending.",
+          "translation": "彼女の口調は人を見下すように聞こえた。",
+          "note": "condescend の現在分詞から形容詞化。人の態度・口調・説明の仕方を修飾する。"
+        },
+        {
+          "word": "condescend",
+          "pos": "動詞",
+          "ipa": "/ˌkɑːndɪˈsend/",
+          "meaning": "見下すような態度で接する；（古風・文脈により）わざわざ〜してやる",
+          "difficulty": 5,
+          "daily": null,
+          "business": null,
+          "example": "He never condescends to explain his decisions.",
+          "translation": "彼は自分の決定をわざわざ説明してやるようなことはしない。",
+          "note": "con-（ともに）＋ descendere（降りる）。「自分の地位を下げて接する」から、現代では上から目線の含みを持つことが多い。"
+        },
+        {
+          "word": "condescension",
+          "pos": "名詞",
+          "ipa": "/ˌkɑːndɪˈsenʃən/",
+          "meaning": "見下す態度、恩着せがましさ",
+          "difficulty": 5,
+          "daily": null,
+          "business": null,
+          "example": "I was offended by his condescension.",
+          "translation": "私は彼の見下す態度に腹を立てた。",
+          "note": "condescend に名詞語尾 -sion が付いた形。態度そのものを名詞で表す。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "patronizingly",
+          "pos": "副詞",
+          "ipa": "/ˈpeɪtrənaɪzɪŋli/",
+          "meaning": "恩着せがましく、相手を子ども扱いして",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "She smiled at me patronizingly.",
+          "translation": "彼女は私に恩着せがましい笑みを向けた。",
+          "note": "patron（保護者・後援者）に由来する patronize の形容詞 patronizing に -ly。condescendingly と近いが、相手を未熟な子どものように扱う感じが強い。"
+        },
+        {
+          "word": "arrogantly",
+          "pos": "副詞",
+          "ipa": "/ˈærəɡəntli/",
+          "meaning": "傲慢に、横柄に",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "He arrogantly dismissed their concerns.",
+          "translation": "彼は傲慢にも彼らの懸念を一蹴した。",
+          "note": "arrogant（傲慢な）＋ -ly。相手を見下す話し方に限らず、自分を過大評価する態度全般に使う。"
+        },
+        {
+          "word": "disdainfully",
+          "pos": "副詞",
+          "ipa": "/dɪsˈdeɪnfəli/",
+          "meaning": "軽蔑して、見下すように",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "She looked at the suggestion disdainfully.",
+          "translation": "彼女はその提案を軽蔑するように見た。",
+          "note": "disdain（軽蔑する）＋ -ful（〜に満ちた）＋ -ly。相手や物事を価値の低いものと判断する軽蔑の感情が中心。"
+        },
+        {
+          "word": "contemptuously",
+          "pos": "副詞",
+          "ipa": "/kənˈtemptʃuəsli/",
+          "meaning": "軽蔑して、侮蔑的に",
+          "difficulty": 5,
+          "daily": null,
+          "business": null,
+          "example": "He laughed contemptuously at the proposal.",
+          "translation": "彼はその提案を侮蔑するように笑った。",
+          "note": "contempt（軽蔑）に形容詞語尾 -uous と副詞語尾 -ly。condescendingly より、相手を軽蔑・侮辱する気持ちが前面に出る。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "subsidy",
+      "word": "subsidy",
+      "pos": "名詞",
+      "ipa": "/ˈsʌbsədi/（米） /ˈsʌbsɪdi/（英）",
+      "meaning": "補助金、助成金、財政的支援。複数形 subsidies。",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 subsidium（援助、予備部隊）に由来。sub-（下・後方）と sedēre（座る）に関連する語形成から、後方に控えて支える部隊→援助→金銭的な補助へと意味が発展した。現代英語で subsidy を機械的に sub + sid + y と分解する説明は避ける。",
+      "core": "産業・企業・個人などが活動を続けたり、特定の行動を取りやすくしたりするため、外部から費用の一部を支える。",
+      "usage": "",
+      "examples": [
+        [
+          "The government provides subsidies to farmers.",
+          "政府は農家に補助金を支給している。"
+        ],
+        [
+          "The company received a subsidy to develop renewable energy technology.",
+          "その企業は再生可能エネルギー技術の開発に向けて補助金を受け取った。"
+        ],
+        [
+          "We applied for a government subsidy to install solar panels.",
+          "私たちは太陽光パネルを設置するために政府の補助金を申請した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "subsidize",
+          "pos": "動詞",
+          "ipa": "/ˈsʌbsədaɪz/",
+          "meaning": "補助金を出す、財政的に支援する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The government subsidizes public transportation.",
+          "translation": "政府は公共交通機関に補助金を出している。",
+          "note": "subsidy に動詞化の -ize を付けた語。補助金を通じて支援する。"
+        },
+        {
+          "word": "subsidized",
+          "pos": "形容詞・動詞の過去分詞",
+          "ipa": "/ˈsʌbsədaɪzd/",
+          "meaning": "補助金を受けた、補助された",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Students can apply for subsidized housing.",
+          "translation": "学生は家賃補助のある住宅に申し込める。",
+          "note": "subsidize + -ed。補助された状態を表す。"
+        },
+        {
+          "word": "subsidiary",
+          "pos": "名詞・形容詞",
+          "ipa": "/səbˈsɪdieri/",
+          "meaning": "子会社；補助的な、従属的な",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "The company established a subsidiary in Singapore.",
+          "translation": "その企業はシンガポールに子会社を設立した。",
+          "note": "ラテン語 subsidiarius（補助のための）に由来。主となるものを支えるという意味から発展。"
+        },
+        {
+          "word": "subside",
+          "pos": "動詞",
+          "ipa": "/səbˈsaɪd/",
+          "meaning": "沈静化する、弱まる、沈下する",
+          "difficulty": 4,
+          "daily": null,
+          "business": null,
+          "example": "The storm gradually subsided.",
+          "translation": "嵐は徐々に収まった。",
+          "note": "ラテン語 subsidere（沈む、落ち着く）に由来。下に落ち着く→勢いが弱まる。"
+        },
+        {
+          "word": "subsidence",
+          "pos": "名詞",
+          "ipa": "/səbˈsaɪdəns/",
+          "meaning": "地盤沈下、沈下、沈静化",
+          "difficulty": 5,
+          "daily": null,
+          "business": null,
+          "example": "Excessive groundwater extraction can cause land subsidence.",
+          "translation": "地下水の過剰な汲み上げは地盤沈下を引き起こす可能性がある。",
+          "note": "subside + -ence（状態・現象）。沈下する現象を表す。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "grant",
+          "pos": "名詞",
+          "ipa": "/ɡrænt/",
+          "meaning": "助成金、交付金",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "The university received a research grant.",
+          "translation": "その大学は研究助成金を受け取った。",
+          "note": "古フランス語 graanter（認める）に由来。特定目的の資金交付に多い。subsidy は費用負担の軽減や政策的支援を強調。"
+        },
+        {
+          "word": "financial aid",
+          "pos": "名詞句",
+          "ipa": "/faɪˌnænʃəl ˈeɪd/",
+          "meaning": "経済的援助、学費援助",
+          "difficulty": 2,
+          "daily": null,
+          "business": null,
+          "example": "She applied for financial aid to pay her tuition.",
+          "translation": "彼女は授業料を支払うために経済的援助を申請した。",
+          "note": "financial（財政の）＋ aid（援助、古フランス語 aide）。学生支援などを含む広い経済援助。"
+        },
+        {
+          "word": "allowance",
+          "pos": "名詞",
+          "ipa": "/əˈlaʊəns/",
+          "meaning": "手当、支給額、小遣い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Employees receive a monthly housing allowance.",
+          "translation": "従業員には毎月住宅手当が支給される。",
+          "note": "allow（認める、割り当てる）＋ -ance。制度的な手当や定期支給に使う。"
+        },
+        {
+          "word": "funding",
+          "pos": "名詞",
+          "ipa": "/ˈfʌndɪŋ/",
+          "meaning": "資金提供、資金調達、資金",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The startup secured funding from several investors.",
+          "translation": "そのスタートアップは複数の投資家から資金を確保した。",
+          "note": "fund（資金、ラテン語 fundus にさかのぼる）＋ -ing。投資・融資・寄付などを含む資金提供全般。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "tolerable",
+      "word": "tolerable",
+      "pos": "形容詞",
+      "ipa": "/ˈtɑːlərəbl/（米）",
+      "meaning": "耐えられる、許容できる",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 tolerare（耐える）に由来。toler-（耐える）＋ -able（〜できる）。",
+      "core": "理想的ではなくても我慢して受け入れられる。",
+      "usage": "",
+      "examples": [
+        [
+          "The heat is tolerable today.",
+          "今日は暑さが耐えられる程度だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "tolerate",
+          "pos": "動詞",
+          "ipa": "/ˈtɑːləreɪt/",
+          "meaning": "我慢する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "I cannot tolerate the noise.",
+          "translation": "騒音に耐えられない。",
+          "note": "ラテン語 tolerare。"
+        },
+        {
+          "word": "tolerance",
+          "pos": "名詞",
+          "ipa": "/ˈtɑːlərəns/",
+          "meaning": "寛容、耐性",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "We need more tolerance.",
+          "translation": "もっと寛容さが必要だ。",
+          "note": "toler- に由来する名詞。"
+        },
+        {
+          "word": "tolerant",
+          "pos": "形容詞",
+          "ipa": "/ˈtɑːlərənt/",
+          "meaning": "寛容な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "She is tolerant of others.",
+          "translation": "彼女は他人に寛容だ。",
+          "note": "toler- に由来する形容詞。"
+        },
+        {
+          "word": "intolerable",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈtɑːlərəbl/",
+          "meaning": "耐えられない",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The heat is intolerable.",
+          "translation": "暑さに耐えられない。",
+          "note": "in-（否定）＋ tolerable。"
+        },
+        {
+          "word": "tolerably",
+          "pos": "副詞",
+          "ipa": "/ˈtɑːlərəbli/",
+          "meaning": "まずまず",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "It went tolerably well.",
+          "translation": "まずまずうまくいった。",
+          "note": "tolerable ＋ -ly。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "bearable",
+          "pos": "形容詞",
+          "ipa": "/ˈberəbl/",
+          "meaning": "耐えられる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The pain is bearable.",
+          "translation": "痛みは耐えられる。",
+          "note": "bear（耐える）＋ -able。"
+        },
+        {
+          "word": "acceptable",
+          "pos": "形容詞",
+          "ipa": "/əkˈseptəbl/",
+          "meaning": "受け入れられる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The result is acceptable.",
+          "translation": "結果は許容範囲だ。",
+          "note": "accept ＋ -able。"
+        },
+        {
+          "word": "manageable",
+          "pos": "形容詞",
+          "ipa": "/ˈmænɪdʒəbl/",
+          "meaning": "対処可能な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The workload is manageable.",
+          "translation": "仕事量は対処可能だ。",
+          "note": "manage ＋ -able。"
+        },
+        {
+          "word": "endurable",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈdʊrəbl/",
+          "meaning": "耐えられる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The discomfort was endurable.",
+          "translation": "不快感は耐えられる程度だった。",
+          "note": "endure ＋ -able。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "amendment",
+      "word": "amendment",
+      "pos": "名詞",
+      "ipa": "/əˈmendmənt/（米）",
+      "meaning": "修正、改正、修正条項",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ラテン語 emendare（誤りを取り除く）→ amend ＋ -ment（行為・結果）。",
+      "core": "既存の法律・契約・文書に正式な変更を加える。",
+      "usage": "",
+      "examples": [
+        [
+          "We need an amendment to the contract.",
+          "契約書に修正が必要だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "amend",
+          "pos": "動詞",
+          "ipa": "/əˈmend/",
+          "meaning": "修正する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "We will amend the contract.",
+          "translation": "契約を修正する。",
+          "note": "ラテン語 emendare。"
+        },
+        {
+          "word": "emend",
+          "pos": "動詞",
+          "ipa": "/ɪˈmend/",
+          "meaning": "文章を校訂する",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The editor emended the text.",
+          "translation": "編集者は文章を校訂した。",
+          "note": "amend と同じ語源。文章の校訂に特化。"
+        },
+        {
+          "word": "emendation",
+          "pos": "名詞",
+          "ipa": "/ˌiːmenˈdeɪʃən/",
+          "meaning": "校訂",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The scholar proposed an emendation.",
+          "translation": "学者は校訂案を提案した。",
+          "note": "ラテン語 emendatio。"
+        },
+        {
+          "word": "amendable",
+          "pos": "形容詞",
+          "ipa": "/əˈmendəbl/",
+          "meaning": "修正可能な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The contract is amendable.",
+          "translation": "契約は修正可能だ。",
+          "note": "amend ＋ -able。"
+        },
+        {
+          "word": "amended",
+          "pos": "形容詞",
+          "ipa": "/əˈmendɪd/",
+          "meaning": "修正された",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Read the amended agreement.",
+          "translation": "修正後の契約を読んでください。",
+          "note": "amend ＋ -ed。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "revision",
+          "pos": "名詞",
+          "ipa": "/rɪˈvɪʒən/",
+          "meaning": "改訂、見直し",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The report needs revisions.",
+          "translation": "報告書は改訂が必要だ。",
+          "note": "re-（再び）＋ videre（見る）。"
+        },
+        {
+          "word": "modification",
+          "pos": "名詞",
+          "ipa": "/ˌmɑːdɪfɪˈkeɪʃən/",
+          "meaning": "変更、修正",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The design needs modification.",
+          "translation": "設計には変更が必要だ。",
+          "note": "ラテン語 modus（尺度）に由来。"
+        },
+        {
+          "word": "alteration",
+          "pos": "名詞",
+          "ipa": "/ˌɔːltəˈreɪʃən/",
+          "meaning": "変更、改変",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The building underwent alterations.",
+          "translation": "建物は改修された。",
+          "note": "ラテン語 alter（別の）に由来。"
+        },
+        {
+          "word": "correction",
+          "pos": "名詞",
+          "ipa": "/kəˈrekʃən/",
+          "meaning": "訂正",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "Please make the correction.",
+          "translation": "訂正してください。",
+          "note": "ラテン語 corrigere（正す）に由来。"
+        },
+        {
+          "word": "addendum",
+          "pos": "名詞",
+          "ipa": "/əˈdendəm/",
+          "meaning": "補遺、追加文書",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "An addendum was attached.",
+          "translation": "追加文書が添付された。",
+          "note": "ラテン語 addere（加える）に由来。"
+        }
+      ],
+      "legacySource": true
+    },
+    {
+      "id": "hilarious",
+      "word": "hilarious",
+      "pos": "形容詞",
+      "ipa": "/hɪˈleriəs/（米）",
+      "meaning": "爆笑するほど面白い",
+      "difficulty": 3,
+      "daily": null,
+      "business": null,
+      "etymology": "ギリシャ語 hilaros（陽気な）→ ラテン語 hilaris（楽しい）。",
+      "core": "思わず大笑いするほど面白い。",
+      "usage": "",
+      "examples": [
+        [
+          "That movie was absolutely hilarious!",
+          "あの映画はめちゃくちゃ面白かった！"
+        ]
+      ],
+      "related": [
+        {
+          "word": "hilarity",
+          "pos": "名詞",
+          "ipa": "/hɪˈlærəti/",
+          "meaning": "陽気さ、大笑い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The joke caused great hilarity.",
+          "translation": "冗談は大笑いを巻き起こした。",
+          "note": "ラテン語 hilaritas（陽気さ）。"
+        },
+        {
+          "word": "hilariously",
+          "pos": "副詞",
+          "ipa": "/hɪˈleriəsli/",
+          "meaning": "爆笑するほど面白く",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "He performed hilariously.",
+          "translation": "彼はとても面白く演じた。",
+          "note": "hilarious ＋ -ly。"
+        },
+        {
+          "word": "exhilarate",
+          "pos": "動詞",
+          "ipa": "/ɪɡˈzɪləreɪt/",
+          "meaning": "わくわくさせる",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The ride exhilarated us.",
+          "translation": "乗り物は私たちをわくわくさせた。",
+          "note": "ラテン語 exhilarare（陽気にする）。"
+        },
+        {
+          "word": "exhilarating",
+          "pos": "形容詞",
+          "ipa": "/ɪɡˈzɪləreɪtɪŋ/",
+          "meaning": "胸が躍るような、爽快な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "It was exhilarating.",
+          "translation": "それは爽快だった。",
+          "note": "exhilarate ＋ -ing。"
+        },
+        {
+          "word": "hilarity-inducing",
+          "pos": "形容詞",
+          "ipa": "/hɪˈlærəti ɪnˌduːsɪŋ/",
+          "meaning": "大笑いを引き起こす",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "It was a hilarity-inducing show.",
+          "translation": "大笑いを誘うショーだった。",
+          "note": "hilarity ＋ inducing の複合表現。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "funny",
+          "pos": "形容詞",
+          "ipa": "/ˈfʌni/",
+          "meaning": "面白い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "That joke is funny.",
+          "translation": "その冗談は面白い。",
+          "note": "fun ＋ -y。"
+        },
+        {
+          "word": "amusing",
+          "pos": "形容詞",
+          "ipa": "/əˈmjuːzɪŋ/",
+          "meaning": "愉快な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "I found it amusing.",
+          "translation": "それは愉快だった。",
+          "note": "amuse ＋ -ing。"
+        },
+        {
+          "word": "comical",
+          "pos": "形容詞",
+          "ipa": "/ˈkɑːmɪkəl/",
+          "meaning": "滑稽な",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "His expression was comical.",
+          "translation": "彼の表情は滑稽だった。",
+          "note": "ギリシャ語 komikos（喜劇の）。"
+        },
+        {
+          "word": "hysterical",
+          "pos": "形容詞",
+          "ipa": "/hɪˈsterɪkəl/",
+          "meaning": "笑いが止まらないほど面白い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The comedian was hysterical.",
+          "translation": "その芸人は爆笑ものだった。",
+          "note": "ギリシャ語 hystera に由来。"
+        },
+        {
+          "word": "side-splitting",
+          "pos": "形容詞",
+          "ipa": "/ˈsaɪd ˌsplɪtɪŋ/",
+          "meaning": "腹がよじれるほど面白い",
+          "difficulty": 3,
+          "daily": null,
+          "business": null,
+          "example": "The show was side-splitting.",
+          "translation": "ショーは腹がよじれるほど面白かった。",
+          "note": "side（脇腹）＋ splitting（裂ける）。"
+        }
+      ],
+      "legacySource": true
+    }
+  ]
+}
