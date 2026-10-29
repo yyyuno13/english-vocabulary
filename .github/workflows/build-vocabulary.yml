@@ -4,6 +4,7 @@ on:
     paths:
       - 'words/entries.json'
       - 'words/root-map.json'
+      - 'words/synonym-root-links.json'
       - 'templates/index.template.html'
       - 'scripts/build-vocabulary.cjs'
       - '.github/workflows/build-vocabulary.yml'
