@@ -10,6 +10,16 @@ function generate(template,data,rootMap,synonymRootLinks){
 
  for(const entry of data.entries){if(!rootMap[entry.id])throw Error('Missing etymology group: '+entry.id);}
 
+ for(const e of data.entries.slice(0,17)){
+  const categories=[['related','cognate'],['synonyms','synonym'],['reference','reference']];
+  const seen=new Set();
+  for(const [field,kind] of categories)for(const x of e[field]||[]){
+   if(x.relationship!==kind)throw Error('Incorrect legacy word classification: '+e.id+'/'+x.word);
+   if(seen.has(x.word))throw Error('Duplicate related word across categories: '+e.id+'/'+x.word);
+   seen.add(x.word);
+   if(kind==='synonym'&&!x.etymology)throw Error('Missing synonym etymology: '+e.id+'/'+x.word);
+  }
+ }
  const entries=data.entries;
  if(!Array.isArray(entries)||!entries.length)throw Error("entries must be nonempty");
  const ids=new Set();
