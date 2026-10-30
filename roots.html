@@ -70,12 +70,24 @@ document.querySelectorAll('[role=tab]').forEach(b=>b.addEventListener('click',()
      if(!doc||!doc.body)return;
      // Expand the embedded document to its full height. Without this, the iframe
      // creates a second scrolling viewport and the outer heading appears frozen.
-     doc.documentElement.style.overflow='visible';
-     doc.body.style.overflow='visible';
-     frame.setAttribute('scrolling','no');
-     frame.style.overflow='hidden';
+     const landscapeKeyword=()=>window.matchMedia('(orientation:landscape) and (max-height:600px) and (pointer:coarse)').matches;
      const resizeFrame=()=>{
        if(frame.contentDocument!==doc)return;
+       if(landscapeKeyword()){
+         // A viewport-sized iframe lets the embedded sticky TOC remain in view.
+         frame.style.height='calc(100dvh - 92px)';
+         frame.style.minHeight='220px';
+         frame.style.overflow='auto';
+         frame.setAttribute('scrolling','auto');
+         doc.documentElement.style.overflow='auto';
+         doc.body.style.overflow='visible';
+         return;
+       }
+       doc.documentElement.style.overflow='visible';
+       doc.body.style.overflow='visible';
+       frame.setAttribute('scrolling','no');
+       frame.style.overflow='hidden';
+       frame.style.minHeight='0';
        const height=Math.max(doc.documentElement.scrollHeight,doc.body.scrollHeight,doc.documentElement.offsetHeight,doc.body.offsetHeight);
        if(height>0)frame.style.height=(height+12)+'px';
      };
@@ -86,6 +98,8 @@ document.querySelectorAll('[role=tab]').forEach(b=>b.addEventListener('click',()
          observer.observe(doc.body);
          observer.observe(doc.documentElement);
        }
+       window.addEventListener('resize',resizeFrame,{passive:true});
+       window.addEventListener('orientationchange',resizeFrame,{passive:true});
        doc.addEventListener('input',resizeFrame,true);
        doc.addEventListener('toggle',resizeFrame,true);
        doc.addEventListener('click',()=>setTimeout(resizeFrame,50),true);
@@ -130,6 +144,7 @@ document.querySelectorAll('[role=tab]').forEach(b=>b.addEventListener('click',()
          etymology.dataset.rootLinksReady='1';
        }
      };
+     resizeFrame();
      linkEtymologies();
      // Direct group links generated from the same root-map as the static keyword HTML.
      for(const a of doc.querySelectorAll('a.etymology-root-link[data-root]')){
@@ -144,7 +159,7 @@ document.querySelectorAll('[role=tab]').forEach(b=>b.addEventListener('click',()
      if(!css){
        const style=doc.createElement('style');
        style.id='embedded-keyword-layout';
-       style.textContent='.toolbar{position:static!important;top:auto!important;backdrop-filter:none!important}.toc{position:static!important;top:auto!important;max-height:none!important}.toc-fab{display:none!important}.etymology-root-link{color:#245f73!important;text-decoration:underline!important;text-underline-offset:3px;font-weight:700}';
+       style.textContent='.toolbar{position:static!important;top:auto!important;backdrop-filter:none!important}.toc{position:static!important;top:auto!important;max-height:none!important}.toc-fab{display:none!important}.etymology-root-link{color:#245f73!important;text-decoration:underline!important;text-underline-offset:3px;font-weight:700}@media (orientation:landscape) and (max-height:600px) and (pointer:coarse){.layout{display:grid!important;grid-template-columns:minmax(165px,24%) minmax(0,1fr)!important;align-items:start!important}.toc{position:sticky!important;top:8px!important;max-height:calc(100dvh - 108px)!important;overflow-y:auto!important;overflow-x:hidden!important;overscroll-behavior:contain!important;-webkit-overflow-scrolling:touch!important}.toc nav{columns:1!important}.content{min-width:0!important}}';
        doc.head.appendChild(style);
      }
    }catch(err){console.warn('Cross-view links unavailable',err)}
