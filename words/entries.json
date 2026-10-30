@@ -10322,6 +10322,166 @@
           "etymology": "ラテン語 clarus（明るい・明瞭な）に由来。"
         }
       ]
+    },
+    {
+      "id": "uniform",
+      "word": "uniform",
+      "pos": "名詞 C・形容詞",
+      "ipa": "米 /ˈjuːnəfɔːrm/・英 /ˈjuːnɪfɔːm/",
+      "meaning": "制服、ユニフォーム；均一な、一様な、統一された",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 4,
+      "etymology": "ラテン語 ūniformis（単一の形をした）に由来。ūni-（一つの、ūnus）＋ forma（形）。フランス語を経由して英語に入り、「同じ形」から均一な状態、さらに同じ形式の衣服を表す名詞へと意味が発展。",
+      "core": "複数のものが同じ形・基準・性質でそろっており、ばらつきが少ない状態。制服も同じ形式の服を着ることから。",
+      "usage": "名詞 C: a uniform, school uniforms, wear a uniform。形容詞: uniform quality / standards / distribution / appearance。副詞 uniformly（均一に）。uniform は状態の均一性、standardized は共通規格に合わせたことを強調。",
+      "examples": [
+        [
+          "She wears a uniform to work every day.",
+          "彼女は毎日仕事に制服を着ていく。"
+        ],
+        [
+          "Students are required to wear school uniforms.",
+          "生徒は制服を着用することが義務付けられている。"
+        ],
+        [
+          "The company maintains uniform quality across all its factories.",
+          "その企業はすべての工場で均一な品質を維持している。"
+        ],
+        [
+          "We need to establish uniform standards across departments.",
+          "部門間で統一された基準を設ける必要がある。"
+        ],
+        [
+          "The regulations should be applied uniformly.",
+          "規制は一律に適用されるべきだ。"
+        ],
+        [
+          "The temperature remained relatively uniform throughout the experiment.",
+          "実験中、温度は全体を通して比較的均一だった。"
+        ],
+        [
+          "The model assumes a uniform distribution of resources.",
+          "そのモデルは資源が一様に分布していると仮定している。"
+        ],
+        [
+          "The proposal received uniformly positive feedback.",
+          "その提案は一様に好意的な評価を受けた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "uniformly",
+          "pos": "副詞",
+          "ipa": "/ˈjuːnəfɔːrmli/",
+          "meaning": "一様に、均等に",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 4,
+          "example": "The policy was applied uniformly.",
+          "translation": "その方針は一律に適用された。",
+          "note": "uniform + -ly。"
+        },
+        {
+          "word": "uniformity",
+          "pos": "名詞 U",
+          "ipa": "/ˌjuːnəˈfɔːrməti/",
+          "meaning": "均一性、統一性",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The guidelines ensure uniformity in reporting.",
+          "translation": "指針は報告の統一性を確保する。",
+          "note": "uniform + -ity。"
+        },
+        {
+          "word": "unify",
+          "pos": "動詞 T",
+          "ipa": "/ˈjuːnəfaɪ/",
+          "meaning": "統一する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The merger aims to unify operations.",
+          "translation": "合併は業務の統合を目指す。",
+          "note": "ラテン語 ūnus を共有する同語源語。"
+        },
+        {
+          "word": "unity",
+          "pos": "名詞 U",
+          "ipa": "/ˈjuːnəti/",
+          "meaning": "一体感、統一",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The team showed remarkable unity.",
+          "translation": "チームは際立った結束力を示した。",
+          "note": "ラテン語 ūnus に由来。"
+        },
+        {
+          "word": "unification",
+          "pos": "名詞 U",
+          "ipa": "/ˌjuːnəfəˈkeɪʃən/",
+          "meaning": "統一、統合",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "System unification reduced costs.",
+          "translation": "システム統合でコストが削減された。",
+          "note": "unify の名詞形。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "consistent",
+          "pos": "形容詞",
+          "ipa": "/kənˈsɪstənt/",
+          "meaning": "一貫した",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company delivered consistent results.",
+          "translation": "企業は一貫した業績を上げた。",
+          "note": "時間・状況を通じた一貫性を強調。"
+        },
+        {
+          "word": "identical",
+          "pos": "形容詞",
+          "ipa": "/aɪˈdentɪkəl/",
+          "meaning": "完全に同一の",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The two documents are identical.",
+          "translation": "2つの文書は完全に同一だ。",
+          "note": "差異がないことを強調。"
+        },
+        {
+          "word": "homogeneous",
+          "pos": "形容詞",
+          "ipa": "/ˌhoʊməˈdʒiːniəs/",
+          "meaning": "同質の",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "example": "The sample was relatively homogeneous.",
+          "translation": "標本は比較的同質だった。",
+          "note": "内部の構成・性質が同じ。"
+        },
+        {
+          "word": "standardized",
+          "pos": "形容詞",
+          "ipa": "/ˈstændərdaɪzd/",
+          "meaning": "標準化された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "All branches follow a standardized procedure.",
+          "translation": "すべての支店が標準化された手順に従う。",
+          "note": "共通規格に合わせたことを強調。"
+        }
+      ],
+      "comparison": "uniform は全体が均一でそろった状態。consistent は時間・状況を通じた一貫性。identical は完全な同一性。homogeneous は構成・性質の同質性。standardized は共通規格への適合。"
     }
   ]
 }
