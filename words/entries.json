@@ -10184,6 +10184,144 @@
           "nuance": "調査や捜査を次の段階へ進めるための有望な糸口。"
         }
       ]
+    },
+    {
+      "id": "distinct",
+      "word": "distinct",
+      "pos": "形容詞",
+      "ipa": "/dɪˈstɪŋkt/",
+      "meaning": "明確に異なる、区別できる、はっきりした",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 distinguere（区別する・印を付ける）の過去分詞 distinctus に由来。dis-（離して）＋ stinguere（印を付ける・刺す）と分析される。",
+      "core": "ほかのものとの境界や違いがはっきり認識できる。単なる違いだけでなく、区別の明瞭さに焦点。",
+      "usage": "distinct from A（Aとは明確に異なる）、distinct categories（明確に区別された分類）、distinct advantage（明白な優位性）、distinct possibility（十分あり得る可能性）、distinctly（明瞭に）。distinct to は通常 distinct from に言い換える。",
+      "examples": [
+        [
+          "The two concepts are distinct from each other.",
+          "その2つの概念は互いに明確に異なる。"
+        ],
+        [
+          "We need to distinguish between two distinct categories.",
+          "2つの明確に異なるカテゴリーを区別する必要がある。"
+        ],
+        [
+          "The product has a distinct advantage over its competitors.",
+          "その製品には競合製品に対する明白な優位性がある。"
+        ],
+        [
+          "There is a distinct possibility that costs will rise.",
+          "費用が上昇する可能性は十分にある。"
+        ],
+        [
+          "The report identifies three distinct sources of revenue.",
+          "報告書は3つの異なる収益源を特定している。"
+        ],
+        [
+          "Her voice has a distinct accent.",
+          "彼女の話し方にははっきりしたアクセントがある。"
+        ],
+        [
+          "These are distinct legal entities.",
+          "これらは別個の法人格を持つ事業体である。"
+        ],
+        [
+          "The results showed a distinct improvement.",
+          "結果には明らかな改善が見られた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "distinguish",
+          "pos": "動詞",
+          "ipa": "/dɪˈstɪŋɡwɪʃ/",
+          "meaning": "区別する、見分ける",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "We must distinguish facts from assumptions.",
+          "translation": "事実と仮定を区別しなければならない。",
+          "note": "distinct と同じラテン語 distinguere に由来。"
+        },
+        {
+          "word": "distinction",
+          "pos": "名詞",
+          "ipa": "/dɪˈstɪŋkʃən/",
+          "meaning": "区別、相違、卓越",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "There is an important distinction between the two terms.",
+          "translation": "その2つの用語には重要な違いがある。",
+          "note": "distinctus 系の名詞。"
+        },
+        {
+          "word": "distinctive",
+          "pos": "形容詞",
+          "ipa": "/dɪˈstɪŋktɪv/",
+          "meaning": "特徴的な、他と区別できる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The brand has a distinctive visual identity.",
+          "translation": "そのブランドには特徴的な視覚的アイデンティティがある。",
+          "note": "distinct + -ive。"
+        },
+        {
+          "word": "distinctly",
+          "pos": "副詞",
+          "ipa": "/dɪˈstɪŋktli/",
+          "meaning": "明瞭に、はっきりと",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I distinctly remember that conversation.",
+          "translation": "私はその会話をはっきり覚えている。",
+          "note": "distinct + -ly。"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "different",
+          "pos": "形容詞",
+          "ipa": "/ˈdɪfərənt/",
+          "meaning": "異なる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "We adopted a different approach.",
+          "translation": "私たちは別のアプローチを採用した。",
+          "note": "最も一般的な『異なる』。差が明確に識別できることまでは強調しない。",
+          "etymology": "ラテン語 differre（離して運ぶ）に由来。"
+        },
+        {
+          "word": "separate",
+          "pos": "形容詞",
+          "ipa": "/ˈsepərət/",
+          "meaning": "別々の、独立した",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The teams operate as separate units.",
+          "translation": "各チームは独立した組織として活動する。",
+          "note": "物理的・組織的に分かれていることを強調。",
+          "etymology": "ラテン語 separare（分ける）に由来。"
+        },
+        {
+          "word": "clear",
+          "pos": "形容詞",
+          "ipa": "/klɪr/",
+          "meaning": "明確な、はっきりした",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The instructions are clear.",
+          "translation": "指示は明確だ。",
+          "note": "理解しやすさや曖昧さのなさを表し、必ずしも他との違いを示さない。",
+          "etymology": "ラテン語 clarus（明るい・明瞭な）に由来。"
+        }
+      ]
     }
   ]
 }
