@@ -297,8 +297,12 @@
     const added=[];
     for(const entry of data.entries||[]) {
       if(!/^[a-z0-9-]+$/i.test(entry.id)||document.getElementById(entry.id))continue;
-      main.insertAdjacentHTML('beforeend',family(entry,next));
-      toc.insertAdjacentHTML('beforeend','<a href="#'+entry.id+'">'+next+'. '+escapeHTML(entry.word)+'</a>');
+      const supplement=document.getElementById('quick-reference');
+      if(supplement) supplement.insertAdjacentHTML('beforebegin',family(entry,next));
+      else main.insertAdjacentHTML('beforeend',family(entry,next));
+      const supplementLink=toc.querySelector('a[href="#quick-reference"]');
+      if(supplementLink) supplementLink.insertAdjacentHTML('beforebegin','<a href="#'+entry.id+'">'+next+'. '+escapeHTML(entry.word)+'</a>');
+      else toc.insertAdjacentHTML('beforeend','<a href="#'+entry.id+'">'+next+'. '+escapeHTML(entry.word)+'</a>');
       index.insertAdjacentHTML('beforeend','<a href="#'+entry.id+'">'+escapeHTML(entry.word)+'</a>');
       for(const item of [...(entry.related||[]),...(entry.synonyms||[])]) {
         index.insertAdjacentHTML('beforeend','<a href="#'+entry.id+'-'+escapeHTML(item.word)+'">'+escapeHTML(item.word)+'</a>');
