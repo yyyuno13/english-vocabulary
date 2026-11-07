@@ -10638,6 +10638,175 @@
         }
       ],
       "comparison": "requirement は必要な条件、specification はその詳細な規定。standard は共通の規格、criterion は評価基準、description は内容の説明。"
+    },
+    {
+      "id": "induct",
+      "word": "induct",
+      "pos": "動詞（他動詞）",
+      "ipa": "/ɪnˈdʌkt/",
+      "meaning": "正式に就任させる・入会させる、殿堂入りさせる、（米）徴兵する、（英）導入研修を行う",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 3,
+      "etymology": "ラテン語 indūcere（中へ導く）に由来。in-（中へ）＋ dūcere（導く、率いる）。同じ語源の induce と分化し、induct は特に正式な組織・役職への導入を表す。",
+      "core": "人を正式な手続き・儀式によって組織、役職、地位の中へ導き入れる。",
+      "usage": "induct A into B（AをBへ正式に迎える）、be inducted into the Hall of Fame（殿堂入りする）、induct someone into office（就任させる）。英国英語では新入社員の導入研修にも用いる。",
+      "examples": [
+        [
+          "The new members were inducted into the organization.",
+          "新しいメンバーはその組織に正式に迎え入れられた。"
+        ],
+        [
+          "She was inducted into the Hall of Fame in 2024.",
+          "彼女は2024年に殿堂入りした。"
+        ],
+        [
+          "The president was inducted into office during a formal ceremony.",
+          "大統領は正式な式典で就任した。"
+        ],
+        [
+          "The company inducted several new executives into their roles.",
+          "その企業は複数の新任役員を正式に役職に就けた。"
+        ],
+        [
+          "He was inducted into the army at the age of nineteen.",
+          "彼は19歳で軍隊に徴集された。"
+        ],
+        [
+          "The ceremony was held to induct the newly elected members.",
+          "新たに選出されたメンバーを正式に迎えるため、式典が開催された。"
+        ],
+        [
+          "The university inducted five distinguished scholars into its academy.",
+          "その大学は5人の著名な研究者を学術組織に正式に迎え入れた。"
+        ],
+        [
+          "All new employees are inducted into the company's safety procedures.",
+          "すべての新入社員は会社の安全手順について導入研修を受ける。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "induction",
+          "pos": "名詞",
+          "ipa": "/ɪnˈdʌkʃən/",
+          "meaning": "就任、入会、導入研修、帰納",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The company provides an induction program for new employees.",
+          "translation": "会社は新入社員向けの導入研修を提供しています。",
+          "note": "induct の名詞形。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "induce",
+          "pos": "動詞",
+          "ipa": "/ɪnˈduːs/",
+          "meaning": "引き起こす、誘発する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The medication may induce drowsiness.",
+          "translation": "その薬は眠気を引き起こす可能性があります。",
+          "note": "ラテン語 indūcere に由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "conduct",
+          "pos": "動詞",
+          "ipa": "/kənˈdʌkt/",
+          "meaning": "実施する、指揮する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The auditors conducted a detailed review.",
+          "translation": "監査人は詳細なレビューを実施しました。",
+          "note": "con- ＋ ducere。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "deduct",
+          "pos": "動詞",
+          "ipa": "/dɪˈdʌkt/",
+          "meaning": "差し引く、控除する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The employer deducts taxes from employees' salaries.",
+          "translation": "雇用主は従業員の給与から税金を控除します。",
+          "note": "de- ＋ ducere。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "deduce",
+          "pos": "動詞",
+          "ipa": "/dɪˈduːs/",
+          "meaning": "推論する、演繹する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "We can deduce the cause from the available evidence.",
+          "translation": "利用可能な証拠から原因を推論できます。",
+          "note": "ラテン語 deducere に由来。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "appoint",
+          "pos": "動詞",
+          "ipa": "/əˈpɔɪnt/",
+          "meaning": "役職に任命する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "She was appointed chief financial officer.",
+          "translation": "彼女は最高財務責任者に任命された。",
+          "note": "任命という決定を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "admit",
+          "pos": "動詞",
+          "ipa": "/ədˈmɪt/",
+          "meaning": "入会・入学などを認める",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "He was admitted to the professional association.",
+          "translation": "彼はその専門職団体への加入を認められた。",
+          "note": "加入を許可することに重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "initiate",
+          "pos": "動詞",
+          "ipa": "/ɪˈnɪʃieɪt/",
+          "meaning": "加入儀式を行う、開始する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The society initiated ten new members.",
+          "translation": "その団体は10人の新会員に入会儀式を行った。",
+          "note": "加入儀式を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "inaugurate",
+          "pos": "動詞",
+          "ipa": "/ɪˈnɔːɡjəreɪt/",
+          "meaning": "正式に就任させる、開設する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The newly elected president was inaugurated in January.",
+          "translation": "新たに選出された大統領は1月に就任した。",
+          "note": "大統領などの公式就任式に使う。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "induct は正式に迎え入れる行為、appoint は役職への任命、admit は加入の許可、initiate は入会儀式、inaugurate は正式な就任式を強調。"
     }
   ]
 }
