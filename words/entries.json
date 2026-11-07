@@ -10482,6 +10482,162 @@
         }
       ],
       "comparison": "uniform は全体が均一でそろった状態。consistent は時間・状況を通じた一貫性。identical は完全な同一性。homogeneous は構成・性質の同質性。standardized は共通規格への適合。"
+    },
+    {
+      "id": "specification",
+      "word": "specification",
+      "pos": "名詞 C・U",
+      "ipa": "米 /ˌspesəfəˈkeɪʃən/・英 /ˌspesɪfɪˈkeɪʃən/",
+      "meaning": "仕様、仕様書、詳細な指定・規定",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "specify（明確に指定する）＋ -ation（行為・結果）に由来。specify はラテン語 specificare（特定する）から。さらに species（外観・種類）と facere（作る・する）にさかのぼる。spec-（見る）＋ -fic-（作る）は歴史的な理解の助けだが、現代英語で直接3要素を合成した語ではない。",
+      "core": "必要な条件・特徴を曖昧さがないよう具体的に指定すること。その指定内容が「仕様」、まとめた文書が「仕様書」。",
+      "usage": "technical/product specifications（技術・製品仕様）、meet the specifications（仕様を満たす）、conform to specifications（仕様に適合する）、a detailed specification（詳細仕様書）。個別条件には複数形 specifications が多い。",
+      "examples": [
+        [
+          "The product meets all the required specifications.",
+          "その製品は要求されるすべての仕様を満たしています。"
+        ],
+        [
+          "Please review the technical specifications before placing an order.",
+          "発注する前に技術仕様を確認してください。"
+        ],
+        [
+          "The client requested changes to the original specifications.",
+          "顧客は当初の仕様の変更を求めました。"
+        ],
+        [
+          "The laptop's specifications include 32 GB of RAM.",
+          "そのノートパソコンの仕様には32GBのメモリが含まれています。"
+        ],
+        [
+          "We need a detailed specification of the new system.",
+          "新システムの詳細な仕様書が必要です。"
+        ],
+        [
+          "The materials must conform to the specifications in the contract.",
+          "材料は契約書に記載された仕様に適合していなければなりません。"
+        ],
+        [
+          "The project was delayed because the specifications were unclear.",
+          "仕様が不明確だったため、プロジェクトが遅延しました。"
+        ],
+        [
+          "The manufacturer revised the specifications to improve energy efficiency.",
+          "メーカーはエネルギー効率を改善するために仕様を改訂しました。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "specify",
+          "pos": "動詞",
+          "ipa": "/ˈspesəfaɪ/",
+          "meaning": "明確に指定する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Please specify the delivery date.",
+          "translation": "納品日を明確に指定してください。",
+          "note": "specification の基になる動詞。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "specific",
+          "pos": "形容詞",
+          "ipa": "/spəˈsɪfɪk/",
+          "meaning": "具体的な、特定の",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We need specific instructions.",
+          "translation": "具体的な指示が必要です。",
+          "note": "ラテン語 specificus に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "specifically",
+          "pos": "副詞",
+          "ipa": "/spəˈsɪfɪkli/",
+          "meaning": "具体的に、特に",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "This policy specifically addresses data security.",
+          "translation": "この方針は特にデータセキュリティを対象としています。",
+          "note": "specific + -ally。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "specificity",
+          "pos": "名詞",
+          "ipa": "/ˌspesəˈfɪsəti/",
+          "meaning": "具体性、特異性",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The proposal lacks specificity.",
+          "translation": "その提案は具体性に欠けています。",
+          "note": "specific に由来。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "requirement",
+          "pos": "名詞",
+          "ipa": "/rɪˈkwaɪərmənt/",
+          "meaning": "要求事項、必要条件",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The system must meet our requirements.",
+          "translation": "そのシステムは当社の要求事項を満たさなければなりません。",
+          "note": "何が必要かを表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "standard",
+          "pos": "名詞",
+          "ipa": "/ˈstændərd/",
+          "meaning": "基準、規格",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The product complies with international standards.",
+          "translation": "その製品は国際規格に準拠しています。",
+          "note": "共通して適用される基準。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "criterion",
+          "pos": "名詞",
+          "ipa": "/kraɪˈtɪriən/",
+          "meaning": "判断・評価基準",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Cost is an important criterion in our evaluation.",
+          "translation": "コストは当社の評価における重要な基準です。",
+          "note": "評価の物差し。複数形 criteria。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "description",
+          "pos": "名詞",
+          "ipa": "/dɪˈskrɪpʃən/",
+          "meaning": "説明、記述",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The job description outlines the main responsibilities.",
+          "translation": "職務記述書には主な職責が記載されています。",
+          "note": "特徴や内容を説明する語で、必ずしも遵守すべき仕様ではない。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "requirement は必要な条件、specification はその詳細な規定。standard は共通の規格、criterion は評価基準、description は内容の説明。"
     }
   ]
 }
