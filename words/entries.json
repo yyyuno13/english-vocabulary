@@ -10807,6 +10807,149 @@
         }
       ],
       "comparison": "induct は正式に迎え入れる行為、appoint は役職への任命、admit は加入の許可、initiate は入会儀式、inaugurate は正式な就任式を強調。"
+    },
+    {
+      "id": "enshrine",
+      "word": "enshrine",
+      "pos": "動詞（他動詞）",
+      "ipa": "/ɪnˈʃraɪn/",
+      "meaning": "（権利・原則を）明文化して保障する、大切に守る、祀る",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "en-（中に入れる、ある状態にする）＋ shrine（聖堂・聖遺物を納める場所）。shrine は古英語 scrīn、さらにラテン語 scrīnium（箱、書類箱）に由来。神聖な場所に安置する意味から、重要な価値・権利を制度内で確立し守る意味へ広がった。",
+      "core": "大切なものを特別に守られる場所に納める。転じて権利・原則・価値観を憲法・法律・組織文化の中で確立し守る。",
+      "usage": "enshrine A in B（AをBに明記・確立する）、be enshrined in the constitution（憲法に明記され保障される）、enshrine a principle（原則を確立する）。フォーマルな語。",
+      "examples": [
+        [
+          "Freedom of speech is enshrined in the constitution.",
+          "言論の自由は憲法に明記され、保障されている。"
+        ],
+        [
+          "The new law enshrines workers' rights to paid leave.",
+          "新しい法律は労働者の有給休暇の権利を法的に保障している。"
+        ],
+        [
+          "The principle of equality is enshrined in the company's code of conduct.",
+          "平等の原則はその会社の行動規範に明記されている。"
+        ],
+        [
+          "The agreement enshrines the right of employees to collective bargaining.",
+          "その協定は従業員の団体交渉権を明確に保障している。"
+        ],
+        [
+          "The museum was established to enshrine the memory of the victims.",
+          "その博物館は犠牲者の記憶を大切に保存するために設立された。"
+        ],
+        [
+          "These values have been enshrined in the organization's culture for decades.",
+          "これらの価値観は数十年にわたり、その組織の文化の中で大切に守られてきた。"
+        ],
+        [
+          "The sacred relics were enshrined in a small temple.",
+          "神聖な遺物は小さな寺院に安置された。"
+        ],
+        [
+          "The reform aims to enshrine transparency as a fundamental principle of governance.",
+          "その改革は透明性をガバナンスの基本原則として確立することを目指している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "shrine",
+          "pos": "名詞",
+          "ipa": "/ʃraɪn/",
+          "meaning": "神社、聖堂、聖地",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "Thousands of visitors come to the shrine every year.",
+          "translation": "毎年何千人もの参拝者がその神社を訪れる。",
+          "note": "enshrine の基になる語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "enshrinement",
+          "pos": "名詞",
+          "ipa": "/ɪnˈʃraɪnmənt/",
+          "meaning": "安置、法的・制度的な確立",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The enshrinement of human rights in law was a major achievement.",
+          "translation": "人権を法律に明記して保障したことは大きな成果だった。",
+          "note": "enshrine + -ment。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "shrine-like",
+          "pos": "形容詞",
+          "ipa": "/ˈʃraɪn laɪk/",
+          "meaning": "聖堂のような",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "example": "The room had a quiet, shrine-like atmosphere.",
+          "translation": "その部屋には静かで神聖な場所のような雰囲気があった。",
+          "note": "shrine + like の複合形容詞。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "establish",
+          "pos": "動詞",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "meaning": "確立する、制定する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The company established a new compliance policy.",
+          "translation": "会社は新たなコンプライアンス方針を制定した。",
+          "note": "確立そのものに重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "codify",
+          "pos": "動詞",
+          "ipa": "/ˈkɑːdɪfaɪ/",
+          "meaning": "体系的に成文化する",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 4,
+          "example": "The committee codified the existing procedures.",
+          "translation": "委員会は既存の手続きを成文化した。",
+          "note": "規則として文章化する点に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "embed",
+          "pos": "動詞",
+          "ipa": "/ɪmˈbed/",
+          "meaning": "深く組み込む",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "We need to embed ethical principles into our decision-making process.",
+          "translation": "倫理原則を意思決定プロセスに組み込む必要がある。",
+          "note": "組織や制度への定着に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "preserve",
+          "pos": "動詞",
+          "ipa": "/prɪˈzɝːv/",
+          "meaning": "保存する、保護する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The organization works to preserve its founding values.",
+          "translation": "その組織は創設時の価値観を守るために活動している。",
+          "note": "失われないよう守る点に重点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "enshrine は権利・価値に特別な地位を与えて守る。establish は確立、codify は成文化、embed は内部への定着、preserve は維持・保存を強調。"
     }
   ]
 }
