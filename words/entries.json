@@ -10950,6 +10950,149 @@
         }
       ],
       "comparison": "enshrine は権利・価値に特別な地位を与えて守る。establish は確立、codify は成文化、embed は内部への定着、preserve は維持・保存を強調。"
+    },
+    {
+      "id": "grinning",
+      "word": "grinning",
+      "pos": "現在分詞・動名詞・形容詞的用法（grin）",
+      "ipa": "/ˈɡrɪnɪŋ/",
+      "meaning": "歯を見せてにっこり笑っている、にやにや笑っている",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 2,
+      "etymology": "動詞 grin の現在分詞形。grin は古英語 grennian（歯を見せる、歯をむき出す）に由来。もとは必ずしも喜びだけを意味せず、歯を見せる表情を指した。",
+      "core": "口を横に広げ、歯を見せて笑う。喜び・いたずらっぽさ・得意げな気持ち・皮肉など文脈で感情が変わる。",
+      "usage": "grin at someone（人に向かってにっこり笑う）、grin broadly（満面の笑みを浮かべる）、grin from ear to ear（満面の笑みを浮かべる）、a wide grin（大きな笑顔）。grin–grinned–grinned、現在分詞 grinning。",
+      "examples": [
+        [
+          "He was grinning from ear to ear when he heard the news.",
+          "その知らせを聞いたとき、彼は満面の笑みを浮かべていた。"
+        ],
+        [
+          "She looked at me, grinning mischievously.",
+          "彼女はいたずらっぽくにやりと笑いながら、私を見た。"
+        ],
+        [
+          "The children were grinning with excitement.",
+          "子どもたちは興奮して満面の笑みを浮かべていた。"
+        ],
+        [
+          "He couldn't stop grinning after receiving the award.",
+          "賞を受け取った後、彼は笑みが止まらなかった。"
+        ],
+        [
+          "A grinning boy appeared at the doorway.",
+          "にこにこ笑った少年が戸口に現れた。"
+        ],
+        [
+          "She was grinning proudly at her team's success.",
+          "彼女はチームの成功に誇らしげな笑みを浮かべていた。"
+        ],
+        [
+          "He gave me a sarcastic grin.",
+          "彼は私に皮肉っぽい笑みを向けた。"
+        ],
+        [
+          "Everyone was grinning in the group photo.",
+          "集合写真では全員が歯を見せて笑っていた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "grin",
+          "pos": "動詞・名詞",
+          "ipa": "/ɡrɪn/",
+          "meaning": "歯を見せて笑う、にやりと笑う",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "She grinned at the camera.",
+          "translation": "彼女はカメラに向かってにっこり笑った。",
+          "note": "grinning の原形。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "grinned",
+          "pos": "動詞（過去形・過去分詞）",
+          "ipa": "/ɡrɪnd/",
+          "meaning": "grin の過去形・過去分詞",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "He grinned when he saw the surprise.",
+          "translation": "彼はサプライズを見てにやりと笑った。",
+          "note": "grin の活用形。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "grinner",
+          "pos": "名詞",
+          "ipa": "/ˈɡrɪnər/",
+          "meaning": "よくにやりと笑う人（まれ）",
+          "difficulty": 3,
+          "daily": 1,
+          "business": 1,
+          "example": "He's a natural grinner.",
+          "translation": "彼は自然とよく笑顔になる人だ。",
+          "note": "grin + -er。使用頻度は低い。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "smile",
+          "pos": "動詞・名詞",
+          "ipa": "/smaɪl/",
+          "meaning": "微笑む、笑顔",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "She smiled politely at the customer.",
+          "translation": "彼女は顧客に礼儀正しく微笑んだ。",
+          "note": "最も一般的な笑顔。歯が見える必要はない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "smirk",
+          "pos": "動詞・名詞",
+          "ipa": "/smɜːrk/",
+          "meaning": "得意げ・皮肉っぽく薄笑いする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "He smirked when his rival made a mistake.",
+          "translation": "ライバルがミスをしたとき、彼は得意げに薄笑いした。",
+          "note": "自己満足や皮肉の含みが強い。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "beam",
+          "pos": "動詞",
+          "ipa": "/biːm/",
+          "meaning": "喜びで顔を輝かせる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "She beamed with pride at her daughter's achievement.",
+          "translation": "娘の功績に、彼女は誇らしさで顔を輝かせた。",
+          "note": "喜びの強さを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "chuckle",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈtʃʌkəl/",
+          "meaning": "くすくす笑う",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "He chuckled quietly at the joke.",
+          "translation": "彼はその冗談に小さくくすくす笑った。",
+          "note": "声を伴う笑いを表す。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "grin は歯を見せる大きな笑顔の形、smile は一般的な微笑み、smirk は得意げ・皮肉っぽい笑い、beam は喜びで顔が輝く様子、chuckle は声を抑えたくすくす笑い。"
     }
   ]
 }
