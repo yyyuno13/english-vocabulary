@@ -11262,6 +11262,162 @@
         }
       ],
       "comparison": "turn down は申し出・招待・提案を受け入れない。decline は丁寧・フォーマルな辞退、reject は明確な却下、refuse は拒否の意思、pass up は機会を見送ることに重点。"
+    },
+    {
+      "id": "centipede",
+      "word": "centipede",
+      "pos": "可算名詞",
+      "ipa": "米 /ˈsen.t̬ə.piːd/・英 /ˈsen.tɪ.piːd/",
+      "meaning": "ムカデ（多数の脚を持つ捕食性の節足動物）",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 1,
+      "etymology": "ラテン語 centipeda（ムカデ）から。centi- は centum（100）、-pede は pēs, pedis（足）に由来。直訳は「100本の足を持つもの」だが実際の脚の数は種によって異なる。",
+      "core": "細長い体に多くの脚を備え、素早く動くムカデ。centi-（100）＋ ped-（足）の組み合わせ。",
+      "usage": "a centipede（ムカデ1匹）、centipedes（複数形）、a giant centipede（大型ムカデ）、a centipede bite（ムカデに噛まれた傷）、a venomous centipede（毒を持つムカデ）。",
+      "examples": [
+        [
+          "I found a centipede in the bathroom last night.",
+          "昨夜、浴室でムカデを見つけた。"
+        ],
+        [
+          "A centipede crawled across the floor.",
+          "ムカデが床を這っていった。"
+        ],
+        [
+          "Centipedes have many pairs of legs.",
+          "ムカデにはたくさんの脚の対がある。"
+        ],
+        [
+          "Some centipedes can deliver painful bites.",
+          "ムカデの中には、噛まれると強い痛みを引き起こすものがいる。"
+        ],
+        [
+          "The child was frightened by a large centipede.",
+          "その子どもは大きなムカデに驚いた。"
+        ],
+        [
+          "Centipedes usually hunt other small animals.",
+          "ムカデは通常、ほかの小動物を捕食する。"
+        ],
+        [
+          "Unlike millipedes, centipedes are active predators.",
+          "ヤスデとは異なり、ムカデは活発な捕食者だ。"
+        ],
+        [
+          "The scientist examined the centipede under a microscope.",
+          "科学者は顕微鏡でムカデを観察した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "century",
+          "pos": "名詞",
+          "ipa": "/ˈsentʃəri/",
+          "meaning": "世紀、100年",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The building is over a century old.",
+          "translation": "その建物は築100年以上だ。",
+          "note": "ラテン語 centum（100）を共有。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "centimeter",
+          "pos": "名詞",
+          "ipa": "/ˈsentɪˌmiːtər/",
+          "meaning": "センチメートル",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "The insect is about five centimeters long.",
+          "translation": "その昆虫は体長約5センチメートルだ。",
+          "note": "centi- は100分の1を表す単位接頭辞。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "pedal",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈpedəl/",
+          "meaning": "ペダル、足で踏む",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "Press the brake pedal gently.",
+          "translation": "ブレーキペダルをゆっくり踏んでください。",
+          "note": "ラテン語 pēs, pedis（足）に由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "pedestrian",
+          "pos": "名詞・形容詞",
+          "ipa": "/pəˈdestriən/",
+          "meaning": "歩行者、歩行者の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The city plans to improve pedestrian safety.",
+          "translation": "市は歩行者の安全性を改善する計画だ。",
+          "note": "ラテン語 pedester（徒歩の）と関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "millipede",
+          "pos": "名詞",
+          "ipa": "/ˈmɪlɪpiːd/",
+          "meaning": "ヤスデ",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "A millipede curled up when it was disturbed.",
+          "translation": "ヤスデは刺激を受けると体を丸めた。",
+          "note": "milli-（1000）＋ -pede（足）。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "millipede",
+          "pos": "名詞",
+          "ipa": "/ˈmɪlɪpiːd/",
+          "meaning": "ヤスデ",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "The millipede moved slowly across the path.",
+          "translation": "ヤスデが道をゆっくり進んだ。",
+          "note": "厳密には同義語ではなく、よく混同される別の動物。",
+          "relationship": "contrast"
+        },
+        {
+          "word": "caterpillar",
+          "pos": "名詞",
+          "ipa": "/ˈkætərpɪlər/",
+          "meaning": "イモムシ",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 1,
+          "example": "A caterpillar was eating a leaf.",
+          "translation": "イモムシが葉を食べていた。",
+          "note": "チョウやガの幼虫。ムカデとは分類が異なる。",
+          "relationship": "contrast"
+        },
+        {
+          "word": "worm",
+          "pos": "名詞",
+          "ipa": "/wɜːrm/",
+          "meaning": "ミミズなど細長い虫",
+          "difficulty": 1,
+          "daily": 4,
+          "business": 1,
+          "example": "A worm appeared after the rain.",
+          "translation": "雨の後にミミズが現れた。",
+          "note": "細長い生物を広く指す語。",
+          "relationship": "contrast"
+        }
+      ],
+      "comparison": "centipede はムカデ（各胴体節に基本1対の脚を持つ捕食性の節足動物）、millipede はヤスデ（多くの胴体節に2対の脚）、caterpillar はチョウ・ガの幼虫、worm はミミズなどの細長い虫。厳密な同義語ではなく混同注意語。"
     }
   ]
 }
