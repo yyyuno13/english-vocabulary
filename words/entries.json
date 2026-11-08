@@ -11418,6 +11418,175 @@
         }
       ],
       "comparison": "centipede はムカデ（各胴体節に基本1対の脚を持つ捕食性の節足動物）、millipede はヤスデ（多くの胴体節に2対の脚）、caterpillar はチョウ・ガの幼虫、worm はミミズなどの細長い虫。厳密な同義語ではなく混同注意語。"
+    },
+    {
+      "id": "encyclopedia",
+      "word": "encyclopedia",
+      "pos": "可算名詞",
+      "ipa": "米英 /ɪnˌsaɪkləˈpiːdiə/",
+      "meaning": "百科事典、百科全書；専門分野の百科事典",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 2,
+      "etymology": "ギリシャ語 enkyklios paideia（一般教養、幅広い教育）に由来する。enkyklios（円環的な・一般的な）は kyklos（円）に、paideia（教育）は pais, paidos（子ども）に関係。後にラテン語 encyclopaedia を経て英語に入った。現代英語の接頭辞として機械的に分割するより歴史的な句として理解する。",
+      "core": "さまざまな分野の知識を広く体系的にまとめた書物・情報源。",
+      "usage": "米 encyclopedia、英 encyclopaedia（encyclopedia も可）。複数形 encyclopedias / encyclopaedias。an online encyclopedia（オンライン百科事典）、an encyclopedia entry（百科事典の項目）、a walking encyclopedia（歩く百科事典のような博識な人）。",
+      "examples": [
+        [
+          "I looked up the term in an encyclopedia.",
+          "私はその用語を百科事典で調べた。"
+        ],
+        [
+          "This encyclopedia covers a wide range of subjects.",
+          "この百科事典は幅広い分野を扱っている。"
+        ],
+        [
+          "The library has a complete set of encyclopedias.",
+          "その図書館には百科事典が一式そろっている。"
+        ],
+        [
+          "Online encyclopedias have made information more accessible.",
+          "オンライン百科事典によって情報へのアクセスが容易になった。"
+        ],
+        [
+          "She wrote an entry for a medical encyclopedia.",
+          "彼女は医学百科事典の記事を執筆した。"
+        ],
+        [
+          "The encyclopedia provides a concise overview of the historical event.",
+          "その百科事典は歴史上の出来事について簡潔な概説を提供している。"
+        ],
+        [
+          "Students should verify information from online encyclopedias against reliable sources.",
+          "学生はオンライン百科事典の情報を信頼できる資料と照合すべきだ。"
+        ],
+        [
+          "He is a walking encyclopedia of classical music.",
+          "彼はクラシック音楽について歩く百科事典のような人だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "encyclopedic",
+          "pos": "形容詞",
+          "ipa": "/ɪnˌsaɪkləˈpiːdɪk/",
+          "meaning": "百科事典的な、博識な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "She has an encyclopedic knowledge of European history.",
+          "translation": "彼女はヨーロッパ史について百科事典並みの知識を持っている。",
+          "note": "encyclopedia の派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "cycle",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈsaɪkəl/",
+          "meaning": "循環、周期",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The economy moves through cycles of growth and contraction.",
+          "translation": "経済は成長と縮小の周期を繰り返す。",
+          "note": "ギリシャ語 kyklos（円）に由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "bicycle",
+          "pos": "名詞",
+          "ipa": "/ˈbaɪsɪkəl/",
+          "meaning": "自転車",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 2,
+          "example": "He rides his bicycle to work every day.",
+          "translation": "彼は毎日自転車で通勤している。",
+          "note": "bi-（2）＋cycle。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "cyclone",
+          "pos": "名詞",
+          "ipa": "/ˈsaɪkloʊn/",
+          "meaning": "サイクロン、熱帯低気圧",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "The cyclone caused severe flooding along the coast.",
+          "translation": "サイクロンは沿岸地域に深刻な洪水を引き起こした。",
+          "note": "ギリシャ語 kyklos（円）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "pedagogy",
+          "pos": "名詞",
+          "ipa": "/ˈpedəɡɑːdʒi/",
+          "meaning": "教育学、教授法",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The university encourages research into innovative pedagogy.",
+          "translation": "その大学は革新的な教授法の研究を奨励している。",
+          "note": "ギリシャ語 pais, paidos（子ども）と agein（導く）に由来し、paideia と語族上関連。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "dictionary",
+          "pos": "名詞",
+          "ipa": "/ˈdɪkʃəneri/",
+          "meaning": "辞書",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "Use a dictionary to check the pronunciation.",
+          "translation": "発音を確認するには辞書を使ってください。",
+          "note": "単語の意味・発音・用法を調べる。",
+          "relationship": "contrast"
+        },
+        {
+          "word": "reference book",
+          "pos": "名詞句",
+          "ipa": "/ˈrefərəns bʊk/",
+          "meaning": "参考図書",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "This reference book explains basic accounting principles.",
+          "translation": "この参考図書は基本的な会計原則を解説している。",
+          "note": "調査・確認に使う書物の総称。",
+          "relationship": "contrast"
+        },
+        {
+          "word": "handbook",
+          "pos": "名詞",
+          "ipa": "/ˈhændbʊk/",
+          "meaning": "手引書",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The employee handbook outlines the company's policies.",
+          "translation": "従業員ハンドブックには会社の方針がまとめられている。",
+          "note": "特定分野の実務的な手引き。",
+          "relationship": "contrast"
+        },
+        {
+          "word": "compendium",
+          "pos": "名詞",
+          "ipa": "/kəmˈpendiəm/",
+          "meaning": "情報を簡潔にまとめた書物",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The report is a compendium of recent scientific findings.",
+          "translation": "その報告書は最近の科学的発見をまとめたものだ。",
+          "note": "情報の要約・集成に重点。",
+          "relationship": "contrast"
+        }
+      ],
+      "comparison": "encyclopedia は幅広い知識の体系的な解説、dictionary は語の意味・発音・用法、reference book は参考図書の総称、handbook は実務の手引書、compendium は情報を簡潔に集成したもの。"
     }
   ]
 }
