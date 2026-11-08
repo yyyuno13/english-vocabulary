@@ -11587,6 +11587,175 @@
         }
       ],
       "comparison": "encyclopedia は幅広い知識の体系的な解説、dictionary は語の意味・発音・用法、reference book は参考図書の総称、handbook は実務の手引書、compendium は情報を簡潔に集成したもの。"
+    },
+    {
+      "id": "leave-off",
+      "word": "leave off",
+      "pos": "句動詞（自動詞・他動詞）",
+      "ipa": "米英 /ˌliːv ˈɔːf/（米 /ˌliːv ˈɑːf/ も）",
+      "meaning": "（活動を）中断する、やめる；（中断した）地点で終わる；（リストなどから）省く",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 3,
+      "etymology": "leave は古英語 lǣfan（残す、後に残して去る）、off は古英語 of（離れて）に由来。進行中の活動から離れるという比喩で中断の意味を理解できるが、歴史的な成立を断定するものではない。",
+      "core": "活動の流れからいったん離れる。中断した地点が残るので where we left off（前回中断したところ）が自然に理解できる。別用法でリストなどから項目を外す。",
+      "usage": "leave off doing（〜するのをやめる）、leave off here（ここで切り上げる）、where we left off（中断したところ）、pick up where we left off（前回の続きから再開する）、leave a name off the list（名前をリストから省く）。中断する意味の leave off は stop よりやや古風・英国的な響きがある。",
+      "examples": [
+        [
+          "Let's continue where we left off yesterday.",
+          "昨日中断したところから続きを始めましょう。"
+        ],
+        [
+          "The story picks up exactly where the previous chapter left off.",
+          "その物語は前の章が終わった地点からちょうど再開する。"
+        ],
+        [
+          "We left off discussing the budget and moved on to another topic.",
+          "私たちは予算についての議論をやめ、別の話題に移った。"
+        ],
+        [
+          "He finally left off complaining about the delay.",
+          "彼はようやく遅延について文句を言うのをやめた。"
+        ],
+        [
+          "Let's leave off here and resume the discussion tomorrow.",
+          "今日はここで切り上げて、明日議論を再開しましょう。"
+        ],
+        [
+          "Do you remember where we left off in the last meeting?",
+          "前回の会議でどこまで話したか覚えていますか。"
+        ],
+        [
+          "Several names were accidentally left off the guest list.",
+          "何人かの名前が誤って招待客リストから漏れていた。"
+        ],
+        [
+          "The editor left the final paragraph off the published version.",
+          "編集者は公開版から最後の段落を省いた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "leave out",
+          "pos": "句動詞",
+          "ipa": "/liːv aʊt/",
+          "meaning": "省略する、除外する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Don't leave out any important details.",
+          "translation": "重要な詳細を省略しないでください。",
+          "note": "leave＋out：外に残す。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "leave behind",
+          "pos": "句動詞",
+          "ipa": "/liːv bɪˈhaɪnd/",
+          "meaning": "置き忘れる、取り残す",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "She left her phone behind at the hotel.",
+          "translation": "彼女はホテルに携帯電話を置き忘れた。",
+          "note": "leave＋behind：後ろに残す。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "leave alone",
+          "pos": "句動詞",
+          "ipa": "/liːv əˈloʊn/",
+          "meaning": "放っておく、手を出さない",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "Please leave the documents alone until the review is complete.",
+          "translation": "確認が終わるまで書類には触れないでください。",
+          "note": "leave＋alone：そのままにしておく。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "leave over",
+          "pos": "句動詞",
+          "ipa": "/liːv ˈoʊvər/",
+          "meaning": "残しておく",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "We left some food over for the next day.",
+          "translation": "翌日のために食べ物を少し残しておいた。",
+          "note": "比較的まれ。leftover（残り物）の方が一般的。",
+          "relationship": "same-verb"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "stop",
+          "pos": "動詞",
+          "ipa": "/stɑːp/",
+          "meaning": "止める",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We stopped working at six.",
+          "translation": "私たちは6時に仕事をやめた。",
+          "note": "最も一般的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "pause",
+          "pos": "動詞",
+          "ipa": "/pɔːz/",
+          "meaning": "一時停止する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "We paused the meeting for ten minutes.",
+          "translation": "私たちは会議を10分間中断した。",
+          "note": "再開を想定。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "suspend",
+          "pos": "動詞",
+          "ipa": "/səˈspend/",
+          "meaning": "一時停止する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company suspended operations due to safety concerns.",
+          "translation": "その会社は安全上の懸念から業務を一時停止した。",
+          "note": "公式・制度的な一時停止。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "discontinue",
+          "pos": "動詞",
+          "ipa": "/ˌdɪskənˈtɪnjuː/",
+          "meaning": "終了する、継続を取りやめる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "example": "The manufacturer discontinued the product.",
+          "translation": "メーカーはその製品の生産・販売を終了した。",
+          "note": "継続していたものを終了する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "break off",
+          "pos": "句動詞",
+          "ipa": "/breɪk ɔːf/",
+          "meaning": "途中で打ち切る",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The two sides broke off negotiations.",
+          "translation": "両者は交渉を打ち切った。",
+          "note": "交渉・関係などの打ち切り。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "leave off は活動を中断する・中断地点を示す。stop は一般的な停止、pause は再開を想定した一時停止、suspend は公式な停止、discontinue は継続の終了、break off は交渉などの打ち切り。where we left off は特に実用的。"
     }
   ]
 }
