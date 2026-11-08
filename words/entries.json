@@ -11756,6 +11756,214 @@
         }
       ],
       "comparison": "leave off は活動を中断する・中断地点を示す。stop は一般的な停止、pause は再開を想定した一時停止、suspend は公式な停止、discontinue は継続の終了、break off は交渉などの打ち切り。where we left off は特に実用的。"
+    },
+    {
+      "id": "inception",
+      "word": "inception",
+      "pos": "名詞（通常不可算）",
+      "ipa": "米英 /ɪnˈsepʃən/",
+      "meaning": "始まり、発足、創設、開始、成立",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "ラテン語 incipere（始める、着手する）→ inceptio（開始）。in-（中へ、〜に向かって）＋ capere（取る、つかむ）の変化形 -cept- に由来。",
+      "core": "組織・計画・制度などが成立し、その後の歴史が始まる起点。",
+      "usage": "since its inception（発足以来）、from inception（開始当初から）、at the inception of（〜の発足時に）。フォーマルな文脈でよく用いる。",
+      "examples": [
+        [
+          "Since its inception, the company has focused on innovation.",
+          "設立以来、その会社はイノベーションを重視してきた。"
+        ],
+        [
+          "The project has faced several challenges since its inception.",
+          "そのプロジェクトは発足以来、いくつもの課題に直面してきた。"
+        ],
+        [
+          "The organization has grown significantly since its inception in 1995.",
+          "その組織は1995年の設立以来、大きく成長してきた。"
+        ],
+        [
+          "The policy was controversial from its inception.",
+          "その政策は導入当初から議論を呼んでいた。"
+        ],
+        [
+          "The initiative attracted strong support at its inception.",
+          "その取り組みは発足時に強い支持を集めた。"
+        ],
+        [
+          "The research team was involved from the project's inception.",
+          "その研究チームはプロジェクトの開始当初から関わっていた。"
+        ],
+        [
+          "The museum has preserved its original mission since its inception.",
+          "その美術館は創設以来、当初の使命を守り続けている。"
+        ],
+        [
+          "The idea has evolved considerably since its inception.",
+          "そのアイデアは生まれた当初から大きく発展してきた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "incept",
+          "pos": "動詞",
+          "ipa": "/ɪnˈsept/",
+          "meaning": "始める（まれ）",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The program was incepted several years ago.",
+          "translation": "そのプログラムは数年前に開始された。",
+          "note": "まれな語。通常は start, launch, establish を使う。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "concept",
+          "pos": "名詞",
+          "ipa": "/ˈkɑːnsept/",
+          "meaning": "概念、構想",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We need to clarify the concept before developing the product.",
+          "translation": "製品開発の前に、その構想を明確にする必要がある。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "conceive",
+          "pos": "動詞",
+          "ipa": "/kənˈsiːv/",
+          "meaning": "構想する、思いつく、妊娠する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The architect conceived a radically different design.",
+          "translation": "建築家は根本的に異なるデザインを構想した。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "perceive",
+          "pos": "動詞",
+          "ipa": "/pərˈsiːv/",
+          "meaning": "知覚する、認識する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Customers perceive the brand as reliable.",
+          "translation": "顧客はそのブランドを信頼できると認識している。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "receive",
+          "pos": "動詞",
+          "ipa": "/rɪˈsiːv/",
+          "meaning": "受け取る",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We received the revised contract yesterday.",
+          "translation": "昨日、修正された契約書を受け取った。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "intercept",
+          "pos": "動詞",
+          "ipa": "/ˌɪntərˈsept/",
+          "meaning": "途中で捕らえる、傍受する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The system intercepted the suspicious message.",
+          "translation": "システムは不審なメッセージを途中で捕捉した。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "beginning",
+          "pos": "名詞",
+          "ipa": "/bɪˈɡɪnɪŋ/",
+          "meaning": "始まり",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The beginning of the novel is difficult to follow.",
+          "translation": "その小説の冒頭は理解しにくい。",
+          "note": "一般的な始まり。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "outset",
+          "pos": "名詞",
+          "ipa": "/ˈaʊtset/",
+          "meaning": "最初、初期段階",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "We identified the risks at the outset of the project.",
+          "translation": "私たちはプロジェクトの初期段階でリスクを特定した。",
+          "note": "開始直後の段階を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "onset",
+          "pos": "名詞",
+          "ipa": "/ˈɑːnset/",
+          "meaning": "発生、始まり",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The onset of winter brought heavy snowfall.",
+          "translation": "冬の到来によって大雪が降った。",
+          "note": "病気や現象の発生によく使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "commencement",
+          "pos": "名詞",
+          "ipa": "/kəˈmensmənt/",
+          "meaning": "公式な開始",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "Construction is scheduled for commencement in April.",
+          "translation": "建設工事は4月に開始される予定だ。",
+          "note": "フォーマルな開始。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "origin",
+          "pos": "名詞",
+          "ipa": "/ˈɔːrɪdʒɪn/",
+          "meaning": "起源、由来",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Researchers investigated the origin of the disease.",
+          "translation": "研究者たちはその病気の起源を調査した。",
+          "note": "発生源を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "launch",
+          "pos": "名詞",
+          "ipa": "/lɔːntʃ/",
+          "meaning": "発売、開始、立ち上げ",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The product launch was postponed until June.",
+          "translation": "製品の発売は6月まで延期された。",
+          "note": "公に開始・発表する行為。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "inception は組織や制度などが成立した起点、beginning は一般的な始まり、outset は初期段階、onset は病気・現象の発生、commencement は公式な開始、origin は由来、launch は製品・事業の公的な開始。"
     }
   ]
 }
