@@ -11093,6 +11093,175 @@
         }
       ],
       "comparison": "grin は歯を見せる大きな笑顔の形、smile は一般的な微笑み、smirk は得意げ・皮肉っぽい笑い、beam は喜びで顔が輝く様子、chuckle は声を抑えたくすくす笑い。"
+    },
+    {
+      "id": "turn-down",
+      "word": "turn down",
+      "pos": "句動詞（他動詞・分離可能）",
+      "ipa": "米 /ˌtɝːn ˈdaʊn/・英 /ˌtɜːn ˈdaʊn/",
+      "meaning": "（申し出・依頼・招待などを）断る、拒否する、辞退する；（音量などを）下げる",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 5,
+      "etymology": "turn（向きを変える）＋ down（下へ）。turn は古英語 turnian、ラテン語 tornare（旋盤で回す）にさかのぼる。down は古英語 dūn（丘）に由来する方向表現と関係。申し出を受け入れず退けるイメージは記憶上の比喩であり、歴史的な派生を断定するものではない。",
+      "core": "差し出された申し出を受け入れずに退ける。物理的には向きを下に変え、音量や強さを下げる意味も持つ。",
+      "usage": "turn down an offer（申し出を断る）、turn down an invitation（招待を辞退する）、turn down a proposal（提案を却下する）、turn down a request（依頼を断る）。分離可能：turn the offer down / turn it down（×turn down it）。",
+      "examples": [
+        [
+          "She turned down the job offer because the salary was too low.",
+          "彼女は給与が低すぎるという理由で、その仕事のオファーを断った。"
+        ],
+        [
+          "I had to turn down the invitation because I already had plans.",
+          "すでに予定があったため、その招待を断らなければならなかった。"
+        ],
+        [
+          "The board turned down the proposed acquisition.",
+          "取締役会は提案された買収を却下した。"
+        ],
+        [
+          "He politely turned down their request for additional funding.",
+          "彼は追加資金の要請を丁寧に断った。"
+        ],
+        [
+          "I don't want to turn down such a valuable opportunity.",
+          "そんな貴重な機会を断りたくありません。"
+        ],
+        [
+          "Our proposal was turned down by the client.",
+          "私たちの提案は顧客に却下された。"
+        ],
+        [
+          "She turned him down when he asked her out.",
+          "彼がデートに誘ったとき、彼女は彼を断った。"
+        ],
+        [
+          "The company turned down several applicants after the final interview.",
+          "その会社は最終面接後、複数の応募者を不採用にした。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "turn up",
+          "pos": "句動詞",
+          "ipa": "/tɝːn ʌp/",
+          "meaning": "現れる、音量を上げる",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "He turned up unexpectedly at the meeting.",
+          "translation": "彼は予告なく会議に現れた。",
+          "note": "turn + up。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "turn on",
+          "pos": "句動詞",
+          "ipa": "/tɝːn ɑːn/",
+          "meaning": "電源を入れる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "Could you turn on the projector?",
+          "translation": "プロジェクターをつけていただけますか。",
+          "note": "turn + on。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "turn off",
+          "pos": "句動詞",
+          "ipa": "/tɝːn ɔːf/",
+          "meaning": "電源を切る、興味を失わせる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "Please turn off the lights before leaving.",
+          "translation": "帰る前に照明を消してください。",
+          "note": "turn + off。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "turn over",
+          "pos": "句動詞",
+          "ipa": "/tɝːn ˈoʊvər/",
+          "meaning": "裏返す、引き渡す",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The manager turned over the project to her successor.",
+          "translation": "マネージャーは後任者にプロジェクトを引き継いだ。",
+          "note": "turn + over。",
+          "relationship": "same-verb"
+        },
+        {
+          "word": "turn out",
+          "pos": "句動詞",
+          "ipa": "/tɝːn aʊt/",
+          "meaning": "結果として〜になる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The project turned out to be more expensive than expected.",
+          "translation": "そのプロジェクトは結果的に予想以上の費用がかかった。",
+          "note": "turn + out。",
+          "relationship": "same-verb"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "decline",
+          "pos": "動詞",
+          "ipa": "/dɪˈklaɪn/",
+          "meaning": "丁寧に辞退する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "I regret that I must decline your invitation.",
+          "translation": "残念ながら、ご招待を辞退しなければなりません。",
+          "note": "丁寧でフォーマル。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "reject",
+          "pos": "動詞",
+          "ipa": "/rɪˈdʒekt/",
+          "meaning": "明確に却下する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The committee rejected the application.",
+          "translation": "委員会はその申請を却下した。",
+          "note": "明確な不承認。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "refuse",
+          "pos": "動詞",
+          "ipa": "/rɪˈfjuːz/",
+          "meaning": "拒否する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "He refused to answer the question.",
+          "translation": "彼はその質問に答えることを拒んだ。",
+          "note": "拒否する意思を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "pass up",
+          "pos": "句動詞",
+          "ipa": "/pæs ʌp/",
+          "meaning": "好機を見送る、逃す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "She didn't want to pass up the opportunity.",
+          "translation": "彼女はその機会を逃したくなかった。",
+          "note": "好機を見送ること。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "turn down は申し出・招待・提案を受け入れない。decline は丁寧・フォーマルな辞退、reject は明確な却下、refuse は拒否の意思、pass up は機会を見送ることに重点。"
     }
   ]
 }
