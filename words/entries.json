@@ -12984,13 +12984,13 @@
       "word": "bounce",
       "pos": "動詞・名詞",
       "ipa": "米・英 /baʊns/",
-      "meaning": "跳ねる、跳ね返る、弾ませる；回復する；メールが不達で戻る；人を追い出す；跳ね返り、回復",
+      "meaning": "跳ねる、跳ね返る、弾ませる；回復する；メールが不達で戻る；人を追い出す；跳ね返り、回復；小切手が不渡りになる",
       "difficulty": 3,
       "daily": 4,
       "business": 4,
       "etymology": "中英語期に現れた、衝突音・勢いのある動きを表す擬音的な語と考えられる。詳しい語源は不確かで、確立したラテン語語根などには分解できない。",
-      "core": "何かにぶつかって勢いよく跳ね返る。物理的な反発から、下落後の回復、メールの返送、相手の反応を得るためにアイデアをぶつけることなどへ比喩的に広がる。",
-      "usage": "bounce off the wall（壁で跳ね返る）、bounce a ball（ボールを弾ませる）、bounce back（回復する）、a bounce in share prices（株価の反発）、an email bounced（メールが不達で戻る）、bounce an idea off someone（人にアイデアをぶつけて意見を聞く）、bounce someone from a club（人をクラブから追い出す・口語）。",
+      "core": "何かにぶつかって勢いよく跳ね返る。物理的な反発から、下落後の回復、メールの返送、相手の反応を得るためにアイデアをぶつけることなどへ比喩的に広がる。 小切手が決済されず銀行から戻される「不渡り」も同じ反発・返送のイメージ。",
+      "usage": "bounce off the wall（壁で跳ね返る）、bounce a ball（ボールを弾ませる）、bounce back（回復する）、a bounce in share prices（株価の反発）、an email bounced（メールが不達で戻る）、bounce an idea off someone（人にアイデアをぶつけて意見を聞く）、bounce someone from a club（人をクラブから追い出す・口語）。 check bounces（小切手が不渡りになる）、bounced check（不渡り小切手）、insufficient funds / NSF（残高不足）、dishonored check（支払拒絶された小切手）。",
       "examples": [
         [
           "The ball bounced off the wall.",
@@ -13023,6 +13023,14 @@
         [
           "The security guard bounced him from the club.",
           "警備員は彼をクラブから追い出した。"
+        ],
+        [
+          "The check bounced because there were insufficient funds in the account.",
+          "口座の残高不足により、小切手は不渡りになった。"
+        ],
+        [
+          "The company was charged a fee for a bounced check.",
+          "その会社は不渡り小切手に対する手数料を請求された。"
         ]
       ],
       "related": [
@@ -13159,7 +13167,7 @@
           "relationship": "synonym"
         }
       ],
-      "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。"
+      "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。 A bounced check は不渡り小切手で、a dishonored check はやや正式な表現。"
     }
   ]
 }
