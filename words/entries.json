@@ -12328,6 +12328,188 @@
         }
       ],
       "comparison": "usher は人を丁寧に案内する、または新時代を実際にもたらす。guide は道筋を示す、escort は付き添う、lead は先頭に立つ、introduce は制度などを導入する、herald は到来を告げる、pave the way for は実現への道を開く。"
+    },
+    {
+      "id": "pursue",
+      "word": "pursue",
+      "pos": "他動詞",
+      "ipa": "米 /pɚˈsuː/・英 /pəˈsjuː/",
+      "meaning": "追求する、追い求める；従事する；追跡する；推し進める",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 persequī（最後まで追う、追跡する）→古フランス語 poursuir/poursuivre→英語 pursue。per-（徹底的に・最後まで）＋ sequī（後についていく）。現代の綴りを pur+sue と機械的に分けない。",
+      "core": "目標や対象に向かって追い続ける。追求・活動の継続・追跡・方針の推進へ意味が広がる。",
+      "usage": "pursue a career in ...（〜分野のキャリアを目指す）、pursue opportunities（機会を追求する）、pursue a strategy（戦略を推進する）、pursue legal action（法的措置を取る）。pursue は他動詞で目的語を直接とる。pursue to do は通常不可。",
+      "examples": [
+        [
+          "She decided to pursue a career in finance.",
+          "彼女は金融業界でのキャリアを追求することに決めた。"
+        ],
+        [
+          "The company is pursuing new business opportunities in Asia.",
+          "その会社はアジアで新たな事業機会を追求している。"
+        ],
+        [
+          "He moved abroad to pursue his dream of becoming an artist.",
+          "彼は芸術家になる夢を追い求めて海外に移住した。"
+        ],
+        [
+          "The researchers are pursuing several possible explanations.",
+          "研究者たちは複数の可能な説明を検討し続けている。"
+        ],
+        [
+          "The police pursued the suspect through the streets.",
+          "警察は通りを抜けて逃げる容疑者を追跡した。"
+        ],
+        [
+          "The government intends to pursue a more sustainable energy policy.",
+          "政府はより持続可能なエネルギー政策を推進する方針だ。"
+        ],
+        [
+          "The company may pursue legal action against the supplier.",
+          "その会社は仕入先に対して法的措置を取る可能性がある。"
+        ],
+        [
+          "Despite repeated setbacks, she continued to pursue her goals.",
+          "度重なる挫折にもかかわらず、彼女は目標を追い求め続けた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "pursuit",
+          "pos": "名詞",
+          "ipa": "/pɚˈsuːt/",
+          "meaning": "追求、追跡",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The pursuit of profit should not come at the expense of safety.",
+          "translation": "利益の追求は安全を犠牲にして行われるべきではない。",
+          "note": "pursue の名詞形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "sequence",
+          "pos": "名詞",
+          "ipa": "/ˈsiːkwəns/",
+          "meaning": "順序、連続",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The sequence of events remains unclear.",
+          "translation": "出来事の順序は依然として不明だ。",
+          "note": "ラテン語 sequī（後についていく）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "consequence",
+          "pos": "名詞",
+          "ipa": "/ˈkɑːnsəkwens/",
+          "meaning": "結果、影響",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "The decision could have serious consequences.",
+          "translation": "その決定は深刻な結果をもたらす可能性がある。",
+          "note": "ラテン語 sequī（後についていく）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "subsequent",
+          "pos": "形容詞",
+          "ipa": "/ˈsʌbsɪkwənt/",
+          "meaning": "その後の",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "Subsequent investigations revealed additional errors.",
+          "translation": "その後の調査で追加の誤りが明らかになった。",
+          "note": "ラテン語 sequī（後についていく）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "execute",
+          "pos": "動詞",
+          "ipa": "/ˈeksɪkjuːt/",
+          "meaning": "実行する、遂行する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The team executed the strategy successfully.",
+          "translation": "チームはその戦略を首尾よく実行した。",
+          "note": "ラテン語 exsequī（最後まで遂行する）から。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "seek",
+          "pos": "動詞",
+          "ipa": "/siːk/",
+          "meaning": "探し求める",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company is seeking new investors.",
+          "translation": "その会社は新たな投資家を探している。",
+          "note": "探索・獲得の意図に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "strive",
+          "pos": "動詞",
+          "ipa": "/straɪv/",
+          "meaning": "懸命に努力する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "We strive to provide the highest quality of service.",
+          "translation": "私たちは最高品質のサービスを提供するよう努めている。",
+          "note": "困難に負けず努力する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "aim",
+          "pos": "動詞",
+          "ipa": "/eɪm/",
+          "meaning": "目指す",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The project aims to reduce operating costs.",
+          "translation": "そのプロジェクトは営業費用の削減を目指している。",
+          "note": "目標を定めることに重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "follow",
+          "pos": "動詞",
+          "ipa": "/ˈfɑːloʊ/",
+          "meaning": "後についていく、従う",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company followed a conservative investment strategy.",
+          "translation": "その会社は保守的な投資戦略に従った。",
+          "note": "道筋・方針についていく。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "chase",
+          "pos": "動詞",
+          "ipa": "/tʃeɪs/",
+          "meaning": "追いかける",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The startup is chasing rapid growth.",
+          "translation": "そのスタートアップは急速な成長を追い求めている。",
+          "note": "追跡や欲求の勢いに重点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "pursue は目標へ積極的・継続的に取り組む。seek は探し求める、strive は困難の中で努力する、aim は目標を定める、follow は後についていく、chase は追いかける。"
     }
   ]
 }
