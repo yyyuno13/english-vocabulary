@@ -11964,6 +11964,201 @@
         }
       ],
       "comparison": "inception は組織や制度などが成立した起点、beginning は一般的な始まり、outset は初期段階、onset は病気・現象の発生、commencement は公式な開始、origin は由来、launch は製品・事業の公的な開始。"
+    },
+    {
+      "id": "anticipate",
+      "word": "anticipate",
+      "pos": "他動詞",
+      "ipa": "米英 /ænˈtɪsɪpeɪt/",
+      "meaning": "予期する、予想する；見越して備える；楽しみに待つ；先手を打つ",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 anticipare（先取りする、前もって行う）から。ante-（前に）＋ capere（取る、つかむ）に由来。現代綴りの anti- はギリシャ語系 anti-（反対）とは別。",
+      "core": "未来に起こることを現在の時点で先取りして捉える。予期・備え・期待・先回りの意味につながる。",
+      "usage": "anticipate + 名詞／動名詞／that節。anticipate to do は通常不可。anticipate demand（需要を見込む）、anticipate risks（リスクを予期する）、in anticipation of（〜を見越して）。anticipate 自体が必ず準備行動を含意するわけではない。",
+      "examples": [
+        [
+          "We anticipate a significant increase in sales next quarter.",
+          "来四半期には売上が大幅に増加すると予想しています。"
+        ],
+        [
+          "The company failed to anticipate changes in consumer behavior.",
+          "その会社は消費者行動の変化を予測できなかった。"
+        ],
+        [
+          "We need to anticipate potential risks before launching the project.",
+          "プロジェクト開始前に潜在的なリスクを予測して備える必要があります。"
+        ],
+        [
+          "The manufacturer increased production to anticipate rising demand.",
+          "メーカーは需要増加を見越して生産を増やした。"
+        ],
+        [
+          "I hadn't anticipated having to work overtime.",
+          "残業しなければならなくなるとは予想していなかった。"
+        ],
+        [
+          "We anticipate that the new system will improve efficiency.",
+          "新しいシステムによって効率が向上すると見込んでいます。"
+        ],
+        [
+          "The children eagerly anticipated their summer vacation.",
+          "子どもたちは夏休みを心待ちにしていた。"
+        ],
+        [
+          "The government introduced measures to anticipate future challenges.",
+          "政府は将来の課題に先手を打つための対策を導入した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "anticipation",
+          "pos": "名詞",
+          "ipa": "/ænˌtɪsɪˈpeɪʃən/",
+          "meaning": "予期、期待",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "There was growing anticipation ahead of the announcement.",
+          "translation": "発表を前に期待が高まっていた。",
+          "note": "anticipate の名詞形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "anticipated",
+          "pos": "形容詞",
+          "ipa": "/ænˈtɪsɪpeɪtɪd/",
+          "meaning": "予想された、期待された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The anticipated costs exceeded our initial budget.",
+          "translation": "予想費用は当初の予算を上回った。",
+          "note": "anticipate の過去分詞形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "participant",
+          "pos": "名詞",
+          "ipa": "/pɑːrˈtɪsɪpənt/",
+          "meaning": "参加者",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Each participant received a copy of the report.",
+          "translation": "各参加者に報告書の写しが配布された。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "participate",
+          "pos": "動詞",
+          "ipa": "/pɑːrˈtɪsɪpeɪt/",
+          "meaning": "参加する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Several departments participated in the project.",
+          "translation": "複数の部署がそのプロジェクトに参加した。",
+          "note": "partem（部分）＋ capere（取る）。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "capture",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈkæptʃər/",
+          "meaning": "捕らえる、捉える",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The survey aims to capture customer preferences.",
+          "translation": "その調査は顧客の好みを捉えることを目的としている。",
+          "note": "ラテン語 capere（取る）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "capacity",
+          "pos": "名詞",
+          "ipa": "/kəˈpæsəti/",
+          "meaning": "容量、能力、収容力",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The factory is operating at full capacity.",
+          "translation": "工場はフル稼働している。",
+          "note": "ラテン語 capax（収容できる）を介し capere と関係。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "expect",
+          "pos": "動詞",
+          "ipa": "/ɪkˈspekt/",
+          "meaning": "予想する、期待する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We expect the shipment to arrive on Friday.",
+          "translation": "荷物は金曜日に届くと思っています。",
+          "note": "最も一般的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "predict",
+          "pos": "動詞",
+          "ipa": "/prɪˈdɪkt/",
+          "meaning": "予測する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Analysts predict that interest rates will fall.",
+          "translation": "アナリストは金利が下がると予測している。",
+          "note": "根拠や分析を伴う予測に多い。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "forecast",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈfɔːrkæst/",
+          "meaning": "予測する、見通し",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company forecasts revenue growth of 8%.",
+          "translation": "その会社は売上高が8％成長すると予測している。",
+          "note": "数値・傾向の見通し。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "foresee",
+          "pos": "動詞",
+          "ipa": "/fɔːrˈsiː/",
+          "meaning": "見通す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "We do not foresee any major difficulties.",
+          "translation": "大きな問題は生じないと見込んでいます。",
+          "note": "将来の出来事を見通す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "look forward to",
+          "pos": "句動詞",
+          "ipa": "/lʊk ˈfɔːrwərd tuː/",
+          "meaning": "楽しみに待つ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "I look forward to meeting you next week.",
+          "translation": "来週お会いできることを楽しみにしています。",
+          "note": "前向きな期待に特化。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "anticipate は未来を先取りして見込む（必ずしも準備を意味しない）、expect は一般的な予想、predict は根拠ある予測、forecast は数値・傾向の見通し、foresee は将来を見通す、look forward to は楽しみに待つ。"
     }
   ]
 }
