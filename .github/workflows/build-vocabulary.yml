@@ -21,6 +21,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Synchronize latest vocabulary sources
+        run: |
+          # Entry and root-map files can be committed separately by the API.
+          # Always build from the latest main rather than the triggering commit.
+          git fetch origin main
+          git checkout -B main origin/main
       - name: Generate and validate vocabulary
         run: |
           node scripts/build-vocabulary.cjs
