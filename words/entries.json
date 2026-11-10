@@ -12510,6 +12510,162 @@
         }
       ],
       "comparison": "pursue は目標へ積極的・継続的に取り組む。seek は探し求める、strive は困難の中で努力する、aim は目標を定める、follow は後についていく、chase は追いかける。"
+    },
+    {
+      "id": "detergent",
+      "word": "detergent",
+      "pos": "名詞・形容詞",
+      "ipa": "米 /dɪˈtɝːdʒənt/・英 /dɪˈtɜːdʒənt/",
+      "meaning": "洗剤、洗浄剤；洗浄作用のある",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 3,
+      "etymology": "ラテン語 dētergēre（拭い取る、ぬぐい去る）に由来。dē-（取り去る）＋ tergēre（拭く、ぬぐう）、現在分詞に由来する -ent。",
+      "core": "表面に付着した汚れを取り去る。界面活性剤が油汚れを水中に分散させる働きと関連づけて覚える。ただし洗浄機構は製品によって異なる。",
+      "usage": "laundry detergent（洗濯用洗剤）、liquid detergent（液体洗剤）、powder detergent（粉末洗剤）、mild detergent（刺激の少ない洗剤）、concentrated detergent（濃縮洗剤）、detergent residue（洗剤の残留物）。soap は石けん、disinfectant は消毒剤。",
+      "examples": [
+        [
+          "We need to buy some laundry detergent.",
+          "洗濯用洗剤を買う必要がある。"
+        ],
+        [
+          "Use a mild detergent to wash delicate fabrics.",
+          "デリケートな生地を洗うには刺激の少ない洗剤を使ってください。"
+        ],
+        [
+          "This detergent removes stubborn stains effectively.",
+          "この洗剤は頑固な汚れを効果的に落とす。"
+        ],
+        [
+          "I accidentally used too much detergent in the washing machine.",
+          "洗濯機に誤って洗剤を入れすぎてしまった。"
+        ],
+        [
+          "The company launched an environmentally friendly detergent.",
+          "その会社は環境に配慮した洗剤を発売した。"
+        ],
+        [
+          "Some detergents contain enzymes that break down protein stains.",
+          "洗剤の中には、タンパク質汚れを分解する酵素を含むものがある。"
+        ],
+        [
+          "The manufacturer is developing a concentrated liquid detergent.",
+          "メーカーは濃縮液体洗剤を開発している。"
+        ],
+        [
+          "Rinse the container thoroughly to remove any remaining detergent.",
+          "残った洗剤を取り除くため、容器を十分にすすいでください。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "deterge",
+          "pos": "動詞",
+          "ipa": "/dɪˈtɝːdʒ/",
+          "meaning": "拭い取る、洗浄する",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The solution was used to deterge the affected surface.",
+          "translation": "その溶液は対象の表面を洗浄するために使用された。",
+          "note": "直接の同語源語。非常にまれ。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "detergency",
+          "pos": "名詞",
+          "ipa": "/dɪˈtɝːdʒənsi/",
+          "meaning": "洗浄力、洗浄作用",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The researchers evaluated the detergency of the new formula.",
+          "translation": "研究者たちは新しい配合の洗浄力を評価した。",
+          "note": "detergent の派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "detergent-free",
+          "pos": "形容詞",
+          "ipa": "/dɪˈtɝːdʒənt friː/",
+          "meaning": "洗剤不使用の",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "The product uses a detergent-free cleaning method.",
+          "translation": "その製品は洗剤を使わない洗浄方法を採用している。",
+          "note": "detergent に free を組み合わせた形容詞。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "soap",
+          "pos": "名詞",
+          "ipa": "/soʊp/",
+          "meaning": "石けん",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "Wash your hands with soap and water.",
+          "translation": "石けんと水で手を洗ってください。",
+          "note": "脂肪酸塩を主成分とする石けん。日常では合成洗剤も dish soap と呼ぶ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "cleanser",
+          "pos": "名詞",
+          "ipa": "/ˈklenzər/",
+          "meaning": "洗浄剤、洗顔料",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "She uses a gentle facial cleanser every morning.",
+          "translation": "彼女は毎朝、肌に優しい洗顔料を使っている。",
+          "note": "肌や表面の洗浄剤。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "cleaner",
+          "pos": "名詞",
+          "ipa": "/ˈkliːnər/",
+          "meaning": "掃除用洗剤、清掃する人・機械",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "This cleaner is suitable for kitchen surfaces.",
+          "translation": "この洗剤はキッチンの表面に使用できる。",
+          "note": "用途の広い清掃用品。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "disinfectant",
+          "pos": "名詞",
+          "ipa": "/ˌdɪsɪnˈfektənt/",
+          "meaning": "消毒剤",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The staff applied disinfectant to the equipment.",
+          "translation": "スタッフは器具に消毒剤を使用した。",
+          "note": "微生物の不活化・除去を目的とする。",
+          "relationship": "related"
+        },
+        {
+          "word": "bleach",
+          "pos": "名詞",
+          "ipa": "/bliːtʃ/",
+          "meaning": "漂白剤",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "Bleach can damage certain fabrics.",
+          "translation": "漂白剤は一部の生地を傷めることがある。",
+          "note": "漂白・脱色を主目的とする。",
+          "relationship": "related"
+        }
+      ],
+      "comparison": "detergent は汚れを洗い落とす洗剤、soap は石けん（ただし日常英語では合成洗剤にも使う）、cleanser は肌・表面の洗浄剤、cleaner は掃除用品一般、disinfectant は消毒剤、bleach は漂白剤。洗浄と消毒は異なる。"
     }
   ]
 }
