@@ -12822,6 +12822,162 @@
         }
       ],
       "comparison": "leave it up to someone は選択・決定の裁量を委ねる。It's up to you は判断の所在を述べる。leave it to someone は実行・対応を任せる意味にも使う。entrust は信頼して託す、delegate は権限・職務を正式に委譲する、defer to は相手の判断に従う。"
+    },
+    {
+      "id": "custody",
+      "word": "custody",
+      "pos": "名詞（主に不可算）",
+      "ipa": "米 /ˈkʌstədi/・英 /ˈkʌstədi/",
+      "meaning": "監護・親権、身柄の拘束、財産・証拠などの保管・管理",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 custōdia（監視、保護、拘禁）に由来し、custōs（番人、守護者）につながる。現代英語の接頭辞・語根・接尾辞に機械的に分割できる語ではない。",
+      "core": "人や物を責任をもって管理・保護する。子どもの監護、被疑者の拘束、資産や証拠品の保管という意味は、管理下に置く対象と権限の違いでつながる。",
+      "usage": "child custody（子の監護）、joint custody（共同監護）、sole custody（単独監護）、in custody（拘束されて）、take someone into custody（身柄を拘束する）、custody services（資産保管サービス）、assets under custody（保管資産）、chain of custody（証拠の管理・引継ぎ記録）。各国法制によって custody と親権の対応は異なる。",
+      "examples": [
+        [
+          "The court granted custody of the child to her mother.",
+          "裁判所は母親にその子どもの監護権を認めた。"
+        ],
+        [
+          "The parents agreed to share custody of their children.",
+          "両親は子どもたちを共同で監護することに合意した。"
+        ],
+        [
+          "He is seeking sole custody of his daughter.",
+          "彼は娘の単独監護権を求めている。"
+        ],
+        [
+          "The suspect was taken into police custody.",
+          "容疑者は警察に身柄を拘束された。"
+        ],
+        [
+          "The man remains in custody while the investigation continues.",
+          "捜査が続く間、その男性は引き続き拘束されている。"
+        ],
+        [
+          "The bank provides custody services for institutional investors.",
+          "その銀行は機関投資家向けに資産保管サービスを提供している。"
+        ],
+        [
+          "The securities are held in custody by a third-party institution.",
+          "その有価証券は第三者機関によって保管されている。"
+        ],
+        [
+          "Investigators must maintain a clear chain of custody for all evidence.",
+          "捜査官はすべての証拠について、保管・管理の経緯を明確に記録しなければならない。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "custodian",
+          "pos": "名詞",
+          "ipa": "/kʌˈstoʊdiən/",
+          "meaning": "管理人、保管者、カストディアン",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The custodian is responsible for safeguarding the client's securities.",
+          "translation": "カストディアンは顧客の有価証券を安全に保管する責任を負っている。",
+          "note": "ラテン語 custōs にさかのぼる同語源語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "custodial",
+          "pos": "形容詞",
+          "ipa": "/kʌˈstoʊdiəl/",
+          "meaning": "保管・監護に関する、拘禁を伴う",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The institution has custodial responsibilities for the assets.",
+          "translation": "その機関は資産の保管・管理責任を負っている。",
+          "note": "custody と同語源の形容詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "custodianship",
+          "pos": "名詞",
+          "ipa": "/kʌˈstoʊdiənʃɪp/",
+          "meaning": "管理者・保管者としての地位や責任",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The museum accepted custodianship of the collection.",
+          "translation": "博物館はその収蔵品群の保管・管理責任を引き受けた。",
+          "note": "custodian から派生した名詞。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "care",
+          "pos": "名詞",
+          "ipa": "/ker/",
+          "meaning": "世話、保護",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "The child is in the care of her grandparents.",
+          "translation": "その子どもは祖父母の世話を受けている。",
+          "note": "法的権限がなくても使える一般語。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "guardianship",
+          "pos": "名詞",
+          "ipa": "/ˈɡɑːrdiənʃɪp/",
+          "meaning": "法的後見、後見人としての責任",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The court established legal guardianship for the child.",
+          "translation": "裁判所はその子どもの法的後見関係を設定した。",
+          "note": "法的後見関係に重点。custody と範囲が一致するとは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "detention",
+          "pos": "名詞",
+          "ipa": "/dɪˈtenʃən/",
+          "meaning": "拘禁、拘束",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The detainee challenged the legality of his detention.",
+          "translation": "被拘束者は自分の拘束の合法性を争った。",
+          "note": "自由を制限して留め置く側面に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "possession",
+          "pos": "名詞",
+          "ipa": "/pəˈzeʃən/",
+          "meaning": "所持、占有",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The company took possession of the equipment.",
+          "translation": "会社はその設備を占有することになった。",
+          "note": "占有が中心で保護責任は必須ではない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "safekeeping",
+          "pos": "名詞",
+          "ipa": "/ˌseɪfˈkiːpɪŋ/",
+          "meaning": "安全な保管",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The documents were deposited with the bank for safekeeping.",
+          "translation": "書類は安全に保管するため銀行に預けられた。",
+          "note": "安全な保管に重点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "custody は責任を伴う監護・拘束・保管。care は一般的な世話、guardianship は法的後見、detention は拘束、possession は所持・占有、safekeeping は安全な保管。金融では custody と ownership（所有権）は区別する。"
     }
   ]
 }
