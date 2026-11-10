@@ -12666,6 +12666,162 @@
         }
       ],
       "comparison": "detergent は汚れを洗い落とす洗剤、soap は石けん（ただし日常英語では合成洗剤にも使う）、cleanser は肌・表面の洗浄剤、cleaner は掃除用品一般、disinfectant は消毒剤、bleach は漂白剤。洗浄と消毒は異なる。"
+    },
+    {
+      "id": "leave-it-up-to-someone",
+      "word": "leave it up to someone",
+      "pos": "慣用表現（動詞句）",
+      "ipa": "米 /liːv ɪt ˈʌp tə ˈsʌmwʌn/・英 /liːv ɪt ˈʌp tə ˈsʌmwʌn/",
+      "meaning": "（決定・選択・判断を）人に任せる、委ねる",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "leave は古英語 lǣfan（残す）に由来する動詞。up to は「〜の判断・責任にかかって」という慣用的なまとまりで、leave A up to B は「AをBの裁量に委ねる」。現代の構文全体をラテン語などの単一語根から機械的に分解しない。",
+      "core": "決定権・裁量を自分の手元から相手に渡す。leave it up to you は「あなたの判断に任せる」。up to の「〜次第だ／〜の責任だ」という用法とつながる。",
+      "usage": "leave it up to someone（人に任せる）；leave the decision/choice up to someone（決定・選択を人に任せる）；leave it up to someone to do something（何をするかの判断を人に任せる）。主要な意味は判断・選択の委任。leave it to someone は実務・作業の遂行を任せる意味にも広く使う。leave up 単独は「任せる」の意味ではない。",
+      "examples": [
+        [
+          "I'll leave it up to you.",
+          "あなたに任せるよ。"
+        ],
+        [
+          "I'll leave the final decision up to you.",
+          "最終的な判断はあなたに任せます。"
+        ],
+        [
+          "Let's leave it up to the manager.",
+          "マネージャーの判断に任せましょう。"
+        ],
+        [
+          "I'll leave it up to you to decide where we eat.",
+          "どこで食事をするかはあなたに任せるよ。"
+        ],
+        [
+          "We decided to leave the final choice up to the client.",
+          "最終的な選択はクライアントに委ねることにした。"
+        ],
+        [
+          "Whether to proceed is something we should leave up to the project team.",
+          "続行するかどうかはプロジェクトチームの判断に委ねるべきだ。"
+        ],
+        [
+          "My parents left it up to me to choose my major.",
+          "両親は専攻を選ぶ判断を私に任せてくれた。"
+        ],
+        [
+          "Rather than imposing a fixed schedule, the company left it up to each department.",
+          "会社は一律の予定を押しつけず、各部門の判断に任せた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "leave it to someone",
+          "pos": "動詞句",
+          "ipa": "/liːv ɪt tə ˈsʌmwʌn/",
+          "meaning": "仕事・対応・判断を人に任せる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Leave the arrangements to me.",
+          "translation": "手配は私に任せて。",
+          "note": "判断だけでなく実際の仕事の遂行も含めやすい。",
+          "relationship": "related"
+        },
+        {
+          "word": "leave out",
+          "pos": "句動詞",
+          "ipa": "/liːv ˈaʊt/",
+          "meaning": "省く、除外する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "Don't leave out any important details.",
+          "translation": "重要な詳細を省略しないでください。",
+          "note": "leave を共有するが意味は別。",
+          "relationship": "related"
+        },
+        {
+          "word": "leave off",
+          "pos": "句動詞",
+          "ipa": "/liːv ˈɔːf/",
+          "meaning": "やめる、中断する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "Let's pick up where we left off.",
+          "translation": "前回中断したところから再開しましょう。",
+          "note": "leave を共有するが意味は別。",
+          "relationship": "related"
+        },
+        {
+          "word": "leave behind",
+          "pos": "句動詞",
+          "ipa": "/liːv bɪˈhaɪnd/",
+          "meaning": "置き忘れる、取り残す",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "She left her phone behind.",
+          "translation": "彼女は携帯電話を置き忘れた。",
+          "note": "leave を共有するが意味は別。",
+          "relationship": "related"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "It's up to you",
+          "pos": "慣用表現",
+          "ipa": "/ɪts ˈʌp tə juː/",
+          "meaning": "あなた次第だ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "It's up to you whether we leave now.",
+          "translation": "今出発するかどうかはあなた次第だ。",
+          "note": "判断の所在を述べる。leave it up to you は話し手が委ねる行為。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "entrust A to B",
+          "pos": "動詞句",
+          "ipa": "/ɪnˈtrʌst/",
+          "meaning": "AをBに託す",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "We entrusted the task to an experienced colleague.",
+          "translation": "その仕事を経験豊富な同僚に託した。",
+          "note": "信頼をもって託す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "delegate A to B",
+          "pos": "動詞句",
+          "ipa": "/ˈdelɪɡeɪt/",
+          "meaning": "AをBに委任する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The director delegated the decision to her deputy.",
+          "translation": "部長はその決定を代理者に委任した。",
+          "note": "職務・権限の正式な委譲。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "defer to someone",
+          "pos": "動詞句",
+          "ipa": "/dɪˈfɝː tə/",
+          "meaning": "人の判断・意見に従う",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "I'll defer to your judgment on this matter.",
+          "translation": "この件ではあなたの判断に従います。",
+          "note": "相手の専門性や権限を尊重して判断を譲る。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "leave it up to someone は選択・決定の裁量を委ねる。It's up to you は判断の所在を述べる。leave it to someone は実行・対応を任せる意味にも使う。entrust は信頼して託す、delegate は権限・職務を正式に委譲する、defer to は相手の判断に従う。"
     }
   ]
 }
