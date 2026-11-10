@@ -12159,6 +12159,175 @@
         }
       ],
       "comparison": "anticipate は未来を先取りして見込む（必ずしも準備を意味しない）、expect は一般的な予想、predict は根拠ある予測、forecast は数値・傾向の見通し、foresee は将来を見通す、look forward to は楽しみに待つ。"
+    },
+    {
+      "id": "usher",
+      "word": "usher",
+      "pos": "動詞・名詞",
+      "ipa": "米 /ˈʌʃɚ/・英 /ˈʌʃə/",
+      "meaning": "（人を）案内する、導き入れる；（時代・変化を）もたらす；案内係",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "古フランス語 ussier / huissier（門番、扉の係）から。後期ラテン語 ustiarius、ラテン語 ostiarius（扉を管理する人）を経て ostium（入口、扉）にさかのぼる。ush＋er と機械的に分解しない。",
+      "core": "扉の前で人を案内し、中へ導く。比喩的に新しい時代や変化を導き入れる。",
+      "usage": "usher someone into/out of a room（人を部屋へ／部屋から案内する）、usher in a new era（新時代をもたらす）。名詞 an usher は劇場・式場などの案内係。usher in は herald と異なり、新時代を実際にもたらす因果関係に焦点。",
+      "examples": [
+        [
+          "The receptionist ushered the visitors into the conference room.",
+          "受付係は訪問者たちを会議室へ案内した。"
+        ],
+        [
+          "An usher showed us to our seats at the theater.",
+          "劇場の案内係が私たちを座席まで案内してくれた。"
+        ],
+        [
+          "The guests were ushered out of the building after the ceremony.",
+          "式典の後、来賓たちは建物の外へ案内された。"
+        ],
+        [
+          "The Industrial Revolution ushered in an era of rapid economic growth.",
+          "産業革命は急速な経済成長の時代をもたらした。"
+        ],
+        [
+          "The new technology could usher in major changes in healthcare.",
+          "その新技術は医療に大きな変化をもたらす可能性がある。"
+        ],
+        [
+          "The election ushered in a period of political uncertainty.",
+          "その選挙は政治的不確実性の時代の始まりとなった。"
+        ],
+        [
+          "The CEO hopes the restructuring will usher in a more efficient organization.",
+          "CEOは組織再編によって、より効率的な組織への転換が進むことを期待している。"
+        ],
+        [
+          "The discovery helped usher in a new understanding of the universe.",
+          "その発見は宇宙についての新しい理解を切り開く一助となった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "ostium",
+          "pos": "名詞・専門語",
+          "ipa": "/ˈɑːstiəm/",
+          "meaning": "入口、開口部",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The diagram shows the ostium of the coronary artery.",
+          "translation": "その図は冠動脈の開口部を示している。",
+          "note": "usher と歴史的に同語源。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "usher in",
+          "pos": "句動詞",
+          "ipa": "/ˌʌʃər ˈɪn/",
+          "meaning": "新時代・変化をもたらす",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The agreement ushered in a period of cooperation.",
+          "translation": "その協定は協力の時代をもたらした。",
+          "note": "usher の句動詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "usher out",
+          "pos": "句動詞",
+          "ipa": "/ˌʌʃər ˈaʊt/",
+          "meaning": "外へ案内する、退出させる",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "example": "Security staff ushered the crowd out of the hall.",
+          "translation": "警備員は群衆をホールの外へ誘導した。",
+          "note": "usher の句動詞。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "guide",
+          "pos": "動詞",
+          "ipa": "/ɡaɪd/",
+          "meaning": "案内する、指導する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The tour guide guided us through the museum.",
+          "translation": "ツアーガイドは私たちを美術館内に案内した。",
+          "note": "道筋を示す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "escort",
+          "pos": "動詞",
+          "ipa": "/ɪˈskɔːrt/",
+          "meaning": "付き添う、護衛・案内する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "A security officer escorted the visitor to the entrance.",
+          "translation": "警備員が訪問者を入口まで付き添って案内した。",
+          "note": "付き添いを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "lead",
+          "pos": "動詞",
+          "ipa": "/liːd/",
+          "meaning": "導く、率いる",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "She led the team through a difficult transition.",
+          "translation": "彼女は困難な移行期を通じてチームを導いた。",
+          "note": "先頭に立って導く。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "introduce",
+          "pos": "動詞",
+          "ipa": "/ˌɪntrəˈduːs/",
+          "meaning": "導入する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company introduced a new payment system.",
+          "translation": "その会社は新しい決済システムを導入した。",
+          "note": "制度・製品の導入。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "herald",
+          "pos": "動詞",
+          "ipa": "/ˈherəld/",
+          "meaning": "到来を告げる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The breakthrough heralded a new phase of scientific research.",
+          "translation": "その画期的な発見は科学研究の新たな段階の到来を告げた。",
+          "note": "前触れ・象徴を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "pave the way for",
+          "pos": "慣用表現",
+          "ipa": "/peɪv ðə weɪ fɔːr/",
+          "meaning": "道を開く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The reforms paved the way for future investment.",
+          "translation": "その改革は将来の投資への道を開いた。",
+          "note": "将来の発展を可能にする。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "usher は人を丁寧に案内する、または新時代を実際にもたらす。guide は道筋を示す、escort は付き添う、lead は先頭に立つ、introduce は制度などを導入する、herald は到来を告げる、pave the way for は実現への道を開く。"
     }
   ]
 }
