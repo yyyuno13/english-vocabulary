@@ -12978,6 +12978,188 @@
         }
       ],
       "comparison": "custody は責任を伴う監護・拘束・保管。care は一般的な世話、guardianship は法的後見、detention は拘束、possession は所持・占有、safekeeping は安全な保管。金融では custody と ownership（所有権）は区別する。"
+    },
+    {
+      "id": "bounce",
+      "word": "bounce",
+      "pos": "動詞・名詞",
+      "ipa": "米・英 /baʊns/",
+      "meaning": "跳ねる、跳ね返る、弾ませる；回復する；メールが不達で戻る；人を追い出す；跳ね返り、回復",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "中英語期に現れた、衝突音・勢いのある動きを表す擬音的な語と考えられる。詳しい語源は不確かで、確立したラテン語語根などには分解できない。",
+      "core": "何かにぶつかって勢いよく跳ね返る。物理的な反発から、下落後の回復、メールの返送、相手の反応を得るためにアイデアをぶつけることなどへ比喩的に広がる。",
+      "usage": "bounce off the wall（壁で跳ね返る）、bounce a ball（ボールを弾ませる）、bounce back（回復する）、a bounce in share prices（株価の反発）、an email bounced（メールが不達で戻る）、bounce an idea off someone（人にアイデアをぶつけて意見を聞く）、bounce someone from a club（人をクラブから追い出す・口語）。",
+      "examples": [
+        [
+          "The ball bounced off the wall.",
+          "ボールが壁に当たって跳ね返った。"
+        ],
+        [
+          "She bounced the basketball several times before shooting.",
+          "彼女はシュートする前にバスケットボールを数回弾ませた。"
+        ],
+        [
+          "The children were bouncing on the trampoline.",
+          "子どもたちはトランポリンの上で跳び跳ねていた。"
+        ],
+        [
+          "The economy bounced back after the recession.",
+          "景気は不況の後に回復した。"
+        ],
+        [
+          "The company's share price bounced sharply after the announcement.",
+          "発表後、その会社の株価は急反発した。"
+        ],
+        [
+          "My email bounced because the recipient's address was invalid.",
+          "宛先のアドレスが無効だったため、メールが配信されず戻ってきた。"
+        ],
+        [
+          "I'd like to bounce an idea off you before the meeting.",
+          "会議の前に、あるアイデアについてあなたの意見を聞きたい。"
+        ],
+        [
+          "The security guard bounced him from the club.",
+          "警備員は彼をクラブから追い出した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "bouncy",
+          "pos": "形容詞",
+          "ipa": "/ˈbaʊnsi/",
+          "meaning": "弾力のある、元気な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The mattress feels surprisingly bouncy.",
+          "translation": "そのマットレスは驚くほど弾力がある。",
+          "note": "bounce から派生。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "bounce back",
+          "pos": "句動詞",
+          "ipa": "/baʊns ˈbæk/",
+          "meaning": "回復する、立ち直る",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Sales bounced back in the second quarter.",
+          "translation": "売上高は第2四半期に回復した。",
+          "note": "bounce を含む句動詞。",
+          "relationship": "related"
+        },
+        {
+          "word": "bounce off",
+          "pos": "句動詞",
+          "ipa": "/baʊns ˈɔːf/",
+          "meaning": "当たって跳ね返る",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The light bounced off the glass surface.",
+          "translation": "光がガラスの表面で反射した。",
+          "note": "bounce を含む句動詞。",
+          "relationship": "related"
+        },
+        {
+          "word": "bounce an idea off someone",
+          "pos": "慣用表現",
+          "ipa": "/baʊns ən aɪˈdiːə ɔːf ˈsʌmwʌn/",
+          "meaning": "人にアイデアをぶつけて意見を聞く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Can I bounce a few ideas off you?",
+          "translation": "いくつかアイデアについて意見を聞いてもいい？",
+          "note": "相手の反応を受けながら考えを練る。",
+          "relationship": "related"
+        },
+        {
+          "word": "bounce around",
+          "pos": "句動詞",
+          "ipa": "/baʊns əˈraʊnd/",
+          "meaning": "あちこち跳ね回る、アイデアを出し合う",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "We bounced around several proposals during the meeting.",
+          "translation": "会議ではいくつかの提案について自由に意見を交わした。",
+          "note": "bounce を含む句動詞。",
+          "relationship": "related"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "rebound",
+          "pos": "動詞",
+          "ipa": "/rɪˈbaʊnd/",
+          "meaning": "反発する、回復する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Consumer spending rebounded in July.",
+          "translation": "個人消費は7月に回復した。",
+          "note": "経済指標などではやや硬い表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "spring",
+          "pos": "動詞",
+          "ipa": "/sprɪŋ/",
+          "meaning": "勢いよく跳ぶ",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "The cat sprang onto the table.",
+          "translation": "猫は勢いよくテーブルに飛び乗った。",
+          "note": "自ら勢いよく跳ぶことに重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "recover",
+          "pos": "動詞",
+          "ipa": "/rɪˈkʌvər/",
+          "meaning": "回復する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company gradually recovered from the crisis.",
+          "translation": "その会社は危機から徐々に立ち直った。",
+          "note": "回復の速度は限定しない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "ricochet",
+          "pos": "動詞",
+          "ipa": "/ˈrɪkəʃeɪ/",
+          "meaning": "硬い物に当たって跳ね返る",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 1,
+          "example": "The bullet ricocheted off the metal barrier.",
+          "translation": "弾丸は金属製の障壁に当たって跳ね返った。",
+          "note": "弾丸などが方向を変えて跳ね返る。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "reject",
+          "pos": "動詞",
+          "ipa": "/rɪˈdʒekt/",
+          "meaning": "拒否する、受け付けない",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The server rejected the message.",
+          "translation": "サーバーはそのメッセージを受け付けなかった。",
+          "note": "メールが戻る現象と拒否動作の違い。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。"
     }
   ]
 }
