@@ -18,3 +18,9 @@
 .comparison p{margin:0;line-height:1.75}
 @media(max-width:760px){.index-links{max-height:280px}.entry .meta{gap:5px}.entry .pill{font-size:.78rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Optional educational core-image diagrams. SVGs share a stable aspect ratio and never overflow iPhone screens. */
+.core-figure{max-width:840px;margin:14px 0 18px;padding:10px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.core-figure__image{display:block;width:100%;height:auto;aspect-ratio:7/3;object-fit:contain}
+.core-figure__caption{color:var(--muted);font-size:.85rem;padding:8px 6px 2px;text-align:center}
+@media(max-width:760px){.core-figure{padding:5px;margin:12px 0 16px;border-radius:10px}.core-figure__caption{font-size:.79rem}}
