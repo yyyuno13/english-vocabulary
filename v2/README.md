@@ -38,6 +38,7 @@
 - 画像の有無にかかわらず、テキストのコアイメージ説明は常に表示する。SVGが読み込めない場合は画像表示だけを外す。
 - スマートフォンでは画像をタップすると別タブで拡大できる。
 - 初回実装：`bounce`, `hiatus`, `converge`, `divert`, `incorporate`。
+- 2026-11-11 更新：上記5語に加え、`compensation`, `dilute`, `delegate`, `flock to`, `subside`, `circle back`, `ulterior`, `permissible`, `speculation`, `pave`, `prominent`, `preside`, `malfunction`, `infrared`, `apparent`, `transparent`, `prevail`, `compromise`, `disruption`, `reduce`, `preserve`, `compression`, `erosion`, `anticipate`, `pursue`, `induct`, `amendment` を追加。合計32語。
 - `validate.py` はSVGパス、実ファイルの存在、XMLの正しい形式、代替テキストの有無を確認する。
 
 ## リンク
