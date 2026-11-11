@@ -13296,6 +13296,166 @@
         "src": "./images/core/bounce.svg",
         "alt": "ボールが衝突して跳ね返る基本イメージから、景気の回復、メールの返送へ意味が広がる図。"
       }
+    },
+    {
+      "id": "weary",
+      "word": "weary",
+      "pos": "形容詞・動詞",
+      "ipa": "米 /ˈwɪri/・英 /ˈwɪəri/",
+      "meaning": "疲れ果てた、疲労した；うんざりした、飽き飽きした；（動詞）疲れさせる",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 3,
+      "etymology": "古英語 wērig（疲れた、消耗した）に由来するゲルマン語系の単語。古くから疲労を表し、長く続く負担にうんざりする心理的な意味にも広がった。現代英語で接頭辞・語根・接尾辞に無理に分解しない。",
+      "core": "長く続く負担で心身のエネルギーがすり減る。身体的な疲労から、同じことが繰り返されることへの精神的なうんざり感へ意味が広がる。tired よりも蓄積した消耗を感じさせることが多い。",
+      "usage": "feel weary（疲労を感じる）、grow weary of ...（〜にだんだんうんざりする）、be weary from ...（〜で疲れ果てている）、a weary smile（疲れた笑み）。weary of と wary of（〜を警戒する）を混同しない。動詞 weary はやや文語的。",
+      "examples": [
+        [
+          "After a long day at work, I felt completely weary.",
+          "長い一日の仕事を終え、私はすっかり疲れ果てていた。"
+        ],
+        [
+          "The weary travelers finally reached their destination.",
+          "疲れ果てた旅行者たちは、ようやく目的地に到着した。"
+        ],
+        [
+          "She gave me a weary smile after the meeting.",
+          "会議の後、彼女は疲れたような笑みを浮かべた。"
+        ],
+        [
+          "He was weary from working late every night.",
+          "彼は毎晩遅くまで働いて疲れ果てていた。"
+        ],
+        [
+          "Employees are growing weary of constant organizational changes.",
+          "従業員たちは絶え間ない組織変更にうんざりし始めている。"
+        ],
+        [
+          "Investors have grown weary of repeated promises without results.",
+          "投資家たちは成果の伴わない度重なる約束にうんざりしている。"
+        ],
+        [
+          "I'm weary of having the same discussion over and over again.",
+          "同じ議論を何度も繰り返すことに、もううんざりしている。"
+        ],
+        [
+          "The endless negotiations began to weary everyone involved.",
+          "終わりの見えない交渉は、関係者全員を疲れさせ始めた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "weariness",
+          "pos": "名詞",
+          "ipa": "/ˈwɪrinəs/",
+          "meaning": "疲労、倦怠感",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "A sense of weariness spread through the team.",
+          "translation": "チーム全体に疲労感が広がった。",
+          "note": "weary + -ness（状態）。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "wearily",
+          "pos": "副詞",
+          "ipa": "/ˈwɪrəli/",
+          "meaning": "疲れた様子で",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "She nodded wearily and returned to her desk.",
+          "translation": "彼女は疲れた様子でうなずき、机に戻った。",
+          "note": "weary + -ly（副詞化）。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "unwearying",
+          "pos": "形容詞",
+          "ipa": "/ʌnˈwɪriɪŋ/",
+          "meaning": "疲れを知らない、根気強い",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "example": "He showed unwearying dedication to the project.",
+          "translation": "彼はそのプロジェクトに疲れを知らない献身を示した。",
+          "note": "un- + weary + -ing。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "tired",
+          "pos": "形容詞",
+          "ipa": "/ˈtaɪərd/",
+          "meaning": "疲れた",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "I'm tired after work.",
+          "translation": "仕事の後で疲れている。",
+          "note": "最も一般的な疲労の表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "exhausted",
+          "pos": "形容詞",
+          "ipa": "/ɪɡˈzɔːstɪd/",
+          "meaning": "疲れ果てた",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "I'm completely exhausted.",
+          "translation": "もう完全に疲れ果てている。",
+          "note": "エネルギーを使い果たした強い疲労。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "fatigued",
+          "pos": "形容詞",
+          "ipa": "/fəˈtiːɡd/",
+          "meaning": "疲労した",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The workers were fatigued after the long shift.",
+          "translation": "労働者たちは長時間勤務の後で疲労していた。",
+          "note": "蓄積した疲労。やや専門的・形式的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "fed up",
+          "pos": "形容詞句",
+          "ipa": "/ˌfed ˈʌp/",
+          "meaning": "うんざりした",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "I'm fed up with these excuses.",
+          "translation": "こんな言い訳にはもううんざりだ。",
+          "note": "苛立ちや不満が強い。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "wary",
+          "pos": "形容詞（対比語）",
+          "ipa": "/ˈweri/",
+          "meaning": "警戒している、用心深い",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Investors are wary of the uncertainty.",
+          "translation": "投資家たちは不確実性を警戒している。",
+          "note": "weary（疲労・うんざり）と似た綴りだが意味は異なる。",
+          "relationship": "reference"
+        }
+      ],
+      "comparison": "tired は一般的な疲労。weary は長く続く負担による心身の消耗やうんざり感。exhausted はエネルギーを使い果たした強い疲労。fatigued はやや専門的・形式的。fed up は不満・苛立ちを伴う。wary は「警戒する」で weary と意味が異なる。",
+      "coreImage": {
+        "src": "./images/core/weary.svg",
+        "alt": "長期間の負担によってエネルギーが徐々に減り、身体的疲労から精神的なうんざり感につながる図。"
+      }
     }
   ]
 }
