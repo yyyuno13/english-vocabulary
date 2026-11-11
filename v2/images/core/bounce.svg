@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 360" role="img" aria-labelledby="title description"><title id="title">bounce のコアイメージ</title><desc id="description">ボールの跳ね返りから回復・不達メールの返送への意味の広がり。</desc><defs><marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#24738a"/></marker><marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#e19c52"/></marker></defs><rect width="840" height="360" rx="16" fill="#ffffff"/><rect x="1" y="1" width="838" height="358" rx="15" fill="none" stroke="#dfe8eb" stroke-width="2"/><text x="32" y="51" font-size="29" font-weight="700" fill="#245f73" text-anchor="start">bounce</text><text x="32" y="83" font-size="17" font-weight="400" fill="#536770" text-anchor="start">接触・衝突 → 勢いよく跳ね返る</text>
+  <rect x="29" y="105" width="260" height="213" rx="12" fill="#f2f7f8"/>
+  <text x="45" y="134" font-size="16" font-weight="700" fill="#245f73" text-anchor="start">1｜物理的な反発</text>
+  <path d="M62 266H257" stroke="#81939c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M89 172 L161 252" stroke="#24738a" stroke-width="4" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M161 252 L229 175" stroke="#e19c52" stroke-width="4" fill="none" marker-end="url(#arrowOrange)"/>
+  <circle cx="87" cy="169" r="17" fill="#24738a"/><circle cx="229" cy="169" r="17" fill="#e19c52"/>
+  <text x="159" y="297" font-size="16" font-weight="600" fill="#344653" text-anchor="middle">跳ね返る</text>
+  <path d="M310 207H344" stroke="#9bafb7" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <rect x="365" y="105" width="206" height="213" rx="12" fill="#f2f7f8"/>
+  <text x="381" y="134" font-size="16" font-weight="700" fill="#245f73" text-anchor="start">2｜比喩：回復</text>
+  <path d="M390 253H551 M398 173V264" stroke="#96a9b0" stroke-width="2" fill="none"/>
+  <path d="M405 184L444 237L479 239L528 170" stroke="#24738a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowBlue)"/>
+  <text x="468" y="294" font-size="16" font-weight="600" fill="#344653" text-anchor="middle">bounce back</text>
+  <path d="M583 207H617" stroke="#9bafb7" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <rect x="639" y="105" width="171" height="213" rx="12" fill="#f2f7f8"/>
+  <text x="653" y="134" font-size="16" font-weight="700" fill="#245f73" text-anchor="start">3｜返送</text>
+  <rect x="671" y="162" width="106" height="68" rx="6" fill="#ffffff" stroke="#24738a" stroke-width="3"/>
+  <path d="M672 164L724 204L777 164" fill="none" stroke="#24738a" stroke-width="3"/>
+  <path d="M763 247C742 275 698 274 685 241" stroke="#e19c52" stroke-width="4" fill="none" marker-end="url(#arrowOrange)"/>
+  <text x="723" y="295" font-size="14" font-weight="600" fill="#344653" text-anchor="middle">email bounced</text>
+</svg>
