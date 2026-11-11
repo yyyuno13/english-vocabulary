@@ -641,7 +641,11 @@
           "etymology": "ラテン語 reparare（修復する）から。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/compensation.svg",
+        "alt": "天秤の両側に損失・労働と補償・報酬が並び、価値が釣り合う様子。"
+      }
     },
     {
       "id": "dilute",
@@ -796,7 +800,11 @@
           "etymology": "ラテン語 re-（後ろへ）＋ ducere（導く）から。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/dilute.svg",
+        "alt": "同じ面積に密集した成分粒子を、水を加えて薄く分散させる様子。"
+      }
     },
     {
       "id": "delegate",
@@ -952,7 +960,11 @@
           "ratingEstimated": true,
           "relationship": "reference"
         }
-      ]
+      ],
+      "coreImage": {
+        "src": "./images/core/delegate.svg",
+        "alt": "責任者から担当者へ仕事と権限を渡して任せる図。"
+      }
     },
     {
       "id": "flock-to",
@@ -1079,7 +1091,11 @@
           "etymology": "ラテン語 con-（共に）＋ vergere（傾く・向かう）から。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/flock-to.svg",
+        "alt": "人々が各方向から同じ場所や市場へ集まってくる図。"
+      }
     },
     {
       "id": "subside",
@@ -1234,7 +1250,11 @@
           "etymology": "taper（先細りになる）＋ off。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/subside.svg",
+        "alt": "初めは大きい波が時間の経過とともに小さくなり、落ち着く様子。"
+      }
     },
     {
       "id": "circle-back",
@@ -1405,7 +1425,11 @@
           "ratingEstimated": true,
           "relationship": "reference"
         }
-      ]
+      ],
+      "coreImage": {
+        "src": "./images/core/circle-back.svg",
+        "alt": "別の話題へ進んだ後、円を描いて元の議題に戻る様子。"
+      }
     },
     {
       "id": "ulterior",
@@ -1532,7 +1556,11 @@
           "etymology": "ラテン語 se-（離れて）＋ cernere（分ける）→ secretus。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/ulterior.svg",
+        "alt": "表向きの理由の下に、見えていない別の動機が隠れている図。"
+      }
     },
     {
       "id": "folk",
@@ -1806,7 +1834,11 @@
           "etymology": "ラテン語 legitimus（合法の）から。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/permissible.svg",
+        "alt": "規則で許された範囲の内側と外側を比較する図。"
+      }
     },
     {
       "id": "condescendingly",
@@ -2383,7 +2415,11 @@
           "etymology": "ラテン語 addere（加える）の動形容詞から。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/amendment.svg",
+        "alt": "もとの文書の一部分を正式に変更した、修正後の文書を比較する図。"
+      }
     },
     {
       "id": "hilarious",
@@ -2697,7 +2733,11 @@
           "note": "ラテン語 rumor（うわさ・ざわめき）。人々に流布する未確認情報。"
         }
       ],
-      "comparison": "speculation＝確証のない推測・市場の思惑／guess＝直感的な当て推量／assumption＝前提として受け入れる仮定／conjecture＝硬い推測／inference＝根拠から導く推論／rumor＝流布する未確認情報。"
+      "comparison": "speculation＝確証のない推測・市場の思惑／guess＝直感的な当て推量／assumption＝前提として受け入れる仮定／conjecture＝硬い推測／inference＝根拠から導く推論／rumor＝流布する未確認情報。",
+      "coreImage": {
+        "src": "./images/core/speculation.svg",
+        "alt": "観測できる事実をもとに、未確定の複数の可能性を推測する図。"
+      }
     },
     {
       "id": "pave",
@@ -2838,7 +2878,11 @@
           "note": "clear（取り除く）+ way（道）。既存の障害の除去を強調。"
         }
       ],
-      "comparison": "pave the way for＝将来の実現に向け道を整える／facilitate＝円滑にする／enable＝可能にする／lay the groundwork＝基礎を築く／open the door to＝新しい可能性を開く／clear the way＝障害を取り除く。"
+      "comparison": "pave the way for＝将来の実現に向け道を整える／facilitate＝円滑にする／enable＝可能にする／lay the groundwork＝基礎を築く／open the door to＝新しい可能性を開く／clear the way＝障害を取り除く。",
+      "coreImage": {
+        "src": "./images/core/pave.svg",
+        "alt": "凹凸のある地面が、通りやすい舗装された道へ変わる図。"
+      }
     },
     {
       "id": "candidly",
@@ -3147,7 +3191,11 @@
           "etymology": "ラテン語 influere（流れ込む）に由来"
         }
       ],
-      "comparison": "prominent＝存在感・重要性が際立つ／noticeable＝気づくほど目立つ／distinguished＝高い評価や実績がある／notable＝注目に値する／conspicuous＝視覚的に非常に目立つ／influential＝他者に影響を与える力がある。"
+      "comparison": "prominent＝存在感・重要性が際立つ／noticeable＝気づくほど目立つ／distinguished＝高い評価や実績がある／notable＝注目に値する／conspicuous＝視覚的に非常に目立つ／influential＝他者に影響を与える力がある。",
+      "coreImage": {
+        "src": "./images/core/prominent.svg",
+        "alt": "同じ高さの棒の列から、一つだけ突き出て目立つ棒を示す図。"
+      }
     },
     {
       "id": "preside",
@@ -3316,7 +3364,11 @@
           "note": "ラテン語 gubernare（舵を取る、指揮する）。統治権限を行使する。"
         }
       ],
-      "comparison": "preside over＝公式な議長・統括役を務める／chair＝会議の議長を務める／lead＝方向性を示して率いる／oversee＝業務を監督する／moderate＝議論を進行・調整する／govern＝統治権限を行使する。"
+      "comparison": "preside over＝公式な議長・統括役を務める／chair＝会議の議長を務める／lead＝方向性を示して率いる／oversee＝業務を監督する／moderate＝議論を進行・調整する／govern＝統治権限を行使する。",
+      "coreImage": {
+        "src": "./images/core/preside.svg",
+        "alt": "議長が中心に座り、周囲の参加者の会議を取り仕切る図。"
+      }
     },
     {
       "id": "literature",
@@ -3665,7 +3717,11 @@
           "note": "go（ある状態になる）+ wrong（誤った状態）。日常的な言い方。"
         }
       ],
-      "comparison": "malfunction＝正常に機能しない／breakdown＝停止・崩壊／failure＝機能や目的を果たせない結果／defect＝設計・製品の欠陥／glitch＝軽微・一時的な技術不具合／go wrong＝何かがおかしくなる一般的表現。"
+      "comparison": "malfunction＝正常に機能しない／breakdown＝停止・崩壊／failure＝機能や目的を果たせない結果／defect＝設計・製品の欠陥／glitch＝軽微・一時的な技術不具合／go wrong＝何かがおかしくなる一般的表現。",
+      "coreImage": {
+        "src": "./images/core/malfunction.svg",
+        "alt": "正常な装置の動作が、誤作動・故障によって異常になる様子。"
+      }
     },
     {
       "id": "incorporate",
@@ -4388,7 +4444,11 @@
           "note": "electro-（電気）＋ magnetic（磁気）。赤外線を含む上位概念。"
         }
       ],
-      "comparison": "infrared＝赤色光より長波長側の電磁波／thermal＝熱・温度に関する／radiant＝放射する／invisible＝目に見えない／electromagnetic＝電磁気の（赤外線を含む）／ultraviolet＝紫色光より短波長側の紫外線。thermal などは厳密な同義語ではなく関連表現。"
+      "comparison": "infrared＝赤色光より長波長側の電磁波／thermal＝熱・温度に関する／radiant＝放射する／invisible＝目に見えない／electromagnetic＝電磁気の（赤外線を含む）／ultraviolet＝紫色光より短波長側の紫外線。thermal などは厳密な同義語ではなく関連表現。",
+      "coreImage": {
+        "src": "./images/core/infrared.svg",
+        "alt": "可視光の赤より長波長側に赤外線があることを、波形で示す図。"
+      }
     },
     {
       "id": "faint",
@@ -4794,7 +4854,11 @@
           "note": "ラテン語 manifestus（明白な）。"
         }
       ],
-      "comparison": "apparent＝見て取れる／見かけ上の両義／obvious＝誰が見ても明白／evident＝証拠や観察から明白／clear＝曖昧さがない／seeming＝外見上そう見える／ostensible＝表向きの理由と本当の理由が違う／manifest＝性質や結果が顕在化。The improvement was apparent は改善が明白、the apparent improvement は見かけ上の改善とも読める。"
+      "comparison": "apparent＝見て取れる／見かけ上の両義／obvious＝誰が見ても明白／evident＝証拠や観察から明白／clear＝曖昧さがない／seeming＝外見上そう見える／ostensible＝表向きの理由と本当の理由が違う／manifest＝性質や結果が顕在化。The improvement was apparent は改善が明白、the apparent improvement は見かけ上の改善とも読める。",
+      "coreImage": {
+        "src": "./images/core/apparent.svg",
+        "alt": "目に映るものが明白である場合と、見かけだけの可能性を示す図。"
+      }
     },
     {
       "id": "transparent",
@@ -4990,7 +5054,11 @@
           "note": "straight（まっすぐ）＋ forward（前へ）。"
         }
       ],
-      "comparison": "transparent＝中身・意図まで見通せる／clear＝明瞭で曖昧さがない／translucent＝半透明で光は通すが像は明瞭でない／candid＝本音を隠さず率直／open＝開かれている／obvious＝誰の目にも明白／straightforward＝回りくどくない。candid CEO＝率直に話すCEO、transparent company＝情報を隠さず公開する企業。"
+      "comparison": "transparent＝中身・意図まで見通せる／clear＝明瞭で曖昧さがない／translucent＝半透明で光は通すが像は明瞭でない／candid＝本音を隠さず率直／open＝開かれている／obvious＝誰の目にも明白／straightforward＝回りくどくない。candid CEO＝率直に話すCEO、transparent company＝情報を隠さず公開する企業。",
+      "coreImage": {
+        "src": "./images/core/transparent.svg",
+        "alt": "中が見えない不透明な壁と、中身が見通せる透明な窓を比較する図。"
+      }
     },
     {
       "id": "prevail",
@@ -5186,7 +5254,11 @@
           "note": "ラテン語 persuadēre（説得する）。prevail upon より一般的。"
         }
       ],
-      "comparison": "prevail＝他より優勢になる、勝つ、広く行き渡る／triumph＝華々しい勝利／overcome＝困難を克服／dominate＝圧倒的支配／persist＝継続／widespread＝広く分布／persuade＝説得。prevail は動詞、prevalent は形容詞。prevail on/upon someone to do は相手の抵抗を乗り越えて説得する、やや格式ばった表現。"
+      "comparison": "prevail＝他より優勢になる、勝つ、広く行き渡る／triumph＝華々しい勝利／overcome＝困難を克服／dominate＝圧倒的支配／persist＝継続／widespread＝広く分布／persuade＝説得。prevail は動詞、prevalent は形容詞。prevail on/upon someone to do は相手の抵抗を乗り越えて説得する、やや格式ばった表現。",
+      "coreImage": {
+        "src": "./images/core/prevail.svg",
+        "alt": "二つの勢力の一方がもう一方より強くなり、優勢になる図。"
+      }
     },
     {
       "id": "plausible",
@@ -5929,7 +6001,11 @@
           "etymology": "古フランス語を経由した、悪い・より悪いを表すラテン語由来"
         }
       ],
-      "comparison": "compromise＝妥協する／安全性・品質などを損なう／negotiate＝交渉の過程であり妥協するとは限らない／concede＝相手への一方的な譲歩・認容／accommodate＝相手の事情に合わせて調整する／undermine＝信頼や権威などの基盤を徐々に弱める／jeopardize＝危険にさらす（実害が確定しなくてもよい）／impair＝能力・機能を低下させる"
+      "comparison": "compromise＝妥協する／安全性・品質などを損なう／negotiate＝交渉の過程であり妥協するとは限らない／concede＝相手への一方的な譲歩・認容／accommodate＝相手の事情に合わせて調整する／undermine＝信頼や権威などの基盤を徐々に弱める／jeopardize＝危険にさらす（実害が確定しなくてもよい）／impair＝能力・機能を低下させる",
+      "coreImage": {
+        "src": "./images/core/compromise.svg",
+        "alt": "立場の異なる双方が譲り合い、共通の着地点を見つける図。"
+      }
     },
     {
       "id": "disruption",
@@ -6114,7 +6190,11 @@
           "note": "trans-＋form＋-ation。仕組みの変化そのもの。"
         }
       ],
-      "comparison": "disruption＝正常な流れ・既存構造が妨げられる／interruption＝一時的な中断・割り込み／disturbance＝平穏や秩序の乱れ／upheaval＝社会・組織・制度の大規模な激変／turmoil＝激しい混乱・動揺／transformation＝仕組みの変革（混乱を伴うとは限らない）"
+      "comparison": "disruption＝正常な流れ・既存構造が妨げられる／interruption＝一時的な中断・割り込み／disturbance＝平穏や秩序の乱れ／upheaval＝社会・組織・制度の大規模な激変／turmoil＝激しい混乱・動揺／transformation＝仕組みの変革（混乱を伴うとは限らない）",
+      "coreImage": {
+        "src": "./images/core/disruption.svg",
+        "alt": "正常に続いていた流れが途中で途切れ、後続に影響する図。"
+      }
     },
     {
       "id": "reduce",
@@ -6312,7 +6392,11 @@
           "etymology": "古フランス語の「短い」に関係"
         }
       ],
-      "comparison": "reduce＝量・規模・程度を小さくする（幅広い）／decrease＝数値・数量が客観的に減る／diminish＝効果・重要性・強さなどが弱まる／cut＝意図的・直接的に削る／lower＝価格・金利・温度などの水準を下げる／mitigate＝リスク・被害の悪影響を和らげる／curtail＝活動・支出・自由などを制限・短縮する"
+      "comparison": "reduce＝量・規模・程度を小さくする（幅広い）／decrease＝数値・数量が客観的に減る／diminish＝効果・重要性・強さなどが弱まる／cut＝意図的・直接的に削る／lower＝価格・金利・温度などの水準を下げる／mitigate＝リスク・被害の悪影響を和らげる／curtail＝活動・支出・自由などを制限・短縮する",
+      "coreImage": {
+        "src": "./images/core/reduce.svg",
+        "alt": "大きな量や規模が、より小さい状態へ変わる図。"
+      }
     },
     {
       "id": "prosper",
@@ -8171,7 +8255,11 @@
           "note": "活動や状態を継続可能にすることに重点。"
         }
       ],
-      "comparison": "preserve＝元の状態や価値を失わないよう守る／protect＝危険・損害から守る／maintain＝状態・水準を維持する／conserve＝資源を保全・節約する／retain＝手放さず保持する／safeguard＝リスクから安全を確保する／sustain＝活動や状態を持続させる。preserve a historic building は歴史的価値を守る、maintain a building は建物を良好に保守する。"
+      "comparison": "preserve＝元の状態や価値を失わないよう守る／protect＝危険・損害から守る／maintain＝状態・水準を維持する／conserve＝資源を保全・節約する／retain＝手放さず保持する／safeguard＝リスクから安全を確保する／sustain＝活動や状態を持続させる。preserve a historic building は歴史的価値を守る、maintain a building は建物を良好に保守する。",
+      "coreImage": {
+        "src": "./images/core/preserve.svg",
+        "alt": "大事なものが劣化・喪失しないよう、盾で守って保つ図。"
+      }
     },
     {
       "id": "strike",
@@ -8997,7 +9085,11 @@
           "etymology": "外部から"
         }
       ],
-      "comparison": "compression＝圧力などによって押し縮める；compaction＝密に詰め固める；condensation＝凝縮・要約；reduction＝量を減らす；contraction＝規模が縮小する。ビジネスでは margin compression（利益率の圧迫）が重要。"
+      "comparison": "compression＝圧力などによって押し縮める；compaction＝密に詰め固める；condensation＝凝縮・要約；reduction＝量を減らす；contraction＝規模が縮小する。ビジネスでは margin compression（利益率の圧迫）が重要。",
+      "coreImage": {
+        "src": "./images/core/compression.svg",
+        "alt": "広がっていた要素を小さな空間に押し縮める図。"
+      }
     },
     {
       "id": "erosion",
@@ -9169,7 +9261,11 @@
           "note": "品質や機能の低下。"
         }
       ],
-      "comparison": "erosion は外部作用で徐々に削り取られること。weathering はその場での風化・変質、abrasion は摩擦による摩耗、deterioration は状態の悪化、depletion は資源・蓄積の減少、degradation は品質・機能の低下。"
+      "comparison": "erosion は外部作用で徐々に削り取られること。weathering はその場での風化・変質、abrasion は摩擦による摩耗、deterioration は状態の悪化、depletion は資源・蓄積の減少、degradation は品質・機能の低下。",
+      "coreImage": {
+        "src": "./images/core/erosion.svg",
+        "alt": "元の形が外からの作用で段階的に削られ、減っていく様子。"
+      }
     },
     {
       "id": "precipitation",
@@ -10822,7 +10918,11 @@
           "relationship": "synonym"
         }
       ],
-      "comparison": "induct は正式に迎え入れる行為、appoint は役職への任命、admit は加入の許可、initiate は入会儀式、inaugurate は正式な就任式を強調。"
+      "comparison": "induct は正式に迎え入れる行為、appoint は役職への任命、admit は加入の許可、initiate は入会儀式、inaugurate は正式な就任式を強調。",
+      "coreImage": {
+        "src": "./images/core/induct.svg",
+        "alt": "組織の外にいる人を正式な手続きを通じて組織内へ迎える図。"
+      }
     },
     {
       "id": "enshrine",
@@ -12174,7 +12274,11 @@
           "relationship": "synonym"
         }
       ],
-      "comparison": "anticipate は未来を先取りして見込む（必ずしも準備を意味しない）、expect は一般的な予想、predict は根拠ある予測、forecast は数値・傾向の見通し、foresee は将来を見通す、look forward to は楽しみに待つ。"
+      "comparison": "anticipate は未来を先取りして見込む（必ずしも準備を意味しない）、expect は一般的な予想、predict は根拠ある予測、forecast は数値・傾向の見通し、foresee は将来を見通す、look forward to は楽しみに待つ。",
+      "coreImage": {
+        "src": "./images/core/anticipate.svg",
+        "alt": "未来の出来事を現在の時点で予期し、前もって準備する時間軸の図。"
+      }
     },
     {
       "id": "usher",
@@ -12525,7 +12629,11 @@
           "relationship": "synonym"
         }
       ],
-      "comparison": "pursue は目標へ積極的・継続的に取り組む。seek は探し求める、strive は困難の中で努力する、aim は目標を定める、follow は後についていく、chase は追いかける。"
+      "comparison": "pursue は目標へ積極的・継続的に取り組む。seek は探し求める、strive は困難の中で努力する、aim は目標を定める、follow は後についていく、chase は追いかける。",
+      "coreImage": {
+        "src": "./images/core/pursue.svg",
+        "alt": "曲がりくねった道を進み、目標を追い続ける図。"
+      }
     },
     {
       "id": "detergent",
