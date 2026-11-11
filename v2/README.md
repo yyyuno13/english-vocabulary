@@ -31,6 +31,15 @@
 
 手作業でHTMLの目次やリンクを書き換える必要はない。画面はJSONから自動生成される。単語データはHTMLとして直接挿入せず、`textContent` で表示する。
 
+## コアイメージ図解（SVG）
+
+- `data/entries.json` の各見出し語に、任意項目 `coreImage: {"src":"./images/core/<id>.svg","alt":"日本語で図の内容を説明"}` を指定する。
+- SVG画像は `images/core/` 内に保存し、GitHub Pagesから相対URLで読み込む。
+- 画像の有無にかかわらず、テキストのコアイメージ説明は常に表示する。SVGが読み込めない場合は画像表示だけを外す。
+- スマートフォンでは画像をタップすると別タブで拡大できる。
+- 初回実装：`bounce`, `hiatus`, `converge`, `divert`, `incorporate`。
+- `validate.py` はSVGパス、実ファイルの存在、XMLの正しい形式、代替テキストの有無を確認する。
+
 ## リンク
 
 - キーワード別の見出し語: `#word=hiatus`
