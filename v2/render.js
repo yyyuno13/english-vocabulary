@@ -33,6 +33,22 @@ const ratings = object => {
     pill('ビジネス '+stars(object.business)));
   return m;
 };
+// Optional educational SVG illustration. Failure cannot hide the written explanation.
+const coreDiagram = image => {
+  if (!image || typeof image.src !== 'string' || !/^\.\/images\/core\/[a-z0-9-]+\.svg$/.test(image.src)) return null;
+  const figure = el('figure','core-figure');
+  const img = el('img','core-figure__image');
+  img.src=image.src;
+  img.alt=typeof image.alt==='string'?image.alt:'';
+  img.loading='lazy';
+  img.decoding='async';
+  img.width=840;
+  img.height=360;
+  img.addEventListener('error', () => figure.remove(), {once:true});
+  figure.append(img);
+  if (image.caption) figure.append(el('figcaption','core-figure__caption',image.caption));
+  return figure;
+};
 const detail = (label, count, initiallyOpen=false) => {
   const d=el('details','section-fold');
   d.open=initiallyOpen;
@@ -70,6 +86,8 @@ export function renderEntry(entry, rootPair, query='') {
     article.append(p);
   }
   add(article,heading('② コアイメージ'),el('p','core',entry.core||'未登録'));
+  const diagram=coreDiagram(entry.coreImage);
+  if(diagram) article.append(diagram);
   if(entry.usage){
     add(article,heading('③ 用法・コロケーション'),el('p','',entry.usage));
   }
