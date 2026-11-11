@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 360" role="img" aria-labelledby="title description"><title id="title">converge のコアイメージ</title><desc id="description">複数の線・意見・値が共通の地点に向かい集まる図。</desc><defs><marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#24738a"/></marker><marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#e19c52"/></marker></defs><rect width="840" height="360" rx="16" fill="#ffffff"/><rect x="1" y="1" width="838" height="358" rx="15" fill="none" stroke="#dfe8eb" stroke-width="2"/><text x="32" y="51" font-size="29" font-weight="700" fill="#245f73" text-anchor="start">converge</text><text x="32" y="83" font-size="17" font-weight="400" fill="#536770" text-anchor="start">異なる位置や方向から、同じ一点へ近づく</text>
+  <rect x="31" y="111" width="778" height="210" rx="12" fill="#f2f7f8"/>
+  <path d="M92 155 C215 155 282 178 403 218" stroke="#24738a" stroke-width="5" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M92 259 C223 259 305 234 403 218" stroke="#24738a" stroke-width="5" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M216 138 C278 151 326 180 403 218" stroke="#e19c52" stroke-width="5" fill="none" marker-end="url(#arrowOrange)"/>
+  <circle cx="419" cy="218" r="19" fill="#24738a"/>
+  <circle cx="419" cy="218" r="6" fill="#ffffff"/>
+  <text x="91" y="144" font-size="18" font-weight="700" fill="#24738a" text-anchor="start">A</text>
+  <text x="91" y="281" font-size="18" font-weight="700" fill="#24738a" text-anchor="start">B</text>
+  <text x="212" y="129" font-size="18" font-weight="700" fill="#ad6b2b" text-anchor="start">C</text>
+  <path d="M455 218H616" stroke="#b7cbd2" stroke-width="3" stroke-dasharray="6 6"/>
+  <text x="636" y="201" font-size="18" font-weight="700" fill="#245f73" text-anchor="start">同じ目的地</text>
+  <text x="636" y="227" font-size="16" font-weight="400" fill="#536770" text-anchor="start">・結論・値</text>
+  <text x="420" y="293" font-size="16" font-weight="600" fill="#344653" text-anchor="middle">接近・収束の過程</text>
+</svg>
