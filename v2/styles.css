@@ -24,3 +24,4 @@
 .core-figure__image{display:block;width:100%;height:auto;aspect-ratio:7/3;object-fit:contain}
 .core-figure__caption{color:var(--muted);font-size:.85rem;padding:8px 6px 2px;text-align:center}
 @media(max-width:760px){.core-figure{padding:5px;margin:12px 0 16px;border-radius:10px}.core-figure__caption{font-size:.79rem}}
+.core-figure__zoom{display:block;border-radius:8px;overflow:hidden}.core-figure__zoom:focus-visible{outline:3px solid #70adbe;outline-offset:3px}.core-figure__zoom:hover{filter:brightness(.98)}
