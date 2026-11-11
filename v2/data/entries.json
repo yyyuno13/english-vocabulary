@@ -13614,6 +13614,162 @@
         "src": "./images/core/fancy.svg",
         "alt": "心に浮かぶ特別なイメージから、想像する・気に入る・凝ったものという意味が広がる図。"
       }
+    },
+    {
+      "id": "call-for",
+      "word": "call for",
+      "pos": "句動詞",
+      "ipa": "米 /ˈkɔːl fɔːr/・英 /ˈkɔːl fɔː/",
+      "meaning": "～を必要とする、要求する；～を求める・呼びかける；～を迎えに行く（主に英）",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "call（呼ぶ、声をかける）と for（～を求めて）が組み合わさった句動詞。call は古ノルド語 kalla（呼ぶ）との関連が指摘され、for は古英語 for に由来する。句動詞全体を一つの古い語根に分解するものではない。",
+      "core": "ある状況に対して必要なものを求める。状況が行動を必要とする、組織が改善を呼びかける、という意味へ広がる。",
+      "usage": "call for immediate action（早急な対応を必要とする）、call for a review（見直しを求める）、call for greater transparency（透明性の向上を求める）、This calls for a celebration!（これはお祝いしなきゃ）。call for someone（迎えに行く）は主にイギリス英語。",
+      "examples": [
+        [
+          "This situation calls for immediate action.",
+          "この状況には早急な対応が必要だ。"
+        ],
+        [
+          "The project calls for careful planning and coordination.",
+          "このプロジェクトには慎重な計画と調整が必要だ。"
+        ],
+        [
+          "The recipe calls for two tablespoons of olive oil.",
+          "そのレシピではオリーブオイルを大さじ2杯使う。"
+        ],
+        [
+          "The CEO called for greater transparency in financial reporting.",
+          "CEOは財務報告の透明性向上を求めた。"
+        ],
+        [
+          "The report calls for stricter environmental regulations.",
+          "その報告書は、より厳格な環境規制を求めている。"
+        ],
+        [
+          "Several employees called for a review of the new policy.",
+          "複数の従業員が新しい方針の見直しを要求した。"
+        ],
+        [
+          "I'll call for you at eight tomorrow morning.",
+          "明日の朝8時に迎えに行くよ。"
+        ],
+        [
+          "This calls for a celebration!",
+          "これはお祝いしなきゃ！"
+        ]
+      ],
+      "related": [
+        {
+          "word": "call on",
+          "ipa": "/ˈkɔːl ɑːn/",
+          "pos": "句動詞",
+          "meaning": "訪問する、指名する、要請する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The government called on businesses to reduce emissions.",
+          "translation": "政府は企業に排出量の削減を呼びかけた。",
+          "relationship": "reference"
+        },
+        {
+          "word": "call off",
+          "ipa": "/ˈkɔːl ɔːf/",
+          "pos": "句動詞",
+          "meaning": "中止する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "They called off the meeting due to bad weather.",
+          "translation": "悪天候のため会議は中止された。",
+          "relationship": "reference"
+        },
+        {
+          "word": "call up",
+          "ipa": "/ˈkɔːl ʌp/",
+          "pos": "句動詞",
+          "meaning": "電話する、呼び出す",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 3,
+          "example": "I'll call you up later.",
+          "translation": "後で電話するよ。",
+          "relationship": "reference"
+        },
+        {
+          "word": "call back",
+          "ipa": "/ˈkɔːl bæk/",
+          "pos": "句動詞",
+          "meaning": "折り返し電話する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Could you call me back this afternoon?",
+          "translation": "今日の午後に折り返し電話していただけますか。",
+          "relationship": "reference"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "require",
+          "ipa": "/rɪˈkwaɪər/",
+          "pos": "動詞",
+          "meaning": "必要とする、義務づける",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The law requires immediate action.",
+          "translation": "法律が早急な対応を義務づけている。",
+          "note": "客観的・制度的な必要性。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "demand",
+          "ipa": "/dɪˈmænd/",
+          "pos": "動詞",
+          "meaning": "強く要求する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The workers demanded immediate action.",
+          "translation": "労働者たちは早急な対応を強く要求した。",
+          "note": "要求の強さを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "necessitate",
+          "ipa": "/nəˈsesɪteɪt/",
+          "pos": "動詞",
+          "meaning": "必然的に必要とする",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The crisis necessitated immediate action.",
+          "translation": "その危機によって早急な対応が不可避となった。",
+          "note": "必然性・不可避性。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "urge",
+          "ipa": "/ɜːrdʒ/",
+          "pos": "動詞",
+          "meaning": "強く促す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The committee urged management to take immediate action.",
+          "translation": "委員会は経営陣に早急な対応を強く促した。",
+          "note": "人に行動を促す。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "call for は状況に応じた必要性や対応を求めること。require は客観的・制度的必要性、demand は強い要求、necessitate は不可避性、urge は人に対する強い促し。",
+      "coreImage": {
+        "src": "./images/core/call-for.svg",
+        "alt": "状況や問題から、必要な対応や支援を求める矢印が伸びる図。"
+      }
     }
   ]
 }
