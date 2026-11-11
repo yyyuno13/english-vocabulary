@@ -4,7 +4,9 @@ from __future__ import annotations
 
 import json
 import pathlib
+import re
 import sys
+import xml.etree.ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parent
 problems = []
@@ -65,6 +67,28 @@ for position, entry in enumerate(entries, 1):
             if not (isinstance(example, list) and len(example) == 2 and
                     all(isinstance(value, str) for value in example)):
                 problems.append(f"{prefix} ({word_id}): example {j} must be [English, Japanese]")
+    image = entry.get("coreImage")
+    if image is not None:
+        if not isinstance(image, dict):
+            problems.append(f"{prefix} ({word_id}): coreImage must be an object")
+        else:
+            source = image.get("src")
+            alt = image.get("alt")
+            if not isinstance(alt, str) or not alt.strip():
+                problems.append(f"{prefix} ({word_id}): coreImage requires descriptive alt text")
+            if not isinstance(source, str) or not re.fullmatch(r"\./images/core/[a-z0-9-]+\.svg", source):
+                problems.append(f"{prefix} ({word_id}): invalid SVG path")
+            else:
+                image_path = ROOT / source[2:]
+                if not image_path.is_file():
+                    problems.append(f"{prefix} ({word_id}): missing {source}")
+                else:
+                    try:
+                        svg_root = ET.parse(image_path).getroot()
+                        if svg_root.tag != "{http://www.w3.org/2000/svg}svg":
+                            problems.append(f"{prefix} ({word_id}): image must be an SVG")
+                    except ET.ParseError as exc:
+                        problems.append(f"{prefix} ({word_id}): malformed SVG {exc}")
     for key in ("related", "synonyms", "reference"):
         relatives = entry.get(key, [])
         if not isinstance(relatives, list):
