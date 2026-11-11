@@ -5,6 +5,7 @@ const $ = id => document.getElementById(id);
 const state = {entries:[], roots:[], idioms:[], rootMap:{}, warnings:[], mode:'keyword', ready:false};
 const modeButton=$('mode'), menu=$('mode-menu'), results=$('results'), toc=$('toc'), search=$('search');
 const modeLabels={keyword:'キーワード別',root:'語源別',idiom:'イディオム'};
+if(window.matchMedia('(max-width:760px)').matches) $('toc-details').open=false;
 
 async function loadJSON(path){
   const response=await fetch(path,{cache:'no-cache'});
