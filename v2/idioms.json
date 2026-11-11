@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "source": "Legacy roots.html idiom seed",
+  "items": [
+    [
+      "leave",
+      "残す・離れる",
+      "leave off",
+      "中断する、やめる；中断地点で終わる；省く",
+      "活動から離れ、中断地点を残す。リストから外す意味もある",
+      "Let's pick up where we left off.",
+      "前回中断したところから再開しましょう。"
+    ],
+    [
+      "leave",
+      "残す・離れる",
+      "leave out",
+      "省略する、除外する",
+      "外に残して含めない",
+      "Don't leave out any important details.",
+      "重要な詳細を省略しないでください。"
+    ],
+    [
+      "leave",
+      "残す・離れる",
+      "leave behind",
+      "置き忘れる、取り残す",
+      "後ろに残す",
+      "She left her phone behind at the hotel.",
+      "彼女はホテルに携帯電話を置き忘れた。"
+    ],
+    [
+      "leave",
+      "残す・離れる",
+      "leave alone",
+      "放っておく",
+      "そのままにしておく",
+      "Please leave the documents alone.",
+      "書類には触れないでください。"
+    ],
+    [
+      "leave",
+      "残す・離れる",
+      "leave over",
+      "残しておく",
+      "後のために残す（比較的まれ）",
+      "We left some food over for the next day.",
+      "翌日のために食べ物を少し残しておいた。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn down",
+      "断る、拒否する、辞退する；音量などを下げる",
+      "差し出された申し出を受け入れずに退ける",
+      "She turned down the job offer.",
+      "彼女はその仕事のオファーを断った。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn up",
+      "現れる、音量を上げる",
+      "上へ向ける、音量を上げる。現れる意味は慣用的",
+      "He turned up unexpectedly at the meeting.",
+      "彼は予告なく会議に現れた。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn on",
+      "電源を入れる",
+      "装置を作動状態へ切り替える",
+      "Could you turn on the projector?",
+      "プロジェクターをつけていただけますか。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn off",
+      "電源を切る、興味を失わせる",
+      "作動状態から外す",
+      "Please turn off the lights before leaving.",
+      "帰る前に照明を消してください。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn over",
+      "裏返す、引き渡す",
+      "ひっくり返す、別の側へ移す",
+      "The manager turned over the project to her successor.",
+      "マネージャーは後任者にプロジェクトを引き継いだ。"
+    ],
+    [
+      "turn",
+      "向きを変える",
+      "turn out",
+      "結果として〜になる",
+      "結果としてある状態が明らかになる",
+      "The project turned out to be more expensive than expected.",
+      "そのプロジェクトは結果的に予想以上の費用がかかった。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put on",
+      "身につける、（装置を）作動させる、（催しを）開催・上演する",
+      "衣服を体の上に置いて身につける。催しについては、企画を実際に行われる状態にするというイメージ",
+      "The museum is putting on a special exhibition next month.",
+      "その美術館は来月、特別展を開催します。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put off",
+      "延期する、気持ちをそぐ",
+      "予定を現在から離れた先へ置く",
+      "We had to put off the meeting until Friday.",
+      "会議を金曜日まで延期しなければなりませんでした。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put up with",
+      "我慢する",
+      "不快な状況を抱えたまま耐える。全体で慣用的な意味を持つ",
+      "I can't put up with the noise anymore.",
+      "もうその騒音には耐えられません。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put together",
+      "組み立てる、まとめる",
+      "離れた部品・情報を一緒に置く",
+      "She put together a detailed report.",
+      "彼女は詳細な報告書をまとめました。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put forward",
+      "提案する",
+      "考えを人々の前に差し出す",
+      "He put forward a new proposal.",
+      "彼は新しい提案をしました。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put down",
+      "下に置く、書き留める、けなす",
+      "下に置くという基本義から複数の意味に発展",
+      "Please put down your ideas on paper.",
+      "考えを紙に書き留めてください。"
+    ],
+    [
+      "put",
+      "置く・ある状態にする",
+      "put aside",
+      "脇に置く、取っておく",
+      "目の前の問題から横へ移す",
+      "Let's put aside our differences.",
+      "意見の違いはいったん脇に置きましょう。"
+    ],
+    [
+      "take",
+      "手に取る・取り込む",
+      "take on",
+      "引き受ける、帯びる",
+      "仕事や役割を自分の側に取り込む",
+      "She took on additional responsibilities.",
+      "彼女は追加の責任を引き受けました。"
+    ],
+    [
+      "take",
+      "手に取る・取り込む",
+      "take off",
+      "離陸する、脱ぐ、急に人気が出る",
+      "元の場所から離れる",
+      "The plane took off on time.",
+      "飛行機は定刻に離陸しました。"
+    ],
+    [
+      "take",
+      "手に取る・取り込む",
+      "take over",
+      "引き継ぐ、買収する",
+      "管理や支配を自分の側に移す",
+      "The new manager will take over next month.",
+      "新しい管理職が来月引き継ぎます。"
+    ],
+    [
+      "get",
+      "ある状態に至る",
+      "get over",
+      "克服する、乗り越える",
+      "障害を越えて向こう側へ進む",
+      "It took her weeks to get over the setback.",
+      "彼女がその挫折を乗り越えるには数週間かかりました。"
+    ],
+    [
+      "get",
+      "ある状態に至る",
+      "get along with",
+      "うまく付き合う",
+      "人と同じ方向へ円滑に進む",
+      "I get along well with my colleagues.",
+      "私は同僚とうまくやっています。"
+    ],
+    [
+      "get",
+      "ある状態に至る",
+      "get through",
+      "やり遂げる、切り抜ける",
+      "困難の中を通り抜ける",
+      "We got through the busy season.",
+      "繁忙期を乗り切りました。"
+    ],
+    [
+      "look",
+      "目を向ける",
+      "look into",
+      "調査する",
+      "問題の内側へ視線を向ける",
+      "We will look into the issue.",
+      "その問題を調査します。"
+    ],
+    [
+      "look",
+      "目を向ける",
+      "look up to",
+      "尊敬する",
+      "相手を見上げる",
+      "She looks up to her mentor.",
+      "彼女は指導者を尊敬しています。"
+    ],
+    [
+      "look",
+      "目を向ける",
+      "look forward to",
+      "楽しみにする",
+      "未来へ視線を向けて期待する",
+      "I look forward to meeting you.",
+      "お会いできるのを楽しみにしています。"
+    ],
+    [
+      "bring",
+      "持ってくる",
+      "bring up",
+      "話題に出す、育てる",
+      "話題を会話の表面へ持ち上げる",
+      "She brought up an important issue.",
+      "彼女は重要な問題を提起しました。"
+    ],
+    [
+      "bring",
+      "持ってくる",
+      "bring about",
+      "引き起こす",
+      "ある結果を実現させる",
+      "The reforms brought about major changes.",
+      "改革は大きな変化をもたらしました。"
+    ],
+    [
+      "flock",
+      "群れで移動する",
+      "flock to",
+      "大勢で殺到する",
+      "群れになってある場所へ向かう",
+      "Visitors flocked to the museum.",
+      "来館者がその博物館に殺到しました。"
+    ],
+    [
+      "circle",
+      "円を描く・一周する",
+      "circle back",
+      "後で話題に戻る",
+      "円を描いて元の地点に戻る",
+      "Let's circle back to this tomorrow.",
+      "この件には明日改めて戻りましょう。"
+    ]
+  ]
+}
