@@ -126,7 +126,11 @@
           "etymology": "ラテン語 re-（後ろへ）＋ cedere（進む）→ recessus（退くこと）。"
         }
       ],
-      "legacySource": false
+      "legacySource": false,
+      "coreImage": {
+        "src": "./images/core/hiatus.svg",
+        "alt": "活動や時間の連続した流れに空白や中断期間が生じる図。"
+      }
     },
     {
       "id": "drowsiness",
@@ -3854,7 +3858,11 @@
           "note": "ラテン語 adoptare（選んで受け入れる）。"
         }
       ],
-      "comparison": "incorporate＝既存の全体の一部にする。integrate＝相互に連携させ統合する。include＝単に含める。embed＝深く埋め込む。assimilate＝吸収・同化する。merge＝別々のものが合体する。adopt＝選んで採用する。"
+      "comparison": "incorporate＝既存の全体の一部にする。integrate＝相互に連携させ統合する。include＝単に含める。embed＝深く埋め込む。assimilate＝吸収・同化する。merge＝別々のものが合体する。adopt＝選んで採用する。",
+      "coreImage": {
+        "src": "./images/core/incorporate.svg",
+        "alt": "外にあった新しい要素Aを既存の全体Bに取り込んで一体化する図。"
+      }
     },
     {
       "id": "signify",
@@ -5731,7 +5739,11 @@
           "note": "古英語 gaderian（集める）。一般的な集合。"
         }
       ],
-      "comparison": "converge＝異なる方向から一点へ近づく（過程）／merge＝一体化する（統合結果）／coincide＝同じ位置・時点で重なる（過程は不要）／intersect＝交差する（一体化は不要）／align＝方向や目標をそろえる（意図的な調整）／unite＝団結・結合する／gather＝一般的に集まる"
+      "comparison": "converge＝異なる方向から一点へ近づく（過程）／merge＝一体化する（統合結果）／coincide＝同じ位置・時点で重なる（過程は不要）／intersect＝交差する（一体化は不要）／align＝方向や目標をそろえる（意図的な調整）／unite＝団結・結合する／gather＝一般的に集まる",
+      "coreImage": {
+        "src": "./images/core/converge.svg",
+        "alt": "別々の方向から複数のものが一点に近づき、集まり、収束する図。"
+      }
     },
     {
       "id": "compromise",
@@ -6659,7 +6671,11 @@
           "etymology": "ad-＋locare（置く）。元の用途から"
         }
       ],
-      "comparison": "divert＝元の行き先・目的から別方向へそらす／redirect＝新しい方向・目的地へ誘導／distract＝人の注意・集中を散らす／deflect＝質問・批判・攻撃などをかわす／reroute＝交通・物流・通信の経路変更／shift＝位置・重点を移す／allocate＝資源・予算を割り当てる（転用とは限らない）"
+      "comparison": "divert＝元の行き先・目的から別方向へそらす／redirect＝新しい方向・目的地へ誘導／distract＝人の注意・集中を散らす／deflect＝質問・批判・攻撃などをかわす／reroute＝交通・物流・通信の経路変更／shift＝位置・重点を移す／allocate＝資源・予算を割り当てる（転用とは限らない）",
+      "coreImage": {
+        "src": "./images/core/divert.svg",
+        "alt": "本来の進路Aへ向かっていた流れを途中から別の進路Bへそらす図。"
+      }
     },
     {
       "id": "shimmering",
@@ -13167,7 +13183,11 @@
           "relationship": "synonym"
         }
       ],
-      "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。 A bounced check は不渡り小切手で、a dishonored check はやや正式な表現。"
+      "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。 A bounced check は不渡り小切手で、a dishonored check はやや正式な表現。",
+      "coreImage": {
+        "src": "./images/core/bounce.svg",
+        "alt": "ボールが衝突して跳ね返る基本イメージから、景気の回復、メールの返送へ意味が広がる図。"
+      }
     }
   ]
 }
