@@ -8,7 +8,9 @@ function generate(template,data,rootMap,synonymRootLinks){
  const entry=data.entries.find(x=>x.id===parent);if(!entry)throw Error('Missing parent '+parent);
  for(const [word,group] of Object.entries(links)){if(!entry.synonyms.some(x=>x.word===word)||!availableRoots.has(group)||group==='その他')throw Error('Invalid synonym link '+parent+'/'+word);}}
 
- for(const entry of data.entries){if(!rootMap[entry.id])throw Error('Missing etymology group: '+entry.id);}
+ // Root classifications are optional metadata, not a prerequisite for rendering a word.
+ // New entries remain visible even if their classification is added in a later commit.
+ for(const entry of data.entries){if(!rootMap[entry.id]){rootMap[entry.id]=['その他','語源分類を確認中'];console.warn('Pending etymology classification:',entry.id);}}
 
  for(const e of data.entries.slice(0,17)){
   const categories=[['related','cognate'],['synonyms','synonym'],['reference','reference']];
