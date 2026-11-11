@@ -1,6 +1,7 @@
 name: Build vocabulary HTML
 on:
   push:
+    branches: [main]
     paths:
       - 'words/entries.json'
       - 'words/root-map.json'
@@ -8,7 +9,16 @@ on:
       - 'templates/index.template.html'
       - 'scripts/build-vocabulary.cjs'
       - '.github/workflows/build-vocabulary.yml'
+  pull_request:
+    paths:
+      - 'words/**'
+      - 'templates/**'
+      - 'scripts/**'
+      - '.github/workflows/build-vocabulary.yml'
   workflow_dispatch:
+concurrency:
+  group: vocabulary-build-${{ github.ref }}
+  cancel-in-progress: true
 permissions:
   contents: write
 jobs:
@@ -25,13 +35,17 @@ jobs:
         run: |
           # Entry and root-map files can be committed separately by the API.
           # Always build from the latest main rather than the triggering commit.
-          git fetch origin main
-          git checkout -B main origin/main
+          if [ "${{ github.event_name }}" = 'push' ]; then
+            sleep 12
+            git fetch origin main
+            git checkout -B main origin/main
+          fi
       - name: Generate and validate vocabulary
         run: |
           node scripts/build-vocabulary.cjs
           node scripts/build-vocabulary.cjs --check
       - name: Commit generated HTML if changed
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         run: |
           if ! git diff --quiet -- index.html; then
             git config user.name 'github-actions[bot]'
