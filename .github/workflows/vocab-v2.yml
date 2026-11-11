@@ -1,0 +1,26 @@
+name: Vocabulary v2 integrity checks
+
+on:
+  push:
+    paths:
+      - 'v2/**'
+      - '.github/workflows/vocab-v2.yml'
+  pull_request:
+    paths:
+      - 'v2/**'
+      - '.github/workflows/vocab-v2.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate independent vocabulary data
+        run: python3 v2/validate.py
+      - name: Check JavaScript syntax
+        run: |
+          node --check v2/model.js
+          node --check v2/render.js
+          node --check v2/app.js
