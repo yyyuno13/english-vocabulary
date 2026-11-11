@@ -64,7 +64,7 @@ function render(){
     items=state.entries.filter(e=>matches(e,q));
     renderToc(toc,'keyword',items,state.entries);
     for(const entry of items){
-      try{results.append(renderEntry(entry,state.rootMap[entry.id]));shown++;}
+      try{results.append(renderEntry(entry,state.rootMap[entry.id],q));shown++;}
       catch(e){
         state.warnings.push('表示エラー: '+entry.id+' ('+e.message+')');
         const err=document.createElement('p');
