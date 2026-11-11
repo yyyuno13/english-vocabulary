@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f6f7f8"><title>英単語ノート v2</title>
+<link rel="stylesheet" href="./styles.css"></head><body>
+<div class="shell"><header id="top"><p class="eyebrow">VOCABULARY NOTE · V2</p><h1>英単語ノート</h1><p class="intro">語源から理解する、あなただけの英単語帳。</p></header>
+<div class="controls"><label for="search">単語・意味を検索</label><input id="search" type="search" autocomplete="off" placeholder="例：bounce、回復、ラテン語">
+<p id="status" role="status" aria-live="polite">読み込み中…</p></div>
+<main id="main"><nav class="toc" aria-label="目次"><h2 id="toc-heading">目次</h2><div id="toc"></div></nav><div class="results" id="results"><p>単語データを読み込んでいます。</p></div></main>
+<footer><p>難易度・使用頻度は学習用の目安です。語源には不確実なものがあります。</p><p><a href="../roots.html">旧単語帳に戻る</a></p></footer></div>
+<div class="float-actions"><button id="mode" type="button" aria-label="表示モードを切り替える" aria-expanded="false">≡</button><div id="mode-menu" hidden><button type="button" data-mode="keyword">キーワード別</button><button type="button" data-mode="root">語源別（暫定分類）</button></div><a id="to-toc" href="#toc-heading">↑ 目次</a></div>
+<script type="module" src="./app.js"></script></body></html>
