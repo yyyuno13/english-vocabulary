@@ -103,7 +103,7 @@ function render(){
 async function startup(){
   try{
     const response=await Promise.allSettled([
-      loadJSON('../words/entries.json'),
+      loadJSON('./data/entries.json'),
       loadJSON('./roots-map.json'),
       loadJSON('./idioms.json')
     ]);
