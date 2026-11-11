@@ -1,4 +1,4 @@
-import {stars} from './model.js';
+import {stars,normalizeText} from './model.js';
 
 // All user-facing text is inserted as text nodes. Data never becomes executable HTML.
 const el = (tag, className, value) => {
@@ -54,7 +54,7 @@ const listRelations = (items,entryId,key) => {
   items.forEach(item=>box.append(relation(item,entryId,key)));
   return box;
 };
-export function renderEntry(entry, rootPair) {
+export function renderEntry(entry, rootPair, query='') {
   const article=el('article','entry');
   article.id='word-'+encodeURIComponent(entry.id);
   const title=el('h2');
@@ -75,11 +75,11 @@ export function renderEntry(entry, rootPair) {
   }
   if(entry.examples.length) add(article,heading('英日対訳の例文'),examples(entry.examples));
   if(entry.related.length){
-    const d=detail('④ 同語源語・派生語・関連表現',entry.related.length);
+    const d=detail('④ 同語源語・派生語・関連表現',entry.related.length, Boolean(query)&&entry.related.some(x=>normalizeText(x.word+' '+x.meaning+' '+(x.note||'')).includes(query)));
     d.append(listRelations(entry.related,entry.id,'related'));article.append(d);
   }
   if(entry.synonyms.length){
-    const d=detail('⑤ 類義語・ニュアンス比較',entry.synonyms.length);
+    const d=detail('⑤ 類義語・ニュアンス比較',entry.synonyms.length, Boolean(query)&&entry.synonyms.some(x=>normalizeText(x.word+' '+x.meaning+' '+(x.note||'')).includes(query)));
     d.append(listRelations(entry.synonyms,entry.id,'synonym'));
     if(entry.comparison){
       const cmp=el('div','comparison');
@@ -100,7 +100,7 @@ export function renderEntry(entry, rootPair) {
     article.append(d);
   }
   if(entry.reference.length){
-    const d=detail('参考語',entry.reference.length);
+    const d=detail('参考語',entry.reference.length, Boolean(query)&&entry.reference.some(x=>normalizeText(x.word+' '+x.meaning+' '+(x.note||'')).includes(query)));
     d.append(listRelations(entry.reference,entry.id,'reference'));article.append(d);
   }
   const p=el('p','back-link');p.append(link('↑ 目次','#toc-heading'));article.append(p);
