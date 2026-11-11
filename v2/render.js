@@ -45,8 +45,14 @@ const coreDiagram = image => {
   img.width=840;
   img.height=360;
   img.addEventListener('error', () => figure.remove(), {once:true});
-  figure.append(img);
-  if (image.caption) figure.append(el('figcaption','core-figure__caption',image.caption));
+  const zoom=el('a','core-figure__zoom');
+  zoom.href=image.src;
+  zoom.target='_blank';
+  zoom.rel='noopener';
+  zoom.setAttribute('aria-label','コアイメージ図解を拡大して開く');
+  zoom.append(img);
+  figure.append(zoom);
+  figure.append(el('figcaption','core-figure__caption',image.caption||'画像をタップすると拡大できます'));
   return figure;
 };
 const detail = (label, count, initiallyOpen=false) => {
