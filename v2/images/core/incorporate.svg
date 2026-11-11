@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 360" role="img" aria-labelledby="title description"><title id="title">incorporate のコアイメージ</title><desc id="description">外部のAを既存のBに取り込み、Bの一部としてAが存在する図。</desc><defs><marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#24738a"/></marker><marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#e19c52"/></marker></defs><rect width="840" height="360" rx="16" fill="#ffffff"/><rect x="1" y="1" width="838" height="358" rx="15" fill="none" stroke="#dfe8eb" stroke-width="2"/><text x="32" y="51" font-size="29" font-weight="700" fill="#245f73" text-anchor="start">incorporate</text><text x="32" y="83" font-size="17" font-weight="400" fill="#536770" text-anchor="start">外にある要素を取り込み、全体の一部にする</text>
+  <rect x="31" y="110" width="778" height="212" rx="12" fill="#f2f7f8"/>
+  <rect x="77" y="171" width="151" height="88" rx="12" fill="#fff5e8" stroke="#e19c52" stroke-width="3"/>
+  <text x="153" y="206" font-size="17" font-weight="700" fill="#ad6b2b" text-anchor="middle">新しい要素</text>
+  <text x="153" y="231" font-size="22" font-weight="700" fill="#ad6b2b" text-anchor="middle">A</text>
+  <path d="M254 214H375" stroke="#24738a" stroke-width="5" fill="none" marker-end="url(#arrowBlue)"/>
+  <rect x="403" y="144" width="349" height="140" rx="18" fill="#ffffff" stroke="#24738a" stroke-width="3"/>
+  <text x="429" y="175" font-size="17" font-weight="700" fill="#245f73" text-anchor="start">既存の全体</text>
+  <rect x="430" y="197" width="130" height="65" rx="9" fill="#e6f3f4"/>
+  <text x="495" y="237" font-size="23" font-weight="700" fill="#245f73" text-anchor="middle">B</text>
+  <rect x="581" y="197" width="133" height="65" rx="9" fill="#fff1df" stroke="#e19c52" stroke-width="2"/>
+  <text x="647" y="237" font-size="23" font-weight="700" fill="#ad6b2b" text-anchor="middle">A</text>
+  <text x="580" y="306" font-size="16" font-weight="500" fill="#536770" text-anchor="middle">A を組み込んだ全体</text>
+</svg>
