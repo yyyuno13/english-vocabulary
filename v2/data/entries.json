@@ -13456,6 +13456,164 @@
         "src": "./images/core/weary.svg",
         "alt": "長期間の負担によってエネルギーが徐々に減り、身体的疲労から精神的なうんざり感につながる図。"
       }
+    },
+    {
+      "id": "fancy",
+      "word": "fancy",
+      "pos": "形容詞・動詞・名詞",
+      "ipa": "米・英 /ˈfænsi/",
+      "meaning": "しゃれた・高級な、凝った；欲しい・気に入る・想像する；空想・好み",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 3,
+      "etymology": "ギリシャ語 phantasía（現れること、心に浮かぶ像）に遡り、古フランス語を経た中英語 fantasie（想像・空想）の短縮形として fancy が生まれた。現代英語の fan- と -cy に分解しない。fantasy、fantastic と同語源。",
+      "core": "心に魅力的なイメージが浮かぶこと。そこから、想像する、気に入る・欲しい、凝った・しゃれた・特別感のあるもの、へ意味が広がる。",
+      "usage": "fancy restaurant（しゃれた・高級なレストラン）、fancy equipment（凝った機材）、fancy doing ...（〜したい気分、主に英）、fancy someone（〜に惹かれる、主に英）、catch someone's fancy（興味を引く）、take a fancy to ...（急に気に入る）、fancy oneself as ...（自分を〜だと思う）。",
+      "examples": [
+        [
+          "We had dinner at a fancy restaurant.",
+          "私たちは高級なおしゃれなレストランで夕食を取った。"
+        ],
+        [
+          "You don't need any fancy equipment to get started.",
+          "始めるのに凝った機材は必要ありません。"
+        ],
+        [
+          "The hotel looks fancy, but the service is disappointing.",
+          "そのホテルは豪華に見えるが、サービスは期待外れだ。"
+        ],
+        [
+          "Do you fancy a cup of coffee?",
+          "コーヒーでも飲まない？（主にイギリス英語）"
+        ],
+        [
+          "I fancy going for a walk this evening.",
+          "今晩は散歩に出かけたい気分だ。"
+        ],
+        [
+          "She really fancies her new colleague.",
+          "彼女は新しい同僚にかなり惹かれている。"
+        ],
+        [
+          "I can't fancy him working in such a formal environment.",
+          "彼がそんな堅苦しい環境で働いている姿は想像できない。"
+        ],
+        [
+          "The idea caught my fancy immediately.",
+          "そのアイデアはすぐに私の興味を引いた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "fantasy",
+          "ipa": "/ˈfæntəsi/",
+          "pos": "名詞",
+          "meaning": "空想、幻想",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "example": "The novel blends fantasy with historical events.",
+          "translation": "その小説は空想と歴史上の出来事を融合させている。",
+          "note": "同じ語源の非短縮形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "fantastic",
+          "ipa": "/fænˈtæstɪk/",
+          "pos": "形容詞",
+          "meaning": "素晴らしい、空想的な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "You did a fantastic job on the presentation.",
+          "translation": "プレゼンテーションは素晴らしい出来だったよ。",
+          "note": "空想的・並外れたものから素晴らしいものへ意味が拡張。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "fantasize",
+          "ipa": "/ˈfæntəsaɪz/",
+          "pos": "動詞",
+          "meaning": "空想する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "He often fantasizes about living abroad.",
+          "translation": "彼は海外で暮らすことをよく空想する。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "fanciful",
+          "ipa": "/ˈfænsɪfəl/",
+          "pos": "形容詞",
+          "meaning": "空想的な、奇抜な",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "The proposal sounds rather fanciful.",
+          "translation": "その提案は少し非現実的に聞こえる。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "elegant",
+          "ipa": "/ˈelɪɡənt/",
+          "pos": "形容詞",
+          "meaning": "上品で洗練された",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The restaurant has an elegant interior.",
+          "translation": "そのレストランは上品で洗練された内装をしている。",
+          "note": "派手さより上品さを重視。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "luxurious",
+          "ipa": "/lʌɡˈʒʊriəs/",
+          "pos": "形容詞",
+          "meaning": "贅沢で豪華な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "They stayed at a luxurious resort.",
+          "translation": "彼らは豪華なリゾートに滞在した。",
+          "note": "豊かさや高級感を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "sophisticated",
+          "ipa": "/səˈfɪstɪkeɪtɪd/",
+          "pos": "形容詞",
+          "meaning": "洗練された、高度な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company uses a sophisticated forecasting model.",
+          "translation": "その会社は高度な予測モデルを使用している。",
+          "note": "技術や判断の高度さにも使える。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "elaborate",
+          "ipa": "/ɪˈlæbərət/",
+          "pos": "形容詞",
+          "meaning": "手の込んだ、精巧な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The team developed an elaborate plan.",
+          "translation": "チームは綿密で手の込んだ計画を立てた。",
+          "note": "複雑さ・細部の手間に焦点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "fancy はおしゃれ・装飾的・凝った特別感。elegant は上品で洗練、luxurious は豪華・贅沢、sophisticated は高度で洗練、elaborate は細部まで手が込んでいる。fancy software より sophisticated software の方が専門的・肯定的な響きになりやすい。",
+      "coreImage": {
+        "src": "./images/core/fancy.svg",
+        "alt": "心に浮かぶ特別なイメージから、想像する・気に入る・凝ったものという意味が広がる図。"
+      }
     }
   ]
 }
