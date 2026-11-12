@@ -14327,6 +14327,223 @@
         "src": "./images/core/quaint.svg",
         "alt": "機能的な現代建築と古風で趣のある家並みを対比する図。"
       }
+    },
+    {
+      "id": "be-subjected-to",
+      "word": "be subjected to",
+      "pos": "受動態の慣用表現",
+      "ipa": "米・英 /bi səbˈdʒektɪd tuː/",
+      "meaning": "～を受ける、～にさらされる、～を強いられる",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "subject はラテン語 subicere（下に置く、従属させる）に由来し、sub-（下に）と jacere（投げる）にさかのぼる。subject someone to something（人を何かにさらす）の受動態。",
+      "core": "外部の力・影響・処置の下に置かれ、本人の意思とは関係なく作用を受ける。",
+      "usage": "be subjected to pressure（圧力を受ける）、be subjected to criticism（批判にさらされる）、be subjected to scrutiny（精査を受ける）、be subjected to testing（検査を受ける）、be subjected to discrimination（差別を受ける）、be subjected to an audit（監査を受ける）。to は前置詞。be subject to は条件・規則の適用対象を表し、実際に処置を受けたとは限らない。",
+      "examples": [
+        [
+          "The employees were subjected to intense pressure to meet their sales targets.",
+          "従業員たちは売上目標を達成するために強いプレッシャーにさらされた。"
+        ],
+        [
+          "The journalist was subjected to repeated threats.",
+          "そのジャーナリストは繰り返し脅迫を受けた。"
+        ],
+        [
+          "The workers were subjected to harsh working conditions.",
+          "労働者たちは過酷な労働環境に置かれていた。"
+        ],
+        [
+          "The new software was subjected to rigorous testing before its release.",
+          "新しいソフトウェアは公開前に厳格なテストを受けた。"
+        ],
+        [
+          "All financial transactions were subjected to additional scrutiny.",
+          "すべての金融取引は追加的な精査の対象となった。"
+        ],
+        [
+          "The samples were subjected to extreme temperatures during the experiment.",
+          "実験中、試料は極端な温度にさらされた。"
+        ],
+        [
+          "The company was subjected to widespread criticism over its environmental practices.",
+          "その企業は環境への取り組みをめぐって広範な批判を受けた。"
+        ],
+        [
+          "The audit findings were subjected to an independent review.",
+          "監査上の発見事項は独立したレビューの対象となった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "subject",
+          "ipa": "/ˈsʌbdʒɪkt/",
+          "pos": "名詞・形容詞",
+          "meaning": "主題、対象、臣民；～の対象となる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 subicere（下に置く）に由来。",
+          "example": "The report focuses on three main subjects.",
+          "translation": "その報告書は3つの主要なテーマに焦点を当てている。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "subjection",
+          "ipa": "/səbˈdʒekʃən/",
+          "pos": "名詞",
+          "meaning": "従属、服従",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 2,
+          "etymology": "subject に由来する名詞。支配の下に置かれること。",
+          "example": "The population lived in subjection to the empire.",
+          "translation": "その住民たちは帝国の支配下で暮らしていた。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "subjugate",
+          "ipa": "/ˈsʌbdʒʊɡeɪt/",
+          "pos": "動詞",
+          "meaning": "征服する、服従させる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "etymology": "ラテン語 sub-（下）＋ jugum（くびき）。subject と同じ jacere 語根ではない。",
+          "example": "The invading army attempted to subjugate the region.",
+          "translation": "侵略軍はその地域を征服しようとした。",
+          "relationship": "reference"
+        },
+        {
+          "word": "project",
+          "ipa": "/prəˈdʒekt/",
+          "pos": "動詞",
+          "meaning": "投影する、予測する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 pro-（前へ）＋ jacere（投げる）。",
+          "example": "The company projects strong revenue growth next year.",
+          "translation": "その企業は来年の大幅な売上成長を予測している。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "reject",
+          "ipa": "/rɪˈdʒekt/",
+          "pos": "動詞",
+          "meaning": "拒絶する、却下する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 re-（後ろへ）＋ jacere（投げる）。",
+          "example": "The committee rejected the proposal.",
+          "translation": "委員会はその提案を却下した。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "be exposed to",
+          "ipa": "/bi ɪkˈspoʊzd tuː/",
+          "pos": "受動態表現",
+          "meaning": "～にさらされる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 exponere（外に置く、さらす）に由来。",
+          "example": "The workers were exposed to harmful chemicals.",
+          "translation": "労働者たちは有害な化学物質にさらされた。",
+          "note": "危険・環境・情報などへの接触を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "undergo",
+          "ipa": "/ˌʌndərˈɡoʊ/",
+          "pos": "動詞",
+          "meaning": "検査・変化・治療などを経験する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "古英語系 under（下で）＋ go（行く）。",
+          "example": "The equipment underwent extensive testing.",
+          "translation": "その機器は広範な試験を受けた。",
+          "note": "処置や変化の過程を経験する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "be subject to",
+          "ipa": "/bi ˈsʌbdʒɪkt tuː/",
+          "pos": "形容詞句",
+          "meaning": "規則・条件・影響などの対象である",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "subject と同じラテン語 subicere（下に置く）に由来。",
+          "example": "All applications are subject to approval.",
+          "translation": "すべての申請は承認を条件とする。",
+          "note": "条件・規則・可能性の下にあり、実際に処置を受けたとは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "suffer from",
+          "ipa": "/ˈsʌfər frəm/",
+          "pos": "動詞句",
+          "meaning": "～に苦しむ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "etymology": "ラテン語 sufferre（下から支える、耐える）に由来。",
+          "example": "The company suffered from a severe cash shortage.",
+          "translation": "その企業は深刻な資金不足に苦しんだ。",
+          "note": "病気や問題などによる苦痛・損害を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "be vulnerable to",
+          "ipa": "/bi ˈvʌlnərəbl tuː/",
+          "pos": "形容詞句",
+          "meaning": "～に弱い、影響を受けやすい",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 vulnus（傷）に由来。",
+          "example": "Small businesses are vulnerable to sudden changes in demand.",
+          "translation": "中小企業は需要の急激な変化による影響を受けやすい。",
+          "note": "実際の被害ではなく、受けやすさ・脆弱性。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "be subjected to は外部から実際に作用・処置を受ける。be exposed to は環境・危険への接触、undergo は検査・変化などを経験する、be subject to は規則・条件の対象で実際に受けたとは限らない、suffer from は苦痛、be vulnerable to は影響を受けやすい状態。",
+      "comparisonRows": [
+        [
+          "be subjected to",
+          "外部から一方的に作用・処置を受ける"
+        ],
+        [
+          "be exposed to",
+          "危険・環境・情報に接触する"
+        ],
+        [
+          "undergo",
+          "検査・治療・変化などの過程を経験する"
+        ],
+        [
+          "be subject to",
+          "条件・規則・影響の適用対象となる"
+        ],
+        [
+          "suffer from",
+          "病気や問題によって苦しむ"
+        ],
+        [
+          "be vulnerable to",
+          "悪影響を受けやすい状態にある"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/be-subjected-to.svg",
+        "alt": "外部の圧力や検査が人・物に一方的に作用するコアイメージ。"
+      }
     }
   ]
 }
