@@ -14544,6 +14544,228 @@
         "src": "./images/core/be-subjected-to.svg",
         "alt": "外部の圧力や検査が人・物に一方的に作用するコアイメージ。"
       }
+    },
+    {
+      "id": "subordinate",
+      "word": "subordinate",
+      "pos": "形容詞・名詞・動詞",
+      "ipa": "形容詞・名詞 /səˈbɔːrdɪnət/；動詞 /səˈbɔːrdɪneɪt/",
+      "meaning": "下位の、従属する；部下；下位に置く、従属させる",
+      "difficulty": 3,
+      "daily": 2,
+      "business": 5,
+      "etymology": "ラテン語 sub-（下に）＋ ordinare（順序づける）から subordinare（下位に配置する、従属させる）。ordinare は ordo（順序・列・階級）に由来。",
+      "core": "組織・権限・優先順位などの階層構造の中で下位に位置づけられる。",
+      "usage": "be subordinate to（～より下位にある）、subordinate A to B（AをBより下位に置く）、subordinate clause（従属節）、subordinated debt（劣後債務）、direct report（直属の部下）。名詞・形容詞の語末は /nət/、動詞は /neɪt/。",
+      "examples": [
+        [
+          "A good manager listens carefully to their subordinates.",
+          "優れた管理職は部下の意見に注意深く耳を傾ける。"
+        ],
+        [
+          "He was accused of treating his subordinates unfairly.",
+          "彼は部下を不公平に扱ったとして非難された。"
+        ],
+        [
+          "The director delegated several responsibilities to her subordinates.",
+          "その部長は複数の業務上の責任を部下に委譲した。"
+        ],
+        [
+          "The regional offices are subordinate to the headquarters.",
+          "各地域の事務所は本社の下位組織に位置づけられている。"
+        ],
+        [
+          "Financial considerations should not be subordinate to political interests.",
+          "財務上の考慮事項は政治的利益より下位に置かれるべきではない。"
+        ],
+        [
+          "The sentence contains a subordinate clause.",
+          "その文には従属節が含まれている。"
+        ],
+        [
+          "The company subordinated short-term profits to long-term sustainability.",
+          "その企業は短期的な利益よりも長期的な持続可能性を優先した。"
+        ],
+        [
+          "The agreement subordinates the lender's claims to those of senior creditors.",
+          "その契約は貸し手の債権を優先債権者の債権より劣後させる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "subordination",
+          "ipa": "/səˌbɔːrdɪˈneɪʃən/",
+          "pos": "名詞",
+          "meaning": "従属、劣後",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 4,
+          "etymology": "subordinate の名詞形。",
+          "example": "The subordination of creditors is specified in the agreement.",
+          "translation": "債権者間の優先劣後関係は契約書に規定されている。",
+          "note": "",
+          "relationship": "synonym"
+        },
+        {
+          "word": "subordinated",
+          "ipa": "/səˈbɔːrdɪneɪtɪd/",
+          "pos": "形容詞",
+          "meaning": "劣後する、下位に置かれた",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 5,
+          "etymology": "subordinate の過去分詞。",
+          "example": "Subordinated debt is generally riskier than senior debt.",
+          "translation": "劣後債務は一般に優先債務よりリスクが高い。",
+          "note": "",
+          "relationship": "synonym"
+        },
+        {
+          "word": "coordinate",
+          "ipa": "/koʊˈɔːrdɪneɪt/",
+          "pos": "動詞",
+          "meaning": "調整する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "ラテン語 co-（共に）＋ ordinare（順序づける）。",
+          "example": "We need to coordinate the activities of the two departments.",
+          "translation": "私たちは2つの部門の活動を調整する必要がある。",
+          "note": "",
+          "relationship": "synonym"
+        },
+        {
+          "word": "ordination",
+          "ipa": "/ˌɔːrdɪˈneɪʃən/",
+          "pos": "名詞",
+          "meaning": "聖職叙任",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "etymology": "ラテン語 ordinare（秩序に位置づける）に由来。",
+          "example": "His ordination took place last year.",
+          "translation": "彼の聖職叙任は昨年行われた。",
+          "note": "",
+          "relationship": "synonym"
+        },
+        {
+          "word": "order",
+          "ipa": "/ˈɔːrdər/",
+          "pos": "名詞・動詞",
+          "meaning": "順序、命令、注文する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 ordo（順序）に由来。",
+          "example": "The tasks should be completed in the correct order.",
+          "translation": "業務は正しい順序で完了すべきだ。",
+          "note": "",
+          "relationship": "synonym"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "junior",
+          "ipa": "/ˈdʒuːniər/",
+          "pos": "形容詞・名詞",
+          "meaning": "下位の、若手の",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 iunior（より若い）。",
+          "example": "He joined the company as a junior analyst.",
+          "translation": "彼はジュニアアナリストとして入社した。",
+          "note": "年齢・経験・職位が下。直属の部下とは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "inferior",
+          "ipa": "/ɪnˈfɪriər/",
+          "pos": "形容詞",
+          "meaning": "下位の、劣った",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 inferior（より低い）。",
+          "example": "The product was found to be inferior in quality.",
+          "translation": "その製品は品質面で劣っていると判明した。",
+          "note": "品質が劣るという否定的意味もある。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "secondary",
+          "ipa": "/ˈsekənderi/",
+          "pos": "形容詞",
+          "meaning": "二次的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 secundarius（第2の）。",
+          "example": "Cost reduction is secondary to product safety.",
+          "translation": "コスト削減は製品の安全性より優先順位が低い。",
+          "note": "重要度が二次的で、上下関係は必須ではない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "dependent",
+          "ipa": "/dɪˈpendənt/",
+          "pos": "形容詞",
+          "meaning": "依存した",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "etymology": "ラテン語 dependere（ぶら下がる）。",
+          "example": "The subsidiary is financially dependent on its parent company.",
+          "translation": "その子会社は財務面で親会社に依存している。",
+          "note": "階層より依存関係を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "underling",
+          "ipa": "/ˈʌndərlɪŋ/",
+          "pos": "名詞",
+          "meaning": "目下の者、下っ端",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "etymology": "英語 under（下）＋ -ling（人などを表す接尾辞）。",
+          "example": "He treated his colleagues as mere underlings.",
+          "translation": "彼は同僚たちを単なる下っ端として扱った。",
+          "note": "見下すニュアンスがある。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "subordinate は階層・権限・重要度が下位にあること。junior は年齢・経験・職位、inferior は低い地位や劣る品質、secondary は優先順位、dependent は依存関係、underling は見下した『下っ端』。",
+      "comparisonRows": [
+        [
+          "subordinate",
+          "階層・権限・重要度が下位。硬めの表現"
+        ],
+        [
+          "junior",
+          "年齢・経験・職位が下。直属とは限らない"
+        ],
+        [
+          "inferior",
+          "品質や地位が劣る。人には侮蔑的になり得る"
+        ],
+        [
+          "secondary",
+          "二次的な優先順位。上下関係は必須でない"
+        ],
+        [
+          "dependent",
+          "他者や他の要素への依存"
+        ],
+        [
+          "underling",
+          "下っ端。見下した表現"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/subordinate.svg",
+        "alt": "上位者と下位者の組織階層を示す図。"
+      }
     }
   ]
 }
