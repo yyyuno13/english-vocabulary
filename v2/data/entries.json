@@ -13770,6 +13770,164 @@
         "src": "./images/core/call-for.svg",
         "alt": "状況や問題から、必要な対応や支援を求める矢印が伸びる図。"
       }
+    },
+    {
+      "id": "censure",
+      "word": "censure",
+      "pos": "名詞・動詞",
+      "ipa": "米・英 /ˈsenʃər/",
+      "meaning": "厳しい非難、公式な譴責；厳しく非難する、譴責する",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 3,
+      "etymology": "ラテン語 cēnsēre（評価する・判断する）から cēnsūra（評価・監督・批判）を経て、古フランス語 censure に由来。行動を評価し、不適切だと判断して非難する意味に発展。現代英語の cen- と -sure に無理に分解しない。",
+      "core": "行動を評価し、不適切だと判断したうえで、強い非難・公式な不承認を表明する。公式処分に限らず、一般的な厳しい非難にも用いる。",
+      "usage": "formal censure（正式な譴責）、public censure（公然たる非難）、face censure（非難・譴責を受ける）、issue a censure（譴責を行う）、censure someone for ...（～を理由に譴責する）、be censured by ...（～から譴責される）。",
+      "examples": [
+        [
+          "The senator faced public censure for his remarks.",
+          "その上院議員は自身の発言について公の場で厳しい非難を受けた。"
+        ],
+        [
+          "The committee issued a formal censure of the official.",
+          "委員会はその職員に対して正式な譴責を行った。"
+        ],
+        [
+          "The company received widespread censure for its handling of customer data.",
+          "その企業は顧客データの取り扱いをめぐり、広範な非難を浴びた。"
+        ],
+        [
+          "The board censured the executive for violating company policy.",
+          "取締役会は社内規程に違反した役員を譴責した。"
+        ],
+        [
+          "The lawmaker was formally censured by parliament.",
+          "その議員は議会から正式に譴責された。"
+        ],
+        [
+          "The regulator censured the firm for failing to disclose material information.",
+          "規制当局は重要情報の開示を怠った企業を厳しく非難した。"
+        ],
+        [
+          "The audit committee called for the censure of those responsible.",
+          "監査委員会は責任者に対する譴責を求めた。"
+        ],
+        [
+          "The organization censured the manager's misconduct but stopped short of dismissal.",
+          "組織は管理職の不正行為を厳しく非難したものの、解雇には踏み切らなかった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "censor",
+          "ipa": "/ˈsensər/",
+          "pos": "名詞・動詞",
+          "meaning": "検閲する人、検閲する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The government censored the report.",
+          "translation": "政府はその報告書を検閲した。",
+          "note": "同語源だが、情報の検閲・制限を表す。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "censorship",
+          "ipa": "/ˈsensərʃɪp/",
+          "pos": "名詞",
+          "meaning": "検閲、情報統制",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The journalists protested against censorship.",
+          "translation": "ジャーナリストたちは検閲に抗議した。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "census",
+          "ipa": "/ˈsensəs/",
+          "pos": "名詞",
+          "meaning": "国勢調査、人口調査",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The census revealed a decline in the population.",
+          "translation": "国勢調査によって人口減少が明らかになった。",
+          "note": "評価・査定の語源につながる。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "censorious",
+          "ipa": "/senˈsɔːriəs/",
+          "pos": "形容詞",
+          "meaning": "批判的な、あら探しをする",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "His censorious attitude discouraged open discussion.",
+          "translation": "彼の批判ばかりする態度は、自由な議論を妨げた。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "criticize",
+          "ipa": "/ˈkrɪtɪsaɪz/",
+          "pos": "動詞",
+          "meaning": "批判する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The manager criticized the proposal.",
+          "translation": "管理職はその提案を批判した。",
+          "note": "一般的な批判。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "condemn",
+          "ipa": "/kənˈdem/",
+          "pos": "動詞",
+          "meaning": "強く非難する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The organization condemned the misconduct.",
+          "translation": "組織はその不正行為を強く非難した。",
+          "note": "許されないと断じる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "reprimand",
+          "ipa": "/ˈreprɪmænd/",
+          "pos": "動詞・名詞",
+          "meaning": "叱責する、譴責",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 4,
+          "example": "The supervisor reprimanded the employee for being late.",
+          "translation": "上司は遅刻した従業員を叱責した。",
+          "note": "上位者からの叱責。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "rebuke",
+          "ipa": "/rɪˈbjuːk/",
+          "pos": "動詞・名詞",
+          "meaning": "厳しく叱る、非難する",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "example": "The director rebuked him for his careless remarks.",
+          "translation": "取締役は彼の軽率な発言を厳しく叱責した。",
+          "note": "強い叱責・非難。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "criticize は一般的な批判。condemn は強い道徳的非難。reprimand は権限を持つ人からの叱責。rebuke は厳しい叱責。censure は規範や権威に基づく強い不承認の表明で、公式な譴責に使われやすい。censor は検閲であり、censure とは区別する。",
+      "coreImage": {
+        "src": "./images/core/censure.svg",
+        "alt": "行動を評価・判断し、不適切と認定して厳しい非難・譴責を表明する三段階の図。"
+      }
     }
   ]
 }
