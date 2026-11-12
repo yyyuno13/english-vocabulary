@@ -14960,6 +14960,210 @@
         "src": "./images/core/rave.svg",
         "alt": "激しい感情表現が絶賛とわめきの二方向に分かれる図。"
       }
+    },
+    {
+      "id": "outing",
+      "word": "outing",
+      "pos": "名詞",
+      "ipa": "米・英 /ˈaʊtɪŋ/",
+      "meaning": "小旅行、お出かけ、遠足；本人の同意のない秘密の暴露；（スポーツ）出場・登板",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 3,
+      "etymology": "古英語 ūt（外へ）に由来する out と -ing から。外へ出かけることから小旅行・遠足の意味が生まれた。秘密の暴露という意味は out someone（本人の秘密を暴露する）と関連する。",
+      "core": "内側にあるものが外へ出る。人が外へ出ればお出かけ、秘密が外へ出されれば暴露。",
+      "usage": "a family outing（家族でのお出かけ）、a school outing（遠足）、a company outing（会社の親睦行事）、a team outing（チームでの外出）、go on an outing（出かける）、a weekend outing（週末の小旅行）、a successful outing（成功した出場）。outing は同意なき性的指向などの暴露も指す。",
+      "examples": [
+        [
+          "We went on a family outing to the countryside.",
+          "私たちは家族で田舎へ出かけた。"
+        ],
+        [
+          "The school organized an outing to the science museum.",
+          "学校は科学博物館への遠足を企画した。"
+        ],
+        [
+          "The company is planning a team-building outing next month.",
+          "会社は来月、チームの結束を高めるための社外イベントを計画している。"
+        ],
+        [
+          "A weekend outing can be a refreshing break from work.",
+          "週末のお出かけは、仕事から離れて気分転換するよい機会になる。"
+        ],
+        [
+          "The weather ruined our planned outing.",
+          "悪天候で予定していたお出かけが台無しになった。"
+        ],
+        [
+          "The journalist was criticized for the outing of a public figure without their consent.",
+          "そのジャーナリストは、本人の同意なく公人の秘密を暴露したとして批判された。"
+        ],
+        [
+          "Outing someone can have serious consequences for their privacy and safety.",
+          "本人の秘密を同意なく暴露することは、その人のプライバシーや安全に深刻な影響を及ぼす可能性がある。"
+        ],
+        [
+          "The rookie pitcher had an impressive outing in his first major league game.",
+          "その新人投手はメジャーリーグ初登板で見事な投球を見せた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "out",
+          "ipa": "/aʊt/",
+          "pos": "副詞・前置詞など",
+          "meaning": "外へ、外に",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "古英語 ūt（外へ）。",
+          "example": "Let's go out for dinner tonight.",
+          "translation": "今夜は夕食を食べに出かけよう。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "outdoor",
+          "ipa": "/ˈaʊtdɔːr/",
+          "pos": "形容詞",
+          "meaning": "屋外の",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 3,
+          "etymology": "out + door。",
+          "example": "The hotel offers a variety of outdoor activities.",
+          "translation": "そのホテルはさまざまな屋外アクティビティを提供している。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "outbound",
+          "ipa": "/ˈaʊtbaʊnd/",
+          "pos": "形容詞",
+          "meaning": "外向きの、出発する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "out + bound（向かう）。",
+          "example": "The outbound flight was delayed by two hours.",
+          "translation": "往路便は2時間遅延した。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "come out",
+          "ipa": "/kʌm aʊt/",
+          "pos": "句動詞",
+          "meaning": "出てくる、公表する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "etymology": "come + out。",
+          "example": "The truth eventually came out.",
+          "translation": "真実は最終的に明らかになった。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "out someone",
+          "ipa": "/aʊt ˈsʌmwʌn/",
+          "pos": "動詞句",
+          "meaning": "本人の秘密を暴露する",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "etymology": "out を動詞として使う。",
+          "example": "The article outed the individual without their permission.",
+          "translation": "その記事は本人の許可なく、その人の秘密を暴露した。",
+          "note": "",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "excursion",
+          "ipa": "/ɪkˈskɜːrʒən/",
+          "pos": "名詞",
+          "meaning": "小旅行、遠足",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "ラテン語 excurrere（外へ走る）。",
+          "example": "We joined a guided excursion to the ancient ruins.",
+          "translation": "私たちは古代遺跡を訪れるガイド付きの小旅行に参加した。",
+          "note": "観光・教育目的の計画的な小旅行。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "trip",
+          "ipa": "/trɪp/",
+          "pos": "名詞",
+          "meaning": "旅行",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "中英語 trippen（軽く踏む、跳ねる）と関連。",
+          "example": "She went on a business trip to Singapore.",
+          "translation": "彼女はシンガポールへ出張した。",
+          "note": "日帰りから長期まで幅広い旅行。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "field trip",
+          "ipa": "/ˈfiːld trɪp/",
+          "pos": "名詞",
+          "meaning": "校外学習、現地調査",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "etymology": "field（現場）＋ trip（旅行）。",
+          "example": "The students went on a field trip to a local factory.",
+          "translation": "生徒たちは地元の工場へ校外学習に出かけた。",
+          "note": "学校・研究での学習や調査が目的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "getaway",
+          "ipa": "/ˈɡetəweɪ/",
+          "pos": "名詞",
+          "meaning": "短い休暇、気分転換の旅行",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "etymology": "get away（離れる）から。",
+          "example": "We planned a weekend getaway to the mountains.",
+          "translation": "私たちは週末に山へ小旅行する計画を立てた。",
+          "note": "日常から離れて休むための旅行。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "outing は娯楽や交流のための比較的短い外出。excursion は計画的な小旅行、trip は旅行全般、field trip は学習・調査目的、getaway は日常から離れる休暇。",
+      "comparisonRows": [
+        [
+          "outing",
+          "娯楽・交流を目的とした短い外出"
+        ],
+        [
+          "excursion",
+          "観光・教育などの計画的な小旅行"
+        ],
+        [
+          "trip",
+          "旅行全般。出張にも使える"
+        ],
+        [
+          "field trip",
+          "学校・研究の校外学習や現地調査"
+        ],
+        [
+          "getaway",
+          "日常から離れる気分転換の短い旅行"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/outing.svg",
+        "alt": "外へ出かけることと秘密を外へ出すことの意味の分岐。"
+      }
     }
   ]
 }
