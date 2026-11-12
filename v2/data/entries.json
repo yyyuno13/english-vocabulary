@@ -13881,7 +13881,8 @@
           "example": "The manager criticized the proposal.",
           "translation": "管理職はその提案を批判した。",
           "note": "一般的な批判。",
-          "relationship": "synonym"
+          "relationship": "synonym",
+          "etymology": "ギリシャ語 kritikós（判断できる）に由来。判断・評価することから「批判する」へ。"
         },
         {
           "word": "condemn",
@@ -13894,7 +13895,8 @@
           "example": "The organization condemned the misconduct.",
           "translation": "組織はその不正行為を強く非難した。",
           "note": "許されないと断じる。",
-          "relationship": "synonym"
+          "relationship": "synonym",
+          "etymology": "ラテン語 condemnāre（有罪と宣告する）に由来。法的な有罪宣告から強い非難へ。"
         },
         {
           "word": "reprimand",
@@ -13907,7 +13909,8 @@
           "example": "The supervisor reprimanded the employee for being late.",
           "translation": "上司は遅刻した従業員を叱責した。",
           "note": "上位者からの叱責。",
-          "relationship": "synonym"
+          "relationship": "synonym",
+          "etymology": "フランス語 réprimande（叱責・非難）を経て英語に入った語。さらに古い由来には諸説がある。"
         },
         {
           "word": "rebuke",
@@ -13920,7 +13923,8 @@
           "example": "The director rebuked him for his careless remarks.",
           "translation": "取締役は彼の軽率な発言を厳しく叱責した。",
           "note": "強い叱責・非難。",
-          "relationship": "synonym"
+          "relationship": "synonym",
+          "etymology": "古フランス語 rebuchier に由来するとされる。古い意味の詳細には不確実性があるため、単純な語根分解は避ける。"
         }
       ],
       "comparison": "criticize は一般的な批判。condemn は強い道徳的非難。reprimand は権限を持つ人からの叱責。rebuke は厳しい叱責。censure は規範や権威に基づく強い不承認の表明で、公式な譴責に使われやすい。censor は検閲であり、censure とは区別する。",
