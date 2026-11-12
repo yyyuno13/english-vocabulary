@@ -13932,6 +13932,210 @@
         "src": "./images/core/censure.svg",
         "alt": "行動を評価・判断し、不適切と認定して厳しい非難・譴責を表明する三段階の図。"
       }
+    },
+    {
+      "id": "resign",
+      "word": "resign",
+      "pos": "動詞",
+      "ipa": "米・英 /rɪˈzaɪn/",
+      "meaning": "辞職する、辞任する；（resign oneself to ...）諦めて受け入れる",
+      "difficulty": 2,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 re-（戻す・反対方向へ）＋ signāre（印を付ける、署名する）から resignāre（封印を解く・取り消す・権利を手放す）を経た語。職務を手放す、抵抗を手放して受け入れる意味へ。re-sign（再び署名する）とは異なる。",
+      "core": "自分が握っていたものを手放す。職務・役職を手放すと、抵抗・期待を手放して諦めて受け入れるという2方向に広がる。",
+      "usage": "resign from a company（会社を辞める）、resign as CEO（CEOを辞任する）、resign one's position（役職を辞する）、hand in one's resignation（辞表を提出する）、resign oneself to ...（～を諦めて受け入れる）、be resigned to ...（～を仕方ないと受け入れている）。resign oneself to の to は前置詞なので動名詞を続ける。",
+      "examples": [
+        [
+          "The CEO resigned after the accounting scandal.",
+          "CEOは会計不祥事の後に辞任した。"
+        ],
+        [
+          "She resigned from her position as finance director.",
+          "彼女は財務部長の職を辞した。"
+        ],
+        [
+          "He decided to resign to pursue a career in consulting.",
+          "彼はコンサルティング業界でのキャリアを追求するため、退職することを決めた。"
+        ],
+        [
+          "The minister was forced to resign amid mounting criticism.",
+          "その大臣は批判が高まる中、辞任を余儀なくされた。"
+        ],
+        [
+          "We had to resign ourselves to the fact that the project would be delayed.",
+          "私たちはプロジェクトの遅延を受け入れざるを得なかった。"
+        ],
+        [
+          "She resigned herself to waiting another year for a promotion.",
+          "彼女は昇進までさらに1年待つことを諦めて受け入れた。"
+        ],
+        [
+          "Investors seemed resigned to further market volatility.",
+          "投資家たちは市場のさらなる変動を覚悟しているようだった。"
+        ],
+        [
+          "He resigned his seat on the board of directors.",
+          "彼は取締役の職を辞した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "resignation",
+          "ipa": "/ˌrezɪɡˈneɪʃən/",
+          "pos": "名詞",
+          "meaning": "辞職、辞表、諦め",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "resign に名詞化接尾辞 -ation が付いた語。",
+          "example": "The company announced the CEO's resignation.",
+          "translation": "会社はCEOの辞任を発表した。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "resigned",
+          "ipa": "/rɪˈzaɪnd/",
+          "pos": "形容詞",
+          "meaning": "諦めて受け入れた",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "etymology": "resign の過去分詞が形容詞化した語。",
+          "example": "He gave a resigned sigh.",
+          "translation": "彼は諦めたようにため息をついた。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "sign",
+          "ipa": "/saɪn/",
+          "pos": "動詞・名詞",
+          "meaning": "署名する、印",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 signum（印・しるし）に由来する同語源語。",
+          "example": "Please sign the contract by Friday.",
+          "translation": "金曜日までに契約書に署名してください。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "signature",
+          "ipa": "/ˈsɪɡnətʃər/",
+          "pos": "名詞",
+          "meaning": "署名",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 signāre（印を付ける）に関連する同語源語。",
+          "example": "The document requires your signature.",
+          "translation": "その書類にはあなたの署名が必要です。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "quit",
+          "ipa": "/kwɪt/",
+          "pos": "動詞",
+          "meaning": "仕事を辞める",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "etymology": "古フランス語 quiter（解放する、自由にする）に由来。",
+          "example": "She quit her job last month.",
+          "translation": "彼女は先月仕事を辞めた。",
+          "note": "一般的・口語的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "retire",
+          "ipa": "/rɪˈtaɪər/",
+          "pos": "動詞",
+          "meaning": "引退する、退職する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "etymology": "フランス語 retirer（引き戻す、退く）に由来。",
+          "example": "The CFO will retire at the end of the year.",
+          "translation": "CFOは年末に退職する予定だ。",
+          "note": "キャリアの終わりを連想させる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "step down",
+          "ipa": "/ˌstep ˈdaʊn/",
+          "pos": "句動詞",
+          "meaning": "役職から退く",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 5,
+          "etymology": "step（歩み）＋ down（下へ）。高い地位から降りるイメージ。",
+          "example": "The chairman stepped down following the investigation.",
+          "translation": "会長は調査を受けて退任した。",
+          "note": "役職から退くが、会社に残ることもある。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "withdraw",
+          "ipa": "/wɪðˈdrɔː/",
+          "pos": "動詞",
+          "meaning": "撤退する、身を引く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "古英語系 with-（離れて）＋ draw（引く）から。",
+          "example": "He withdrew from the election.",
+          "translation": "彼は選挙から撤退した。",
+          "note": "参加・立候補・申請などから身を引く。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "abdicate",
+          "ipa": "/ˈæbdɪkeɪt/",
+          "pos": "動詞",
+          "meaning": "王位・権力・責任を放棄する",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 2,
+          "etymology": "ラテン語 abdicāre（放棄する、退ける）に由来。",
+          "example": "The king abdicated the throne.",
+          "translation": "国王は王位を退いた。",
+          "note": "王位などの放棄を表す硬い語。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "resign は役職や雇用関係を正式に辞すること。quit は口語的に仕事を辞める、retire は引退・キャリアの終わり、step down は役職から退く（会社に残る場合もある）、withdraw は参加・立候補などから身を引く、abdicate は王位・権力などの放棄。",
+      "comparisonRows": [
+        [
+          "resign",
+          "正式な辞職・辞任。職務を手放す"
+        ],
+        [
+          "quit",
+          "一般的・口語的な「辞める」"
+        ],
+        [
+          "retire",
+          "引退・退職。キャリアの終わり"
+        ],
+        [
+          "step down",
+          "役職を退く。会社自体は辞めないことも"
+        ],
+        [
+          "withdraw",
+          "参加・立候補・申請などから撤退"
+        ],
+        [
+          "abdicate",
+          "王位・権力・責任などを放棄"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/resign.svg",
+        "alt": "職務や役職を手放す意味と、抵抗や期待を手放して諦めて受け入れる意味の分岐図。"
+      }
     }
   ]
 }
