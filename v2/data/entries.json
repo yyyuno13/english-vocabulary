@@ -15164,6 +15164,214 @@
         "src": "./images/core/outing.svg",
         "alt": "外へ出かけることと秘密を外へ出すことの意味の分岐。"
       }
+    },
+    {
+      "id": "otherwise",
+      "word": "otherwise",
+      "pos": "副詞・接続副詞・形容詞",
+      "ipa": "米・英 /ˈʌðərwaɪz/",
+      "meaning": "さもなければ；それ以外の点では；別の方法で；そうでないことを",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 5,
+      "etymology": "other（古英語 ōther、別の）＋ -wise（古英語 wīse、方法・様式）。別の方法で、という意味から別の状況・側面・結論を表すようになった。",
+      "core": "今述べた状況・方法・側面から、別の方向へ視点を移す。",
+      "usage": "unless otherwise stated（別段の記載がない限り）、unless otherwise specified（別途指定がない限り）、unless otherwise agreed（別段の合意がない限り）、unless otherwise instructed（別途指示がない限り）、or otherwise（その他の方法で）、think otherwise（違う考えを持つ）、prove otherwise（そうでないと証明する）、otherwise healthy（それ以外は健康な）。",
+      "examples": [
+        [
+          "Please submit the report by Friday; otherwise, the project may be delayed.",
+          "金曜日までに報告書を提出してください。さもなければ、プロジェクトが遅れる可能性があります。"
+        ],
+        [
+          "We need to leave now. Otherwise, we'll miss the train.",
+          "もう出発しないと。そうしないと電車に乗り遅れる。"
+        ],
+        [
+          "Make sure to back up your files; otherwise, you could lose important data.",
+          "必ずファイルをバックアップしてください。さもないと重要なデータを失う可能性があります。"
+        ],
+        [
+          "The hotel was expensive, but otherwise excellent.",
+          "そのホテルは値段が高かったが、それ以外は素晴らしかった。"
+        ],
+        [
+          "The report contains a few minor errors but is otherwise accurate.",
+          "その報告書にはいくつか軽微な誤りがあるものの、それ以外は正確だ。"
+        ],
+        [
+          "The company faced a temporary decline in sales but remained otherwise financially stable.",
+          "その企業は一時的な売上減少に直面したが、それ以外の点では財務的に安定していた。"
+        ],
+        [
+          "Unless otherwise instructed, employees should follow the standard procedure.",
+          "別途指示がない限り、従業員は標準手順に従うものとする。"
+        ],
+        [
+          "The evidence suggests otherwise.",
+          "その証拠は、そうではないことを示している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "other",
+          "ipa": "/ˈʌðər/",
+          "pos": "形容詞・代名詞",
+          "meaning": "ほかの、別の",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "古英語 ōther。",
+          "example": "We need to consider other options.",
+          "translation": "私たちはほかの選択肢を検討する必要がある。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "likewise",
+          "ipa": "/ˈlaɪkwaɪz/",
+          "pos": "副詞",
+          "meaning": "同様に",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "like ＋ -wise。",
+          "example": "The first proposal was rejected; likewise, the second failed to gain approval.",
+          "translation": "最初の提案は却下され、同様に2番目の提案も承認を得られなかった。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "clockwise",
+          "ipa": "/ˈklɑːkwaɪz/",
+          "pos": "副詞・形容詞",
+          "meaning": "時計回りに",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "etymology": "clock ＋ -wise。",
+          "example": "Turn the dial clockwise.",
+          "translation": "ダイヤルを時計回りに回してください。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "similarly",
+          "ipa": "/ˈsɪmələrli/",
+          "pos": "副詞",
+          "meaning": "同様に",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "similar ＋ -ly。語形成上の比較語で、otherwise の同語源語ではない。",
+          "example": "The two companies responded similarly to the market changes.",
+          "translation": "その2社は市場の変化に対して同様の対応を取った。",
+          "note": "",
+          "relationship": "reference"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "or else",
+          "ipa": "/ɔːr els/",
+          "pos": "接続表現",
+          "meaning": "さもなければ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "etymology": "else は古英語 elles（ほかに）。",
+          "example": "Hurry up, or else we'll be late.",
+          "translation": "急いで。そうしないと遅刻するよ。",
+          "note": "会話でよく使い、警告の響きもある。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "alternatively",
+          "ipa": "/ɔːlˈtɜːrnətɪvli/",
+          "pos": "副詞",
+          "meaning": "別の選択肢として",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "ラテン語 alternare（交互にする）。",
+          "example": "Alternatively, we could postpone the meeting.",
+          "translation": "別の選択肢として、会議を延期することもできます。",
+          "note": "選択肢の提示であり、悪い結果とは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "apart from that",
+          "ipa": "/əˈpɑːrt frəm ðæt/",
+          "pos": "副詞句",
+          "meaning": "それを除けば",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "etymology": "apart（離れて）＋ from。",
+          "example": "The room was small, but apart from that, it was comfortable.",
+          "translation": "部屋は狭かったが、それを除けば快適だった。",
+          "note": "例外を除いた全体評価。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "differently",
+          "ipa": "/ˈdɪfrəntli/",
+          "pos": "副詞",
+          "meaning": "違った方法で",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "etymology": "ラテン語 differre（異なる方向へ運ぶ）。",
+          "example": "We should approach the problem differently.",
+          "translation": "私たちはその問題に違った方法で取り組むべきだ。",
+          "note": "方法・様態の違いを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "instead",
+          "ipa": "/ɪnˈsted/",
+          "pos": "副詞",
+          "meaning": "その代わりに",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "in ＋ stead（場所・立場）。",
+          "example": "We decided to invest in automation instead.",
+          "translation": "私たちは代わりに自動化へ投資することにした。",
+          "note": "代替・置き換えを強調。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "otherwise は条件が満たされない場合の結果や、別の側面・状態・方法を表す。or else は口語的な警告、alternatively は別案、apart from that は例外を除いた評価、differently は方法の違い、instead は置き換え。",
+      "comparisonRows": [
+        [
+          "otherwise",
+          "別の状況・側面・方法を幅広く表す"
+        ],
+        [
+          "or else",
+          "さもないと。口語的で警告にもなる"
+        ],
+        [
+          "alternatively",
+          "別の選択肢として"
+        ],
+        [
+          "apart from that",
+          "それを除けば"
+        ],
+        [
+          "differently",
+          "違った方法で"
+        ],
+        [
+          "instead",
+          "その代わりに。置き換えを強調"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/otherwise.svg",
+        "alt": "現在の状況から別の状況・別の側面に視点が移る図。"
+      }
     }
   ]
 }
