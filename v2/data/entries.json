@@ -14136,6 +14136,197 @@
         "src": "./images/core/resign.svg",
         "alt": "職務や役職を手放す意味と、抵抗や期待を手放して諦めて受け入れる意味の分岐図。"
       }
+    },
+    {
+      "id": "quaint",
+      "word": "quaint",
+      "pos": "形容詞",
+      "ipa": "米・英 /kweɪnt/",
+      "meaning": "古風で趣のある、昔ながらで魅力的な；（皮肉に）時代遅れで滑稽な",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 2,
+      "etymology": "ラテン語 cognitus（知られた、理解された）から古フランス語 cointe（賢い、巧みな、洗練された）を経て中英語 queinte/quaint（巧妙な、優雅な、珍しい）となった。珍しく凝ったものから、古風で趣のあるものへ意味が変化。現代英語の qu- と -aint に分解しない。",
+      "core": "現代の普通のものとは違う、昔ながらの独特な魅力。文脈によっては時代遅れで滑稽という皮肉になる。",
+      "usage": "a quaint village（趣のある村）、a quaint little town（古風で魅力的な小さな町）、a quaint cottage（昔ながらの趣があるコテージ）、a quaint café（レトロで趣のあるカフェ）、a quaint tradition（昔ながらの独特な伝統）、seem rather quaint（かなり時代遅れに思える）。",
+      "examples": [
+        [
+          "We stayed in a quaint little cottage in the countryside.",
+          "私たちは田舎にある、古風で趣のある小さなコテージに泊まった。"
+        ],
+        [
+          "The village is famous for its quaint cobblestone streets.",
+          "その村は趣のある石畳の道で有名だ。"
+        ],
+        [
+          "She runs a quaint bookstore near the old town square.",
+          "彼女は旧市街の広場の近くで、趣のある書店を営んでいる。"
+        ],
+        [
+          "The restaurant has a quaint, old-world atmosphere.",
+          "そのレストランには、昔ながらの趣のある雰囲気が漂っている。"
+        ],
+        [
+          "I found the town's quaint traditions fascinating.",
+          "私はその町の独特で昔ながらの伝統に魅力を感じた。"
+        ],
+        [
+          "The hotel combines modern amenities with quaint architectural details.",
+          "そのホテルは現代的な設備と趣のある建築上の意匠を組み合わせている。"
+        ],
+        [
+          "His belief that business can be conducted entirely by handwritten letters seems quaint today.",
+          "ビジネスはすべて手書きの手紙で行えるという彼の考えは、今では時代錯誤に思える。"
+        ],
+        [
+          "The company's old approach to data security now looks rather quaint.",
+          "その企業の昔ながらのデータセキュリティ対策は、今ではかなり時代遅れに見える。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "quaintness",
+          "ipa": "/ˈkweɪntnəs/",
+          "pos": "名詞",
+          "meaning": "古風な趣",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "etymology": "quaint に名詞化接尾辞 -ness を付けた語。",
+          "example": "The quaintness of the village attracts many visitors.",
+          "translation": "その村の古風な趣は多くの観光客を引きつけている。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "cognition",
+          "ipa": "/kɑːɡˈnɪʃən/",
+          "pos": "名詞",
+          "meaning": "認知",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "etymology": "ラテン語 cognoscere（知る）に由来。quaint と遠い語源的関連がある。",
+          "example": "Cognition involves memory, attention, and reasoning.",
+          "translation": "認知には記憶、注意、推論が含まれる。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "recognize",
+          "ipa": "/ˈrekəɡnaɪz/",
+          "pos": "動詞",
+          "meaning": "認識する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 recognoscere（再び認識する）に由来。quaint と遠い語源的関連がある。",
+          "example": "I barely recognized the town after ten years.",
+          "translation": "10年ぶりに訪れた町は、ほとんど見分けがつかなかった。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "charming",
+          "ipa": "/ˈtʃɑːrmɪŋ/",
+          "pos": "形容詞",
+          "meaning": "魅力的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "etymology": "ラテン語 carmen（歌、呪文）にさかのぼる。人を魅了するイメージ。",
+          "example": "The café has a charming atmosphere.",
+          "translation": "そのカフェには魅力的な雰囲気がある。",
+          "note": "古さは必要なく、人を引きつける魅力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "picturesque",
+          "ipa": "/ˌpɪktʃəˈresk/",
+          "pos": "形容詞",
+          "meaning": "絵のように美しい",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "etymology": "イタリア語 pittoresco（絵画のような）に由来。",
+          "example": "The town is surrounded by picturesque hills.",
+          "translation": "その町は絵のように美しい丘に囲まれている。",
+          "note": "視覚的な美しさ、絵になる景観。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "rustic",
+          "ipa": "/ˈrʌstɪk/",
+          "pos": "形容詞",
+          "meaning": "田舎風の、素朴な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "ラテン語 rusticus（田舎の）に由来。",
+          "example": "The restaurant has a rustic interior with wooden furniture.",
+          "translation": "そのレストランは木製家具を使った素朴な内装だ。",
+          "note": "田舎風の素朴さ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "old-fashioned",
+          "ipa": "/ˌoʊld ˈfæʃənd/",
+          "pos": "形容詞",
+          "meaning": "古風な、時代遅れの",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "etymology": "old（古い）＋ fashion（様式・流行）から。",
+          "example": "His management style is rather old-fashioned.",
+          "translation": "彼の経営スタイルはかなり時代遅れだ。",
+          "note": "好意的にも否定的にも使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "antique",
+          "ipa": "/ænˈtiːk/",
+          "pos": "形容詞・名詞",
+          "meaning": "骨董の、アンティーク品",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "etymology": "ラテン語 antīquus（古い）に由来。",
+          "example": "She bought an antique desk at the market.",
+          "translation": "彼女は市場でアンティークの机を買った。",
+          "note": "古い時代の品物、骨董品。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "quaint は古風で独特の魅力（皮肉にもなる）。charming は一般的な魅力、picturesque は絵になる景観、rustic は田舎風の素朴さ、old-fashioned は昔の様式・時代遅れ、antique は古い時代の品物。",
+      "comparisonRows": [
+        [
+          "quaint",
+          "古風で独特の魅力。時に皮肉"
+        ],
+        [
+          "charming",
+          "古さを問わず魅力的"
+        ],
+        [
+          "picturesque",
+          "絵になる視覚的な美しさ"
+        ],
+        [
+          "rustic",
+          "田舎風で素朴"
+        ],
+        [
+          "old-fashioned",
+          "昔の様式、時代遅れ"
+        ],
+        [
+          "antique",
+          "骨董・古い時代の品物"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/quaint.svg",
+        "alt": "機能的な現代建築と古風で趣のある家並みを対比する図。"
+      }
     }
   ]
 }
