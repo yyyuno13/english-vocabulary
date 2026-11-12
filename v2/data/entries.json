@@ -15372,6 +15372,228 @@
         "src": "./images/core/otherwise.svg",
         "alt": "現在の状況から別の状況・別の側面に視点が移る図。"
       }
+    },
+    {
+      "id": "duration",
+      "word": "duration",
+      "pos": "名詞",
+      "ipa": "米 /dʊˈreɪʃən/ または /djʊˈreɪʃən/、英 /djʊəˈreɪʃən/",
+      "meaning": "継続時間、所要時間、存続期間；（金融）債券のデュレーション",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語 durare（長く続く、持ちこたえる）に由来し、durus（硬い、丈夫な）と関連する。硬く丈夫→持ちこたえる→長く続く→継続期間という意味のつながり。-tion は名詞化に関わるが、歴史的にはラテン語の名詞形を経由する。",
+      "core": "出来事や状態が始まってから終わるまでの時間の幅。時刻そのものではなく継続の長さに注目する。",
+      "usage": "the duration of ...（～の期間）、for the duration of ...（～の全期間にわたって）、of short/long duration（短期間／長期間の）、contract duration（契約期間）、flight duration（飛行時間）、modified duration（修正デュレーション）、effective duration（実効デュレーション）。金融では債券価格の金利感応度を測る指標。",
+      "examples": [
+        [
+          "The duration of the meeting was approximately two hours.",
+          "会議の所要時間は約2時間だった。"
+        ],
+        [
+          "The duration of the flight is eleven hours.",
+          "そのフライトの所要時間は11時間だ。"
+        ],
+        [
+          "The symptoms may vary in duration and severity.",
+          "症状は継続時間や重症度が異なる場合がある。"
+        ],
+        [
+          "The training program has a duration of six weeks.",
+          "その研修プログラムの期間は6週間だ。"
+        ],
+        [
+          "The contract remains valid for the duration of the project.",
+          "その契約はプロジェクトの全期間にわたって有効だ。"
+        ],
+        [
+          "Employees must maintain confidentiality for the duration of their employment.",
+          "従業員は雇用期間中、秘密を保持しなければならない。"
+        ],
+        [
+          "Bonds with longer duration are generally more sensitive to changes in interest rates.",
+          "デュレーションが長い債券は、一般に金利変動に対する感応度が高い。"
+        ],
+        [
+          "The portfolio manager reduced the fund's duration to limit interest rate risk.",
+          "ポートフォリオマネージャーは金利リスクを抑えるため、ファンドのデュレーションを短縮した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "durable",
+          "ipa": "/ˈdʊrəbəl/",
+          "pos": "形容詞",
+          "meaning": "耐久性のある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 durare（持ちこたえる）。",
+          "example": "The company manufactures durable equipment.",
+          "translation": "その会社は耐久性の高い機器を製造している。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "durability",
+          "ipa": "/ˌdʊrəˈbɪləti/",
+          "pos": "名詞",
+          "meaning": "耐久性",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "durable の名詞形。",
+          "example": "We need to assess the durability of the materials.",
+          "translation": "私たちはその素材の耐久性を評価する必要がある。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "endure",
+          "ipa": "/ɪnˈdʊr/",
+          "pos": "動詞",
+          "meaning": "耐える、持続する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 indurare（硬くする、持ちこたえる）。",
+          "example": "The system must endure extreme weather conditions.",
+          "translation": "そのシステムは極端な気象条件に耐えなければならない。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "endurance",
+          "ipa": "/ɪnˈdʊrəns/",
+          "pos": "名詞",
+          "meaning": "忍耐力、持久力",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "endure の名詞形。",
+          "example": "Marathon running requires considerable endurance.",
+          "translation": "マラソンには相当な持久力が必要だ。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "during",
+          "ipa": "/ˈdʊrɪŋ/",
+          "pos": "前置詞",
+          "meaning": "～の間に",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "中英語 dure（続く）の現在分詞形に由来し、同じ語源につながる。",
+          "example": "Sales increased during the holiday season.",
+          "translation": "休暇シーズンの間に売上が増加した。",
+          "note": "",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "period",
+          "ipa": "/ˈpɪriəd/",
+          "pos": "名詞",
+          "meaning": "期間、時代",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ギリシャ語 periodos（巡回、周期）。",
+          "example": "The company experienced rapid growth over a five-year period.",
+          "translation": "その会社は5年間にわたり急成長を遂げた。",
+          "note": "区切られた期間。歴史的な時代にも使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "term",
+          "ipa": "/tɜːrm/",
+          "pos": "名詞",
+          "meaning": "契約期間、任期",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 terminus（境界、終点）。",
+          "example": "The contract has a term of three years.",
+          "translation": "その契約の期間は3年間だ。",
+          "note": "制度上定められた期間。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "span",
+          "ipa": "/spæn/",
+          "pos": "名詞",
+          "meaning": "時間・距離の幅",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "古英語 spann（手の幅）。",
+          "example": "The project was completed within a short span of time.",
+          "translation": "そのプロジェクトは短期間で完了した。",
+          "note": "開始から終了までの広がり。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "length",
+          "ipa": "/leŋθ/",
+          "pos": "名詞",
+          "meaning": "長さ",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "etymology": "古英語 lengþu（長さ）。",
+          "example": "The length of the interview surprised the candidate.",
+          "translation": "面接の長さに応募者は驚いた。",
+          "note": "時間・物理的な長さの一般表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "tenure",
+          "ipa": "/ˈtenjər/",
+          "pos": "名詞",
+          "meaning": "在任期間、在職期間",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 tenere（保持する）。",
+          "example": "During her tenure as CEO, revenue doubled.",
+          "translation": "彼女のCEO在任期間中に売上高は2倍になった。",
+          "note": "役職・地位を保持している期間。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "duration は継続する時間の長さ。period は区切られた期間、term は契約・任期など定められた期間、span は時間的な幅、length は一般的な長さ、tenure は在任・在職期間。",
+      "comparisonRows": [
+        [
+          "duration",
+          "出来事や状態が続く時間の長さ"
+        ],
+        [
+          "period",
+          "区切られた期間、歴史的な時代"
+        ],
+        [
+          "term",
+          "契約・任期など制度上定められた期間"
+        ],
+        [
+          "span",
+          "開始から終了までの時間的な幅"
+        ],
+        [
+          "length",
+          "時間・物理的な長さの一般表現"
+        ],
+        [
+          "tenure",
+          "職務・地位を保持する期間"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/duration.svg",
+        "alt": "開始時点と終了時点の間の時間幅を示す図。"
+      }
     }
   ]
 }
