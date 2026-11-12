@@ -68,6 +68,7 @@ const relation = (item, entryId, key) => {
   add(card,ratings(item));
   if(item.meaning)card.append(el('p','',item.meaning));
   if(item.note)card.append(el('p','minor',item.note));
+  if(item.etymology)card.append(el('p','minor','語源：'+item.etymology));
   if(item.example)card.append(examples([[item.example,item.translation||'']]));
   return card;
 };
