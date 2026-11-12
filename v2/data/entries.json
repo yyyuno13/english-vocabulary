@@ -15594,6 +15594,214 @@
         "src": "./images/core/duration.svg",
         "alt": "開始時点と終了時点の間の時間幅を示す図。"
       }
+    },
+    {
+      "id": "screw-up",
+      "word": "screw up",
+      "pos": "句動詞",
+      "ipa": "/skruː ʌp/",
+      "meaning": "失敗する、しくじる；～を台無しにする、混乱させる",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 3,
+      "etymology": "screw は中英語 screwe、古フランス語 escroue（ねじ・ナット）と関連。up は結果や完了を強調する小辞。「失敗する」という比喩的意味の成立を、ねじの物理的動きだけで説明することはできない。",
+      "core": "自分のミスや不適切な行動によって、正常な状態・計画を乱してしまう。",
+      "usage": "I screwed up.（やらかした）、screw something up（～を台無しにする）、screw things up（物事をめちゃくちゃにする）、a screw-up（失敗・へま）、a major screw-up（大失敗）、screwed up（混乱した）。代名詞目的語は I screwed it up のように中間に置く。くだけた表現なのでフォーマルな場では make a mistake / make an error などを使う。",
+      "examples": [
+        [
+          "I screwed up during the presentation.",
+          "プレゼン中にやらかしてしまった。"
+        ],
+        [
+          "Don't worry. Everyone screws up sometimes.",
+          "心配しないで。誰だって時には失敗する。"
+        ],
+        [
+          "I really screwed up this time.",
+          "今回は本当に大失敗してしまった。"
+        ],
+        [
+          "I screwed up the schedule by booking the wrong date.",
+          "間違った日付で予約してしまい、スケジュールを台無しにした。"
+        ],
+        [
+          "One small mistake could screw up the entire project.",
+          "たった一つの小さなミスでプロジェクト全体が台無しになる可能性がある。"
+        ],
+        [
+          "The software update screwed up my computer settings.",
+          "ソフトウェアのアップデートでパソコンの設定がおかしくなった。"
+        ],
+        [
+          "I don't want to screw up our relationship.",
+          "私たちの関係を台無しにしたくない。"
+        ],
+        [
+          "The unexpected criticism really screwed him up.",
+          "予想外の批判は彼を精神的にひどく動揺させた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "screw",
+          "ipa": "/skruː/",
+          "pos": "名詞・動詞",
+          "meaning": "ねじ、ねじで締める",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 3,
+          "etymology": "句動詞の構成要素。",
+          "example": "Tighten the screw with a screwdriver.",
+          "translation": "ドライバーでねじを締めてください。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "screw-up",
+          "ipa": "/ˈskruː ʌp/",
+          "pos": "名詞",
+          "meaning": "失敗、へま",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "句動詞 screw up の名詞化。",
+          "example": "The scheduling error was a major screw-up.",
+          "translation": "スケジュールの誤りは重大な失敗だった。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "screwed-up",
+          "ipa": "/ˌskruːd ˈʌp/",
+          "pos": "形容詞",
+          "meaning": "混乱した、めちゃくちゃな",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "句動詞の過去分詞に由来。",
+          "example": "The whole system is screwed up.",
+          "translation": "システム全体がめちゃくちゃになっている。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "unscrew",
+          "ipa": "/ʌnˈskruː/",
+          "pos": "動詞",
+          "meaning": "ねじを緩める、外す",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "etymology": "un-（逆の動作）＋ screw。",
+          "example": "Unscrew the lid before filling the bottle.",
+          "translation": "ボトルに中身を入れる前に、ふたを回して外してください。",
+          "note": "",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "mess up",
+          "ipa": "/mes ʌp/",
+          "pos": "句動詞",
+          "meaning": "失敗する、混乱させる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "etymology": "mess（混乱）＋ up（結果の強調）。",
+          "example": "I messed up the calculations.",
+          "translation": "計算を間違えてしまった。",
+          "note": "幅広い場面で使える口語表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "make a mistake",
+          "ipa": "/meɪk ə mɪˈsteɪk/",
+          "pos": "動詞句",
+          "meaning": "ミスをする",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "mistake は mis-（誤って）＋ take（取る）。",
+          "example": "I made a mistake in the financial report.",
+          "translation": "財務報告書でミスをした。",
+          "note": "最も中立的でビジネスでも使いやすい。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "botch",
+          "ipa": "/bɑːtʃ/",
+          "pos": "動詞",
+          "meaning": "作業をしくじる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "語源は確定していない。",
+          "example": "The contractor botched the installation.",
+          "translation": "請負業者は設置作業をしくじった。",
+          "note": "作業を下手に行い台無しにする。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "bungle",
+          "ipa": "/ˈbʌŋɡəl/",
+          "pos": "動詞",
+          "meaning": "不器用にしくじる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "etymology": "語源は不確実。",
+          "example": "The team bungled the product launch.",
+          "translation": "チームは製品発売の段取りをしくじった。",
+          "note": "不注意・不器用による失敗。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "blow it",
+          "ipa": "/bloʊ ɪt/",
+          "pos": "動詞句",
+          "meaning": "チャンスをふいにする",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "etymology": "blow（吹く）を用いた口語的な比喩表現。",
+          "example": "I had a chance to win the contract, but I blew it.",
+          "translation": "契約を獲得するチャンスがあったのに、台無しにしてしまった。",
+          "note": "特に機会を逃すニュアンス。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "screw up はくだけた『やらかす』。mess up は失敗・混乱全般、make a mistake は中立的なミス、botch は作業の失敗、bungle は不器用・不注意による失敗、blow it は好機をふいにする。",
+      "comparisonRows": [
+        [
+          "screw up",
+          "しくじる、やらかす。くだけた表現"
+        ],
+        [
+          "mess up",
+          "失敗する、混乱させる"
+        ],
+        [
+          "make a mistake",
+          "中立的なミス。ビジネスにも適する"
+        ],
+        [
+          "botch",
+          "作業を下手に行い台無しにする"
+        ],
+        [
+          "bungle",
+          "不注意・不器用による失敗"
+        ],
+        [
+          "blow it",
+          "チャンスをふいにする"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/screw-up.svg",
+        "alt": "正常な状態がミスによって台無しになる図。"
+      }
     }
   ]
 }
