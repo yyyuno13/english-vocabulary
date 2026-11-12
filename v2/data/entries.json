@@ -14766,6 +14766,200 @@
         "src": "./images/core/subordinate.svg",
         "alt": "上位者と下位者の組織階層を示す図。"
       }
+    },
+    {
+      "id": "rave",
+      "word": "rave",
+      "pos": "動詞・名詞",
+      "ipa": "米・英 /reɪv/",
+      "meaning": "熱狂的に褒める、絶賛する；興奮してわめく；熱狂的な称賛、レイブパーティー",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 3,
+      "etymology": "中英語 raven / rave（狂乱する、取り乱して話す）にさかのぼる。古フランス語 raver との関連が指摘されるが、さらに古い起源は不確実。興奮してわめく意味から、熱狂的に称賛する意味へ広がった。鳥の raven（ワタリガラス）とは別語源。",
+      "core": "感情が激しく高まり、抑えきれずに表現する。肯定的なら絶賛、否定的なら興奮してわめく。",
+      "usage": "rave about ...（～を熱狂的に褒める）、rave reviews（絶賛のレビュー）、receive rave reviews（絶賛される）、rant and rave（怒ってわめき散らす）、rave at someone（人に向かってわめく）、a rave party（レイブパーティー）。",
+      "examples": [
+        [
+          "Critics raved about the director's latest film.",
+          "批評家たちはその監督の最新作を絶賛した。"
+        ],
+        [
+          "Everyone has been raving about the new restaurant.",
+          "誰もがその新しいレストランを絶賛している。"
+        ],
+        [
+          "Customers are raving about the quality of the product.",
+          "顧客たちはその製品の品質を熱烈に褒めている。"
+        ],
+        [
+          "She raved about her experience working abroad.",
+          "彼女は海外で働いた経験について熱っぽく称賛した。"
+        ],
+        [
+          "He was raving about how unfairly he had been treated.",
+          "彼は自分がいかに不公平な扱いを受けたかについて、興奮してまくし立てていた。"
+        ],
+        [
+          "The angry customer raved at the staff for several minutes.",
+          "怒った客は数分間、店員に向かってわめき立てた。"
+        ],
+        [
+          "The performance received rave reviews from critics.",
+          "その公演は批評家たちから絶賛された。"
+        ],
+        [
+          "Thousands of people attended the outdoor rave.",
+          "何千人もの人々が野外のレイブパーティーに参加した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "raving",
+          "ipa": "/ˈreɪvɪŋ/",
+          "pos": "形容詞",
+          "meaning": "熱狂的な、激しくわめく",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "rave の現在分詞から。",
+          "example": "The book received enthusiastic praise from its fans.",
+          "translation": "その本はファンから熱烈な称賛を受けた。",
+          "note": "raving は raving fans（熱狂的なファン）などで用いる。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "raver",
+          "ipa": "/ˈreɪvər/",
+          "pos": "名詞",
+          "meaning": "レイブパーティーの参加者、熱狂的に語る人",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "etymology": "rave ＋ -er（人）。",
+          "example": "The festival attracted ravers from across Europe.",
+          "translation": "そのフェスティバルにはヨーロッパ各地からレイブ愛好者が集まった。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "rave-up",
+          "ipa": "/ˈreɪv ʌp/",
+          "pos": "名詞",
+          "meaning": "にぎやかなパーティー、騒ぎ",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "etymology": "rave を含む複合語。",
+          "example": "They organized a lively rave-up to celebrate the occasion.",
+          "translation": "彼らはその出来事を祝うため、にぎやかなパーティーを開いた。",
+          "note": "主にイギリス英語で、やや古風。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "praise",
+          "ipa": "/preɪz/",
+          "pos": "動詞・名詞",
+          "meaning": "褒める、称賛",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "古フランス語 preisier（価値を認める、称賛する）。",
+          "example": "The manager praised her team's performance.",
+          "translation": "マネージャーはチームの成果を称賛した。",
+          "note": "一般的な称賛。熱狂は不要。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "acclaim",
+          "ipa": "/əˈkleɪm/",
+          "pos": "動詞・名詞",
+          "meaning": "高く評価する、称賛",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 acclamare（声を上げて称賛する）。",
+          "example": "The novel was widely acclaimed by critics.",
+          "translation": "その小説は批評家たちから広く高い評価を受けた。",
+          "note": "公的・社会的な高評価。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "applaud",
+          "ipa": "/əˈplɔːd/",
+          "pos": "動詞",
+          "meaning": "拍手する、称賛する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "etymology": "ラテン語 applaudere（拍手する）。",
+          "example": "Investors applauded the company's decision to improve transparency.",
+          "translation": "投資家たちは透明性を高めるという会社の決定を称賛した。",
+          "note": "行動・決定を称賛する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "enthuse",
+          "ipa": "/ɪnˈθuːz/",
+          "pos": "動詞",
+          "meaning": "熱意を込めて語る",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "etymology": "ギリシャ語 entheos（神に満たされた）にさかのぼる。",
+          "example": "She enthused about the possibilities of the new technology.",
+          "translation": "彼女はその新技術の可能性について熱意を込めて語った。",
+          "note": "rave より穏やかなことが多い。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "rant",
+          "ipa": "/rænt/",
+          "pos": "動詞・名詞",
+          "meaning": "怒りや不満を長々と述べる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "etymology": "オランダ語 ranten（わめく、騒ぐ）と関連。",
+          "example": "He ranted about the company's inefficient procedures.",
+          "translation": "彼は会社の非効率な手続きについて怒りを込めて長々と不満を述べた。",
+          "note": "通常は否定的。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "rave は感情を強く表に出す熱狂的称賛（またはわめき）。praise は一般的な称賛、acclaim は公的な高評価、applaud は拍手・行動への称賛、enthuse は熱意を込めて語る、rant は怒りや不満を長々と激しく述べる。",
+      "comparisonRows": [
+        [
+          "rave",
+          "感情を強く表に出す絶賛／興奮したわめき"
+        ],
+        [
+          "praise",
+          "一般的な称賛。熱狂は不要"
+        ],
+        [
+          "acclaim",
+          "公的・社会的な高評価"
+        ],
+        [
+          "applaud",
+          "拍手、行動・決定への称賛"
+        ],
+        [
+          "enthuse",
+          "熱意を込めて語る。比較的穏やか"
+        ],
+        [
+          "rant",
+          "怒り・不満を長々と激しく述べる"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/rave.svg",
+        "alt": "激しい感情表現が絶賛とわめきの二方向に分かれる図。"
+      }
     }
   ]
 }
