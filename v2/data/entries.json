@@ -16038,6 +16038,228 @@
         "src": "./images/core/versatile.svg",
         "alt": "中心から複数の役割・用途・状況に向けて対応する図。"
       }
+    },
+    {
+      "id": "indispensable",
+      "word": "indispensable",
+      "pos": "形容詞",
+      "ipa": "米・英 /ˌɪndɪˈspensəbəl/",
+      "meaning": "不可欠な、絶対に必要な、なくてはならない",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 5,
+      "etymology": "否定の in- ＋ dispensable（省くことのできる）。dispense はラテン語 dispensare（量り分ける、分配する）に由来し、pensare（量る）、pendere（重さを量る）と関係する。省くことができない→不可欠な。",
+      "core": "取り除くと全体が成り立たなくなるほど必要なもの。",
+      "usage": "indispensable to ...（～にとって不可欠）、indispensable for ...（～のために不可欠）、an indispensable part of ...（不可欠な一部）、an indispensable tool（欠かせない道具）、an indispensable asset（不可欠な資産・人材）、virtually indispensable（事実上不可欠）、become indispensable（欠かせない存在になる）。",
+      "examples": [
+        [
+          "She has become an indispensable member of our team.",
+          "彼女は私たちのチームにとって欠かせない存在になった。"
+        ],
+        [
+          "Communication skills are indispensable for effective leadership.",
+          "コミュニケーション能力は効果的なリーダーシップに不可欠だ。"
+        ],
+        [
+          "A solid understanding of accounting principles is indispensable for auditors.",
+          "会計原則に対する確かな理解は、監査人にとって不可欠だ。"
+        ],
+        [
+          "The internet has become indispensable to modern business operations.",
+          "インターネットは現代の企業活動に不可欠なものとなった。"
+        ],
+        [
+          "Reliable data is indispensable for making informed decisions.",
+          "信頼できるデータは、十分な情報に基づいた意思決定に不可欠だ。"
+        ],
+        [
+          "This software is an indispensable tool for financial analysis.",
+          "このソフトウェアは財務分析に欠かせないツールだ。"
+        ],
+        [
+          "Public trust is indispensable to the stability of financial markets.",
+          "社会的な信頼は金融市場の安定に不可欠だ。"
+        ],
+        [
+          "Independent oversight is indispensable for maintaining accountability.",
+          "独立した監督は説明責任を維持するために不可欠だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "dispense",
+          "ipa": "/dɪˈspens/",
+          "pos": "動詞",
+          "meaning": "分配する、調剤する、免除する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 dispensare に由来。",
+          "example": "The pharmacy dispenses prescription medication.",
+          "translation": "その薬局は処方薬を調剤する。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "dispensable",
+          "ipa": "/dɪˈspensəbəl/",
+          "pos": "形容詞",
+          "meaning": "なくてもよい",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "etymology": "dispense ＋ -able。indispensable の反対語。",
+          "example": "Some administrative tasks may become dispensable through automation.",
+          "translation": "一部の事務作業は自動化によって不要になるかもしれない。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "dispensation",
+          "ipa": "/ˌdɪspenˈseɪʃən/",
+          "pos": "名詞",
+          "meaning": "特別な免除、分配",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "etymology": "ラテン語 dispensare に由来。",
+          "example": "The organization granted a special dispensation from the usual requirements.",
+          "translation": "その組織は通常の要件について特別な免除を認めた。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "expend",
+          "ipa": "/ɪkˈspend/",
+          "pos": "動詞",
+          "meaning": "費やす",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ex- ＋ pendere（量る）に関連。",
+          "example": "The company expended considerable resources on research.",
+          "translation": "その企業は研究に多大な資源を費やした。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "compensate",
+          "ipa": "/ˈkɑːmpənseɪt/",
+          "pos": "動詞",
+          "meaning": "補償する、埋め合わせる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "com- ＋ pensare（量る）。",
+          "example": "The company compensated customers for the inconvenience.",
+          "translation": "その企業は不便を被った顧客に補償した。",
+          "note": "",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "essential",
+          "ipa": "/ɪˈsenʃəl/",
+          "pos": "形容詞",
+          "meaning": "本質的に必要な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 essentia（本質）に由来。",
+          "example": "Accurate financial information is essential for investors.",
+          "translation": "正確な財務情報は投資家にとって不可欠だ。",
+          "note": "基本的・本質的な必要性。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "vital",
+          "ipa": "/ˈvaɪtəl/",
+          "pos": "形容詞",
+          "meaning": "極めて重要な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 vita（生命）。",
+          "example": "Maintaining liquidity is vital to the company's survival.",
+          "translation": "流動性の維持は企業の存続に極めて重要だ。",
+          "note": "成功・存続に極めて重要。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "crucial",
+          "ipa": "/ˈkruːʃəl/",
+          "pos": "形容詞",
+          "meaning": "決定的に重要な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 crux（十字架、交差点）に関連。",
+          "example": "Timing is crucial to the success of the acquisition.",
+          "translation": "タイミングは買収の成否を左右するほど重要だ。",
+          "note": "結果を左右する重要性。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "necessary",
+          "ipa": "/ˈnesəseri/",
+          "pos": "形容詞",
+          "meaning": "必要な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 necessarius（必要な）。",
+          "example": "It is necessary to obtain approval before proceeding.",
+          "translation": "進める前に承認を得る必要がある。",
+          "note": "必要条件を表す中立的な語。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "irreplaceable",
+          "ipa": "/ˌɪrɪˈpleɪsəbəl/",
+          "pos": "形容詞",
+          "meaning": "代替できない",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ir-（否定）＋ replaceable。",
+          "example": "The original documents are irreplaceable.",
+          "translation": "その原本は代替がきかない。",
+          "note": "代わりが存在しないことを強調。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "indispensable は省くことができないほど不可欠。essential は本質的な必要性、vital は存続に関わる重要性、crucial は結果を左右する重要性、necessary は必要条件、irreplaceable は代替不可能性。",
+      "comparisonRows": [
+        [
+          "indispensable",
+          "取り除けないほど不可欠"
+        ],
+        [
+          "essential",
+          "本質的・基本的に必要"
+        ],
+        [
+          "vital",
+          "存続や成功に極めて重要"
+        ],
+        [
+          "crucial",
+          "結果を左右するほど重要"
+        ],
+        [
+          "necessary",
+          "必要条件である"
+        ],
+        [
+          "irreplaceable",
+          "代わりが存在しない"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/indispensable.svg",
+        "alt": "不可欠な要素を取り除くと全体が成立しなくなる図。"
+      }
     }
   ]
 }
