@@ -13701,6 +13701,136 @@
         }
       ],
       "comparison": "in light ofは新情報や事情を判断材料にする。consideringは一般的な考慮、givenは条件を前提とする、in view ofはややフォーマルな考慮。due toとbecause ofは原因・理由をより直接的に表す。例：In light of the new regulations, we changed our policy.（規制を踏まえた判断）とDue to the new regulations, we changed our policy.（規制が変更の原因）"
+    },
+    {
+      "id": "clamp-down",
+      "word": "clamp down",
+      "pos": "句動詞",
+      "ipa": "米・英 /ˌklæmp ˈdaʊn/",
+      "meaning": "（clamp down on）〜を厳しく取り締まる、厳しく規制する、強力に抑え込む",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "clamp（締め具で強く挟む・固定する）＋down（押さえつける方向）。物理的に強く固定することから、違反行為や望ましくない行動を強い措置で制限する比喩に発展。clampの詳細な語源には不確かな点がある。",
+      "core": "万力で強く押さえ込み、自由な動きを制限するイメージ。規制当局や組織が取り締まりを強化し、対象の行動を抑制する。",
+      "usage": "clamp down on + 名詞・動名詞。自動詞的句動詞で対象はonで導く。clamp down on tax evasion / corruption / accounting fraud / excessive spending。名詞形clampdown。",
+      "examples": [
+        [
+          "The government is clamping down on tax evasion.",
+          "政府は脱税の取り締まりを強化している。"
+        ],
+        [
+          "Authorities have clamped down on illegal gambling operations.",
+          "当局は違法賭博の運営を厳しく取り締まっている。"
+        ],
+        [
+          "The city plans to clamp down on reckless driving.",
+          "市は危険運転の取り締まりを強化する予定だ。"
+        ],
+        [
+          "The company decided to clamp down on unauthorized access to confidential information.",
+          "会社は機密情報への不正アクセスを厳しく取り締まることにした。"
+        ],
+        [
+          "Regulators are clamping down on misleading financial disclosures.",
+          "規制当局は誤解を招く財務情報の開示に対する取り締まりを強化している。"
+        ],
+        [
+          "The new management team clamped down on unnecessary spending.",
+          "新しい経営陣は不要な支出を厳しく抑制した。"
+        ],
+        [
+          "The government introduced new regulations to clamp down on money laundering.",
+          "政府はマネーロンダリングを厳しく取り締まるため、新たな規制を導入した。"
+        ],
+        [
+          "Following the scandal, the authorities clamped down on accounting fraud.",
+          "不祥事を受けて、当局は会計不正の取り締まりを強化した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "clamp",
+          "pos": "名詞・動詞",
+          "ipa": "/klæmp/",
+          "meaning": "締め具、強く固定する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The technician used a clamp to hold the pipe in place.",
+          "translation": "技術者はパイプを固定するために締め具を使用した。",
+          "note": "句動詞の物理的な意味の基盤。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "clampdown",
+          "pos": "名詞",
+          "ipa": "/ˈklæmpdaʊn/",
+          "meaning": "厳しい取り締まり",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The government announced a clampdown on financial fraud.",
+          "translation": "政府は金融詐欺に対する厳しい取り締まりを発表した。",
+          "note": "clamp downの名詞形。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "crack down on",
+          "pos": "句動詞",
+          "ipa": "/ˌkræk ˈdaʊn ɑːn/",
+          "meaning": "〜を厳しく取り締まる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Police cracked down on organized crime.",
+          "translation": "警察は組織犯罪を厳しく取り締まった。",
+          "note": "違反行為に断固として対処。clamp down onと多くの文脈で交換可能。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "tighten restrictions on",
+          "pos": "動詞句",
+          "ipa": "/ˈtaɪtən rɪˈstrɪkʃənz ɑːn/",
+          "meaning": "〜に対する規制を強化する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The government tightened restrictions on foreign investment.",
+          "translation": "政府は外国投資に対する規制を強化した。",
+          "note": "規制の厳格化そのものを述べる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "curb",
+          "pos": "動詞",
+          "ipa": "/kɝːb/",
+          "meaning": "抑制する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The central bank introduced measures to curb inflation.",
+          "translation": "中央銀行はインフレを抑制する措置を導入した。",
+          "note": "違法行為以外の増加・行動も抑制する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "suppress",
+          "pos": "動詞",
+          "ipa": "/səˈpres/",
+          "meaning": "抑圧する、抑え込む",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The authorities attempted to suppress the protests.",
+          "translation": "当局は抗議活動を抑え込もうとした。",
+          "note": "強い力で抑え込む。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "clamp down onは規制・取り締まりを強化して対象の行動を制限する。crack down onは違反行為への断固たる措置を強調するが多くの文脈で交換可能。tighten restrictions onは規則・制限を厳格化すること、curbは違法行為に限らず増加・行動を抑制すること、suppressは強い力で抑圧すること。curb inflationは自然だがclamp down on inflationは通常不自然。"
     }
   ]
 }
