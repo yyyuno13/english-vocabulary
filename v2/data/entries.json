@@ -16454,6 +16454,838 @@
         "src": "./images/core/prone.svg",
         "alt": "物体が一方向へ傾いており、その状態になりやすいことを示す図。"
       }
+    },
+    {
+      "id": "gradient",
+      "word": "gradient",
+      "pos": "名詞",
+      "ipa": "米・英 /ˈɡreɪdiənt/",
+      "meaning": "勾配、傾斜度；（温度・圧力などの）変化率・勾配；色のグラデーション",
+      "difficulty": 3,
+      "daily": 2,
+      "business": 2,
+      "etymology": "ラテン語 gradiens（歩いている、進んでいる：gradi「歩く、進む」の現在分詞）に由来。gradus（歩み、段階）と同系。段階的に位置を進む際の変化という意味へ発展した。",
+      "core": "ある方向に進むにつれ、高さ・温度・圧力・色などがどれだけ変わるか。坂の傾きから、位置に対する物理量の変化率や色の連続的な移り変わりへ広がる。",
+      "usage": "a steep/gentle gradient（急な／緩やかな勾配）、temperature/pressure gradient（温度／圧力勾配）、color gradient（色のグラデーション）、gradient of a function（関数の勾配）。多変数関数のgradientは最大増加方向を表すベクトル。",
+      "examples": [
+        [
+          "The road has a steep gradient.",
+          "その道路は勾配が急だ。"
+        ],
+        [
+          "The railway was designed to maintain a gentle gradient.",
+          "その鉄道は緩やかな勾配を保つよう設計された。"
+        ],
+        [
+          "The gradient of the line is positive.",
+          "その直線の傾きは正である。"
+        ],
+        [
+          "Scientists measured the temperature gradient in the atmosphere.",
+          "科学者たちは大気中の温度勾配を測定した。"
+        ],
+        [
+          "Water flows in response to a pressure gradient.",
+          "水は圧力勾配に応じて流れる。"
+        ],
+        [
+          "The background uses a gradient from blue to purple.",
+          "背景には青から紫へのグラデーションが使われている。"
+        ],
+        [
+          "Engineers must consider the gradient when designing roads.",
+          "技術者は道路設計の際に勾配を考慮しなければならない。"
+        ],
+        [
+          "The model calculates the gradient of the loss function.",
+          "そのモデルは損失関数の勾配を計算する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "grade",
+          "pos": "名詞・動詞",
+          "ipa": "/ɡreɪd/",
+          "meaning": "等級、成績、傾斜；格付けする",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The road has a six-percent grade.",
+          "translation": "その道路には6パーセントの勾配がある。",
+          "note": "gradus（段階）に由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "gradual",
+          "pos": "形容詞",
+          "ipa": "/ˈɡrædʒuəl/",
+          "meaning": "徐々の、段階的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The temperature increased gradually.",
+          "translation": "気温は徐々に上昇した。",
+          "note": "段階を一つずつ進むイメージ。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "graduate",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈɡrædʒueɪt/",
+          "meaning": "卒業する；卒業生",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "She graduated from university last year.",
+          "translation": "彼女は昨年大学を卒業した。",
+          "note": "学習の段階を終えることに関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "degrade",
+          "pos": "動詞",
+          "ipa": "/dɪˈɡreɪd/",
+          "meaning": "劣化させる、格下げする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Sunlight can degrade the material.",
+          "translation": "日光はその素材を劣化させることがある。",
+          "note": "de-（下へ）＋grade（段階）。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "upgrade",
+          "pos": "動詞・名詞",
+          "ipa": "/ˌʌpˈɡreɪd/",
+          "meaning": "改良する、格上げする；改良",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "We upgraded the security system.",
+          "translation": "私たちはセキュリティシステムを改良した。",
+          "note": "up＋grade。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "slope",
+          "pos": "名詞",
+          "ipa": "/sloʊp/",
+          "meaning": "坂、傾斜、傾き",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The slope is too steep for cyclists.",
+          "translation": "その坂は自転車に乗る人には急すぎる。",
+          "note": "日常の坂道や数学的な傾きに広く使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "incline",
+          "pos": "名詞",
+          "ipa": "/ˈɪnklaɪn/",
+          "meaning": "坂、傾斜面",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "The path rises along a gentle incline.",
+          "translation": "小道は緩やかな坂に沿って上っている。",
+          "note": "傾いた面・坂そのものを表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "steepness",
+          "pos": "名詞",
+          "ipa": "/ˈstiːpnəs/",
+          "meaning": "傾斜の急さ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The steepness of the hill surprised us.",
+          "translation": "丘の傾斜の急さに驚いた。",
+          "note": "勾配の大きさを日常的に表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "gradation",
+          "pos": "名詞",
+          "ipa": "/ɡrəˈdeɪʃən/",
+          "meaning": "段階的変化、色の階調",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The painting shows a subtle gradation of blue.",
+          "translation": "その絵画には青色の繊細な階調変化が見られる。",
+          "note": "色や程度の段階的な変化を強調する。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "gradientは位置に対する変化率を強調し、科学・工学・数学で頻出。slopeは坂そのものや直線の傾きに広く使う。inclineは傾斜面、steepnessは急さに重点。gradationは色・程度が段階的に変化する過程を表す。数学の多変数関数ではgradientは最大増加方向のベクトルを指す。"
+    },
+    {
+      "id": "outstanding",
+      "word": "outstanding",
+      "pos": "形容詞",
+      "ipa": "米・英 /aʊtˈstændɪŋ/",
+      "meaning": "傑出した、非常に優れた；未解決の、未処理の；未払いの、未返済の；（株式などが）発行済みで流通している",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "out（外に）＋standing（stand「立つ」の現在分詞）。他から突出して立つことから「傑出した」、処理されず外に残ることから「未処理・未払い」の意味へ発展。standは古英語standanに由来。",
+      "core": "周囲から外に出ている状態。①他より突出して目立つ→傑出した、②まだ処理・決済されず残っている→未解決・未払い・発行済み。",
+      "usage": "outstanding performance/achievement（優れた業績・功績）、outstanding issues/tasks（未解決の問題・未完了タスク）、outstanding balance/invoices/debt（未払い残高・請求書・未返済債務）、shares outstanding（自己株式を除く流通中の発行済株式）。outstandingはoverdue（期限超過）とは異なり、必ずしも期限切れを意味しない。",
+      "examples": [
+        [
+          "She delivered an outstanding presentation at the conference.",
+          "彼女は会議で非常に優れたプレゼンテーションを行った。"
+        ],
+        [
+          "The company achieved outstanding financial results this year.",
+          "その会社は今年、傑出した財務業績を達成した。"
+        ],
+        [
+          "His outstanding contribution to the project was widely recognized.",
+          "彼のプロジェクトへの卓越した貢献は広く認められた。"
+        ],
+        [
+          "We need to resolve all outstanding issues before signing the contract.",
+          "契約締結前に未解決の問題をすべて解消する必要がある。"
+        ],
+        [
+          "Several outstanding tasks must be completed by Friday.",
+          "いくつかの未完了タスクを金曜日までに終わらせなければならない。"
+        ],
+        [
+          "The customer has an outstanding balance of $15,000.",
+          "その顧客には15,000ドルの未払い残高がある。"
+        ],
+        [
+          "The accounting department is reviewing outstanding invoices.",
+          "経理部門は未払い請求書を確認している。"
+        ],
+        [
+          "The company has 10 million shares outstanding.",
+          "その会社の発行済株式数（自己株式を除く）は1,000万株である。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "stand out",
+          "pos": "句動詞",
+          "ipa": "/stænd aʊt/",
+          "meaning": "目立つ、際立つ",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Her experience makes her stand out from other candidates.",
+          "translation": "彼女の経験はほかの候補者と比べて際立っている。",
+          "note": "outstandingと直接関連する句動詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "withstand",
+          "pos": "動詞",
+          "ipa": "/wɪðˈstænd/",
+          "meaning": "耐える、持ちこたえる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The company managed to withstand the economic downturn.",
+          "translation": "その会社は景気後退に耐えることができた。",
+          "note": "with-＋stand（立つ）。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "standpoint",
+          "pos": "名詞",
+          "ipa": "/ˈstændpɔɪnt/",
+          "meaning": "立場、観点",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "From an accounting standpoint, the transaction is material.",
+          "translation": "会計上の観点から、その取引は重要である。",
+          "note": "stand＋point（立つ位置・観点）。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "understand",
+          "pos": "動詞",
+          "ipa": "/ˌʌndərˈstænd/",
+          "meaning": "理解する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "I understand your concerns.",
+          "translation": "ご懸念は理解しています。",
+          "note": "古英語由来の複合語。underを現代の「下」と解して語義を説明するのは不正確。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "excellent",
+          "pos": "形容詞",
+          "ipa": "/ˈeksələnt/",
+          "meaning": "非常に優れた",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The team delivered excellent results.",
+          "translation": "チームは非常に優れた成果を出した。",
+          "note": "質の高さを直接評価する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "exceptional",
+          "pos": "形容詞",
+          "ipa": "/ɪkˈsepʃənəl/",
+          "meaning": "並外れた、例外的に優秀な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "She demonstrated exceptional leadership.",
+          "translation": "彼女は並外れたリーダーシップを発揮した。",
+          "note": "通常の水準から大きく外れる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "remarkable",
+          "pos": "形容詞",
+          "ipa": "/rɪˈmɑːrkəbəl/",
+          "meaning": "目覚ましい、注目すべき",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The results were remarkable.",
+          "translation": "その結果は目覚ましかった。",
+          "note": "注目に値する点を強調する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "pending",
+          "pos": "形容詞",
+          "ipa": "/ˈpendɪŋ/",
+          "meaning": "保留中の、決定待ちの",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The application is pending approval.",
+          "translation": "その申請は承認待ちである。",
+          "note": "決定や処理を待つ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "unresolved",
+          "pos": "形容詞",
+          "ipa": "/ˌʌnrɪˈzɑːlvd/",
+          "meaning": "未解決の",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Several audit findings remain unresolved.",
+          "translation": "いくつかの監査上の発見事項は未解決のままである。",
+          "note": "問題の解決がまだ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "unpaid",
+          "pos": "形容詞",
+          "ipa": "/ˌʌnˈpeɪd/",
+          "meaning": "未払いの",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The invoice remains unpaid.",
+          "translation": "その請求書は未払いのままだ。",
+          "note": "支払いの有無に焦点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "overdue",
+          "pos": "形容詞",
+          "ipa": "/ˌoʊvərˈduː/",
+          "meaning": "期限を過ぎた",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The invoice is now overdue.",
+          "translation": "その請求書は現在、支払期限を過ぎている。",
+          "note": "期限超過を明示する。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "優秀の意味ではoutstandingは周囲より際立つ、excellentは質の高さ、exceptionalは通常水準を大きく超える、remarkableは注目すべき点を強調。未処理の意味ではoutstandingは未完了・未決済で残る状態、pendingは処理や決定待ち、unresolvedは問題が未解決、unpaidは支払未了、overdueは期限超過。outstanding balanceは必ずしも支払期限超過ではない。"
+    },
+    {
+      "id": "in-light-of",
+      "word": "in light of",
+      "pos": "前置詞句",
+      "ipa": "米・英 /ɪn ˈlaɪt əv/",
+      "meaning": "〜を踏まえて、〜を考慮して、〜に照らして、〜という事情を受けて",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "in（〜の中で）＋light（光、明かり）＋of（〜の）。lightは古英語lēohtに由来。情報や事情を光にたとえ、「〜という光の下で物事を見る」から、判断材料として考慮する意味に。英国英語ではin the light ofも使う。",
+      "core": "新たな情報・事情が判断対象を照らし、見方や意思決定に影響する。「〜という事情を判断材料として考える」。直接の原因を示すdue toとは区別。",
+      "usage": "in light of + 名詞句・動名詞。in light of recent developments / the circumstances / new evidence / the fact that S+V。文頭・文末のどちらにも置ける。米英ともin light ofを使い、英ではin the light ofも一般的。",
+      "examples": [
+        [
+          "In light of the weather forecast, we decided to cancel the trip.",
+          "天気予報を踏まえて、旅行を中止することにした。"
+        ],
+        [
+          "In light of recent events, her reaction is understandable.",
+          "最近の出来事を考慮すれば、彼女の反応は理解できる。"
+        ],
+        [
+          "We should reconsider our assumptions in light of the new evidence.",
+          "新しい証拠に照らして、私たちの前提を再検討すべきだ。"
+        ],
+        [
+          "In light of declining sales, the company revised its business strategy.",
+          "売上の減少を踏まえて、会社は事業戦略を見直した。"
+        ],
+        [
+          "The budget was adjusted in light of changing market conditions.",
+          "市場環境の変化を考慮して、予算が修正された。"
+        ],
+        [
+          "In light of customer feedback, we have decided to improve the service.",
+          "顧客からのフィードバックを踏まえ、サービスを改善することにしました。"
+        ],
+        [
+          "In light of the audit findings, management reassessed its internal controls.",
+          "監査上の発見事項を踏まえて、経営者は内部統制を再評価した。"
+        ],
+        [
+          "The company recognized an impairment loss in light of deteriorating business conditions.",
+          "事業環境の悪化を踏まえ、会社は減損損失を認識した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "shed light on",
+          "pos": "句動詞",
+          "ipa": "/ʃed laɪt ɑːn/",
+          "meaning": "〜を明らかにする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The investigation shed light on the cause of the failure.",
+          "translation": "調査によって、その障害の原因が明らかになった。",
+          "note": "lightを知識・解明の比喩として使う。",
+          "relationship": "related"
+        },
+        {
+          "word": "bring to light",
+          "pos": "慣用句",
+          "ipa": "/brɪŋ tə laɪt/",
+          "meaning": "〜を明るみに出す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The audit brought several irregularities to light.",
+          "translation": "監査によって、いくつかの不正・異常事項が明るみに出た。",
+          "note": "隠れていた事実を可視化する。",
+          "relationship": "related"
+        },
+        {
+          "word": "come to light",
+          "pos": "慣用句",
+          "ipa": "/kʌm tə laɪt/",
+          "meaning": "明らかになる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "New information came to light during the investigation.",
+          "translation": "調査中に新たな情報が明らかになった。",
+          "note": "新事実が判明する。",
+          "relationship": "related"
+        },
+        {
+          "word": "in a new light",
+          "pos": "慣用句",
+          "ipa": "/ɪn ə nuː laɪt/",
+          "meaning": "新たな観点から",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The discovery made us see the problem in a new light.",
+          "translation": "その発見により、私たちは問題を新たな観点から見るようになった。",
+          "note": "物事の見え方が変わる。",
+          "relationship": "related"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "considering",
+          "pos": "前置詞",
+          "ipa": "/kənˈsɪdərɪŋ/",
+          "meaning": "〜を考慮すると",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Considering the circumstances, the decision was reasonable.",
+          "translation": "事情を考慮すると、その判断は妥当だった。",
+          "note": "広く使える一般的な考慮表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "given",
+          "pos": "前置詞",
+          "ipa": "/ˈɡɪvən/",
+          "meaning": "〜を前提とすると",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Given the tight deadline, we need to prioritize.",
+          "translation": "期限が厳しいことを踏まえ、優先順位をつける必要がある。",
+          "note": "既知の条件・事実を前提とする。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "in view of",
+          "pos": "前置詞句",
+          "ipa": "/ɪn ˈvjuː əv/",
+          "meaning": "〜を考慮して",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "In view of the risks, we postponed the launch.",
+          "translation": "リスクを考慮して、発売を延期した。",
+          "note": "ややフォーマル。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "due to",
+          "pos": "前置詞句",
+          "ipa": "/ˈduː tuː/",
+          "meaning": "〜が原因で",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The launch was delayed due to technical issues.",
+          "translation": "技術的な問題が原因で発売が遅れた。",
+          "note": "判断材料より因果関係を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "because of",
+          "pos": "前置詞句",
+          "ipa": "/bɪˈkɔːz əv/",
+          "meaning": "〜のために",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We stayed home because of the rain.",
+          "translation": "雨のため家にいた。",
+          "note": "直接的な理由を示す。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "in light ofは新情報や事情を判断材料にする。consideringは一般的な考慮、givenは条件を前提とする、in view ofはややフォーマルな考慮。due toとbecause ofは原因・理由をより直接的に表す。例：In light of the new regulations, we changed our policy.（規制を踏まえた判断）とDue to the new regulations, we changed our policy.（規制が変更の原因）"
+    },
+    {
+      "id": "clamp-down",
+      "word": "clamp down",
+      "pos": "句動詞",
+      "ipa": "米・英 /ˌklæmp ˈdaʊn/",
+      "meaning": "（clamp down on）〜を厳しく取り締まる、厳しく規制する、強力に抑え込む",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "clamp（締め具で強く挟む・固定する）＋down（押さえつける方向）。物理的に強く固定することから、違反行為や望ましくない行動を強い措置で制限する比喩に発展。clampの詳細な語源には不確かな点がある。",
+      "core": "万力で強く押さえ込み、自由な動きを制限するイメージ。規制当局や組織が取り締まりを強化し、対象の行動を抑制する。",
+      "usage": "clamp down on + 名詞・動名詞。自動詞的句動詞で対象はonで導く。clamp down on tax evasion / corruption / accounting fraud / excessive spending。名詞形clampdown。",
+      "examples": [
+        [
+          "The government is clamping down on tax evasion.",
+          "政府は脱税の取り締まりを強化している。"
+        ],
+        [
+          "Authorities have clamped down on illegal gambling operations.",
+          "当局は違法賭博の運営を厳しく取り締まっている。"
+        ],
+        [
+          "The city plans to clamp down on reckless driving.",
+          "市は危険運転の取り締まりを強化する予定だ。"
+        ],
+        [
+          "The company decided to clamp down on unauthorized access to confidential information.",
+          "会社は機密情報への不正アクセスを厳しく取り締まることにした。"
+        ],
+        [
+          "Regulators are clamping down on misleading financial disclosures.",
+          "規制当局は誤解を招く財務情報の開示に対する取り締まりを強化している。"
+        ],
+        [
+          "The new management team clamped down on unnecessary spending.",
+          "新しい経営陣は不要な支出を厳しく抑制した。"
+        ],
+        [
+          "The government introduced new regulations to clamp down on money laundering.",
+          "政府はマネーロンダリングを厳しく取り締まるため、新たな規制を導入した。"
+        ],
+        [
+          "Following the scandal, the authorities clamped down on accounting fraud.",
+          "不祥事を受けて、当局は会計不正の取り締まりを強化した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "clamp",
+          "pos": "名詞・動詞",
+          "ipa": "/klæmp/",
+          "meaning": "締め具、強く固定する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The technician used a clamp to hold the pipe in place.",
+          "translation": "技術者はパイプを固定するために締め具を使用した。",
+          "note": "句動詞の物理的な意味の基盤。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "clampdown",
+          "pos": "名詞",
+          "ipa": "/ˈklæmpdaʊn/",
+          "meaning": "厳しい取り締まり",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The government announced a clampdown on financial fraud.",
+          "translation": "政府は金融詐欺に対する厳しい取り締まりを発表した。",
+          "note": "clamp downの名詞形。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "crack down on",
+          "pos": "句動詞",
+          "ipa": "/ˌkræk ˈdaʊn ɑːn/",
+          "meaning": "〜を厳しく取り締まる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Police cracked down on organized crime.",
+          "translation": "警察は組織犯罪を厳しく取り締まった。",
+          "note": "違反行為に断固として対処。clamp down onと多くの文脈で交換可能。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "tighten restrictions on",
+          "pos": "動詞句",
+          "ipa": "/ˈtaɪtən rɪˈstrɪkʃənz ɑːn/",
+          "meaning": "〜に対する規制を強化する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The government tightened restrictions on foreign investment.",
+          "translation": "政府は外国投資に対する規制を強化した。",
+          "note": "規制の厳格化そのものを述べる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "curb",
+          "pos": "動詞",
+          "ipa": "/kɝːb/",
+          "meaning": "抑制する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The central bank introduced measures to curb inflation.",
+          "translation": "中央銀行はインフレを抑制する措置を導入した。",
+          "note": "違法行為以外の増加・行動も抑制する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "suppress",
+          "pos": "動詞",
+          "ipa": "/səˈpres/",
+          "meaning": "抑圧する、抑え込む",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The authorities attempted to suppress the protests.",
+          "translation": "当局は抗議活動を抑え込もうとした。",
+          "note": "強い力で抑え込む。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "clamp down onは規制・取り締まりを強化して対象の行動を制限する。crack down onは違反行為への断固たる措置を強調するが多くの文脈で交換可能。tighten restrictions onは規則・制限を厳格化すること、curbは違法行為に限らず増加・行動を抑制すること、suppressは強い力で抑圧すること。curb inflationは自然だがclamp down on inflationは通常不自然。"
+    },
+    {
+      "id": "expertise",
+      "word": "expertise",
+      "pos": "名詞（不可算）",
+      "ipa": "米 /ˌek.spɚˈtiːz/、英 /ˌek.spɜːˈtiːz/",
+      "meaning": "専門知識、専門的技能、熟練した能力",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "フランス語expertiseから英語へ。expertはラテン語expertus（試された、経験を積んだ）に由来し、experīrī（試す、経験する）に遡る。expertiseは現代英語のexpertに-iseを付けた単純な派生語ではない。",
+      "core": "特定分野について知識・経験・技能を深く蓄積し、実際の問題解決に活用できる専門能力。knowledge（知識）より実践的な熟達を含意。",
+      "usage": "原則不可算名詞。have expertise in、develop expertise in、demonstrate expertise in、leverage expertise、technical expertise、professional expertise、domain expertise。通常an expertiseやexpertisesとはしない。",
+      "examples": [
+        [
+          "She has extensive expertise in financial accounting.",
+          "彼女は財務会計に関する豊富な専門知識を持っている。"
+        ],
+        [
+          "The company hired a consultant with expertise in cybersecurity.",
+          "その会社はサイバーセキュリティの専門知識を持つコンサルタントを雇った。"
+        ],
+        [
+          "Developing expertise in a particular field takes years of practice.",
+          "特定分野の専門性を身につけるには、何年もの実践が必要だ。"
+        ],
+        [
+          "His expertise was crucial to the success of the project.",
+          "彼の専門能力はプロジェクトの成功に不可欠だった。"
+        ],
+        [
+          "We need to leverage our team's expertise to solve this problem.",
+          "この問題を解決するために、チームの専門知識を活用する必要がある。"
+        ],
+        [
+          "The audit team lacked sufficient expertise in complex financial instruments.",
+          "監査チームには複雑な金融商品に関する十分な専門知識が不足していた。"
+        ],
+        [
+          "The firm provides clients with specialized expertise in risk management.",
+          "その会社は顧客にリスク管理に関する高度な専門サービスを提供している。"
+        ],
+        [
+          "Her technical expertise allows her to identify problems that others might overlook.",
+          "彼女の技術的な専門能力によって、他の人が見落としかねない問題を発見できる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "expert",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈek.spɝːt/",
+          "meaning": "専門家、熟練した",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We consulted an expert in corporate taxation.",
+          "translation": "私たちは法人税務の専門家に相談した。",
+          "note": "expertiseの直接の語源的基盤。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experience",
+          "pos": "名詞・動詞",
+          "ipa": "/ɪkˈspɪr.i.əns/",
+          "meaning": "経験、経験する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Practical experience is essential for professional development.",
+          "translation": "実務経験は専門能力の向上に不可欠である。",
+          "note": "ラテン語experīrī（試す、経験する）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experiment",
+          "pos": "名詞・動詞",
+          "ipa": "/ɪkˈsper.ə.mənt/",
+          "meaning": "実験、試み",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The researchers conducted an experiment to test their hypothesis.",
+          "translation": "研究者たちは仮説を検証するために実験を行った。",
+          "note": "ラテン語experīrīに関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experimental",
+          "pos": "形容詞",
+          "ipa": "/ɪkˌsper.əˈmen.təl/",
+          "meaning": "実験的な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The team tested an experimental method.",
+          "translation": "チームは実験的な方法を試した。",
+          "note": "experimentの派生語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "knowledge",
+          "pos": "名詞",
+          "ipa": "/ˈnɑː.lɪdʒ/",
+          "meaning": "知識、理解",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "She has a good knowledge of accounting principles.",
+          "translation": "彼女は会計原則について十分な知識を持っている。",
+          "note": "知識・理解そのもの。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "skill",
+          "pos": "名詞",
+          "ipa": "/skɪl/",
+          "meaning": "技能、能力",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "She has excellent analytical skills.",
+          "translation": "彼女は優れた分析能力を持っている。",
+          "note": "具体的な作業を上手に行う能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "proficiency",
+          "pos": "名詞",
+          "ipa": "/prəˈfɪʃ.ən.si/",
+          "meaning": "熟達、習熟度",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She demonstrated proficiency in using statistical software.",
+          "translation": "彼女は統計ソフトウェアの操作に熟達していることを示した。",
+          "note": "技能を使いこなす熟練度。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "competence",
+          "pos": "名詞",
+          "ipa": "/ˈkɑːm.pə.təns/",
+          "meaning": "職務遂行能力",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The auditor must maintain professional competence.",
+          "translation": "監査人は専門的能力を維持しなければならない。",
+          "note": "求められる水準で職務を遂行する能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "specialization",
+          "pos": "名詞",
+          "ipa": "/ˌspeʃ.ə.ləˈzeɪ.ʃən/",
+          "meaning": "専門化、専門分野",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Her specialization is corporate finance.",
+          "translation": "彼女の専門分野は企業財務である。",
+          "note": "分野の特化を指し、能力の程度は直接示さない。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "expertiseは深い知識・経験に裏付けられた専門的な実践能力。knowledgeは知識・理解、skillは個別の具体的技能、proficiencyは特定技能の習熟度、competenceは職務を適切に遂行する能力、specializationは特定分野への専門化を示す。expertise in accountingは単なる知識以上の専門性を含意する。"
     }
   ]
 }
