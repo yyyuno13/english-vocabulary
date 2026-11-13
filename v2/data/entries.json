@@ -17650,6 +17650,227 @@
         }
       ],
       "comparison": "動詞object toは特定の提案・行為に異議を唱える。opposeは反対・対抗、disagree withは意見の不一致、protest againstは強い抗議。名詞objectは物体・対象・目的と幅広く、itemは個別品目、entityは独立した実体、targetは標的・目標、objectiveは具体的な達成目標。"
+    },
+    {
+      "id": "land",
+      "word": "land",
+      "pos": "名詞・動詞",
+      "ipa": "米・英 /lænd/",
+      "meaning": "名詞：陸地、土地、国土；動詞：着陸する、上陸する、到着する、（仕事・契約を）獲得する、（困難な状況に）陥らせる",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 4,
+      "etymology": "古英語land（土地、陸地、国土）に由来するゲルマン系の古い語。ドイツ語Landやオランダ語landと同語源。接頭辞・語根への分解は不要。地面への到達から比喩的に目標や結果への到達を表す。",
+      "core": "陸地・地面、そしてそこへ到達すること。物理的に着陸するだけでなく、仕事・契約を獲得する、望ましくない状況に行き着くという意味に広がる。",
+      "usage": "land safely（無事に着陸する）、land a job / contract / client（仕事・契約・顧客を獲得する）、land in trouble / land someone in trouble（困った状況に陥る・陥らせる）。agricultural land、land ownership、land use、land prices。land a contractは会話的で達成感のある表現。",
+      "examples": [
+        [
+          "The plane landed safely despite the strong winds.",
+          "飛行機は強風にもかかわらず無事に着陸した。"
+        ],
+        [
+          "After months of searching, she finally landed a job at an international firm.",
+          "数か月の就職活動を経て、彼女はついに国際的な企業での仕事を獲得した。"
+        ],
+        [
+          "The company landed a major contract with a foreign client.",
+          "その会社は海外の顧客との大型契約を獲得した。"
+        ],
+        [
+          "His careless remarks landed him in trouble.",
+          "彼の軽率な発言が原因で、彼は厄介な状況に陥った。"
+        ],
+        [
+          "The government introduced new regulations on land use.",
+          "政府は土地利用に関する新しい規制を導入した。"
+        ],
+        [
+          "Rising land prices have made housing less affordable.",
+          "地価の上昇によって住宅を購入しにくくなっている。"
+        ],
+        [
+          "The explorers finally reached land after weeks at sea.",
+          "探検家たちは数週間の航海の末、ようやく陸地に到達した。"
+        ],
+        [
+          "The startup managed to land its first major investor.",
+          "そのスタートアップは初めての大口投資家を獲得することに成功した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "landlord",
+          "pos": "名詞",
+          "ipa": "/ˈlændlɔːrd/",
+          "meaning": "家主、地主",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The landlord increased the rent.",
+          "translation": "家主は家賃を引き上げた。",
+          "note": "land＋lord。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "landmark",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈlændmɑːrk/",
+          "meaning": "目印、歴史的な節目、画期的な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The agreement marked a landmark achievement in international cooperation.",
+          "translation": "その協定は国際協力における画期的な成果となった。",
+          "note": "land＋mark。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "landscape",
+          "pos": "名詞",
+          "ipa": "/ˈlændskeɪp/",
+          "meaning": "風景、情勢、競争環境",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The competitive landscape has changed dramatically.",
+          "translation": "競争環境は劇的に変化した。",
+          "note": "landと語源的に関連する複合語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "landing",
+          "pos": "名詞",
+          "ipa": "/ˈlændɪŋ/",
+          "meaning": "着陸、上陸",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The aircraft made an emergency landing.",
+          "translation": "その航空機は緊急着陸した。",
+          "note": "landの動詞からの派生。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "homeland",
+          "pos": "名詞",
+          "ipa": "/ˈhoʊmlænd/",
+          "meaning": "祖国、故郷",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Many people returned to their homeland.",
+          "translation": "多くの人々が祖国に帰った。",
+          "note": "home＋land。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "secure",
+          "pos": "動詞",
+          "ipa": "/sɪˈkjʊr/",
+          "meaning": "確保する、獲得する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We secured a long-term contract.",
+          "translation": "私たちは長期契約を確保した。",
+          "note": "確実に手に入れることを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "obtain",
+          "pos": "動詞",
+          "ipa": "/əbˈteɪn/",
+          "meaning": "取得する、入手する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company obtained regulatory approval.",
+          "translation": "その会社は規制当局の承認を取得した。",
+          "note": "手続きや努力による取得。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "acquire",
+          "pos": "動詞",
+          "ipa": "/əˈkwaɪər/",
+          "meaning": "取得する、買収する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The firm acquired a smaller competitor.",
+          "translation": "その会社は競合する小規模企業を買収した。",
+          "note": "資産・企業・知識などの取得。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "win",
+          "pos": "動詞",
+          "ipa": "/wɪn/",
+          "meaning": "勝ち取る",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company won the bid.",
+          "translation": "その会社は入札に勝った。",
+          "note": "競争に勝って獲得する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "ground",
+          "pos": "名詞",
+          "ipa": "/ɡraʊnd/",
+          "meaning": "地面",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "The ball fell to the ground.",
+          "translation": "ボールは地面に落ちた。",
+          "note": "足元の地表を指す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "soil",
+          "pos": "名詞",
+          "ipa": "/sɔɪl/",
+          "meaning": "土壌",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The soil is suitable for growing vegetables.",
+          "translation": "その土壌は野菜の栽培に適している。",
+          "note": "植物が育つ土。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "territory",
+          "pos": "名詞",
+          "ipa": "/ˈterətɔːri/",
+          "meaning": "領土、管轄区域",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The dispute concerns ownership of the territory.",
+          "translation": "その紛争は領土の所有権に関するものだ。",
+          "note": "支配・管轄される地域。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "property",
+          "pos": "名詞",
+          "ipa": "/ˈprɑːpərti/",
+          "meaning": "不動産、所有地、財産",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company purchased commercial property.",
+          "translation": "その会社は商業用不動産を購入した。",
+          "note": "所有権・財産性を強調。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "動詞land a job/contractは努力や競争の結果として獲得する会話的な表現。secureは確保、obtainは手続き・努力による入手、acquireは資産・企業などの取得、winは競争に勝って獲得。名詞landは土地・陸地全般、groundは地面、soilは土壌、territoryは領土、propertyは不動産・財産。"
     }
   ]
 }
