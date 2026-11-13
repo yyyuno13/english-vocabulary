@@ -17442,6 +17442,214 @@
         }
       ],
       "comparison": "droughtは通常の降水状況から外れた長期的な水不足。aridityは土地・気候の恒常的な乾燥性、water scarcityは利用可能な水資源の不足、shortageは物資・人員なども含む不足一般、famineは深刻な食料不足・飢饉でありdroughtとは異なる。"
+    },
+    {
+      "id": "object",
+      "word": "object",
+      "pos": "名詞・動詞",
+      "ipa": "名詞 米 /ˈɑːbdʒekt/ 英 /ˈɒbdʒekt/；動詞 /əbˈdʒekt/",
+      "meaning": "名詞：物体、対象、目的、目的語；動詞：反対する、異議を唱える",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語obicere（前に投げ出す）・obiectusに由来。ob-（前に・向かって）＋iacere（投げる）。目の前に置かれたものから名詞「物体・対象・目的」、反論を突きつけることから動詞「異議を唱える」。",
+      "core": "何かを目の前に投げ出す。名詞は目の前にある対象、動詞は相手の前に異議を突きつける。名詞は第1音節、動詞は第2音節に強勢。",
+      "usage": "名詞：physical object、object of study、object of the exercise、grammatical object。動詞：object to + 名詞・動名詞（toは前置詞）、object that S+V。object to paying feesは正しく、object to pay feesは通常不可。",
+      "examples": [
+        [
+          "The museum displayed several ancient objects.",
+          "博物館はいくつかの古代の遺物を展示した。"
+        ],
+        [
+          "The object of the research is to understand human behavior.",
+          "その研究の目的は人間の行動を理解することだ。"
+        ],
+        [
+          "The scientist examined the object under a microscope.",
+          "科学者はその物体を顕微鏡で調べた。"
+        ],
+        [
+          "In the sentence \"She reads books,\" \"books\" is the object of the verb.",
+          "「She reads books」という文では、booksが動詞の目的語である。"
+        ],
+        [
+          "Several employees objected to the proposed changes.",
+          "複数の従業員が提案された変更に反対した。"
+        ],
+        [
+          "The shareholders objected to the management's decision.",
+          "株主たちは経営陣の決定に異議を唱えた。"
+        ],
+        [
+          "The auditor objected to the proposed accounting treatment.",
+          "監査人は提案された会計処理に異議を唱えた。"
+        ],
+        [
+          "I don't object to working overtime occasionally, but I expect fair compensation.",
+          "時々残業することには反対しないが、適切な報酬は期待している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "objective",
+          "pos": "名詞・形容詞",
+          "ipa": "/əbˈdʒektɪv/",
+          "meaning": "目標、客観的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Our primary objective is to improve customer satisfaction.",
+          "translation": "私たちの主な目標は顧客満足度を向上させることだ。",
+          "note": "objectと直接関連する語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "objection",
+          "pos": "名詞",
+          "ipa": "/əbˈdʒekʃən/",
+          "meaning": "異議、反対",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The committee raised an objection to the proposal.",
+          "translation": "委員会はその提案に異議を唱えた。",
+          "note": "object（異議を唱える）の名詞形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "subject",
+          "pos": "名詞",
+          "ipa": "/ˈsʌbdʒekt/",
+          "meaning": "主題、対象、被験者",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The subject of the report is financial risk.",
+          "translation": "その報告書の主題は財務リスクである。",
+          "note": "sub-＋iacere。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "project",
+          "pos": "名詞",
+          "ipa": "/ˈprɑːdʒekt/",
+          "meaning": "計画、事業",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The project will begin next month.",
+          "translation": "その事業は来月始まる。",
+          "note": "pro-＋iacere。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "reject",
+          "pos": "動詞",
+          "ipa": "/rɪˈdʒekt/",
+          "meaning": "拒絶する、却下する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The board rejected the acquisition proposal.",
+          "translation": "取締役会は買収提案を却下した。",
+          "note": "re-＋iacere。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "inject",
+          "pos": "動詞",
+          "ipa": "/ɪnˈdʒekt/",
+          "meaning": "注入する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The government plans to inject additional funds into the economy.",
+          "translation": "政府は経済に追加資金を投入する予定だ。",
+          "note": "in-＋iacere。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "oppose",
+          "pos": "動詞",
+          "ipa": "/əˈpoʊz/",
+          "meaning": "反対する、対抗する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The union opposed the restructuring plan.",
+          "translation": "労働組合は組織再編計画に反対した。",
+          "note": "反対の立場や対抗行動を示す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "disagree with",
+          "pos": "動詞句",
+          "ipa": "/ˌdɪsəˈɡriː wɪð/",
+          "meaning": "意見が一致しない",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "I disagree with your assessment.",
+          "translation": "あなたの評価には同意しません。",
+          "note": "意見の不一致であり正式な異議とは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "protest against",
+          "pos": "動詞句",
+          "ipa": "/prəˈtest əˈɡenst/",
+          "meaning": "抗議する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Residents protested against the plan.",
+          "translation": "住民はその計画に抗議した。",
+          "note": "抗議行動・強い反発を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "item",
+          "pos": "名詞",
+          "ipa": "/ˈaɪtəm/",
+          "meaning": "品目、個々の物",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Each item was inspected.",
+          "translation": "各品目が検査された。",
+          "note": "一覧の中の個々のもの。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "entity",
+          "pos": "名詞",
+          "ipa": "/ˈentəti/",
+          "meaning": "実体、組織",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The subsidiary is a separate legal entity.",
+          "translation": "子会社は独立した法人格を持つ。",
+          "note": "独立して存在するもの・組織。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "target",
+          "pos": "名詞",
+          "ipa": "/ˈtɑːrɡɪt/",
+          "meaning": "標的、対象",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company met its sales target.",
+          "translation": "会社は売上目標を達成した。",
+          "note": "働きかける対象や達成目標。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "動詞object toは特定の提案・行為に異議を唱える。opposeは反対・対抗、disagree withは意見の不一致、protest againstは強い抗議。名詞objectは物体・対象・目的と幅広く、itemは個別品目、entityは独立した実体、targetは標的・目標、objectiveは具体的な達成目標。"
     }
   ]
 }
