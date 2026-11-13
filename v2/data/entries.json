@@ -16260,6 +16260,200 @@
         "src": "./images/core/indispensable.svg",
         "alt": "不可欠な要素を取り除くと全体が成立しなくなる図。"
       }
+    },
+    {
+      "id": "prone",
+      "word": "prone",
+      "pos": "形容詞",
+      "ipa": "米 /proʊn/、英 /prəʊn/",
+      "meaning": "～しがちな、～を起こしやすい；うつ伏せの",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 pronus（前に傾いた、前かがみの、うつ伏せの）に由来。物理的な傾きから、ある状態になりやすい性質を表す比喩に発展した。pro- と -ne に分解するのは適切でない。",
+      "core": "ある方向に傾いている → その状態になりやすい。",
+      "usage": "be prone to + 名詞・動名詞（-ing）。prone to errors（エラーが起こりやすい）、prone to accidents（事故を起こしやすい）、prone to making mistakes（ミスをしがち）、more prone to ...（より～しやすい）、a prone position（うつ伏せの姿勢）。to は前置詞であり、後続する動詞は原則 -ing。望ましくない出来事に使うことが多い。",
+      "examples": [
+        [
+          "Some people are more prone to stress than others.",
+          "人によっては、ほかの人よりストレスを感じやすい。"
+        ],
+        [
+          "The system is prone to errors when processing large amounts of data.",
+          "そのシステムは大量のデータを処理するときにエラーが発生しやすい。"
+        ],
+        [
+          "Young companies are often prone to cash flow problems.",
+          "設立間もない企業は、キャッシュフロー上の問題を抱えやすい。"
+        ],
+        [
+          "He is prone to making careless mistakes under pressure.",
+          "彼はプレッシャーがかかると不注意なミスをしがちだ。"
+        ],
+        [
+          "Coastal regions are prone to flooding during heavy storms.",
+          "沿岸地域は激しい嵐の際に洪水が発生しやすい。"
+        ],
+        [
+          "Investors may be prone to overreacting to short-term market fluctuations.",
+          "投資家は短期的な市場変動に過剰反応しがちかもしれない。"
+        ],
+        [
+          "Employees who work long hours may be more prone to burnout.",
+          "長時間働く従業員は燃え尽き症候群に陥りやすい可能性がある。"
+        ],
+        [
+          "The patient was placed in a prone position during the examination.",
+          "患者は検査中、うつ伏せの姿勢にされた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "proneness",
+          "ipa": "/ˈproʊnnəs/",
+          "pos": "名詞",
+          "meaning": "～しやすい傾向",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 2,
+          "etymology": "prone + -ness。",
+          "example": "The study examined the proneness of certain materials to cracking.",
+          "translation": "その研究は特定の素材のひび割れやすさを調べた。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "propensity",
+          "ipa": "/prəˈpensəti/",
+          "pos": "名詞",
+          "meaning": "傾向、性向",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 propensus（前方へ傾いた）。prone とは別系統。",
+          "example": "He has a propensity to underestimate financial risks.",
+          "translation": "彼には財務リスクを過小評価する傾向がある。",
+          "note": "同語源ではなく類似イメージの語。",
+          "relationship": "reference"
+        },
+        {
+          "word": "inclination",
+          "ipa": "/ˌɪnklɪˈneɪʃən/",
+          "pos": "名詞",
+          "meaning": "傾向、気持ち、傾斜",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 inclinare（傾ける）。prone とは別系統。",
+          "example": "She showed an inclination toward a more conservative strategy.",
+          "translation": "彼女はより保守的な戦略を好む傾向を示した。",
+          "note": "同語源ではなく類似イメージの語。",
+          "relationship": "reference"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "likely",
+          "ipa": "/ˈlaɪkli/",
+          "pos": "形容詞",
+          "meaning": "起こる可能性が高い",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "like に -ly を付けた形。",
+          "example": "The company is likely to increase its prices.",
+          "translation": "その会社は価格を引き上げる可能性が高い。",
+          "note": "個々の事象の可能性を表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "susceptible",
+          "ipa": "/səˈseptəbəl/",
+          "pos": "形容詞",
+          "meaning": "影響を受けやすい",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 suscipere（受け取る）。",
+          "example": "Older systems are more susceptible to cyberattacks.",
+          "translation": "古いシステムはサイバー攻撃の影響を受けやすい。",
+          "note": "外部の影響・病気などを受けやすい。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "vulnerable",
+          "ipa": "/ˈvʌlnərəbəl/",
+          "pos": "形容詞",
+          "meaning": "被害を受けやすい、弱い",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 vulnus（傷）。",
+          "example": "Small businesses are particularly vulnerable to economic downturns.",
+          "translation": "中小企業は景気後退の影響を特に受けやすい。",
+          "note": "弱さや被害の受けやすさを強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "inclined",
+          "ipa": "/ɪnˈklaɪnd/",
+          "pos": "形容詞",
+          "meaning": "～する気持ちがある、傾向がある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 inclinare（傾ける）。",
+          "example": "I am inclined to agree with your proposal.",
+          "translation": "私はあなたの提案に賛成する方向に気持ちが傾いている。",
+          "note": "好み・意思の傾向にも使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "liable",
+          "ipa": "/ˈlaɪəbəl/",
+          "pos": "形容詞",
+          "meaning": "～するおそれがある；責任を負う",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "古フランス語 lier（結びつける）に関連。",
+          "example": "The equipment is liable to malfunction if improperly maintained.",
+          "translation": "その設備は適切に保守されないと故障するおそれがある。",
+          "note": "不都合な事態の可能性。法律では責任を負う。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "prone はある状態に陥りやすい性質・傾向、likely は起こる確率、susceptible は外部の影響の受けやすさ、vulnerable は被害を受けやすい弱さ、inclined は意思や好みの傾向、liable は好ましくない結果の可能性。",
+      "comparisonRows": [
+        [
+          "prone",
+          "特定の状態・問題に陥りやすい"
+        ],
+        [
+          "likely",
+          "出来事が起こる可能性が高い"
+        ],
+        [
+          "susceptible",
+          "外部の影響を受けやすい"
+        ],
+        [
+          "vulnerable",
+          "損害・被害を受けやすい"
+        ],
+        [
+          "inclined",
+          "気持ち・好み・意思が傾いている"
+        ],
+        [
+          "liable",
+          "好ましくない結果が起こるおそれがある"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/prone.svg",
+        "alt": "物体が一方向へ傾いており、その状態になりやすいことを示す図。"
+      }
     }
   ]
 }
