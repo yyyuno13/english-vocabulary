@@ -13831,6 +13831,175 @@
         }
       ],
       "comparison": "clamp down onは規制・取り締まりを強化して対象の行動を制限する。crack down onは違反行為への断固たる措置を強調するが多くの文脈で交換可能。tighten restrictions onは規則・制限を厳格化すること、curbは違法行為に限らず増加・行動を抑制すること、suppressは強い力で抑圧すること。curb inflationは自然だがclamp down on inflationは通常不自然。"
+    },
+    {
+      "id": "expertise",
+      "word": "expertise",
+      "pos": "名詞（不可算）",
+      "ipa": "米 /ˌek.spɚˈtiːz/、英 /ˌek.spɜːˈtiːz/",
+      "meaning": "専門知識、専門的技能、熟練した能力",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "フランス語expertiseから英語へ。expertはラテン語expertus（試された、経験を積んだ）に由来し、experīrī（試す、経験する）に遡る。expertiseは現代英語のexpertに-iseを付けた単純な派生語ではない。",
+      "core": "特定分野について知識・経験・技能を深く蓄積し、実際の問題解決に活用できる専門能力。knowledge（知識）より実践的な熟達を含意。",
+      "usage": "原則不可算名詞。have expertise in、develop expertise in、demonstrate expertise in、leverage expertise、technical expertise、professional expertise、domain expertise。通常an expertiseやexpertisesとはしない。",
+      "examples": [
+        [
+          "She has extensive expertise in financial accounting.",
+          "彼女は財務会計に関する豊富な専門知識を持っている。"
+        ],
+        [
+          "The company hired a consultant with expertise in cybersecurity.",
+          "その会社はサイバーセキュリティの専門知識を持つコンサルタントを雇った。"
+        ],
+        [
+          "Developing expertise in a particular field takes years of practice.",
+          "特定分野の専門性を身につけるには、何年もの実践が必要だ。"
+        ],
+        [
+          "His expertise was crucial to the success of the project.",
+          "彼の専門能力はプロジェクトの成功に不可欠だった。"
+        ],
+        [
+          "We need to leverage our team's expertise to solve this problem.",
+          "この問題を解決するために、チームの専門知識を活用する必要がある。"
+        ],
+        [
+          "The audit team lacked sufficient expertise in complex financial instruments.",
+          "監査チームには複雑な金融商品に関する十分な専門知識が不足していた。"
+        ],
+        [
+          "The firm provides clients with specialized expertise in risk management.",
+          "その会社は顧客にリスク管理に関する高度な専門サービスを提供している。"
+        ],
+        [
+          "Her technical expertise allows her to identify problems that others might overlook.",
+          "彼女の技術的な専門能力によって、他の人が見落としかねない問題を発見できる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "expert",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈek.spɝːt/",
+          "meaning": "専門家、熟練した",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We consulted an expert in corporate taxation.",
+          "translation": "私たちは法人税務の専門家に相談した。",
+          "note": "expertiseの直接の語源的基盤。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experience",
+          "pos": "名詞・動詞",
+          "ipa": "/ɪkˈspɪr.i.əns/",
+          "meaning": "経験、経験する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Practical experience is essential for professional development.",
+          "translation": "実務経験は専門能力の向上に不可欠である。",
+          "note": "ラテン語experīrī（試す、経験する）に関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experiment",
+          "pos": "名詞・動詞",
+          "ipa": "/ɪkˈsper.ə.mənt/",
+          "meaning": "実験、試み",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The researchers conducted an experiment to test their hypothesis.",
+          "translation": "研究者たちは仮説を検証するために実験を行った。",
+          "note": "ラテン語experīrīに関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "experimental",
+          "pos": "形容詞",
+          "ipa": "/ɪkˌsper.əˈmen.təl/",
+          "meaning": "実験的な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The team tested an experimental method.",
+          "translation": "チームは実験的な方法を試した。",
+          "note": "experimentの派生語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "knowledge",
+          "pos": "名詞",
+          "ipa": "/ˈnɑː.lɪdʒ/",
+          "meaning": "知識、理解",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "She has a good knowledge of accounting principles.",
+          "translation": "彼女は会計原則について十分な知識を持っている。",
+          "note": "知識・理解そのもの。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "skill",
+          "pos": "名詞",
+          "ipa": "/skɪl/",
+          "meaning": "技能、能力",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "She has excellent analytical skills.",
+          "translation": "彼女は優れた分析能力を持っている。",
+          "note": "具体的な作業を上手に行う能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "proficiency",
+          "pos": "名詞",
+          "ipa": "/prəˈfɪʃ.ən.si/",
+          "meaning": "熟達、習熟度",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She demonstrated proficiency in using statistical software.",
+          "translation": "彼女は統計ソフトウェアの操作に熟達していることを示した。",
+          "note": "技能を使いこなす熟練度。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "competence",
+          "pos": "名詞",
+          "ipa": "/ˈkɑːm.pə.təns/",
+          "meaning": "職務遂行能力",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The auditor must maintain professional competence.",
+          "translation": "監査人は専門的能力を維持しなければならない。",
+          "note": "求められる水準で職務を遂行する能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "specialization",
+          "pos": "名詞",
+          "ipa": "/ˌspeʃ.ə.ləˈzeɪ.ʃən/",
+          "meaning": "専門化、専門分野",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Her specialization is corporate finance.",
+          "translation": "彼女の専門分野は企業財務である。",
+          "note": "分野の特化を指し、能力の程度は直接示さない。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "expertiseは深い知識・経験に裏付けられた専門的な実践能力。knowledgeは知識・理解、skillは個別の具体的技能、proficiencyは特定技能の習熟度、competenceは職務を適切に遂行する能力、specializationは特定分野への専門化を示す。expertise in accountingは単なる知識以上の専門性を含意する。"
     }
   ]
 }
