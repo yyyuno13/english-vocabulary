@@ -13168,6 +13168,175 @@
         }
       ],
       "comparison": "bounce は跳ね返る・勢いよく回復する。rebound は反発・回復をやや硬く表す。spring は自発的に勢いよく跳ぶ。recover は速度を問わず回復する。ricochet は硬い面で方向を変えて跳ね返る。reject は受信などを拒否する動作であり、bounce は不達メールが戻る現象。 A bounced check は不渡り小切手で、a dishonored check はやや正式な表現。"
+    },
+    {
+      "id": "gradient",
+      "word": "gradient",
+      "pos": "名詞",
+      "ipa": "米・英 /ˈɡreɪdiənt/",
+      "meaning": "勾配、傾斜度；（温度・圧力などの）変化率・勾配；色のグラデーション",
+      "difficulty": 3,
+      "daily": 2,
+      "business": 2,
+      "etymology": "ラテン語 gradiens（歩いている、進んでいる：gradi「歩く、進む」の現在分詞）に由来。gradus（歩み、段階）と同系。段階的に位置を進む際の変化という意味へ発展した。",
+      "core": "ある方向に進むにつれ、高さ・温度・圧力・色などがどれだけ変わるか。坂の傾きから、位置に対する物理量の変化率や色の連続的な移り変わりへ広がる。",
+      "usage": "a steep/gentle gradient（急な／緩やかな勾配）、temperature/pressure gradient（温度／圧力勾配）、color gradient（色のグラデーション）、gradient of a function（関数の勾配）。多変数関数のgradientは最大増加方向を表すベクトル。",
+      "examples": [
+        [
+          "The road has a steep gradient.",
+          "その道路は勾配が急だ。"
+        ],
+        [
+          "The railway was designed to maintain a gentle gradient.",
+          "その鉄道は緩やかな勾配を保つよう設計された。"
+        ],
+        [
+          "The gradient of the line is positive.",
+          "その直線の傾きは正である。"
+        ],
+        [
+          "Scientists measured the temperature gradient in the atmosphere.",
+          "科学者たちは大気中の温度勾配を測定した。"
+        ],
+        [
+          "Water flows in response to a pressure gradient.",
+          "水は圧力勾配に応じて流れる。"
+        ],
+        [
+          "The background uses a gradient from blue to purple.",
+          "背景には青から紫へのグラデーションが使われている。"
+        ],
+        [
+          "Engineers must consider the gradient when designing roads.",
+          "技術者は道路設計の際に勾配を考慮しなければならない。"
+        ],
+        [
+          "The model calculates the gradient of the loss function.",
+          "そのモデルは損失関数の勾配を計算する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "grade",
+          "pos": "名詞・動詞",
+          "ipa": "/ɡreɪd/",
+          "meaning": "等級、成績、傾斜；格付けする",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The road has a six-percent grade.",
+          "translation": "その道路には6パーセントの勾配がある。",
+          "note": "gradus（段階）に由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "gradual",
+          "pos": "形容詞",
+          "ipa": "/ˈɡrædʒuəl/",
+          "meaning": "徐々の、段階的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "example": "The temperature increased gradually.",
+          "translation": "気温は徐々に上昇した。",
+          "note": "段階を一つずつ進むイメージ。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "graduate",
+          "pos": "動詞・名詞",
+          "ipa": "/ˈɡrædʒueɪt/",
+          "meaning": "卒業する；卒業生",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "She graduated from university last year.",
+          "translation": "彼女は昨年大学を卒業した。",
+          "note": "学習の段階を終えることに関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "degrade",
+          "pos": "動詞",
+          "ipa": "/dɪˈɡreɪd/",
+          "meaning": "劣化させる、格下げする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "Sunlight can degrade the material.",
+          "translation": "日光はその素材を劣化させることがある。",
+          "note": "de-（下へ）＋grade（段階）。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "upgrade",
+          "pos": "動詞・名詞",
+          "ipa": "/ˌʌpˈɡreɪd/",
+          "meaning": "改良する、格上げする；改良",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "We upgraded the security system.",
+          "translation": "私たちはセキュリティシステムを改良した。",
+          "note": "up＋grade。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "slope",
+          "pos": "名詞",
+          "ipa": "/sloʊp/",
+          "meaning": "坂、傾斜、傾き",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The slope is too steep for cyclists.",
+          "translation": "その坂は自転車に乗る人には急すぎる。",
+          "note": "日常の坂道や数学的な傾きに広く使う。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "incline",
+          "pos": "名詞",
+          "ipa": "/ˈɪnklaɪn/",
+          "meaning": "坂、傾斜面",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "The path rises along a gentle incline.",
+          "translation": "小道は緩やかな坂に沿って上っている。",
+          "note": "傾いた面・坂そのものを表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "steepness",
+          "pos": "名詞",
+          "ipa": "/ˈstiːpnəs/",
+          "meaning": "傾斜の急さ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "The steepness of the hill surprised us.",
+          "translation": "丘の傾斜の急さに驚いた。",
+          "note": "勾配の大きさを日常的に表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "gradation",
+          "pos": "名詞",
+          "ipa": "/ɡrəˈdeɪʃən/",
+          "meaning": "段階的変化、色の階調",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The painting shows a subtle gradation of blue.",
+          "translation": "その絵画には青色の繊細な階調変化が見られる。",
+          "note": "色や程度の段階的な変化を強調する。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "gradientは位置に対する変化率を強調し、科学・工学・数学で頻出。slopeは坂そのものや直線の傾きに広く使う。inclineは傾斜面、steepnessは急さに重点。gradationは色・程度が段階的に変化する過程を表す。数学の多変数関数ではgradientは最大増加方向のベクトルを指す。"
     }
   ]
 }
