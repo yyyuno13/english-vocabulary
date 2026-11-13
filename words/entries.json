@@ -13532,6 +13532,175 @@
         }
       ],
       "comparison": "優秀の意味ではoutstandingは周囲より際立つ、excellentは質の高さ、exceptionalは通常水準を大きく超える、remarkableは注目すべき点を強調。未処理の意味ではoutstandingは未完了・未決済で残る状態、pendingは処理や決定待ち、unresolvedは問題が未解決、unpaidは支払未了、overdueは期限超過。outstanding balanceは必ずしも支払期限超過ではない。"
+    },
+    {
+      "id": "in-light-of",
+      "word": "in light of",
+      "pos": "前置詞句",
+      "ipa": "米・英 /ɪn ˈlaɪt əv/",
+      "meaning": "〜を踏まえて、〜を考慮して、〜に照らして、〜という事情を受けて",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "in（〜の中で）＋light（光、明かり）＋of（〜の）。lightは古英語lēohtに由来。情報や事情を光にたとえ、「〜という光の下で物事を見る」から、判断材料として考慮する意味に。英国英語ではin the light ofも使う。",
+      "core": "新たな情報・事情が判断対象を照らし、見方や意思決定に影響する。「〜という事情を判断材料として考える」。直接の原因を示すdue toとは区別。",
+      "usage": "in light of + 名詞句・動名詞。in light of recent developments / the circumstances / new evidence / the fact that S+V。文頭・文末のどちらにも置ける。米英ともin light ofを使い、英ではin the light ofも一般的。",
+      "examples": [
+        [
+          "In light of the weather forecast, we decided to cancel the trip.",
+          "天気予報を踏まえて、旅行を中止することにした。"
+        ],
+        [
+          "In light of recent events, her reaction is understandable.",
+          "最近の出来事を考慮すれば、彼女の反応は理解できる。"
+        ],
+        [
+          "We should reconsider our assumptions in light of the new evidence.",
+          "新しい証拠に照らして、私たちの前提を再検討すべきだ。"
+        ],
+        [
+          "In light of declining sales, the company revised its business strategy.",
+          "売上の減少を踏まえて、会社は事業戦略を見直した。"
+        ],
+        [
+          "The budget was adjusted in light of changing market conditions.",
+          "市場環境の変化を考慮して、予算が修正された。"
+        ],
+        [
+          "In light of customer feedback, we have decided to improve the service.",
+          "顧客からのフィードバックを踏まえ、サービスを改善することにしました。"
+        ],
+        [
+          "In light of the audit findings, management reassessed its internal controls.",
+          "監査上の発見事項を踏まえて、経営者は内部統制を再評価した。"
+        ],
+        [
+          "The company recognized an impairment loss in light of deteriorating business conditions.",
+          "事業環境の悪化を踏まえ、会社は減損損失を認識した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "shed light on",
+          "pos": "句動詞",
+          "ipa": "/ʃed laɪt ɑːn/",
+          "meaning": "〜を明らかにする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The investigation shed light on the cause of the failure.",
+          "translation": "調査によって、その障害の原因が明らかになった。",
+          "note": "lightを知識・解明の比喩として使う。",
+          "relationship": "related"
+        },
+        {
+          "word": "bring to light",
+          "pos": "慣用句",
+          "ipa": "/brɪŋ tə laɪt/",
+          "meaning": "〜を明るみに出す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The audit brought several irregularities to light.",
+          "translation": "監査によって、いくつかの不正・異常事項が明るみに出た。",
+          "note": "隠れていた事実を可視化する。",
+          "relationship": "related"
+        },
+        {
+          "word": "come to light",
+          "pos": "慣用句",
+          "ipa": "/kʌm tə laɪt/",
+          "meaning": "明らかになる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "New information came to light during the investigation.",
+          "translation": "調査中に新たな情報が明らかになった。",
+          "note": "新事実が判明する。",
+          "relationship": "related"
+        },
+        {
+          "word": "in a new light",
+          "pos": "慣用句",
+          "ipa": "/ɪn ə nuː laɪt/",
+          "meaning": "新たな観点から",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The discovery made us see the problem in a new light.",
+          "translation": "その発見により、私たちは問題を新たな観点から見るようになった。",
+          "note": "物事の見え方が変わる。",
+          "relationship": "related"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "considering",
+          "pos": "前置詞",
+          "ipa": "/kənˈsɪdərɪŋ/",
+          "meaning": "〜を考慮すると",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Considering the circumstances, the decision was reasonable.",
+          "translation": "事情を考慮すると、その判断は妥当だった。",
+          "note": "広く使える一般的な考慮表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "given",
+          "pos": "前置詞",
+          "ipa": "/ˈɡɪvən/",
+          "meaning": "〜を前提とすると",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Given the tight deadline, we need to prioritize.",
+          "translation": "期限が厳しいことを踏まえ、優先順位をつける必要がある。",
+          "note": "既知の条件・事実を前提とする。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "in view of",
+          "pos": "前置詞句",
+          "ipa": "/ɪn ˈvjuː əv/",
+          "meaning": "〜を考慮して",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "In view of the risks, we postponed the launch.",
+          "translation": "リスクを考慮して、発売を延期した。",
+          "note": "ややフォーマル。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "due to",
+          "pos": "前置詞句",
+          "ipa": "/ˈduː tuː/",
+          "meaning": "〜が原因で",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The launch was delayed due to technical issues.",
+          "translation": "技術的な問題が原因で発売が遅れた。",
+          "note": "判断材料より因果関係を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "because of",
+          "pos": "前置詞句",
+          "ipa": "/bɪˈkɔːz əv/",
+          "meaning": "〜のために",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We stayed home because of the rain.",
+          "translation": "雨のため家にいた。",
+          "note": "直接的な理由を示す。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "in light ofは新情報や事情を判断材料にする。consideringは一般的な考慮、givenは条件を前提とする、in view ofはややフォーマルな考慮。due toとbecause ofは原因・理由をより直接的に表す。例：In light of the new regulations, we changed our policy.（規制を踏まえた判断）とDue to the new regulations, we changed our policy.（規制が変更の原因）"
     }
   ]
 }
