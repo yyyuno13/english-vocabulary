@@ -15802,6 +15802,242 @@
         "src": "./images/core/screw-up.svg",
         "alt": "正常な状態がミスによって台無しになる図。"
       }
+    },
+    {
+      "id": "versatile",
+      "word": "versatile",
+      "pos": "形容詞",
+      "ipa": "米 /ˈvɝːsətəl/、英 /ˈvɜːsətaɪl/ または /ˈvɜːsətəl/",
+      "meaning": "多才な、用途の広い、さまざまな状況に対応できる",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 5,
+      "etymology": "ラテン語 vertere（回す、向きを変える）→ versare（繰り返し回す、さまざまに扱う）→ versatilis（回転できる、向きを変えられる）。向きを変えられる→多方面に対応できる→多才な・多用途の。",
+      "core": "一つの方向に固定されず、さまざまな役割・用途・状況に柔軟に対応できる。",
+      "usage": "a versatile employee（多様な業務に対応できる従業員）、a versatile performer（多彩な演者）、a versatile tool（多用途の道具）、a versatile solution（応用範囲の広い解決策）、highly versatile（非常に汎用性が高い）、versatile enough to ...（～できるほど汎用性がある）、a versatile skill set（幅広く応用できるスキル構成）。",
+      "examples": [
+        [
+          "She is a versatile employee who can handle a wide range of tasks.",
+          "彼女は幅広い業務をこなせる多才な従業員だ。"
+        ],
+        [
+          "The actor is known for his versatile performances.",
+          "その俳優は多彩な演技で知られている。"
+        ],
+        [
+          "We need versatile professionals who can adapt to changing business environments.",
+          "私たちは変化するビジネス環境に適応できる柔軟な専門人材を必要としている。"
+        ],
+        [
+          "This software is versatile enough to support different business processes.",
+          "このソフトウェアは、さまざまな業務プロセスに対応できるほど汎用性が高い。"
+        ],
+        [
+          "A versatile jacket can be worn in both casual and formal settings.",
+          "汎用性の高いジャケットは、カジュアルにもフォーマルにも着用できる。"
+        ],
+        [
+          "The device is highly versatile and easy to use.",
+          "その装置は非常に多用途で、使いやすい。"
+        ],
+        [
+          "The company adopted a versatile approach to solving complex problems.",
+          "その企業は複雑な問題を解決するため、柔軟に応用できるアプローチを採用した。"
+        ],
+        [
+          "Python is a versatile programming language used in many industries.",
+          "Pythonは多くの業界で使われる汎用性の高いプログラミング言語だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "versatility",
+          "ipa": "/ˌvɝːsəˈtɪləti/",
+          "pos": "名詞",
+          "meaning": "多才さ、汎用性",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "etymology": "versatile の名詞形。",
+          "example": "The versatility of this platform makes it suitable for different industries.",
+          "translation": "このプラットフォームの汎用性により、さまざまな業界で利用できる。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "reverse",
+          "ipa": "/rɪˈvɝːs/",
+          "pos": "動詞・形容詞",
+          "meaning": "逆にする、反対の",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "re-（後ろへ）＋ vers-（回す）。",
+          "example": "The company reversed its previous decision.",
+          "translation": "その会社は以前の決定を撤回した。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "convert",
+          "ipa": "/kənˈvɝːt/",
+          "pos": "動詞",
+          "meaning": "変換する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "con-（一緒に、完全に）＋ vert-（向きを変える）。",
+          "example": "We need to convert the data into a different format.",
+          "translation": "データを別の形式に変換する必要がある。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "diverse",
+          "ipa": "/daɪˈvɝːs/",
+          "pos": "形容詞",
+          "meaning": "多様な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "di-（離れて）＋ vers-（向きを変える）。",
+          "example": "The team consists of people from diverse backgrounds.",
+          "translation": "そのチームは多様な背景を持つ人々で構成されている。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "invert",
+          "ipa": "/ɪnˈvɝːt/",
+          "pos": "動詞",
+          "meaning": "反転させる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "etymology": "in-（中へ、上に）＋ vert-（回す）。",
+          "example": "The image was inverted vertically.",
+          "translation": "その画像は上下反転された。",
+          "note": "",
+          "relationship": "derivative"
+        },
+        {
+          "word": "version",
+          "ipa": "/ˈvɝːʒən/",
+          "pos": "名詞",
+          "meaning": "版、形式",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 vertere に由来する語群。",
+          "example": "Please install the latest version of the software.",
+          "translation": "ソフトウェアの最新版をインストールしてください。",
+          "note": "",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "flexible",
+          "ipa": "/ˈfleksəbəl/",
+          "pos": "形容詞",
+          "meaning": "柔軟な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 flectere（曲げる）。",
+          "example": "Our working arrangements are flexible.",
+          "translation": "私たちの勤務形態は柔軟だ。",
+          "note": "予定や方法を柔軟に変えられる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "adaptable",
+          "ipa": "/əˈdæptəbəl/",
+          "pos": "形容詞",
+          "meaning": "適応力のある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "ラテン語 adaptare（合わせる）。",
+          "example": "Successful managers need to be adaptable.",
+          "translation": "優れた管理職には環境への適応力が必要だ。",
+          "note": "新しい環境・条件に適応できる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "multifunctional",
+          "ipa": "/ˌmʌltiˈfʌŋkʃənəl/",
+          "pos": "形容詞",
+          "meaning": "多機能の",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "etymology": "multi-（多くの）＋ functional（機能の）。",
+          "example": "This is a multifunctional printer.",
+          "translation": "これは複数の機能を備えたプリンターだ。",
+          "note": "一つの物が複数の機能を持つ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "resourceful",
+          "ipa": "/rɪˈsɔːrsfəl/",
+          "pos": "形容詞",
+          "meaning": "工夫して対処できる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "resource（資源・手段）＋ -ful。",
+          "example": "She is resourceful when unexpected problems arise.",
+          "translation": "予期しない問題が起きたとき、彼女は工夫して対処できる。",
+          "note": "工夫して問題を解決する能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "all-round",
+          "ipa": "/ˌɔːl ˈraʊnd/",
+          "pos": "形容詞",
+          "meaning": "全般的に優れた",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "all（すべて）＋ round（周囲に）。",
+          "example": "He is an excellent all-round athlete.",
+          "translation": "彼は総合的に優れた運動選手だ。",
+          "note": "主にイギリス英語で、総合的な能力を表す。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "versatile は対応できる役割・用途の多さ、flexible は方法・予定の柔軟さ、adaptable は新環境への適応力、multifunctional は物の複数機能、resourceful は問題解決の工夫、all-round は総合的な能力を強調。",
+      "comparisonRows": [
+        [
+          "versatile",
+          "異なる役割・用途を幅広くこなせる"
+        ],
+        [
+          "flexible",
+          "状況に合わせて方法・予定を変えられる"
+        ],
+        [
+          "adaptable",
+          "新しい環境や条件に適応できる"
+        ],
+        [
+          "multifunctional",
+          "一つの物に複数の機能がある"
+        ],
+        [
+          "resourceful",
+          "工夫して問題を解決できる"
+        ],
+        [
+          "all-round",
+          "全般的に能力が高い"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/versatile.svg",
+        "alt": "中心から複数の役割・用途・状況に向けて対応する図。"
+      }
     }
   ]
 }
