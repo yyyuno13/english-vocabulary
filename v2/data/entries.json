@@ -17286,6 +17286,162 @@
         }
       ],
       "comparison": "expertiseは深い知識・経験に裏付けられた専門的な実践能力。knowledgeは知識・理解、skillは個別の具体的技能、proficiencyは特定技能の習熟度、competenceは職務を適切に遂行する能力、specializationは特定分野への専門化を示す。expertise in accountingは単なる知識以上の専門性を含意する。"
+    },
+    {
+      "id": "drought",
+      "word": "drought",
+      "pos": "名詞（可算・不可算）",
+      "ipa": "米・英 /draʊt/",
+      "meaning": "干ばつ、長期間の水不足；（比喩的に）長期にわたる欠乏・不足",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 3,
+      "etymology": "古英語drūgaþ（乾燥、干ばつ）に由来し、dry（乾いた）と語源的につながる。現代英語でdrou + ghtと分解するのは不適切。",
+      "core": "本来あるはずの水が長期間不足する状態。比喩的にアイデアや得点などの長期的な欠乏にも広がる。",
+      "usage": "severe drought（深刻な干ばつ）、prolonged drought（長期の干ばつ）、drought conditions（干ばつの状況）、drought-stricken areas（干ばつ被災地域）、drought-resistant crops（耐干ばつ性作物）、drought relief（干ばつ救援）、a drought of ideas（アイデアの枯渇）。ghは発音せず/draʊt/。",
+      "examples": [
+        [
+          "The region has been suffering from a severe drought for several months.",
+          "その地域は数か月にわたり深刻な干ばつに苦しんでいる。"
+        ],
+        [
+          "Prolonged drought has caused significant damage to agricultural production.",
+          "長期にわたる干ばつが農業生産に大きな被害をもたらした。"
+        ],
+        [
+          "The government introduced water restrictions in response to the drought.",
+          "政府は干ばつに対応して水の使用制限を導入した。"
+        ],
+        [
+          "Scientists warn that rising temperatures could increase the risk of drought in some regions.",
+          "科学者たちは、気温上昇によって一部地域で干ばつのリスクが高まる可能性があると警告している。"
+        ],
+        [
+          "The drought led to a sharp increase in food prices.",
+          "干ばつによって食料価格が急上昇した。"
+        ],
+        [
+          "The company's supply chain was disrupted by drought conditions in the region.",
+          "その地域の干ばつによって、会社のサプライチェーンが混乱した。"
+        ],
+        [
+          "After a long scoring drought, the team finally won a match.",
+          "長い得点不足の期間を経て、チームはようやく試合に勝った。"
+        ],
+        [
+          "The industry is experiencing a drought of innovative ideas.",
+          "その業界は革新的なアイデアの枯渇に直面している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "dry",
+          "pos": "形容詞・動詞",
+          "ipa": "/draɪ/",
+          "meaning": "乾いた、乾かす",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "example": "The soil becomes extremely dry during the summer.",
+          "translation": "夏の間、土壌は非常に乾燥する。",
+          "note": "古英語以来の同語源語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "dryness",
+          "pos": "名詞",
+          "ipa": "/ˈdraɪnəs/",
+          "meaning": "乾燥、乾いていること",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "example": "The dryness of the soil affects crop growth.",
+          "translation": "土壌の乾燥は作物の成長に影響する。",
+          "note": "dryの派生語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "drought-stricken",
+          "pos": "形容詞",
+          "ipa": "/ˈdraʊt ˌstrɪkən/",
+          "meaning": "干ばつに見舞われた",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Drought-stricken communities urgently need clean drinking water.",
+          "translation": "干ばつに見舞われた地域社会では、安全な飲料水が緊急に必要とされている。",
+          "note": "droughtを含む複合語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "drought-resistant",
+          "pos": "形容詞",
+          "ipa": "/ˈdraʊt rɪˌzɪstənt/",
+          "meaning": "干ばつに強い",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Farmers are developing drought-resistant varieties of wheat.",
+          "translation": "農家は干ばつに強い小麦の品種を開発している。",
+          "note": "droughtを含む複合語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "aridity",
+          "pos": "名詞",
+          "ipa": "/əˈrɪdəti/",
+          "meaning": "乾燥性",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The region's aridity limits agricultural production.",
+          "translation": "その地域の乾燥性は農業生産を制約する。",
+          "note": "恒常的な気候の乾燥性。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "water scarcity",
+          "pos": "名詞句",
+          "ipa": "/ˈwɔːtər ˈskersəti/",
+          "meaning": "水資源不足",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The country faces chronic water scarcity due to overconsumption.",
+          "translation": "その国は水の過剰消費によって慢性的な水不足に直面している。",
+          "note": "過剰利用やインフラ不足でも生じる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "shortage",
+          "pos": "名詞",
+          "ipa": "/ˈʃɔːrtɪdʒ/",
+          "meaning": "不足",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The factory faced a shortage of raw materials.",
+          "translation": "工場は原材料不足に直面した。",
+          "note": "不足全般を表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "famine",
+          "pos": "名詞",
+          "ipa": "/ˈfæmɪn/",
+          "meaning": "飢饉",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The drought contributed to a widespread famine.",
+          "translation": "その干ばつは広範囲にわたる飢饉の一因となった。",
+          "note": "食料不足による飢饉。干ばつと同義ではない。",
+          "relationship": "related"
+        }
+      ],
+      "comparison": "droughtは通常の降水状況から外れた長期的な水不足。aridityは土地・気候の恒常的な乾燥性、water scarcityは利用可能な水資源の不足、shortageは物資・人員なども含む不足一般、famineは深刻な食料不足・飢饉でありdroughtとは異なる。"
     }
   ]
 }
