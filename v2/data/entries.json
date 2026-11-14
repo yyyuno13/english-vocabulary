@@ -17871,6 +17871,188 @@
         }
       ],
       "comparison": "動詞land a job/contractは努力や競争の結果として獲得する会話的な表現。secureは確保、obtainは手続き・努力による入手、acquireは資産・企業などの取得、winは競争に勝って獲得。名詞landは土地・陸地全般、groundは地面、soilは土壌、territoryは領土、propertyは不動産・財産。"
+    },
+    {
+      "id": "nut",
+      "word": "nut",
+      "pos": "名詞・動詞",
+      "ipa": "米・英 /nʌt/",
+      "meaning": "木の実、ナッツ；（ボルトを締める）ナット；熱狂的な愛好家；（くだけて）変わり者",
+      "difficulty": 2,
+      "daily": 4,
+      "business": 2,
+      "etymology": "古英語hnutu（木の実、堅い殻を持つ実）に由来し、ドイツ語Nussやオランダ語nootと同語源。機械部品のナットは形状の類似から。人を指す俗語の詳細な意味変化は断定できない。現代英語で接頭辞・語根に分解しない。",
+      "core": "堅い殻に包まれた小さな木の実。形の似た金属製のナット、口語では特定のことに夢中な人や変わり者を指す。nuts and boltsは物事の基本的な仕組みを表す。",
+      "usage": "a handful of nuts、mixed nuts、nuts and bolts（基本的な仕組み）、a fitness nut（熱心な愛好家）、go nuts（興奮する）、drive someone nuts（いらいらさせる）、be nuts about（〜に夢中）、in a nutshell（要するに）。人をa nutと呼ぶのは失礼になりうる。",
+      "examples": [
+        [
+          "I usually eat a handful of nuts as a snack.",
+          "私は普段、おやつとしてひとつかみのナッツを食べる。"
+        ],
+        [
+          "Some people have severe allergies to certain nuts.",
+          "特定のナッツに対して重いアレルギーを持つ人もいる。"
+        ],
+        [
+          "The mechanic tightened the nut with a wrench.",
+          "整備士はレンチでナットを締めた。"
+        ],
+        [
+          "We need to understand the nuts and bolts of the new accounting system.",
+          "私たちは新しい会計システムの基本的な仕組みを理解する必要がある。"
+        ],
+        [
+          "He's a fitness nut who works out almost every day.",
+          "彼はほぼ毎日運動するフィットネス愛好家だ。"
+        ],
+        [
+          "The constant noise is driving me nuts.",
+          "絶え間ない騒音にいらいらさせられている。"
+        ],
+        [
+          "The crowd went nuts when the singer appeared on stage.",
+          "歌手がステージに現れると、観客は熱狂した。"
+        ],
+        [
+          "She's nuts about classical music.",
+          "彼女はクラシック音楽に夢中だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "nutty",
+          "pos": "形容詞",
+          "ipa": "/ˈnʌti/",
+          "meaning": "ナッツ風味の、風変わりな",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "The coffee has a slightly nutty flavor.",
+          "translation": "そのコーヒーには少しナッツのような風味がある。",
+          "note": "nutからの派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "nutshell",
+          "pos": "名詞",
+          "ipa": "/ˈnʌtʃel/",
+          "meaning": "木の実の殻",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "Let me explain the situation in a nutshell.",
+          "translation": "状況を簡潔に説明します。",
+          "note": "nut＋shell。in a nutshellは簡潔に言えば。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "nutcracker",
+          "pos": "名詞",
+          "ipa": "/ˈnʌtkrækər/",
+          "meaning": "くるみ割り器",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "She used a nutcracker to open the walnuts.",
+          "translation": "彼女はくるみ割り器を使ってクルミを割った。",
+          "note": "nut＋cracker。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "nutmeg",
+          "pos": "名詞",
+          "ipa": "/ˈnʌtmeɡ/",
+          "meaning": "ナツメグ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "Add a pinch of nutmeg to the sauce.",
+          "translation": "ソースにナツメグをひとつまみ加えてください。",
+          "note": "nutを含む古い複合語。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "seed",
+          "pos": "名詞",
+          "ipa": "/siːd/",
+          "meaning": "種子",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 3,
+          "example": "These seeds will grow into trees.",
+          "translation": "これらの種子は木に育つ。",
+          "note": "植物学的な種子。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "kernel",
+          "pos": "名詞",
+          "ipa": "/ˈkɝːnəl/",
+          "meaning": "仁、殻の中の食べられる部分",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The kernel is protected by a hard shell.",
+          "translation": "仁は堅い殻によって守られている。",
+          "note": "殻の内側にある部分。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "legume",
+          "pos": "名詞",
+          "ipa": "/ˈleɡjuːm/",
+          "meaning": "マメ科植物・その実",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Peanuts are legumes rather than true botanical nuts.",
+          "translation": "ピーナッツは植物学上の真正のナッツではなく、マメ科植物の実である。",
+          "note": "植物分類上の用語。",
+          "relationship": "related"
+        },
+        {
+          "word": "enthusiast",
+          "pos": "名詞",
+          "ipa": "/ɪnˈθuːziæst/",
+          "meaning": "熱心な愛好家",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "She's a photography enthusiast.",
+          "translation": "彼女は写真愛好家だ。",
+          "note": "中立的で丁寧。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "fanatic",
+          "pos": "名詞",
+          "ipa": "/fəˈnætɪk/",
+          "meaning": "熱狂的な人",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "He's a sports fanatic.",
+          "translation": "彼は熱狂的なスポーツファンだ。",
+          "note": "過度な熱中を含意する場合がある。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "buff",
+          "pos": "名詞",
+          "ipa": "/bʌf/",
+          "meaning": "特定分野に詳しい愛好家",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "He's a history buff.",
+          "translation": "彼は歴史に詳しい愛好家だ。",
+          "note": "特定分野に詳しい人。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "食物のnutは日常的なナッツの呼称で、植物学上のnutと必ずしも一致しない。seedは種子、kernelは殻の内側の仁、legumeはマメ科植物。愛好家のnutはくだけた言い方、enthusiastは中立的、fanaticは行き過ぎた熱中を示す場合があり、buffは特定分野に詳しい愛好家。"
     }
   ]
 }
