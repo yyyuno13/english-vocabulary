@@ -18378,6 +18378,188 @@
         }
       ],
       "comparison": "barge inは唐突で無遠慮な割り込み、interruptは話・作業を中断させる一般表現、intrudeは他人の領域への介入、butt inは出しゃばった口出し、burst inは突然勢いよく入ること。通常のビジネス会話ではSorry to interruptの方が無難。"
+    },
+    {
+      "id": "service",
+      "word": "service",
+      "pos": "名詞・動詞",
+      "ipa": "米 /ˈsɝːvɪs/・英 /ˈsɜːvɪs/",
+      "meaning": "サービス、役務、奉仕、職務、勤務、軍務・兵役、軍隊（特に軍の各部門）、整備、礼拝",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 5,
+      "etymology": "ラテン語servus（奴隷・従者）→servīre（仕える）→古フランス語servise/service（奉仕）→英語service。現代英語のserveと関連するが、英語でserve＋iceと新しく形成された語ではない。",
+      "core": "誰か・組織・目的のために役割を果たすこと。顧客への役務、公共への奉仕、国家に仕える軍務、軍の各部門、整備や礼拝へと意味が広がる。",
+      "usage": "provide a service、customer service、public service、years of service、military service（軍務・兵役）、compulsory military service（義務兵役）、the service（文脈によって軍隊・軍務）、the armed services（軍の各部門）、enter/leave the service（入隊・退役）、on active service（現役の軍務）、service member（軍人）、service record（軍歴）、enter service（運用開始）、out of service（運用停止）。",
+      "examples": [
+        [
+          "The company provides financial advisory services to corporate clients.",
+          "その会社は法人顧客に財務アドバイザリーサービスを提供している。"
+        ],
+        [
+          "Excellent customer service is essential for maintaining customer loyalty.",
+          "優れた顧客対応は顧客の忠誠心を維持するうえで不可欠だ。"
+        ],
+        [
+          "She has dedicated her career to public service.",
+          "彼女は公務・公共への奉仕に自身の職業人生を捧げてきた。"
+        ],
+        [
+          "The aircraft was taken out of service for maintenance.",
+          "その航空機は整備のため運用から外された。"
+        ],
+        [
+          "He served in the military for fifteen years.",
+          "彼は15年間軍隊で勤務した。"
+        ],
+        [
+          "All citizens were required to complete military service.",
+          "すべての国民は兵役を終えることを義務付けられていた。"
+        ],
+        [
+          "The government introduced new benefits for former service members.",
+          "政府は元軍人向けの新たな給付制度を導入した。"
+        ],
+        [
+          "The new equipment will enter service next year.",
+          "その新しい装備は来年運用が開始される。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "serve",
+          "pos": "動詞",
+          "ipa": "/sɝːv/",
+          "meaning": "仕える、提供する、務める",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "She served in the army for ten years.",
+          "translation": "彼女は10年間陸軍に勤務した。",
+          "note": "同じラテン語servīreに由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "servant",
+          "pos": "名詞",
+          "ipa": "/ˈsɝːvənt/",
+          "meaning": "使用人、奉仕者",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "Civil servants are responsible for implementing public policies.",
+          "translation": "公務員は公共政策の実施に責任を負っている。",
+          "note": "serveと同語源。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "servitude",
+          "pos": "名詞",
+          "ipa": "/ˈsɝːvɪtuːd/",
+          "meaning": "隷属、苦役",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The agreement was criticized for creating a relationship of economic servitude.",
+          "translation": "その協定は経済的な従属関係を生み出すとして批判された。",
+          "note": "ラテン語servitusと関連。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "servile",
+          "pos": "形容詞",
+          "ipa": "/ˈsɝːvaɪl/",
+          "meaning": "卑屈な、奴隷のような",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "His servile attitude made the others uncomfortable.",
+          "translation": "彼の卑屈な態度は周囲を居心地悪くさせた。",
+          "note": "ラテン語servilisから。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "servicing",
+          "pos": "名詞",
+          "ipa": "/ˈsɝːvɪsɪŋ/",
+          "meaning": "点検・整備、債務管理",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The company is responsible for servicing the outstanding debt.",
+          "translation": "その会社は未返済債務の元利金支払いなどを管理する責任を負っている。",
+          "note": "serviceの派生語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "duty",
+          "pos": "名詞",
+          "ipa": "/ˈduːti/",
+          "meaning": "義務、任務",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The soldier returned to duty after recovering from his injury.",
+          "translation": "その兵士は負傷から回復した後、任務に復帰した。",
+          "note": "責任・義務に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "employment",
+          "pos": "名詞",
+          "ipa": "/ɪmˈplɔɪmənt/",
+          "meaning": "雇用、就業",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The contract specifies the terms of employment.",
+          "translation": "契約書には雇用条件が定められている。",
+          "note": "雇用関係に重点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "deployment",
+          "pos": "名詞",
+          "ipa": "/dɪˈplɔɪmənt/",
+          "meaning": "配備、派遣",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The deployment lasted six months.",
+          "translation": "その派遣は6か月続いた。",
+          "note": "特定の場所への配備。",
+          "relationship": "related"
+        },
+        {
+          "word": "enlistment",
+          "pos": "名詞",
+          "ipa": "/ɪnˈlɪstmənt/",
+          "meaning": "入隊、志願兵としての登録",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "His enlistment began in 2020.",
+          "translation": "彼の入隊は2020年だった。",
+          "note": "軍に入ること・登録。",
+          "relationship": "related"
+        },
+        {
+          "word": "conscription",
+          "pos": "名詞",
+          "ipa": "/kənˈskrɪpʃən/",
+          "meaning": "徴兵制、徴兵",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The government abolished conscription.",
+          "translation": "政府は徴兵制を廃止した。",
+          "note": "強制的な兵役制度。",
+          "relationship": "related"
+        }
+      ],
+      "comparison": "serviceは役務・奉仕・勤務・軍務全般。military serviceは志願制・義務制双方の兵役を含み、conscriptionは徴兵制度。dutyは具体的な義務・任務、employmentは雇用関係、deploymentは配備・派遣、enlistmentは入隊。the armed servicesは軍の各部門を指す。"
     }
   ]
 }
