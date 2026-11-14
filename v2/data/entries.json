@@ -18560,6 +18560,149 @@
         }
       ],
       "comparison": "serviceは役務・奉仕・勤務・軍務全般。military serviceは志願制・義務制双方の兵役を含み、conscriptionは徴兵制度。dutyは具体的な義務・任務、employmentは雇用関係、deploymentは配備・派遣、enlistmentは入隊。the armed servicesは軍の各部門を指す。"
+    },
+    {
+      "id": "felony",
+      "word": "felony",
+      "pos": "名詞（可算）",
+      "ipa": "米・英 /ˈfeləni/",
+      "meaning": "重罪、重大な犯罪（特に米国法上の犯罪分類）",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 3,
+      "etymology": "中英語felonie←古フランス語felonie（悪事、裏切り、重大な犯罪）、felon（邪悪な人、裏切り者）と関連。さらに古い起源は不確か。封建社会の重大な背信行為とも関係し、英米法の犯罪分類へ発展。fel-などに機械的に分解しない。",
+      "core": "法的に重大な犯罪として分類される行為。特に米国法でmisdemeanor（軽罪）と区別されるが、具体的な分類は法域により異なる。訴追（charged）と有罪判決（convicted）は別。",
+      "usage": "commit a felony（重罪を犯す）、be charged with a felony（重罪で訴追される）、be convicted of a felony（重罪で有罪判決を受ける）、felony charges（重罪の訴追）、felony conviction（重罪の有罪判決）、felony offense、felony fraud。米国連邦法では原則として法定刑の上限が死刑または1年を超える拘禁刑の犯罪がfelonyに分類される。州法は異なりうる。",
+      "examples": [
+        [
+          "He was charged with a felony after the investigation.",
+          "捜査の後、彼は重罪で訴追された。"
+        ],
+        [
+          "The defendant was convicted of multiple felonies.",
+          "被告人は複数の重罪について有罪判決を受けた。"
+        ],
+        [
+          "Under state law, the offense is classified as a felony.",
+          "州法上、その犯罪は重罪に分類される。"
+        ],
+        [
+          "A felony conviction can have long-term consequences for employment.",
+          "重罪の有罪判決は、就職に長期的な影響を及ぼすことがある。"
+        ],
+        [
+          "The prosecutor decided to file felony charges.",
+          "検察官は重罪として訴追することを決めた。"
+        ],
+        [
+          "The suspect was accused of committing a felony.",
+          "容疑者は重罪を犯したとして告発された。"
+        ],
+        [
+          "Certain forms of financial fraud may constitute a felony.",
+          "特定の形態の金融詐欺は重罪に該当する場合がある。"
+        ],
+        [
+          "The distinction between a felony and a misdemeanor varies across jurisdictions.",
+          "重罪と軽罪の区別は法域によって異なる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "felon",
+          "pos": "名詞",
+          "ipa": "/ˈfelən/",
+          "meaning": "重罪犯、重罪で有罪判決を受けた人",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "The law restricts certain rights of convicted felons.",
+          "translation": "その法律は重罪で有罪判決を受けた人々の一部の権利を制限している。",
+          "note": "felonyと同じ古フランス語felonに由来。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "felonious",
+          "pos": "形容詞",
+          "ipa": "/fəˈloʊniəs/",
+          "meaning": "重罪に当たる、犯罪的な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The indictment alleged felonious conduct.",
+          "translation": "起訴状は重罪に該当する行為があったと主張していた。",
+          "note": "felonyに関連する法律用語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "crime",
+          "pos": "名詞",
+          "ipa": "/kraɪm/",
+          "meaning": "犯罪",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Fraud is a serious crime.",
+          "translation": "詐欺は重大な犯罪だ。",
+          "note": "犯罪一般。felonyに分類されるとは限らない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "offense",
+          "pos": "名詞",
+          "ipa": "/əˈfens/",
+          "meaning": "違法行為、犯罪",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The offense was prosecuted as a felony.",
+          "translation": "その犯罪は重罪として訴追された。",
+          "note": "違法行為一般を指す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "misdemeanor",
+          "pos": "名詞",
+          "ipa": "/ˌmɪsdɪˈmiːnər/",
+          "meaning": "軽罪",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The defendant pleaded guilty to a misdemeanor.",
+          "translation": "被告人は軽罪について有罪を認めた。",
+          "note": "felonyより軽い犯罪分類。",
+          "relationship": "antonym"
+        },
+        {
+          "word": "violation",
+          "pos": "名詞",
+          "ipa": "/ˌvaɪəˈleɪʃən/",
+          "meaning": "違反",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company reported a regulatory violation.",
+          "translation": "その会社は規制違反を報告した。",
+          "note": "法律・規則・契約の違反。",
+          "relationship": "related"
+        },
+        {
+          "word": "indictment",
+          "pos": "名詞",
+          "ipa": "/ɪnˈdaɪtmənt/",
+          "meaning": "起訴、起訴状",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The grand jury returned an indictment against the defendant.",
+          "translation": "大陪審は被告人に対する起訴を決定した。",
+          "note": "犯罪自体ではなく訴追手続。",
+          "relationship": "related"
+        }
+      ],
+      "comparison": "felonyは特に米国法上の重罪分類。crime/offenseは犯罪一般、misdemeanorは軽罪、violationは法律・規則違反、indictmentは起訴・起訴状で犯罪分類ではない。charged with a felony（訴追）とconvicted of a felony（有罪判決）は明確に区別する。"
     }
   ]
 }
