@@ -18885,6 +18885,188 @@
         }
       ],
       "comparison": "forge a partnershipは努力して強固な関係を築く。buildは徐々に構築、establishは正式な設立・確立、cultivateは時間をかけて育む。偽造ではforge a signature（署名を偽造）、falsify records（記録を改ざん）、fabricate transactions（架空取引を捏造）、counterfeit banknotes（偽造紙幣を製造）と使い分けるが、意味が重なる場合もある。"
+    },
+    {
+      "id": "diagnose",
+      "word": "diagnose",
+      "pos": "動詞（他動詞）",
+      "ipa": "米 /ˌdaɪəɡˈnoʊs/・英 /ˈdaɪəɡnəʊz/",
+      "meaning": "診断する；問題・故障・不具合の原因や性質を分析して特定する",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "古代ギリシャ語diagignōskein（識別する、見分ける）にさかのぼる。dia-（通して、十分に）＋gignōskein（知る）。ギリシャ語diagnōsis（識別、判断）に由来する英語diagnosisをもとに動詞diagnoseが形成された。",
+      "core": "表面に現れた症状や兆候を調査・分析し、その背後にある病気や問題の正体を判断する。diagnoseは原因・状態の診断であり、treatやfixは治療・修復を指す。",
+      "usage": "diagnose a disease / problem、diagnose someone with a disease（人を病気と診断する）、be diagnosed with（〜と診断される）、diagnose the cause of a failure、diagnose the root cause of a problem。",
+      "examples": [
+        [
+          "The doctor diagnosed the patient with pneumonia.",
+          "医師はその患者を肺炎と診断した。"
+        ],
+        [
+          "She was diagnosed with diabetes last year.",
+          "彼女は昨年、糖尿病と診断された。"
+        ],
+        [
+          "Early diagnosis can significantly improve treatment outcomes.",
+          "早期診断は治療成績を大きく改善する可能性がある。"
+        ],
+        [
+          "The engineers are trying to diagnose the cause of the system failure.",
+          "エンジニアたちはシステム障害の原因を特定しようとしている。"
+        ],
+        [
+          "It took several days to diagnose the technical problem.",
+          "技術的な問題の原因を特定するのに数日かかった。"
+        ],
+        [
+          "The consultant was hired to diagnose the company's declining profitability.",
+          "そのコンサルタントは企業の収益性低下の原因を分析するために雇われた。"
+        ],
+        [
+          "The audit team identified several warning signs but could not immediately diagnose the underlying issue.",
+          "監査チームはいくつかの警告兆候を発見したが、根本的な問題をすぐには特定できなかった。"
+        ],
+        [
+          "Before proposing a solution, we need to diagnose the problem accurately.",
+          "解決策を提案する前に、問題の原因を正確に特定する必要がある。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "diagnosis",
+          "pos": "名詞",
+          "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+          "meaning": "診断、原因の特定",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The initial diagnosis turned out to be incorrect.",
+          "translation": "最初の診断は誤りだったことが判明した。",
+          "note": "diagnoseと直接関連する名詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "diagnostic",
+          "pos": "形容詞・名詞",
+          "ipa": "/ˌdaɪəɡˈnɑstɪk/",
+          "meaning": "診断の、診断用の",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The software includes advanced diagnostic tools.",
+          "translation": "そのソフトウェアには高度な診断ツールが搭載されている。",
+          "note": "diagnosisと同系。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "prognosis",
+          "pos": "名詞",
+          "ipa": "/prɑɡˈnoʊsɪs/",
+          "meaning": "予後、今後の見通し",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "The long-term prognosis remains uncertain.",
+          "translation": "長期的な見通しは依然として不透明だ。",
+          "note": "pro-（前もって）＋知る、の同系語根。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "recognize",
+          "pos": "動詞",
+          "ipa": "/ˈrekəɡnaɪz/",
+          "meaning": "認識する、見分ける",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The management team failed to recognize the early warning signs.",
+          "translation": "経営陣は初期の警告兆候を認識できなかった。",
+          "note": "ラテン語系の知るという同じ印欧語根に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "cognition",
+          "pos": "名詞",
+          "ipa": "/kɑɡˈnɪʃən/",
+          "meaning": "認知、知る働き",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Cognition involves memory, attention, and reasoning.",
+          "translation": "認知には記憶、注意、推論が関わる。",
+          "note": "知るという印欧語根を共有。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "identify",
+          "pos": "動詞",
+          "ipa": "/aɪˈdentɪfaɪ/",
+          "meaning": "正体・原因を特定する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The team identified the employee responsible for the error.",
+          "translation": "チームはその誤りの原因となった従業員を特定した。",
+          "note": "正体・原因の特定を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "detect",
+          "pos": "動詞",
+          "ipa": "/dɪˈtekt/",
+          "meaning": "異常や兆候を発見する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The monitoring system detected an unusual transaction.",
+          "translation": "監視システムは異常な取引を検知した。",
+          "note": "存在を発見する段階。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "analyze",
+          "pos": "動詞",
+          "ipa": "/ˈænəlaɪz/",
+          "meaning": "詳しく分析する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The auditors analyzed the transaction data.",
+          "translation": "監査人たちは取引データを分析した。",
+          "note": "分析作業そのもの。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "assess",
+          "pos": "動詞",
+          "ipa": "/əˈses/",
+          "meaning": "評価する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We need to assess the potential impact on the financial statements.",
+          "translation": "財務諸表への潜在的な影響を評価する必要がある。",
+          "note": "影響の大きさや重要性の評価。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "troubleshoot",
+          "pos": "動詞",
+          "ipa": "/ˈtrʌbəlʃuːt/",
+          "meaning": "不具合の原因を調べて対処する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The IT department is troubleshooting the network issue.",
+          "translation": "IT部門はネットワークの不具合の原因を調べ、対処している。",
+          "note": "原因究明から修復に向けた対応まで含む。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "detectは異常の存在を発見、analyzeは情報を分析、diagnoseは症状・兆候から原因や状態を診断、identifyは正体を特定、assessは程度や影響を評価、troubleshootは不具合の調査と対処。diagnoseとtreat/fixは診断と治療・修復の違い。"
     }
   ]
 }
