@@ -18053,6 +18053,188 @@
         }
       ],
       "comparison": "食物のnutは日常的なナッツの呼称で、植物学上のnutと必ずしも一致しない。seedは種子、kernelは殻の内側の仁、legumeはマメ科植物。愛好家のnutはくだけた言い方、enthusiastは中立的、fanaticは行き過ぎた熱中を示す場合があり、buffは特定分野に詳しい愛好家。"
+    },
+    {
+      "id": "track-down",
+      "word": "track down",
+      "pos": "句動詞（他動詞）",
+      "ipa": "米・英 /ˌtræk ˈdaʊn/",
+      "meaning": "（手がかりを追って）探し出す、突き止める、所在を特定する",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "track（足跡、通った道筋を追う）＋down（探索を最後まで進める）。trackは中期英語に取り入れられた語で、古フランス語・ゲルマン系との関係が指摘されるが細かな経路には不確かな点がある。",
+      "core": "足跡・痕跡・手がかりをたどって、最終的に探していた人物・物・情報を見つけ出す。findより探索の過程を強調。",
+      "usage": "分離可能な他動詞句。track down the document / track the document down、代名詞はtrack it down（track down itは通常不可）。track down a suspect / missing file / original source / cause of an error。",
+      "examples": [
+        [
+          "The police managed to track down the suspect after several weeks.",
+          "警察は数週間かけて容疑者の所在を突き止めることに成功した。"
+        ],
+        [
+          "I finally tracked down the book I had been looking for.",
+          "私はずっと探していた本をついに見つけ出した。"
+        ],
+        [
+          "The researchers tracked down the original source of the information.",
+          "研究者たちはその情報の元の出典を突き止めた。"
+        ],
+        [
+          "We need to track down the missing documents before the meeting.",
+          "会議までに紛失した書類を探し出す必要がある。"
+        ],
+        [
+          "The IT team is trying to track down the cause of the system failure.",
+          "ITチームはシステム障害の原因を突き止めようとしている。"
+        ],
+        [
+          "The auditor tracked down several discrepancies in the accounting records.",
+          "監査人は会計記録にあるいくつかの不一致を調査して発見した。"
+        ],
+        [
+          "It took us three days to track down the supplier responsible for the defective components.",
+          "欠陥部品を供給した業者を突き止めるのに3日かかった。"
+        ],
+        [
+          "After reviewing hundreds of transactions, the team finally tracked down the source of the error.",
+          "数百件の取引を調査した末、チームはようやく誤りの発生源を突き止めた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "track",
+          "pos": "名詞・動詞",
+          "ipa": "/træk/",
+          "meaning": "足跡、軌跡、追跡する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We use software to track inventory levels.",
+          "translation": "私たちは在庫水準を追跡・管理するためにソフトウェアを使っている。",
+          "note": "track downの基礎となる語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "tracker",
+          "pos": "名詞",
+          "ipa": "/ˈtrækər/",
+          "meaning": "追跡者、追跡装置",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The tracker showed the vehicle's location.",
+          "translation": "追跡装置は車両の位置を示した。",
+          "note": "track＋-er。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "tracking",
+          "pos": "名詞",
+          "ipa": "/ˈtrækɪŋ/",
+          "meaning": "追跡、進捗管理",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Tracking expenses is essential for budget control.",
+          "translation": "支出の追跡管理は予算統制に不可欠だ。",
+          "note": "track＋-ing。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "keep track of",
+          "pos": "慣用句",
+          "ipa": "/kiːp træk əv/",
+          "meaning": "〜を把握・記録し続ける",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "Please keep track of all outstanding invoices.",
+          "translation": "未払いの請求書をすべて継続的に把握してください。",
+          "note": "すでに把握している対象を継続管理する。",
+          "relationship": "related"
+        },
+        {
+          "word": "lose track of",
+          "pos": "慣用句",
+          "ipa": "/luːz træk əv/",
+          "meaning": "〜を見失う、把握できなくなる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I lost track of time while working on the report.",
+          "translation": "報告書を作成しているうちに、時間を忘れてしまった。",
+          "note": "追跡・把握が途切れる。",
+          "relationship": "related"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "find",
+          "pos": "動詞",
+          "ipa": "/faɪnd/",
+          "meaning": "見つける",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We found the missing document.",
+          "translation": "私たちは紛失した書類を見つけた。",
+          "note": "発見という結果を述べる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "locate",
+          "pos": "動詞",
+          "ipa": "/ˈloʊkeɪt/",
+          "meaning": "所在を特定する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The team located the missing equipment in a warehouse.",
+          "translation": "チームは紛失した機器が倉庫にあることを突き止めた。",
+          "note": "正確な位置・所在に焦点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "trace",
+          "pos": "動詞",
+          "ipa": "/treɪs/",
+          "meaning": "経路・由来をさかのぼって調べる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The auditors traced the payment back to its original source.",
+          "translation": "監査人たちはその支払いを元の発生源までさかのぼって調査した。",
+          "note": "経路や発生源を追う。監査用語としても重要。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "identify",
+          "pos": "動詞",
+          "ipa": "/aɪˈdentɪfaɪ/",
+          "meaning": "正体・原因を特定する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The investigation identified the root cause of the problem.",
+          "translation": "調査によって問題の根本原因が特定された。",
+          "note": "正体や原因の特定を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "hunt down",
+          "pos": "句動詞",
+          "ipa": "/ˌhʌnt ˈdaʊn/",
+          "meaning": "執拗に探し出す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The journalist hunted down the original witness.",
+          "translation": "記者は最初の目撃者を執念深く探し出した。",
+          "note": "粘り強い探索・追跡を強調。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "track downは手がかりを追って苦労して発見する。findは結果、locateは正確な所在、traceは経路・由来をさかのぼる調査、identifyは正体・原因の特定、hunt downは執拗な探索を強調。監査ではtrace a transaction（取引経路を追う）とtrack down a missing invoice（紛失した請求書を探し出す）を区別する。"
     }
   ]
 }
