@@ -18235,6 +18235,149 @@
         }
       ],
       "comparison": "track downは手がかりを追って苦労して発見する。findは結果、locateは正確な所在、traceは経路・由来をさかのぼる調査、identifyは正体・原因の特定、hunt downは執拗な探索を強調。監査ではtrace a transaction（取引経路を追う）とtrack down a missing invoice（紛失した請求書を探し出す）を区別する。"
+    },
+    {
+      "id": "barge",
+      "word": "barge",
+      "pos": "名詞・動詞",
+      "ipa": "米 /bɑrdʒ/・英 /bɑːdʒ/",
+      "meaning": "名詞：はしけ、平底の貨物船；動詞：どかどか進む、無遠慮に入り込む；barge in / into：突然割り込む",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 3,
+      "etymology": "名詞bargeは中英語barge、古フランス語barge（船）を経て、一般に後期ラテン語barca（小舟）に関連づけられる。動詞の強引に進むという意味は比較的新しく、船との意味的関連が考えられるが詳細な経緯は確実ではない。bar-と-geに分解しない。",
+      "core": "平底船（はしけ）。動詞では、相手の空間や会話に遠慮せず勢いよく入り込むこと。enterと異なり唐突さ・無作法さを含意する。",
+      "usage": "barge in（突然割り込む）、barge into a room / conversation（部屋にどかどか入る／会話に割り込む）、barge in on someone（人の活動を邪魔するように割り込む）、barge past someone（人を押しのけるように通り過ぎる）。Sorry to barge in, but ...は謝罪を伴う割り込み。",
+      "examples": [
+        [
+          "He barged into the room without knocking.",
+          "彼はノックもせずに部屋へどかどかと入ってきた。"
+        ],
+        [
+          "Sorry to barge in, but I need to ask you something urgent.",
+          "突然割り込んですみませんが、緊急でお聞きしたいことがあります。"
+        ],
+        [
+          "She barged into our conversation and started talking about herself.",
+          "彼女は私たちの会話に無遠慮に割り込み、自分の話を始めた。"
+        ],
+        [
+          "I didn't mean to barge in on your meeting.",
+          "会議に突然割り込むつもりはありませんでした。"
+        ],
+        [
+          "The reporter barged past the security guards.",
+          "記者は警備員たちを押しのけるように通り過ぎた。"
+        ],
+        [
+          "He has a habit of barging in before others finish speaking.",
+          "彼には他人が話し終える前に割り込む癖がある。"
+        ],
+        [
+          "Several barges transported construction materials along the river.",
+          "数隻のはしけが川を使って建設資材を運んだ。"
+        ],
+        [
+          "The company uses barges to transport bulk cargo at a relatively low cost.",
+          "その会社は比較的低コストで大量貨物を輸送するためにはしけを利用している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "barge in",
+          "pos": "句動詞",
+          "ipa": "/ˌbɑrdʒ ˈɪn/",
+          "meaning": "突然割り込む",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "He barged in while we were discussing the issue.",
+          "translation": "私たちがその問題を議論している最中に、彼は無遠慮に割り込んできた。",
+          "note": "bargeの句動詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "barge into",
+          "pos": "句動詞",
+          "ipa": "/ˈbɑrdʒ ˌɪntuː/",
+          "meaning": "〜にどかどか入る",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "He barged into the office.",
+          "translation": "彼はオフィスにどかどか入ってきた。",
+          "note": "barge＋into。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "barge operator",
+          "pos": "名詞句",
+          "ipa": "/ˈbɑrdʒ ˌɑpəreɪtər/",
+          "meaning": "はしけの運航業者",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 3,
+          "example": "The barge operator transported the cargo upriver.",
+          "translation": "はしけの運航業者は貨物を川上へ輸送した。",
+          "note": "bargeを含む複合表現。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "interrupt",
+          "pos": "動詞",
+          "ipa": "/ˌɪntəˈrʌpt/",
+          "meaning": "中断させる、話を遮る",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Sorry to interrupt, but I have a question.",
+          "translation": "お話の途中ですみませんが、質問があります。",
+          "note": "必ずしも無礼ではない。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "intrude",
+          "pos": "動詞",
+          "ipa": "/ɪnˈtruːd/",
+          "meaning": "立ち入る、侵入する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "I don't want to intrude on your privacy.",
+          "translation": "あなたのプライバシーに立ち入るつもりはありません。",
+          "note": "他人の領域への不適切な介入。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "butt in",
+          "pos": "句動詞",
+          "ipa": "/ˌbʌt ˈɪn/",
+          "meaning": "口を挟む、出しゃばる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "Please don't butt in when I'm speaking.",
+          "translation": "私が話しているときに口を挟まないでください。",
+          "note": "会話への出しゃばった割り込み。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "burst in",
+          "pos": "句動詞",
+          "ipa": "/ˌbɝst ˈɪn/",
+          "meaning": "勢いよく突然入ってくる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "She burst into the room with exciting news.",
+          "translation": "彼女は興奮する知らせを持って突然部屋に飛び込んできた。",
+          "note": "勢いを強調し、必ずしも無作法とは限らない。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "barge inは唐突で無遠慮な割り込み、interruptは話・作業を中断させる一般表現、intrudeは他人の領域への介入、butt inは出しゃばった口出し、burst inは突然勢いよく入ること。通常のビジネス会話ではSorry to interruptの方が無難。"
     }
   ]
 }
