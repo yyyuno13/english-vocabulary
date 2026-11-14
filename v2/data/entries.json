@@ -18703,6 +18703,188 @@
         }
       ],
       "comparison": "felonyは特に米国法上の重罪分類。crime/offenseは犯罪一般、misdemeanorは軽罪、violationは法律・規則違反、indictmentは起訴・起訴状で犯罪分類ではない。charged with a felony（訴追）とconvicted of a felony（有罪判決）は明確に区別する。"
+    },
+    {
+      "id": "forge",
+      "word": "forge",
+      "pos": "動詞・名詞",
+      "ipa": "米 /fɔrdʒ/・英 /fɔːdʒ/",
+      "meaning": "鍛造する、（関係・協定を）築く、（署名・文書を）偽造する；鍛冶場；forge ahead：力強く前進する",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 5,
+      "etymology": "古フランス語forge（鍛冶場）←ラテン語fabrica（工房、製作）←faber（職人）。金属を加工する意味から、関係などを築く比喩、文書などを本物らしく偽造する意味へ発展。現代英語でfor-＋-geとは分解しない。fabricateと同じラテン語faber/fabricaの語族。",
+      "core": "材料に手を加え意図した形に作り上げる。金属の鍛造から、努力して関係・合意を築くこと、あるいは本物らしい偽物を作ることへ意味が広がる。forge aheadは困難を越えて前進する。",
+      "usage": "forge a partnership / alliance / relationship / consensus / path（提携・同盟・関係・合意・道を築く）、forge a signature / documents（署名・文書を偽造する）、forge ahead（力強く前進する）。過去形・過去分詞 forged。",
+      "examples": [
+        [
+          "The blacksmith forged a sword from a piece of steel.",
+          "鍛冶職人は鋼の塊から剣を鍛造した。"
+        ],
+        [
+          "The two companies forged a strategic partnership.",
+          "その2社は戦略的な提携関係を築いた。"
+        ],
+        [
+          "The negotiations helped forge a consensus among the stakeholders.",
+          "交渉は利害関係者の間で合意を形成する助けとなった。"
+        ],
+        [
+          "The company is trying to forge stronger relationships with overseas suppliers.",
+          "その会社は海外の仕入先との関係をさらに強化しようとしている。"
+        ],
+        [
+          "The suspect was accused of forging financial documents.",
+          "容疑者は財務書類を偽造したとして告発された。"
+        ],
+        [
+          "Someone had forged the director's signature on the contract.",
+          "誰かが契約書にある取締役の署名を偽造していた。"
+        ],
+        [
+          "Despite the economic downturn, the company continued to forge ahead with its expansion plans.",
+          "景気後退にもかかわらず、その会社は拡大計画を力強く推し進めた。"
+        ],
+        [
+          "The researchers forged a new path in the development of renewable energy technology.",
+          "研究者たちは再生可能エネルギー技術の開発において新たな道を切り開いた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "forgery",
+          "pos": "名詞",
+          "ipa": "/ˈfɔrdʒəri/",
+          "meaning": "偽造、偽造品",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The painting was discovered to be a forgery.",
+          "translation": "その絵画は贋作であることが判明した。",
+          "note": "forgeからの派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "forged",
+          "pos": "形容詞・過去分詞",
+          "ipa": "/fɔrdʒd/",
+          "meaning": "鍛造された、偽造された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The investigator found evidence of forged invoices.",
+          "translation": "調査担当者は偽造された請求書の証拠を発見した。",
+          "note": "forgeの過去分詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "forger",
+          "pos": "名詞",
+          "ipa": "/ˈfɔrdʒər/",
+          "meaning": "偽造者",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The forger was arrested after the investigation.",
+          "translation": "偽造者は捜査の後に逮捕された。",
+          "note": "forge＋-er。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "fabricate",
+          "pos": "動詞",
+          "ipa": "/ˈfæbrɪkeɪt/",
+          "meaning": "製作する、でっち上げる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The employee was dismissed for fabricating expense reports.",
+          "translation": "その従業員は経費報告書を捏造したため解雇された。",
+          "note": "ラテン語fabricaにさかのぼる同語源語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "fabrication",
+          "pos": "名詞",
+          "ipa": "/ˌfæbrɪˈkeɪʃən/",
+          "meaning": "製作、捏造",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The company specializes in metal fabrication.",
+          "translation": "その会社は金属加工を専門としている。",
+          "note": "fabricateの派生語。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "build",
+          "pos": "動詞",
+          "ipa": "/bɪld/",
+          "meaning": "築く、構築する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company built trust with its customers over many years.",
+          "translation": "その会社は長年かけて顧客との信頼を築いた。",
+          "note": "徐々に積み上げる過程。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "establish",
+          "pos": "動詞",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "meaning": "設立・確立する",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "The firm established a new subsidiary in Singapore.",
+          "translation": "その企業はシンガポールに新しい子会社を設立した。",
+          "note": "正式な設立・確立。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "cultivate",
+          "pos": "動詞",
+          "ipa": "/ˈkʌltɪveɪt/",
+          "meaning": "育む、養う",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "She cultivated relationships with key industry leaders.",
+          "translation": "彼女は業界の主要人物との関係を時間をかけて育んだ。",
+          "note": "時間をかけて育てる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "falsify",
+          "pos": "動詞",
+          "ipa": "/ˈfɔlsɪfaɪ/",
+          "meaning": "改ざんする",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The employee falsified the accounting records.",
+          "translation": "その従業員は会計記録を改ざんした。",
+          "note": "記録・データを不正に変更する。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "counterfeit",
+          "pos": "動詞・形容詞",
+          "ipa": "/ˈkaʊntərfɪt/",
+          "meaning": "偽造する、偽造の",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The authorities seized counterfeit banknotes.",
+          "translation": "当局は偽造紙幣を押収した。",
+          "note": "通貨・商品など本物を模倣する。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "forge a partnershipは努力して強固な関係を築く。buildは徐々に構築、establishは正式な設立・確立、cultivateは時間をかけて育む。偽造ではforge a signature（署名を偽造）、falsify records（記録を改ざん）、fabricate transactions（架空取引を捏造）、counterfeit banknotes（偽造紙幣を製造）と使い分けるが、意味が重なる場合もある。"
     }
   ]
 }
