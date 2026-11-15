@@ -19067,6 +19067,188 @@
         }
       ],
       "comparison": "detectは異常の存在を発見、analyzeは情報を分析、diagnoseは症状・兆候から原因や状態を診断、identifyは正体を特定、assessは程度や影響を評価、troubleshootは不具合の調査と対処。diagnoseとtreat/fixは診断と治療・修復の違い。"
+    },
+    {
+      "id": "streamline",
+      "word": "streamline",
+      "pos": "動詞（他動詞）・名詞",
+      "ipa": "米・英 /ˈstriːmlaɪn/",
+      "meaning": "業務・手続きを効率化する、合理化する；流線形にする；（流体力学）流線",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "stream（流れ）＋line（線）の複合語。もともとは流体力学の流線を意味し、流れの抵抗が少ない流線形を表すようになり、さらに比喩的に業務の無駄をなくして円滑にする意味へ発展した。現代英語ではstreamlineと1語で綴る。",
+      "core": "流れを妨げる抵抗・無駄・重複を取り除き、全体をスムーズに進める。単なる作業量削減ではなく、工程や手続きの流れの改善に焦点。",
+      "usage": "streamline operations / a process / workflows / procedures / communication / the approval process / reporting / supply chains。streamline the process of reviewing invoices。受動態be streamlined。",
+      "examples": [
+        [
+          "The company introduced new software to streamline its operations.",
+          "その会社は業務を効率化するために新しいソフトウェアを導入した。"
+        ],
+        [
+          "We need to streamline the approval process to reduce unnecessary delays.",
+          "不必要な遅延を減らすために、承認プロセスを合理化する必要がある。"
+        ],
+        [
+          "Automation can help streamline repetitive administrative tasks.",
+          "自動化は反復的な事務作業の効率化に役立つ。"
+        ],
+        [
+          "The management team is looking for ways to streamline communication between departments.",
+          "経営陣は部門間の情報伝達を効率化する方法を模索している。"
+        ],
+        [
+          "The new system has significantly streamlined our financial reporting process.",
+          "新しいシステムによって、私たちの財務報告プロセスは大幅に効率化された。"
+        ],
+        [
+          "The audit firm aims to streamline its procedures without compromising audit quality.",
+          "その監査法人は監査品質を損なうことなく、監査手続きを効率化することを目指している。"
+        ],
+        [
+          "By eliminating redundant steps, we managed to streamline the entire workflow.",
+          "重複した工程を取り除くことで、業務フロー全体を効率化することができた。"
+        ],
+        [
+          "The aircraft was designed with a streamlined body to reduce air resistance.",
+          "その航空機は空気抵抗を減らすために流線形の機体として設計された。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "stream",
+          "pos": "名詞・動詞",
+          "ipa": "/striːm/",
+          "meaning": "小川、流れ、配信する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The company streams its events online.",
+          "translation": "その会社はイベントをオンライン配信している。",
+          "note": "streamlineの構成要素。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "streamlined",
+          "pos": "形容詞",
+          "ipa": "/ˈstriːmlaɪnd/",
+          "meaning": "流線形の、効率化された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company adopted a more streamlined organizational structure.",
+          "translation": "その会社はより効率的な組織構造を採用した。",
+          "note": "streamlineの過去分詞から。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "streamlining",
+          "pos": "名詞",
+          "ipa": "/ˈstriːmlaɪnɪŋ/",
+          "meaning": "合理化、効率化",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "Streamlining the procurement process reduced administrative costs.",
+          "translation": "調達プロセスの合理化によって管理費が削減された。",
+          "note": "streamlineの動名詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "mainstream",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈmeɪnstriːm/",
+          "meaning": "主流、主流の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Remote work has become increasingly mainstream.",
+          "translation": "リモートワークはますます一般的になっている。",
+          "note": "streamを共有する複合語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "downstream",
+          "pos": "形容詞・副詞",
+          "ipa": "/ˌdaʊnˈstriːm/",
+          "meaning": "下流の、後工程の",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "A delay in production can affect downstream operations.",
+          "translation": "生産工程の遅れは後工程に影響を及ぼす可能性がある。",
+          "note": "streamを共有する複合語。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "optimize",
+          "pos": "動詞",
+          "ipa": "/ˈɑːptɪmaɪz/",
+          "meaning": "最適化する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We optimized the allocation of resources across departments.",
+          "translation": "部門間の資源配分を最適化した。",
+          "note": "最適な状態に近づける。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "simplify",
+          "pos": "動詞",
+          "ipa": "/ˈsɪmplɪfaɪ/",
+          "meaning": "簡素化する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We simplified the application form to make it easier to complete.",
+          "translation": "記入しやすいように申請書を簡素化した。",
+          "note": "複雑さを減らす。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "automate",
+          "pos": "動詞",
+          "ipa": "/ˈɔːtəmeɪt/",
+          "meaning": "自動化する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "We automated the invoice-matching process.",
+          "translation": "請求書の照合作業を自動化した。",
+          "note": "人手の作業をシステムに置き換える。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "improve",
+          "pos": "動詞",
+          "ipa": "/ɪmˈpruːv/",
+          "meaning": "改善する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We improved the efficiency of our operations.",
+          "translation": "私たちは業務効率を改善した。",
+          "note": "広い意味の改善。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "rationalize",
+          "pos": "動詞",
+          "ipa": "/ˈræʃənəlaɪz/",
+          "meaning": "合理化する、再編成する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The company rationalized its operations by consolidating several departments.",
+          "translation": "その会社はいくつかの部門を統合することで業務を合理化した。",
+          "note": "組織・業務の合理的な再編。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "streamlineは無駄な工程をなくし業務の流れを改善、optimizeは条件を調整して最適化、simplifyは複雑さを減らす、automateは作業を自動化、improveは全般的な改善、rationalizeは組織・業務を合理的に再編。承認段階を5から2に減らすのはstreamline、承認依頼を自動送信するのはautomate。"
     }
   ]
 }
