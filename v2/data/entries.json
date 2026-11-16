@@ -19730,6 +19730,188 @@
         }
       ],
       "comparison": "altogetherは完全に・全体として・合計での3用法。completely / entirelyは完全性、overallは全体的評価、in totalは数量の合計。altogether（1語）はall together（2語：全員一緒に）と異なる。not altogether convincedは完全に納得したわけではないという部分否定で、not convinced at allとは違う。"
+    },
+    {
+      "id": "implement",
+      "word": "implement",
+      "pos": "動詞（他動詞）・名詞",
+      "ipa": "動詞 /ˈɪmplɪment/・名詞 /ˈɪmpləmənt/",
+      "meaning": "計画・方針・制度を実施する、実行する；システムを導入する；（名詞）道具、器具",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語implēmentum（満たすもの、必要なもの）にさかのぼり、implēre（満たす）と関係。im-（中へ、完全に）＋plēre（満たす）。英語では道具を意味する名詞から、計画を実行に移す動詞が発達した。",
+      "core": "計画・方針・制度を実際に機能する仕組みや行動として具体化する。単に何かをするのではなく、決められた構想を現実の運用に移すこと。",
+      "usage": "implement a plan / strategy / policy / changes / a new system / measures / internal controls / recommendations。受動態be implemented。implement a decisionは決定を実行すること、make a decisionは決定すること。",
+      "examples": [
+        [
+          "The company plans to implement a new marketing strategy next year.",
+          "その会社は来年、新しいマーケティング戦略を実行する予定だ。"
+        ],
+        [
+          "The government implemented measures to reduce inflation.",
+          "政府はインフレを抑制するための対策を実施した。"
+        ],
+        [
+          "We need to implement the proposed changes as soon as possible.",
+          "提案された変更をできるだけ早く実施する必要がある。"
+        ],
+        [
+          "The organization successfully implemented a new accounting system.",
+          "その組織は新しい会計システムの導入に成功した。"
+        ],
+        [
+          "The audit team recommended implementing stronger internal controls.",
+          "監査チームはより強固な内部統制を導入するよう提言した。"
+        ],
+        [
+          "It is difficult to implement a policy without sufficient resources.",
+          "十分な資源がなければ、方針を実施することは難しい。"
+        ],
+        [
+          "Management is responsible for implementing corrective actions to address the identified deficiencies.",
+          "経営者は発見された不備に対処するための是正措置を実施する責任を負う。"
+        ],
+        [
+          "The new procedures will be implemented across all departments by the end of the year.",
+          "新しい手続きは年末までに全部門で導入される予定だ。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "implementation",
+          "pos": "名詞",
+          "ipa": "/ˌɪmpləmənˈteɪʃən/",
+          "meaning": "実施、導入、実装",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The implementation of the new system took six months.",
+          "translation": "新システムの導入には6か月かかった。",
+          "note": "implementの派生名詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "implementer",
+          "pos": "名詞",
+          "ipa": "/ˈɪmplɪmentər/",
+          "meaning": "実施者、実装担当者",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The implementer tested the new process.",
+          "translation": "実装担当者は新しい工程をテストした。",
+          "note": "implement＋-er。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "complement",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈkɑːmpləmənt/",
+          "meaning": "補完するもの、補完する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The two approaches complement each other.",
+          "translation": "その2つのアプローチは互いに補完し合っている。",
+          "note": "ラテン語plēre（満たす）に関係する同語源語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "complete",
+          "pos": "形容詞・動詞",
+          "ipa": "/kəmˈpliːt/",
+          "meaning": "完全な、完成させる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The team completed the project ahead of schedule.",
+          "translation": "チームは予定より早くプロジェクトを完了した。",
+          "note": "plēre（満たす）に関係。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "supplement",
+          "pos": "名詞・動詞",
+          "ipa": "/ˈsʌpləmənt/",
+          "meaning": "補足、補う",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "Additional documentation was provided to supplement the audit evidence.",
+          "translation": "監査証拠を補足するために追加資料が提出された。",
+          "note": "plēre（満たす）に関係。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "execute",
+          "pos": "動詞",
+          "ipa": "/ˈeksɪkjuːt/",
+          "meaning": "計画・指示を実行する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The team executed the project plan successfully.",
+          "translation": "チームはプロジェクト計画を首尾よく実行した。",
+          "note": "計画を遂行することに焦点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "carry out",
+          "pos": "句動詞",
+          "ipa": "/ˌkæri ˈaʊt/",
+          "meaning": "任務・作業を遂行する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The auditors carried out additional procedures.",
+          "translation": "監査人たちは追加の監査手続きを実施した。",
+          "note": "個別の作業を行うこと。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "enforce",
+          "pos": "動詞",
+          "ipa": "/ɪnˈfɔːrs/",
+          "meaning": "規則を強制的に守らせる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The regulator enforced the new disclosure requirements.",
+          "translation": "規制当局は新しい開示要件の遵守を徹底させた。",
+          "note": "強制力を伴う遵守の徹底。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "introduce",
+          "pos": "動詞",
+          "ipa": "/ˌɪntrəˈduːs/",
+          "meaning": "新制度を導入する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company introduced a new employee evaluation system.",
+          "translation": "その会社は新しい従業員評価制度を導入した。",
+          "note": "新しい仕組みを取り入れること。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "deploy",
+          "pos": "動詞",
+          "ipa": "/dɪˈplɔɪ/",
+          "meaning": "システム・資源を展開する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The IT department deployed the updated software across the organization.",
+          "translation": "IT部門は更新されたソフトウェアを組織全体に展開した。",
+          "note": "使用環境に配置・展開すること。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "implementは計画・制度を実際に機能させる、executeは計画・指示を遂行、carry outは任務・作業を実施、enforceは規則の遵守を強制、introduceは新しい制度を取り入れる、deployはシステムや資源を実際の使用環境に展開する。implement internal controlsとcarry out audit proceduresの使い分けが重要。"
     }
   ]
 }
