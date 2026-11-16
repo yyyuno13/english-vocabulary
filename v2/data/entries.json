@@ -19418,6 +19418,162 @@
         }
       ],
       "comparison": "tentativeは未確定で変更の余地があること、provisionalは正式決定までの仮の措置、preliminaryは初期段階、temporaryは期間限定、conditionalは条件付き。tentative conclusionは暫定的な結論、preliminary assessmentは予備的評価、provisional arrangementは仮の手配。"
+    },
+    {
+      "id": "vantage",
+      "word": "vantage",
+      "pos": "名詞",
+      "ipa": "米・英 /ˈvæntɪdʒ/",
+      "meaning": "有利な位置、優位な立場；見晴らしのよい場所、観測地点。現代英語ではvantage pointが特に一般的。",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 3,
+      "etymology": "中英語avauntage / advantage、古フランス語avantage（優位、利益）に由来し、avant（前に、前方に）と関係する。advantageと同語源。現代英語のvan-と-tageには分解しない。",
+      "core": "周囲をよく見渡せる有利な位置・立場。物理的な見晴らしのよい地点から、経験・知識・職務上の立場に基づく観点へ意味が広がる。",
+      "usage": "vantage point（観察地点・視点）、from my vantage point（私の立場からすると）、a unique vantage point（独自の視点）、a strategic vantage point（戦略的に有利な位置）、an elevated vantage point（高所の観測地点）。vantage単独よりvantage pointが一般的。",
+      "examples": [
+        [
+          "We climbed the hill to find a better vantage point.",
+          "私たちはより見晴らしのよい場所を探すために丘を登った。"
+        ],
+        [
+          "The observation deck provides an excellent vantage point for viewing the city.",
+          "その展望台からは街を見渡すことができる。"
+        ],
+        [
+          "From my vantage point, the decision seems reasonable.",
+          "私の立場から見ると、その決定は合理的に思える。"
+        ],
+        [
+          "Her experience in international finance gives her a unique vantage point.",
+          "国際金融における彼女の経験は、彼女に独自の視点を与えている。"
+        ],
+        [
+          "The researchers observed the animals from a hidden vantage point.",
+          "研究者たちは隠れた観察地点から動物たちを観察した。"
+        ],
+        [
+          "From a historical vantage point, the policy represented a major turning point.",
+          "歴史的な視点から見ると、その政策は大きな転換点だった。"
+        ],
+        [
+          "The board of directors has a different vantage point from that of individual employees.",
+          "取締役会は個々の従業員とは異なる視点を持っている。"
+        ],
+        [
+          "Auditors have a valuable vantage point from which to assess a company's internal controls.",
+          "監査人は企業の内部統制を評価するうえで、有益な視点を持っている。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "advantage",
+          "pos": "名詞・動詞",
+          "ipa": "/ədˈvæntɪdʒ/",
+          "meaning": "利点、有利な立場",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company has a competitive advantage in the Asian market.",
+          "translation": "その会社はアジア市場で競争優位性を持っている。",
+          "note": "vantageと語源を共有。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "advantageous",
+          "pos": "形容詞",
+          "ipa": "/ˌædvənˈteɪdʒəs/",
+          "meaning": "有利な、好都合な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The agreement is financially advantageous to both parties.",
+          "translation": "その契約は双方にとって財務的に有利である。",
+          "note": "advantageの派生語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "disadvantage",
+          "pos": "名詞・動詞",
+          "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+          "meaning": "不利な点、欠点",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "One disadvantage of the system is its high maintenance cost.",
+          "translation": "そのシステムの欠点の一つは維持費が高いことだ。",
+          "note": "dis-＋advantage。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "advantaged",
+          "pos": "形容詞",
+          "ipa": "/ədˈvæntɪdʒd/",
+          "meaning": "有利な立場にある",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "Students from advantaged backgrounds often have access to more educational resources.",
+          "translation": "恵まれた環境にある学生は、より多くの教育資源を利用できることが多い。",
+          "note": "advantageの派生語。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "perspective",
+          "pos": "名詞",
+          "ipa": "/pərˈspektɪv/",
+          "meaning": "物事の捉え方、観点",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 5,
+          "example": "We need to consider the issue from a broader perspective.",
+          "translation": "私たちはその問題をより広い視点から検討する必要がある。",
+          "note": "考え方や視野に焦点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "viewpoint",
+          "pos": "名詞",
+          "ipa": "/ˈvjuːpɔɪnt/",
+          "meaning": "意見、見解、立場",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "I understand your viewpoint, but I disagree with your conclusion.",
+          "translation": "あなたの見解は理解しますが、結論には同意しません。",
+          "note": "個人の意見・見解に焦点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "standpoint",
+          "pos": "名詞",
+          "ipa": "/ˈstændpɔɪnt/",
+          "meaning": "特定の立場や基準に基づく観点",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "From a legal standpoint, the contract is valid.",
+          "translation": "法律上の観点からすると、その契約は有効だ。",
+          "note": "特定の基準・立場からの判断。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "outlook",
+          "pos": "名詞",
+          "ipa": "/ˈaʊtlʊk/",
+          "meaning": "将来の見通し、物事に対する考え方",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The economic outlook remains uncertain.",
+          "translation": "経済の先行きは依然として不透明だ。",
+          "note": "将来の見通しに焦点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "vantage pointはどの位置・経験・立場から見ているか、perspectiveはどのような考え方・視野で捉えるか、viewpointは意見・見解、standpointは特定の立場・基準、outlookは特に将来の見通し。from my vantage pointはin my opinionより自分の立場や経験に基づく判断を示す。"
     }
   ]
 }
