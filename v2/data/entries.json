@@ -19574,6 +19574,162 @@
         }
       ],
       "comparison": "vantage pointはどの位置・経験・立場から見ているか、perspectiveはどのような考え方・視野で捉えるか、viewpointは意見・見解、standpointは特定の立場・基準、outlookは特に将来の見通し。from my vantage pointはin my opinionより自分の立場や経験に基づく判断を示す。"
+    },
+    {
+      "id": "altogether",
+      "word": "altogether",
+      "pos": "副詞",
+      "ipa": "米 /ˌɔːltəˈɡeðər/・英 /ˌɔːltəˈɡeðə/",
+      "meaning": "完全に、まったく；全体として、総合的に；総計で、全部で",
+      "difficulty": 3,
+      "daily": 4,
+      "business": 4,
+      "etymology": "all（すべて）＋together（一緒に）からできた副詞。togetherは古英語tōgædereに由来。すべてをひとまとめにするという意味から、完全に・全体として・総計でへと発展した。現代英語のall together（全員一緒に）とは用法が異なる。",
+      "core": "個々の要素をすべてまとめて一つの全体として捉える。例外なく全体に当てはまる＝完全に、事情をまとめて評価＝全体として、数量を合算＝総計で。",
+      "usage": "altogether different / new / impossible、not altogether（完全に〜というわけではない）、avoid ... altogether、disappear altogether、Altogether, ...（全体として）、twenty participants altogether（全部で20人）。altogether（1語）とall together（2語）を区別。",
+      "examples": [
+        [
+          "The new proposal is altogether different from the original one.",
+          "新しい提案は当初の提案とはまったく異なる。"
+        ],
+        [
+          "The problem has not disappeared altogether.",
+          "その問題が完全になくなったわけではない。"
+        ],
+        [
+          "We decided to abandon the project altogether.",
+          "私たちはそのプロジェクトを完全に断念することにした。"
+        ],
+        [
+          "The results were not altogether surprising.",
+          "その結果はまったく予想外というわけではなかった。"
+        ],
+        [
+          "Altogether, the conference was a success.",
+          "全体として、その会議は成功だった。"
+        ],
+        [
+          "There were twenty participants altogether.",
+          "参加者は全部で20人だった。"
+        ],
+        [
+          "The company may eliminate the requirement altogether.",
+          "その会社はその要件を完全に撤廃するかもしれない。"
+        ],
+        [
+          "The revised accounting standard introduces an altogether different approach to revenue recognition.",
+          "改訂された会計基準は、収益認識にまったく異なるアプローチを導入する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "together",
+          "pos": "副詞",
+          "ipa": "/təˈɡeðər/",
+          "meaning": "一緒に、まとまって",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The two departments worked together to solve the issue.",
+          "translation": "2つの部門は協力してその問題を解決した。",
+          "note": "altogetherの構成要素。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "all together",
+          "pos": "副詞句",
+          "ipa": "/ˌɔːl təˈɡeðər/",
+          "meaning": "全員一緒に、全部まとめて",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The team members gathered all together in the conference room.",
+          "translation": "チームのメンバー全員が会議室に集まった。",
+          "note": "2語で書き、altogetherとは異なる意味。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "overall",
+          "pos": "副詞・形容詞",
+          "ipa": "/ˌoʊvərˈɔːl/",
+          "meaning": "全体として、総合的に",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Overall, the company's financial performance improved.",
+          "translation": "全体として、会社の財務業績は改善した。",
+          "note": "意味上の関連語であり直接の派生語ではない。",
+          "relationship": "semantic"
+        },
+        {
+          "word": "entirely",
+          "pos": "副詞",
+          "ipa": "/ɪnˈtaɪərli/",
+          "meaning": "完全に、まったく",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The decision was entirely justified.",
+          "translation": "その決定は完全に正当化されるものだった。",
+          "note": "意味上の関連語であり同語源ではない。",
+          "relationship": "semantic"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "completely",
+          "pos": "副詞",
+          "ipa": "/kəmˈpliːtli/",
+          "meaning": "完全に、余すところなく",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The two approaches are completely different.",
+          "translation": "その2つのアプローチはまったく異なる。",
+          "note": "完全性を強調。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "entirely",
+          "pos": "副詞",
+          "ipa": "/ɪnˈtaɪərli/",
+          "meaning": "全面的に、完全に",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The policy is entirely new.",
+          "translation": "その方針はまったく新しい。",
+          "note": "完全性を表す。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "overall",
+          "pos": "副詞",
+          "ipa": "/ˌoʊvərˈɔːl/",
+          "meaning": "全体として、総合的に",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Overall, the evidence supports the conclusion.",
+          "translation": "全体として、証拠はその結論を裏付けている。",
+          "note": "ビジネスでの全体評価に特に一般的。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "in total",
+          "pos": "副詞句",
+          "ipa": "/ɪn ˈtoʊtəl/",
+          "meaning": "合計で、総計で",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The project cost $50,000 in total.",
+          "translation": "そのプロジェクトには合計5万ドルかかった。",
+          "note": "数量の合計を明確にする。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "altogetherは完全に・全体として・合計での3用法。completely / entirelyは完全性、overallは全体的評価、in totalは数量の合計。altogether（1語）はall together（2語：全員一緒に）と異なる。not altogether convincedは完全に納得したわけではないという部分否定で、not convinced at allとは違う。"
     }
   ]
 }
