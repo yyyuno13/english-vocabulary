@@ -19249,6 +19249,175 @@
         }
       ],
       "comparison": "streamlineは無駄な工程をなくし業務の流れを改善、optimizeは条件を調整して最適化、simplifyは複雑さを減らす、automateは作業を自動化、improveは全般的な改善、rationalizeは組織・業務を合理的に再編。承認段階を5から2に減らすのはstreamline、承認依頼を自動送信するのはautomate。"
+    },
+    {
+      "id": "tentative",
+      "word": "tentative",
+      "pos": "形容詞",
+      "ipa": "米・英 /ˈtentətɪv/",
+      "meaning": "暫定的な、仮の；ためらいがちな、自信なさげな；試験的な",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語tentare / temptare（試みる、試す）に由来。-ivusに対応する形容詞形成要素が関わる。英語attemptやtemptと語源的に関連する。tent（天幕）とは別語源。",
+      "core": "まだ確信・確定には至らず、様子を見ながら試している状態。計画なら暫定的、人の態度ならためらいがちという意味につながる。",
+      "usage": "tentative schedule / plan / agreement / conclusion / findings / date / offer / steps。be tentatively scheduled for ...（暫定的に〜に予定されている）。tentativeは未確定、temporaryは一時的という違い。",
+      "examples": [
+        [
+          "We have set a tentative date for the meeting.",
+          "会議の仮の日程を設定しました。"
+        ],
+        [
+          "The project schedule is still tentative and subject to change.",
+          "プロジェクトのスケジュールはまだ暫定的で、変更される可能性があります。"
+        ],
+        [
+          "The two companies reached a tentative agreement on the merger.",
+          "その2社は合併について暫定合意に達した。"
+        ],
+        [
+          "These are only tentative findings, and further research is needed.",
+          "これらはあくまで暫定的な研究結果であり、さらなる調査が必要です。"
+        ],
+        [
+          "The auditor drew a tentative conclusion based on the available evidence.",
+          "監査人は入手可能な証拠に基づいて暫定的な結論を導いた。"
+        ],
+        [
+          "She gave a tentative smile when she entered the room.",
+          "彼女は部屋に入ると、自信なさげに微笑んだ。"
+        ],
+        [
+          "He took a few tentative steps toward the unfamiliar animal.",
+          "彼は見慣れない動物に向かって、おそるおそる数歩進んだ。"
+        ],
+        [
+          "We have made tentative arrangements for the client visit, but nothing has been confirmed yet.",
+          "顧客訪問の仮の手配は済ませましたが、まだ何も確定していません。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "tentatively",
+          "pos": "副詞",
+          "ipa": "/ˈtentətɪvli/",
+          "meaning": "暫定的に、ためらいがちに",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The product launch is tentatively scheduled for March.",
+          "translation": "製品発売は暫定的に3月に予定されている。",
+          "note": "tentativeの副詞。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "tentativeness",
+          "pos": "名詞",
+          "ipa": "/ˈtentətɪvnəs/",
+          "meaning": "暫定性、ためらい",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "Her tentativeness was evident in her response.",
+          "translation": "彼女の返答にはためらいが表れていた。",
+          "note": "tentative＋-ness。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "attempt",
+          "pos": "名詞・動詞",
+          "ipa": "/əˈtempt/",
+          "meaning": "試み、試みる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company attempted to reduce operating costs.",
+          "translation": "その会社は営業費用の削減を試みた。",
+          "note": "ラテン語attemptareに由来しtentareと同系。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "tempt",
+          "pos": "動詞",
+          "ipa": "/tempt/",
+          "meaning": "誘惑する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "The offer was attractive enough to tempt several investors.",
+          "translation": "その提案は複数の投資家の関心を引くほど魅力的だった。",
+          "note": "試すという意味から誘惑するへ発展。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "temptation",
+          "pos": "名詞",
+          "ipa": "/tempˈteɪʃən/",
+          "meaning": "誘惑",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 2,
+          "example": "He resisted the temptation to make a quick decision.",
+          "translation": "彼は性急に決断したいという誘惑に耐えた。",
+          "note": "temptの派生名詞。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "provisional",
+          "pos": "形容詞",
+          "ipa": "/prəˈvɪʒənəl/",
+          "meaning": "暫定的な、仮の",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The committee granted provisional approval.",
+          "translation": "委員会は暫定的な承認を与えた。",
+          "note": "正式決定までの仮の措置・取り決め。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "preliminary",
+          "pos": "形容詞",
+          "ipa": "/prɪˈlɪməneri/",
+          "meaning": "予備的な、初期段階の",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The preliminary results suggest an increase in revenue.",
+          "translation": "予備的な結果は売上高の増加を示唆している。",
+          "note": "調査や分析の初期段階。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "temporary",
+          "pos": "形容詞",
+          "ipa": "/ˈtempəreri/",
+          "meaning": "一時的な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company introduced a temporary hiring freeze.",
+          "translation": "その会社は一時的な採用凍結を導入した。",
+          "note": "期間が限定される。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "conditional",
+          "pos": "形容詞",
+          "ipa": "/kənˈdɪʃənəl/",
+          "meaning": "条件付きの",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The acquisition received conditional approval.",
+          "translation": "その買収は条件付き承認を受けた。",
+          "note": "条件を満たす必要がある。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "tentativeは未確定で変更の余地があること、provisionalは正式決定までの仮の措置、preliminaryは初期段階、temporaryは期間限定、conditionalは条件付き。tentative conclusionは暫定的な結論、preliminary assessmentは予備的評価、provisional arrangementは仮の手配。"
     }
   ]
 }
