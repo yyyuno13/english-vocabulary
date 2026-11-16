@@ -19912,6 +19912,188 @@
         }
       ],
       "comparison": "implementは計画・制度を実際に機能させる、executeは計画・指示を遂行、carry outは任務・作業を実施、enforceは規則の遵守を強制、introduceは新しい制度を取り入れる、deployはシステムや資源を実際の使用環境に展開する。implement internal controlsとcarry out audit proceduresの使い分けが重要。"
+    },
+    {
+      "id": "put-up",
+      "word": "put up",
+      "pos": "句動詞（他動詞用法が中心）",
+      "ipa": "/ˌpʊt ˈʌp/",
+      "meaning": "建てる、設置する；掲示する；手を挙げる；泊める；値上げする；抵抗する；資金を提供する；候補者を立てる",
+      "difficulty": 3,
+      "daily": 5,
+      "business": 4,
+      "etymology": "put（置く、ある状態にする）＋up（上へ、立った状態へ、目立つ位置へ）。putの語源は不確定。句動詞として複数の意味が発達し、put up a fightなど慣用的な組み合わせもある。",
+      "core": "何かを上の位置へ持っていく・立てる・表に出す。そこから設置、掲示、宿泊場所を提供する、価格を上げる、資金を差し出すなどへ意味が広がる。",
+      "usage": "put up a tent / fence（設置する）、put up a notice（掲示する）、put up your hand（手を挙げる）、put someone up for the night（泊める）、put up the rent（家賃を上げる、特に英）、put up a fight（抵抗する）、put up money（資金を提供する）、put up a candidate（候補者を立てる）。put it upは可、put up itは不可。put up with（我慢する）は別の句動詞で分離不可。",
+      "examples": [
+        [
+          "They put up a temporary fence around the construction site.",
+          "彼らは建設現場の周囲に仮設フェンスを設置した。"
+        ],
+        [
+          "The manager put up a notice about the new safety rules.",
+          "マネージャーは新しい安全規則についてのお知らせを掲示した。"
+        ],
+        [
+          "Please put up your hand if you have any questions.",
+          "質問があれば手を挙げてください。"
+        ],
+        [
+          "My friend offered to put me up for the night.",
+          "友人が一晩泊めてくれると申し出てくれた。"
+        ],
+        [
+          "The landlord has decided to put up the rent.",
+          "大家は家賃を引き上げることにした。"
+        ],
+        [
+          "The smaller company put up a strong fight against its competitors.",
+          "その小さな会社は競合他社を相手に健闘した。"
+        ],
+        [
+          "Several investors agreed to put up the money for the project.",
+          "複数の投資家がそのプロジェクトの資金を提供することに同意した。"
+        ],
+        [
+          "The party decided to put up a new candidate in the election.",
+          "その政党は選挙に新しい候補者を擁立することにした。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "put up with",
+          "pos": "句動詞",
+          "ipa": "/pʊt ˈʌp wɪð/",
+          "meaning": "我慢する、耐える",
+          "difficulty": 3,
+          "daily": 5,
+          "business": 4,
+          "example": "I can't put up with this noise.",
+          "translation": "この騒音には我慢できない。",
+          "note": "withが付くと別の句動詞。分離不可。",
+          "relationship": "reference"
+        },
+        {
+          "word": "put off",
+          "pos": "句動詞",
+          "ipa": "/pʊt ˈɔːf/",
+          "meaning": "延期する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We put off the meeting until Friday.",
+          "translation": "会議を金曜日まで延期した。",
+          "note": "先送りする。",
+          "relationship": "reference"
+        },
+        {
+          "word": "put on",
+          "pos": "句動詞",
+          "ipa": "/pʊt ˈɑːn/",
+          "meaning": "身につける、開催する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "The museum put on a special exhibition.",
+          "translation": "その美術館は特別展を開催した。",
+          "note": "上に載せる・加える。",
+          "relationship": "reference"
+        },
+        {
+          "word": "put forward",
+          "pos": "句動詞",
+          "ipa": "/pʊt ˈfɔːrwərd/",
+          "meaning": "提案する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "She put forward a proposal.",
+          "translation": "彼女は提案をした。",
+          "note": "考えを前に差し出す。",
+          "relationship": "reference"
+        },
+        {
+          "word": "put together",
+          "pos": "句動詞",
+          "ipa": "/pʊt təˈɡeðər/",
+          "meaning": "組み立てる、まとめる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "She put together a report.",
+          "translation": "彼女は報告書をまとめた。",
+          "note": "複数のものを一緒にする。",
+          "relationship": "reference"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "erect",
+          "pos": "動詞",
+          "ipa": "/ɪˈrekt/",
+          "meaning": "建てる、設置する",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "Workers erected a temporary barrier.",
+          "translation": "作業員は仮設の障壁を設置した。",
+          "note": "建造物などを立てる硬い表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "post",
+          "pos": "動詞",
+          "ipa": "/poʊst/",
+          "meaning": "掲示する、投稿する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company posted a notice.",
+          "translation": "会社は通知を掲示した。",
+          "note": "情報の掲示・投稿。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "accommodate",
+          "pos": "動詞",
+          "ipa": "/əˈkɑːmədeɪt/",
+          "meaning": "宿泊させる、収容する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The hotel accommodated the visitors.",
+          "translation": "ホテルは訪問客を宿泊させた。",
+          "note": "宿泊場所を提供するフォーマルな表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "raise",
+          "pos": "動詞",
+          "ipa": "/reɪz/",
+          "meaning": "引き上げる",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The landlord raised the rent.",
+          "translation": "大家は家賃を引き上げた。",
+          "note": "金額・価格を上げる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "fund",
+          "pos": "動詞",
+          "ipa": "/fʌnd/",
+          "meaning": "資金を提供する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company funded the construction of a new warehouse.",
+          "translation": "その会社は新しい倉庫の建設に資金を提供した。",
+          "note": "資金面の支援に焦点。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "put up a fenceは設置する（erect）、put up a noticeは掲示する（post）、put someone upは泊める（accommodate）、put up the rentは値上げする（raise）、put up moneyは資金を出す（fund）。put up withは『我慢する』という別の句動詞。put upは多くの他動詞用法で分離可能（put it up）。"
     }
   ]
 }
