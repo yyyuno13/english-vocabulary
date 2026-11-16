@@ -20094,6 +20094,183 @@
         }
       ],
       "comparison": "put up a fenceは設置する（erect）、put up a noticeは掲示する（post）、put someone upは泊める（accommodate）、put up the rentは値上げする（raise）、put up moneyは資金を出す（fund）。put up withは『我慢する』という別の句動詞。put upは多くの他動詞用法で分離可能（put it up）。"
+    },
+    {
+      "id": "conclude",
+      "word": "conclude",
+      "pos": "動詞（自動詞・他動詞）",
+      "ipa": "米・英 /kənˈkluːd/",
+      "meaning": "【自】終わる、終了する；〜で締めくくられる（conclude with）、〜して締めくくる（conclude by -ing）。【他】〜を終わらせる；〜と結論づける",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "ラテン語conclūdere（閉じ込める、締めくくる）に由来。con-（一緒に、完全に）＋claudere（閉じる）。過程に区切りをつけることから、終わる・終わらせる・結論に達するという意味へ発展。",
+      "core": "一連の過程に区切りがつき、最終的な状態に到達する。自動詞では会議・交渉・調査などが『終わる』、他動詞では人が会議を『終わらせる』、検討を終えて『結論を出す』。",
+      "usage": "【自】The meeting concluded at five. / The meeting concluded with a vote. / She concluded by thanking everyone. 【他】conclude the meeting / conclude that ...（〜と結論づける）。conclude with + 名詞は最後の出来事、conclude by + 動名詞は締めくくる行為。",
+      "examples": [
+        [
+          "The conference concluded on Friday.",
+          "その会議は金曜日に終了した。"
+        ],
+        [
+          "The negotiations concluded after several months of discussions.",
+          "数か月にわたる協議の末、交渉は終了した。"
+        ],
+        [
+          "The investigation concluded without any evidence of fraud.",
+          "その調査は不正の証拠が見つからないまま終了した。"
+        ],
+        [
+          "The meeting concluded with a brief discussion of future plans.",
+          "会議は今後の計画についての短い議論で締めくくられた。"
+        ],
+        [
+          "The presentation concluded with a summary of the key findings.",
+          "プレゼンテーションは主要な発見事項の要約で締めくくられた。"
+        ],
+        [
+          "The ceremony concluded with a speech by the president.",
+          "式典は社長のスピーチで締めくくられた。"
+        ],
+        [
+          "The speaker concluded by thanking the audience.",
+          "講演者は聴衆に感謝を述べて話を締めくくった。"
+        ],
+        [
+          "The CEO concluded by outlining the company's long-term strategy.",
+          "CEOは会社の長期戦略の概要を説明して話を締めくくった。"
+        ],
+        [
+          "The chair concluded the meeting at 5 p.m.",
+          "議長は午後5時に会議を終了させた。"
+        ],
+        [
+          "The auditors concluded that the evidence was sufficient.",
+          "監査人たちは証拠が十分であると結論づけた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "conclusion",
+          "pos": "名詞",
+          "ipa": "/kənˈkluːʒən/",
+          "meaning": "結論、終了",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The report reached a different conclusion.",
+          "translation": "その報告書は異なる結論に達した。",
+          "note": "concludeの名詞形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "conclusive",
+          "pos": "形容詞",
+          "ipa": "/kənˈkluːsɪv/",
+          "meaning": "決定的な、疑いの余地のない",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The evidence was conclusive.",
+          "translation": "その証拠は決定的だった。",
+          "note": "concludeの派生形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "inconclusive",
+          "pos": "形容詞",
+          "ipa": "/ˌɪnkənˈkluːsɪv/",
+          "meaning": "決定的でない、結論の出ない",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The investigation produced inconclusive results.",
+          "translation": "調査では決定的な結果が得られなかった。",
+          "note": "in-＋conclusive。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "exclude",
+          "pos": "動詞",
+          "ipa": "/ɪkˈskluːd/",
+          "meaning": "除外する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The calculation excludes non-recurring expenses.",
+          "translation": "その計算では一時的な費用を除外している。",
+          "note": "ラテン語claudere（閉じる）を共有。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "include",
+          "pos": "動詞",
+          "ipa": "/ɪnˈkluːd/",
+          "meaning": "含む",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The report includes all material findings.",
+          "translation": "その報告書にはすべての重要な発見事項が含まれている。",
+          "note": "ラテン語claudere（閉じる）を共有。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "end",
+          "pos": "動詞",
+          "ipa": "/end/",
+          "meaning": "終わる、終える",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The meeting ended at five.",
+          "translation": "会議は5時に終わった。",
+          "note": "最も一般的な終了の表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "finish",
+          "pos": "動詞",
+          "ipa": "/ˈfɪnɪʃ/",
+          "meaning": "終える、完了する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "We finished the report at five.",
+          "translation": "私たちは5時に報告書を完成させた。",
+          "note": "作業を最後までやり遂げる。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "terminate",
+          "pos": "動詞",
+          "ipa": "/ˈtɜːrmɪneɪt/",
+          "meaning": "終了する、終了させる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The contract terminated at the end of March.",
+          "translation": "契約は3月末に終了した。",
+          "note": "契約・雇用・処理などの硬い表現。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "wrap up",
+          "pos": "句動詞",
+          "ipa": "/ˌræp ˈʌp/",
+          "meaning": "締めくくる、終える",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 4,
+          "example": "Let's wrap up the meeting.",
+          "translation": "会議をそろそろ締めくくりましょう。",
+          "note": "比較的口語的。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "自動詞concludeは会議・交渉・調査などが終わること。conclude with + 名詞は何で締めくくられたか、conclude by -ingは何をして締めくくったか。他動詞conclude the meetingは会議を終わらせる、conclude thatは〜と結論づける。endは一般的な終了、finishは作業の完了、terminateは契約などの正式な終了、wrap upは口語的な締めくくり。"
     }
   ]
 }
