@@ -120,6 +120,11 @@ async function startup(){
     state.idioms=buildIdiomGroups(state.entries,idiomSeed);
     state.ready=true;
     if(state.warnings.length)console.warn('Vocabulary v2 data warnings:',state.warnings);
+    // On a plain visit, open the most recently appended entry. Explicit deep links and modes take priority.
+    if(!location.hash){
+      const newest=state.entries[state.entries.length-1];
+      history.replaceState(null,'','#word='+encodeURIComponent(newest.id));
+    }
     applyRoute();
   }catch(error){
     console.error('Vocabulary v2 startup failure:',error);
