@@ -20900,6 +20900,234 @@
         "alt": "seasoned と experienced、skilled、proficient、veteran、accomplished の意味上の重点を二軸で比較",
         "caption": "意味の重点を示す概念図であり、能力や経験の絶対的な順位ではありません。画像をタップすると拡大できます。"
       }
+    },
+    {
+      "id": "proximity",
+      "word": "proximity",
+      "pos": "名詞（不可算）",
+      "ipa": "米 /prɑːkˈsɪməti/ 英 /prɒkˈsɪməti/",
+      "meaning": "近接、近さ、隣接",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 proximitas（近接）、proximus（最も近い）に由来。prope（近くに）、propior（より近い）、proximus（最も近い）。proxim-＋名詞化接尾辞 -ity。approximate と同語源。",
+      "core": "二つの物事の間の隔たりが小さい状態。空間・時間・社会的な近さ。",
+      "usage": "in close proximity to（すぐ近くに）、physical/geographical/spatial/temporal proximity、proximity sensor（近接センサー）、due to its proximity to（近いことから）。proximity は距離の関係、vicinity は周辺の範囲。",
+      "examples": [
+        [
+          "The hotel is located in close proximity to the airport.",
+          "ホテルは空港のすぐ近くに位置している。"
+        ],
+        [
+          "The property is attractive because of its proximity to public transportation.",
+          "その物件は公共交通機関に近いことから魅力的である。"
+        ],
+        [
+          "Geographical proximity facilitates trade between the two countries.",
+          "地理的な近さは両国間の貿易を促進する。"
+        ],
+        [
+          "Physical proximity does not necessarily lead to emotional intimacy.",
+          "物理的な近さが必ずしも心理的な親密さにつながるわけではない。"
+        ],
+        [
+          "The proximity of the factory to its suppliers reduces transportation costs.",
+          "工場が仕入先に近いことで輸送費が削減される。"
+        ],
+        [
+          "Given the proximity of the deadline, we need to accelerate the review process.",
+          "締切が迫っているためレビューを加速させる必要がある。"
+        ],
+        [
+          "The auditors paid particular attention to transactions occurring in close proximity to the year-end.",
+          "監査人は期末日前後の取引に特に注意を払った。"
+        ],
+        [
+          "The device uses a proximity sensor to detect nearby objects.",
+          "装置は近接センサーで周囲の物体を検知する。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "approximate",
+          "ipa": "/əˈprɑːksɪmət/; 動詞 /əˈprɑːksɪmeɪt/",
+          "pos": "形容詞・動詞",
+          "meaning": "おおよその、近似する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 approximare（近づく）、ad-＋proximus。",
+          "example": "The approximate cost of the project is $2 million.",
+          "translation": "プロジェクトのおおよその費用は200万ドル。",
+          "note": "数値的な近さ。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "approximately",
+          "ipa": "/əˈprɑːksɪmətli/",
+          "pos": "副詞",
+          "meaning": "約",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "approximate＋-ly。",
+          "example": "Revenue increased by approximately 15%.",
+          "translation": "売上高は約15％増加した。",
+          "note": "概数。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "approximation",
+          "ipa": "/əˌprɑːksɪˈmeɪʃən/",
+          "pos": "名詞",
+          "meaning": "近似、概算",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "approximate の名詞形。",
+          "example": "This figure is only a rough approximation.",
+          "translation": "この数値は大まかな概算にすぎない。",
+          "note": "近似値。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "proximate",
+          "ipa": "/ˈprɑːksɪmət/",
+          "pos": "形容詞",
+          "meaning": "近接した、直接的な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "etymology": "ラテン語 proximus（最も近い）。",
+          "example": "The investigation identified the proximate cause of the accident.",
+          "translation": "調査で事故の直接的な原因が特定された。",
+          "note": "直接的な原因など。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "closeness",
+          "ipa": "/ˈkloʊsnəs/",
+          "pos": "名詞",
+          "meaning": "近さ、親密さ",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "etymology": "close＋-ness。close はラテン語 claudere（閉じる）に由来。",
+          "example": "The experience strengthened their emotional closeness.",
+          "translation": "その経験によって彼らの心理的な結びつきが強まった。",
+          "note": "物理的・心理的な近さ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "vicinity",
+          "ipa": "/vəˈsɪnəti/",
+          "pos": "名詞",
+          "meaning": "近辺、周辺",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 vicinus（近隣の）、vicus（村、街区）。",
+          "example": "There are several restaurants in the vicinity of the station.",
+          "translation": "駅周辺にはレストランがいくつかある。",
+          "note": "地理的範囲。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "adjacency",
+          "ipa": "/əˈdʒeɪsənsi/",
+          "pos": "名詞",
+          "meaning": "隣接",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "etymology": "ラテン語 adjacere（そばに横たわる）、ad-＋jacere。",
+          "example": "The adjacency of the two facilities improves operational efficiency.",
+          "translation": "二つの施設の隣接により業務効率が向上する。",
+          "note": "すぐ隣にある状態。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "intimacy",
+          "ipa": "/ˈɪntəməsi/",
+          "pos": "名詞",
+          "meaning": "親密さ",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "etymology": "ラテン語 intimus（最も内側の）。",
+          "example": "Trust is essential for emotional intimacy.",
+          "translation": "心理的な親密さには信頼が不可欠である。",
+          "note": "心理的な結びつき。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "nearness",
+          "ipa": "/ˈnɪrnəs/",
+          "pos": "名詞",
+          "meaning": "近さ",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "etymology": "near＋-ness。古英語 nēar（より近く）。",
+          "example": "The nearness of the deadline made everyone nervous.",
+          "translation": "締切が近づき全員が緊張した。",
+          "note": "一般的な距離・時間の近さ。",
+          "relationship": "synonym"
+        }
+      ],
+      "reference": [
+        {
+          "word": "proxy",
+          "ipa": "/ˈprɑːksi/",
+          "pos": "名詞",
+          "meaning": "代理人、代理権、代替指標",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 5,
+          "etymology": "古フランス語 procuracie（代理）。proximity とは別語源。",
+          "example": "Revenue is sometimes used as a proxy for company size.",
+          "translation": "売上高は企業規模の代替指標として使用されることがある。",
+          "note": "綴りが似るが別語源。",
+          "relationship": "reference"
+        }
+      ],
+      "comparison": "proximity は客観的な距離、closeness は物理・心理の近さ、vicinity は周辺範囲、adjacency は隣接、intimacy は親密さ、nearness は一般的な近さ。",
+      "comparisonRows": [
+        [
+          "proximity",
+          "客観的な距離の近さ"
+        ],
+        [
+          "closeness",
+          "物理的・心理的な近さ。"
+        ],
+        [
+          "vicinity",
+          "地理的範囲。"
+        ],
+        [
+          "adjacency",
+          "すぐ隣にある状態。"
+        ],
+        [
+          "intimacy",
+          "心理的な結びつき。"
+        ],
+        [
+          "nearness",
+          "一般的な距離・時間の近さ。"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/proximity.svg",
+        "alt": "二つの対象の距離が近い状態"
+      },
+      "comparisonImage": {
+        "src": "./images/comparison/proximity.svg",
+        "alt": "proximity と類義語5語の近さの種類を比較する概念図"
+      }
     }
   ]
 }
