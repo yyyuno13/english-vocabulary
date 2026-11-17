@@ -20271,6 +20271,228 @@
         }
       ],
       "comparison": "自動詞concludeは会議・交渉・調査などが終わること。conclude with + 名詞は何で締めくくられたか、conclude by -ingは何をして締めくくったか。他動詞conclude the meetingは会議を終わらせる、conclude thatは〜と結論づける。endは一般的な終了、finishは作業の完了、terminateは契約などの正式な終了、wrap upは口語的な締めくくり。"
+    },
+    {
+      "id": "merchandise",
+      "word": "merchandise",
+      "pos": "名詞（不可算）・動詞",
+      "ipa": "米 /ˈmɝːtʃəndaɪs/ 英 /ˈmɜːtʃəndaɪs/（動詞は語末 /z/）",
+      "meaning": "販売商品、公式グッズ；商品を販売・販促する",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "古フランス語 marchandise（商取引・商品）に由来。merchant と関連し、ラテン語 mercari（取引する）、merx（商品）にさかのぼる。現代英語で機械的な接辞分解はしない。",
+      "core": "商取引の対象として扱われる物品。販売を目的とした商品、小売商品、貿易商品、公式グッズ。",
+      "usage": "不可算名詞：some merchandise, several items of merchandise。official merchandise（公式グッズ）、defective merchandise（不良品）、unsold merchandise（売れ残り）、merchandise inventory（商品在庫）、merchandise exports（財の輸出）。口語では merch。",
+      "examples": [
+        [
+          "The store offers a wide range of merchandise.",
+          "その店は幅広い商品を取り扱っている。"
+        ],
+        [
+          "All merchandise must be paid for before leaving the store.",
+          "すべての商品は退店前に代金を支払わなければならない。"
+        ],
+        [
+          "Fans lined up to buy official merchandise.",
+          "ファンは公式グッズを購入するために列を作った。"
+        ],
+        [
+          "Customers can return defective merchandise within 30 days.",
+          "顧客は30日以内であれば不良品を返品できる。"
+        ],
+        [
+          "The retailer offered discounts to clear unsold merchandise.",
+          "小売業者は売れ残った商品を処分するために値引きを行った。"
+        ],
+        [
+          "The country's merchandise exports exceeded its imports.",
+          "その国の財の輸出額は輸入額を上回った。"
+        ],
+        [
+          "The auditors observed the physical count of merchandise inventory.",
+          "監査人は商品在庫の実地棚卸に立ち会った。"
+        ],
+        [
+          "The company has struggled to merchandise its products effectively.",
+          "その企業は自社商品の効果的な販促に苦戦している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "merchant",
+          "ipa": "/ˈmɝːtʃənt/",
+          "pos": "名詞",
+          "meaning": "商人、加盟店",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 mercari（取引する）に由来。",
+          "example": "Ancient Roman merchants traded goods across the empire.",
+          "translation": "古代ローマの商人は帝国全域で商品を取引した。",
+          "note": "merx を共有。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "commerce",
+          "ipa": "/ˈkɑːmɝːs/",
+          "pos": "名詞",
+          "meaning": "商業、商取引",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 5,
+          "etymology": "ラテン語 commercium（com-＋merx）に由来。",
+          "example": "The internet has transformed global commerce.",
+          "translation": "インターネットは世界の商取引を変革した。",
+          "note": "商取引全体。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "commercial",
+          "ipa": "/kəˈmɝːʃəl/",
+          "pos": "形容詞・名詞",
+          "meaning": "商業の、広告",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "commerce に由来。",
+          "example": "The project has considerable commercial potential.",
+          "translation": "その事業には相当な商業的可能性がある。",
+          "note": "commerce の派生語。",
+          "relationship": "cognate"
+        },
+        {
+          "word": "merchandising",
+          "ipa": "/ˈmɝːtʃəndaɪzɪŋ/",
+          "pos": "名詞",
+          "meaning": "商品化、商品計画、販促",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "動詞 merchandise＋-ing。",
+          "example": "Effective merchandising can increase retail sales.",
+          "translation": "効果的な販促は小売売上を増加させうる。",
+          "note": "派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "mercantile",
+          "ipa": "/ˈmɝːkəntaɪl/",
+          "pos": "形容詞",
+          "meaning": "商業の、貿易の",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "etymology": "イタリア語 mercantile を経てラテン語 mercari にさかのぼる。",
+          "example": "Venice was once a powerful mercantile city.",
+          "translation": "ヴェネツィアはかつて強大な商業都市だった。",
+          "note": "merx を共有。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "goods",
+          "ipa": "/ɡʊdz/",
+          "pos": "名詞（複数）",
+          "meaning": "物品、財",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "古英語 good（良いもの、財産）に由来。",
+          "example": "The goods were damaged in transit.",
+          "translation": "商品は輸送中に破損した。",
+          "note": "流通・貿易の視点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "product",
+          "ipa": "/ˈprɑːdʌkt/",
+          "pos": "名詞",
+          "meaning": "製品、商品",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 producere（pro- 前へ＋ducere 導く）に由来。",
+          "example": "The company launched a new product.",
+          "translation": "その企業は新製品を発売した。",
+          "note": "生産・開発の視点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "commodity",
+          "ipa": "/kəˈmɑːdəti/",
+          "pos": "名詞",
+          "meaning": "商品、一次産品",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 commoditas（便利さ、利益）に由来。",
+          "example": "Commodity prices fluctuate with global demand.",
+          "translation": "一次産品の価格は世界的な需要に応じて変動する。",
+          "note": "市場取引、特に規格化された商品。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "inventory",
+          "ipa": "/ˈɪnvəntɔːri/",
+          "pos": "名詞",
+          "meaning": "在庫、目録",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 5,
+          "etymology": "ラテン語 inventarium（目録）、invenire（見つける）に由来。",
+          "example": "The company reduced its inventory levels.",
+          "translation": "その企業は在庫水準を引き下げた。",
+          "note": "保有・管理の視点。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "ware",
+          "ipa": "/wer/",
+          "pos": "名詞",
+          "meaning": "商品、製品",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "etymology": "古英語 waru（商品）に由来。",
+          "example": "The vendors displayed their wares.",
+          "translation": "商人は商品を陳列した。",
+          "note": "複数形 wares や複合語でよく使う。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "merchandise は販売の視点、goods は流通・貿易、product は生産・開発、commodity は市場取引、inventory は保有・管理、ware は個別の種類の商品（特に wares や複合語）。",
+      "comparisonRows": [
+        [
+          "merchandise",
+          "販売目的の商品"
+        ],
+        [
+          "goods",
+          "流通・貿易の視点。"
+        ],
+        [
+          "product",
+          "生産・開発の視点。"
+        ],
+        [
+          "commodity",
+          "市場取引、特に規格化された商品。"
+        ],
+        [
+          "inventory",
+          "保有・管理の視点。"
+        ],
+        [
+          "ware",
+          "複数形 wares や複合語でよく使う。"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/merchandise.svg",
+        "alt": "物品が販売目的の商品として店舗で売られる図"
+      }
     }
   ]
 }
