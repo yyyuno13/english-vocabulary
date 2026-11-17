@@ -20894,6 +20894,11 @@
       "coreImage": {
         "src": "./images/core/seasoned.svg",
         "alt": "経験、調味、乾燥によって仕上がった状態の比較"
+      },
+      "comparisonImage": {
+        "src": "./images/comparison/seasoned.svg",
+        "alt": "seasoned と experienced、skilled、proficient、veteran、accomplished の意味上の重点を二軸で比較",
+        "caption": "意味の重点を示す概念図であり、能力や経験の絶対的な順位ではありません。画像をタップすると拡大できます。"
       }
     }
   ]
