@@ -5,7 +5,7 @@ const $ = id => document.getElementById(id);
 const state = {entries:[], roots:[], idioms:[], rootMap:{}, warnings:[], mode:'keyword', ready:false};
 const modeButton=$('mode'), menu=$('mode-menu'), results=$('results'), toc=$('toc'), search=$('search');
 const modeLabels={keyword:'キーワード別',root:'語源別',idiom:'イディオム'};
-if(window.matchMedia('(max-width:760px)').matches) $('toc-details').open=false;
+$('toc-details').open=true;
 
 async function loadJSON(path){
   const response=await fetch(path,{cache:'no-cache'});
@@ -120,12 +120,9 @@ async function startup(){
     state.idioms=buildIdiomGroups(state.entries,idiomSeed);
     state.ready=true;
     if(state.warnings.length)console.warn('Vocabulary v2 data warnings:',state.warnings);
-    // On a plain visit, open the most recently appended entry. Explicit deep links and modes take priority.
-    if(!location.hash){
-      const newest=state.entries[state.entries.length-1];
-      history.replaceState(null,'','#word='+encodeURIComponent(newest.id));
-    }
+    // Plain visits start at the expanded table of contents; explicit links take priority.
     applyRoute();
+    if(!location.hash) requestAnimationFrame(()=>$('toc-heading').scrollIntoView({block:'start'}));
   }catch(error){
     console.error('Vocabulary v2 startup failure:',error);
     $('status').textContent='データを読み込めませんでした';
@@ -162,7 +159,7 @@ document.addEventListener('click',event=>{
   if(!anchor)return;
   const hash=anchor.getAttribute('href');
   if(hash==='#toc-heading'){
-    event.preventDefault();$('toc-heading').scrollIntoView({behavior:'smooth',block:'start'});
+    event.preventDefault();$('toc-details').open=true;$('toc-heading').scrollIntoView({behavior:'smooth',block:'start'});
   }else if(/^#(?:word|root|idiom)=/.test(hash)||['#roots','#keywords','#idioms'].includes(hash)){
     event.preventDefault();go(hash);
   }
