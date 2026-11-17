@@ -21128,6 +21128,233 @@
         "src": "./images/comparison/proximity.svg",
         "alt": "proximity と類義語5語の近さの種類を比較する概念図"
       }
+    },
+    {
+      "id": "promptly",
+      "word": "promptly",
+      "pos": "副詞",
+      "ipa": "米 /ˈprɑːmptli/ 英 /ˈprɒmptli/",
+      "meaning": "速やかに、即座に、時間どおりに",
+      "difficulty": 2,
+      "daily": 3,
+      "business": 5,
+      "etymology": "prompt＋-ly。ラテン語 promere（取り出す：pro-＋emere）と過去分詞 promptus（準備ができた）に由来。すぐ使える状態から迅速さへ。",
+      "core": "必要な対応を遅滞なく行う。予定時刻どおりの意味もある。",
+      "usage": "respond/reply/act/pay promptly、promptly notify、promptly address an issue、promptly at 9 a.m.。皮肉を込めて早速の意味でも使う。",
+      "examples": [
+        [
+          "Thank you for responding so promptly.",
+          "迅速にご回答いただきありがとうございます。"
+        ],
+        [
+          "Please promptly notify us of any changes.",
+          "変更があった場合は速やかにお知らせください。"
+        ],
+        [
+          "All invoices must be paid promptly.",
+          "すべての請求書は遅滞なく支払う必要がある。"
+        ],
+        [
+          "The meeting began promptly at 9 a.m.",
+          "会議は午前9時ちょうどに始まった。"
+        ],
+        [
+          "Management promptly addressed the deficiencies identified by the auditors.",
+          "経営陣は監査人が特定した不備に速やかに対処した。"
+        ],
+        [
+          "Any material misstatements should be communicated promptly to management.",
+          "重要な虚偽表示は速やかに経営陣に伝達すべきである。"
+        ],
+        [
+          "The company promptly disclosed the incident to investors.",
+          "企業は当該事案を速やかに投資家に開示した。"
+        ],
+        [
+          "He ignored my advice and promptly made the same mistake again.",
+          "彼は忠告を無視し早速同じミスを繰り返した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "prompt",
+          "ipa": "/prɑːmpt/",
+          "pos": "形容詞・動詞・名詞",
+          "meaning": "迅速な、促す、指示文",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "etymology": "ラテン語 promptus（準備ができた）",
+          "example": "The announcement prompted investors to sell their shares.",
+          "translation": "発表を受けて投資家は株式を売却した。",
+          "note": "応答を引き出す指示にも用いる",
+          "relationship": "cognate"
+        },
+        {
+          "word": "promptness",
+          "ipa": "/ˈprɑːmptnəs/",
+          "pos": "名詞",
+          "meaning": "迅速さ、時間厳守",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 4,
+          "etymology": "prompt＋-ness",
+          "example": "We appreciate the promptness of your response.",
+          "translation": "迅速な回答に感謝します。",
+          "note": "名詞形",
+          "relationship": "cognate"
+        },
+        {
+          "word": "impromptu",
+          "ipa": "/ɪmˈprɑːmptuː/",
+          "pos": "形容詞・副詞",
+          "meaning": "即興の、即興で",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 in promptu（手元に）",
+          "example": "She gave an impromptu presentation.",
+          "translation": "彼女は即興で発表した。",
+          "note": "準備なしにその場で",
+          "relationship": "cognate"
+        },
+        {
+          "word": "redeem",
+          "ipa": "/rɪˈdiːm/",
+          "pos": "動詞",
+          "meaning": "償還する、引き換える",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "etymology": "red-＋emere（買う、取る）",
+          "example": "The bonds can be redeemed before maturity.",
+          "translation": "債券は満期前に償還できる。",
+          "note": "買い戻す",
+          "relationship": "cognate"
+        },
+        {
+          "word": "exempt",
+          "ipa": "/ɪɡˈzempt/",
+          "pos": "形容詞・動詞",
+          "meaning": "免除された、免除する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "etymology": "ex-＋emere（取る）",
+          "example": "Certain transactions are exempt from tax.",
+          "translation": "一部の取引は課税が免除されている。",
+          "note": "外へ取り出す",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "quickly",
+          "ipa": "/ˈkwɪkli/",
+          "pos": "副詞",
+          "meaning": "素早く",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "古英語 cwic（生きている）",
+          "example": "She quickly reviewed the document.",
+          "translation": "彼女は素早く書類を確認した。",
+          "note": "動作の速さ",
+          "relationship": "synonym"
+        },
+        {
+          "word": "immediately",
+          "ipa": "/ɪˈmiːdiətli/",
+          "pos": "副詞",
+          "meaning": "直ちに",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "im-（否定）＋mediate（介在する）",
+          "example": "We must report the incident immediately.",
+          "translation": "その事案を直ちに報告しなければならない。",
+          "note": "時間的隔たりがない",
+          "relationship": "synonym"
+        },
+        {
+          "word": "swiftly",
+          "ipa": "/ˈswɪftli/",
+          "pos": "副詞",
+          "meaning": "迅速に",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "古英語 swift（速い）",
+          "example": "The authorities responded swiftly to the crisis.",
+          "translation": "当局は危機に迅速に対応した。",
+          "note": "素早く円滑に",
+          "relationship": "synonym"
+        },
+        {
+          "word": "expeditiously",
+          "ipa": "/ˌekspəˈdɪʃəsli/",
+          "pos": "副詞",
+          "meaning": "迅速かつ効率的に",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 3,
+          "etymology": "ラテン語 expedire（足かせを外す）",
+          "example": "The dispute must be resolved expeditiously.",
+          "translation": "紛争は迅速かつ効率的に解決されなければならない。",
+          "note": "手続きの効率性",
+          "relationship": "synonym"
+        },
+        {
+          "word": "punctually",
+          "ipa": "/ˈpʌŋktʃuəli/",
+          "pos": "副詞",
+          "meaning": "時間どおりに",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 punctum（点）",
+          "example": "All participants arrived punctually.",
+          "translation": "参加者全員が時間どおりに到着した。",
+          "note": "予定時刻の厳守",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "promptly は遅滞のない対応、quickly は動作の速さ、immediately は即時性、swiftly は迅速な動き、expeditiously は効率性、punctually は予定時刻を重視。",
+      "comparisonRows": [
+        [
+          "promptly",
+          "対応に遅れがない"
+        ],
+        [
+          "quickly",
+          "動作の速さ"
+        ],
+        [
+          "immediately",
+          "時間的隔たりがない"
+        ],
+        [
+          "swiftly",
+          "素早く円滑に"
+        ],
+        [
+          "expeditiously",
+          "手続きの効率性"
+        ],
+        [
+          "punctually",
+          "予定時刻の厳守"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/promptly.svg",
+        "alt": "依頼から対応までの時間比較"
+      },
+      "comparisonImage": {
+        "src": "./images/comparison/promptly.svg",
+        "alt": "迅速さや時間厳守を表す副詞の概念図",
+        "caption": "時間の長さは説明用のイメージ。画像をタップすると拡大できます。"
+      }
     }
   ]
 }
