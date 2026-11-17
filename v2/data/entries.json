@@ -21355,6 +21355,264 @@
         "alt": "迅速さや時間厳守を表す副詞の概念図",
         "caption": "時間の長さは説明用のイメージ。画像をタップすると拡大できます。"
       }
+    },
+    {
+      "id": "vigorously",
+      "word": "vigorously",
+      "pos": "副詞",
+      "ipa": "米・英 /ˈvɪɡərəsli/",
+      "meaning": "精力的に、力強く、激しく、活発に",
+      "difficulty": 4,
+      "daily": 3,
+      "business": 4,
+      "etymology": "vigor＋-ous＋-ly。ラテン語 vigor（活力）、vigere（活力がある、繁栄する）に由来。vigil 系は語源的に関連する別系統。",
+      "core": "内側のエネルギーを外側に力強く放出する。怒りや攻撃性を必ずしも含まない。",
+      "usage": "shake/stir/exercise/grow vigorously、vigorously oppose/defend/pursue/debate/enforce。身体的動作、議論、研究、経済活動など。",
+      "examples": [
+        [
+          "Shake the bottle vigorously before use.",
+          "使用前にボトルをよく振ってください。"
+        ],
+        [
+          "Stir the mixture vigorously until it becomes smooth.",
+          "滑らかになるまで材料を勢いよくかき混ぜてください。"
+        ],
+        [
+          "He exercises vigorously three times a week.",
+          "彼は週3回激しい運動をしている。"
+        ],
+        [
+          "The company is vigorously pursuing new business opportunities overseas.",
+          "企業は海外で新たな事業機会を積極的に追求している。"
+        ],
+        [
+          "Management vigorously defended its accounting treatment.",
+          "経営陣は自らの会計処理の正当性を強く主張した。"
+        ],
+        [
+          "Several board members vigorously opposed the proposed acquisition.",
+          "複数の取締役が提案された買収に強く反対した。"
+        ],
+        [
+          "Scientists continue to vigorously debate the origins of life.",
+          "科学者たちは生命の起源について活発に議論を続けている。"
+        ],
+        [
+          "The plants grew vigorously despite the harsh environmental conditions.",
+          "厳しい環境条件にもかかわらず植物は旺盛に成長した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "vigor",
+          "ipa": "/ˈvɪɡər/",
+          "pos": "名詞",
+          "meaning": "活力、生命力",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ラテン語 vigor、vigere（活力がある）",
+          "example": "She approached her new role with renewed vigor.",
+          "translation": "彼女は新たな活力を持って新しい役割に取り組んだ。",
+          "note": "英綴り vigour",
+          "relationship": "cognate"
+        },
+        {
+          "word": "vigorous",
+          "ipa": "/ˈvɪɡərəs/",
+          "pos": "形容詞",
+          "meaning": "精力的な、力強い",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "vigor＋-ous",
+          "example": "The economy is experiencing vigorous growth.",
+          "translation": "経済は力強い成長を遂げている。",
+          "note": "形容詞形",
+          "relationship": "cognate"
+        },
+        {
+          "word": "invigorate",
+          "ipa": "/ɪnˈvɪɡəreɪt/",
+          "pos": "動詞",
+          "meaning": "活性化する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "in-＋vigor＋-ate",
+          "example": "The new strategy invigorated the entire organization.",
+          "translation": "新戦略は組織全体を活性化させた。",
+          "note": "活力を与える",
+          "relationship": "cognate"
+        },
+        {
+          "word": "reinvigorate",
+          "ipa": "/ˌriːɪnˈvɪɡəreɪt/",
+          "pos": "動詞",
+          "meaning": "再活性化する",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 4,
+          "etymology": "re-＋invigorate",
+          "example": "The government introduced measures to reinvigorate the economy.",
+          "translation": "政府は経済を再活性化させる施策を導入した。",
+          "note": "活力を取り戻す",
+          "relationship": "cognate"
+        },
+        {
+          "word": "vigilance",
+          "ipa": "/ˈvɪdʒɪləns/",
+          "pos": "名詞",
+          "meaning": "警戒心",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 vigilantia、vigil（目覚めている）。vigere と関連する別系統。",
+          "example": "Constant vigilance is necessary to prevent fraud.",
+          "translation": "不正防止には継続的な警戒が必要だ。",
+          "note": "覚醒・警戒",
+          "relationship": "cognate"
+        },
+        {
+          "word": "vigilant",
+          "ipa": "/ˈvɪdʒɪlənt/",
+          "pos": "形容詞",
+          "meaning": "油断のない",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 vigilans、vigil（目覚めている）",
+          "example": "Auditors must remain vigilant for signs of fraud.",
+          "translation": "監査人は不正の兆候に常に警戒していなければならない。",
+          "note": "覚醒・警戒",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "energetically",
+          "ipa": "/ˌenərˈdʒetɪkli/",
+          "pos": "副詞",
+          "meaning": "元気よく",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "etymology": "ギリシャ語 energeia（活動）",
+          "example": "The children danced energetically.",
+          "translation": "子供たちは元気いっぱいに踊った。",
+          "note": "元気・積極性",
+          "relationship": "synonym"
+        },
+        {
+          "word": "forcefully",
+          "ipa": "/ˈfɔːrsfəli/",
+          "pos": "副詞",
+          "meaning": "力強く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "force はラテン語 fortis（強い）に由来",
+          "example": "She forcefully argued against the proposal.",
+          "translation": "彼女は提案に力強く反論した。",
+          "note": "力・説得力",
+          "relationship": "synonym"
+        },
+        {
+          "word": "intensely",
+          "ipa": "/ɪnˈtensli/",
+          "pos": "副詞",
+          "meaning": "激しく、集中的に",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "etymology": "ラテン語 intendere（張る、伸ばす）",
+          "example": "He was intensely focused on the task.",
+          "translation": "彼は作業に極めて集中していた。",
+          "note": "程度・集中度",
+          "relationship": "synonym"
+        },
+        {
+          "word": "strenuously",
+          "ipa": "/ˈstrenjuəsli/",
+          "pos": "副詞",
+          "meaning": "懸命に",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "etymology": "ラテン語 strenuus（活動的な、勇敢な）",
+          "example": "The company strenuously denied the allegations.",
+          "translation": "企業は疑惑を強く否定した。",
+          "note": "努力・負荷",
+          "relationship": "synonym"
+        },
+        {
+          "word": "vehemently",
+          "ipa": "/ˈviːəməntli/",
+          "pos": "副詞",
+          "meaning": "猛烈に",
+          "difficulty": 5,
+          "daily": 2,
+          "business": 3,
+          "etymology": "ラテン語 vehemens（激しい）。それ以前は諸説。",
+          "example": "She vehemently disagreed with his interpretation.",
+          "translation": "彼女は彼の解釈に猛烈に反対した。",
+          "note": "強い感情・主張",
+          "relationship": "synonym"
+        },
+        {
+          "word": "aggressively",
+          "ipa": "/əˈɡresɪvli/",
+          "pos": "副詞",
+          "meaning": "攻撃的に、積極果敢に",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "etymology": "ラテン語 aggredi（近づく、攻撃する）、ad-＋gradi",
+          "example": "The company is aggressively expanding its market share.",
+          "translation": "企業は積極果敢に市場シェアを拡大している。",
+          "note": "攻めの姿勢",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "vigorously は活力、energetically は元気、forcefully は力、intensely は程度、strenuously は努力、vehemently は感情、aggressively は攻めの姿勢を強調する。",
+      "comparisonRows": [
+        [
+          "vigorously",
+          "活力・エネルギー"
+        ],
+        [
+          "energetically",
+          "元気・積極性"
+        ],
+        [
+          "forcefully",
+          "力・説得力"
+        ],
+        [
+          "intensely",
+          "程度・集中度"
+        ],
+        [
+          "strenuously",
+          "努力・負荷"
+        ],
+        [
+          "vehemently",
+          "強い感情・主張"
+        ],
+        [
+          "aggressively",
+          "攻めの姿勢"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/vigorously.svg",
+        "alt": "穏やかな動きと力強いエネルギーの放出の比較"
+      },
+      "comparisonImage": {
+        "src": "./images/comparison/vigorously.svg",
+        "alt": "類義語の意味の重点を比較"
+      }
     }
   ]
 }
