@@ -1,5 +1,5 @@
 import {normalizeText, parseVocabulary, parseRoots, parseIdioms, buildRootGroups, buildIdiomGroups, matches} from './model.js';
-import {renderEntry, renderRoot, renderIdiom, renderToc, showError} from './render.js';
+import {renderEntry, renderRoot, renderIdiom, renderToc, showError} from './render.js?v=comparison-20261117';
 
 const $ = id => document.getElementById(id);
 const state = {entries:[], roots:[], idioms:[], rootMap:{}, warnings:[], mode:'keyword', ready:false};
