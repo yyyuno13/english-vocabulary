@@ -20493,6 +20493,200 @@
         "src": "./images/core/merchandise.svg",
         "alt": "物品が販売目的の商品として店舗で売られる図"
       }
+    },
+    {
+      "id": "tariff",
+      "word": "tariff",
+      "pos": "名詞・動詞",
+      "ipa": "米 /ˈterɪf/ 英 /ˈtærɪf/",
+      "meaning": "関税、料金表、料金体系；関税を課す",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "アラビア語 taʿrīf（通知、知らせること）、語根 ʿ-r-f（知る）にさかのぼる。イタリア語 tariffa（料金表）やフランス語 tarif を経由して英語へ。公示された料金表から関税・料金体系へ意味が発展。",
+      "core": "公的に定められた料金・税率。輸出入に適用される関税や電気・通信等の料金体系。",
+      "usage": "impose tariffs on（関税を課す）、raise/reduce tariffs、retaliatory tariffs（報復関税）、reciprocal tariffs（相互関税）、tariff barriers（関税障壁）、tariff exemption（関税免除）、electricity tariff（電気料金体系）。還付不能な輸入関税は原則として商品取得原価に含まれる。pass tariff costs on to consumers（関税コストを消費者に転嫁する）。",
+      "examples": [
+        [
+          "The government imposed a 25% tariff on imported steel.",
+          "政府は輸入鉄鋼に25％の関税を課した。"
+        ],
+        [
+          "Higher tariffs could lead to an increase in consumer prices.",
+          "関税の引き上げは消費者物価の上昇につながる可能性がある。"
+        ],
+        [
+          "The two countries agreed to eliminate tariffs on agricultural products.",
+          "両国は農産物に対する関税を撤廃することで合意した。"
+        ],
+        [
+          "The country introduced retaliatory tariffs in response to trade restrictions.",
+          "その国は貿易制限に対抗して報復関税を導入した。"
+        ],
+        [
+          "The tariffs are designed to protect domestic manufacturers from foreign competition.",
+          "その関税は国内製造業者を海外との競争から保護することを目的としている。"
+        ],
+        [
+          "Rising tariffs have eroded the company's profit margins.",
+          "関税の上昇によってその企業の利益率が低下している。"
+        ],
+        [
+          "The company revised its earnings forecast to reflect the impact of new tariffs.",
+          "その企業は新たな関税の影響を反映するため業績予想を修正した。"
+        ],
+        [
+          "Electricity tariffs vary depending on the time of day.",
+          "電気料金は時間帯によって異なる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "tariff-free",
+          "ipa": "/ˈterɪf friː/",
+          "pos": "形容詞",
+          "meaning": "関税のかからない",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 4,
+          "etymology": "tariff＋free",
+          "example": "The agreement allows tariff-free access to foreign markets.",
+          "translation": "協定により関税なしで海外市場にアクセスできる。",
+          "note": "複合語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "non-tariff",
+          "ipa": "/ˌnɑːn ˈterɪf/",
+          "pos": "形容詞",
+          "meaning": "非関税の",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 4,
+          "etymology": "non-＋tariff",
+          "example": "Non-tariff barriers can restrict international trade.",
+          "translation": "非関税障壁は国際貿易を制限しうる。",
+          "note": "派生語。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "tariffication",
+          "ipa": "/ˌterɪfɪˈkeɪʃən/",
+          "pos": "名詞",
+          "meaning": "関税化",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "etymology": "tariff＋-ification",
+          "example": "Tariffication converts certain non-tariff barriers into tariffs.",
+          "translation": "関税化は一定の非関税障壁を関税に置き換えることである。",
+          "note": "専門用語。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "tax",
+          "ipa": "/tæks/",
+          "pos": "名詞・動詞",
+          "meaning": "税金、課税する",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 taxare（査定する）。",
+          "example": "The government increased corporate taxes.",
+          "translation": "政府は法人税を引き上げた。",
+          "note": "税金全般。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "duty",
+          "ipa": "/ˈduːti/",
+          "pos": "名詞",
+          "meaning": "義務、関税、物品税",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "古フランス語 deu（支払うべきもの）。due と同語源。",
+          "example": "Import duties are included in the cost of inventory.",
+          "translation": "輸入関税は棚卸資産の取得原価に含まれる。",
+          "note": "法的に納付すべき税。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "levy",
+          "ipa": "/ˈlevi/",
+          "pos": "名詞・動詞",
+          "meaning": "賦課金、徴収する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "etymology": "ラテン語 levare（持ち上げる）。",
+          "example": "The government levied a tax on luxury goods.",
+          "translation": "政府は高級品に税金を課した。",
+          "note": "公的機関による徴収。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "surcharge",
+          "ipa": "/ˈsɝːtʃɑːrdʒ/",
+          "pos": "名詞・動詞",
+          "meaning": "追加料金、追加料金を課す",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "sur-（上に）＋charge（負担させる）。",
+          "example": "The airline introduced a fuel surcharge.",
+          "translation": "航空会社は燃油サーチャージを導入した。",
+          "note": "基本料金への上乗せ。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "toll",
+          "ipa": "/toʊl/",
+          "pos": "名詞",
+          "meaning": "通行料、犠牲者数",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "etymology": "料金の意味は古英語 toll（税、通行料）に由来。",
+          "example": "Drivers must pay a toll to use the highway.",
+          "translation": "運転手は高速道路を利用するために通行料を支払う必要がある。",
+          "note": "施設や道路の利用料。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "tariff は関税制度・税率、duty は実際の納付や通関でよく使われるが両者は意味が重なる。tax は税金全般、levy は公的機関の賦課、surcharge は追加料金、toll は通行料。",
+      "comparisonRows": [
+        [
+          "tariff",
+          "関税制度・税率・料金体系"
+        ],
+        [
+          "tax",
+          "税金全般。"
+        ],
+        [
+          "duty",
+          "法的に納付すべき税。"
+        ],
+        [
+          "levy",
+          "公的機関による徴収。"
+        ],
+        [
+          "surcharge",
+          "基本料金への上乗せ。"
+        ],
+        [
+          "toll",
+          "施設や道路の利用料。"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/tariff.svg",
+        "alt": "課税価格100ドルに25%の関税が課される図"
+      }
     }
   ]
 }
