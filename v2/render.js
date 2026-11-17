@@ -55,6 +55,22 @@ const coreDiagram = image => {
   figure.append(el('figcaption','core-figure__caption',image.caption||'画像をタップすると拡大できます'));
   return figure;
 };
+// Optional synonym comparison, separate from the existing core illustration.
+const comparisonDiagram = image => {
+  if (!image || typeof image.src !== 'string' || !/^\.\/images\/comparison\/[a-z0-9-]+\.svg$/.test(image.src)) return null;
+  const figure=el('figure','core-figure');
+  const a=el('a','core-figure__zoom');
+  a.href=image.src; a.target='_blank'; a.rel='noopener';
+  a.setAttribute('aria-label','類義語比較図を拡大して開く');
+  const img=el('img','core-figure__image');
+  img.src=image.src; img.alt=typeof image.alt==='string'?image.alt:'類義語の比較図';
+  img.loading='lazy'; img.decoding='async';
+  img.style.aspectRatio='auto';
+  img.addEventListener('error',()=>figure.remove(),{once:true});
+  a.append(img);
+  add(figure,a,el('figcaption','core-figure__caption',image.caption||'概念図：画像をタップすると拡大できます'));
+  return figure;
+};
 const detail = (label, count, initiallyOpen=false) => {
   const d=el('details','section-fold');
   d.open=initiallyOpen;
@@ -122,6 +138,8 @@ export function renderEntry(entry, rootPair, query='') {
       });
       d.append(tbl);
     }
+    const visual=comparisonDiagram(entry.comparisonImage);
+    if(visual) d.append(visual);
     article.append(d);
   }
   if(entry.reference.length){
