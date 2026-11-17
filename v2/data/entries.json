@@ -20687,6 +20687,214 @@
         "src": "./images/core/tariff.svg",
         "alt": "課税価格100ドルに25%の関税が課される図"
       }
+    },
+    {
+      "id": "seasoned",
+      "word": "seasoned",
+      "pos": "形容詞",
+      "ipa": "米・英 /ˈsiːzənd/",
+      "meaning": "経験豊富な、熟練した、味付けされた、乾燥させた",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "season＋-ed。古フランス語 saison（種まきの時期、季節）、ラテン語 satiō（種まき）、serere（種をまく）に由来。適切な時期・成熟という意味から、味付けや経験による熟練へ。",
+      "core": "時間や外からの働きによって望ましい状態に仕上がっている。経験を通じた成熟、調味、木材の乾燥。",
+      "usage": "a seasoned professional/auditor/investor/executive/traveler、a seasoned veteran、well-seasoned meat、lightly seasoned vegetables、seasoned timber。seasoned with salt（塩で味付けされた）。経験豊富な人の判断力や対応力を強調する。",
+      "examples": [
+        [
+          "Even seasoned professionals make mistakes.",
+          "経験豊富な専門家でさえミスをする。"
+        ],
+        [
+          "She is a seasoned negotiator who rarely loses her composure.",
+          "彼女はめったに冷静さを失わない経験豊富な交渉担当者だ。"
+        ],
+        [
+          "A seasoned auditor can recognize subtle signs of financial irregularities.",
+          "経験豊富な監査人は財務上の不正や異常のわずかな兆候を見抜くことができる。"
+        ],
+        [
+          "Even seasoned investors struggle to predict market movements.",
+          "熟練した投資家でさえ市場の動きを予測するのは難しい。"
+        ],
+        [
+          "The company hired a seasoned executive to oversee its overseas operations.",
+          "その企業は海外事業を統括するため経験豊富な経営幹部を採用した。"
+        ],
+        [
+          "As a seasoned traveler, he knows how to deal with unexpected situations.",
+          "旅慣れている彼は予期せぬ事態への対処方法を心得ている。"
+        ],
+        [
+          "The fish was lightly seasoned with salt and pepper.",
+          "その魚は塩とコショウで軽く味付けされていた。"
+        ],
+        [
+          "Seasoned timber is less likely to warp or crack.",
+          "乾燥させた木材は反ったりひび割れたりしにくい。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "season",
+          "ipa": "/ˈsiːzən/",
+          "pos": "名詞・動詞",
+          "meaning": "季節、味付けする",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 4,
+          "etymology": "古フランス語 saison、ラテン語 satiō（種まき）。",
+          "example": "Season the chicken with salt and herbs.",
+          "translation": "鶏肉を塩とハーブで味付けする。",
+          "note": "原形。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "seasonal",
+          "ipa": "/ˈsiːzənəl/",
+          "pos": "形容詞",
+          "meaning": "季節的な",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "etymology": "season＋-al",
+          "example": "The company experiences seasonal fluctuations in revenue.",
+          "translation": "その企業の売上高には季節変動がある。",
+          "note": "季節に関する。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "seasonality",
+          "ipa": "/ˌsiːzəˈnæləti/",
+          "pos": "名詞",
+          "meaning": "季節性",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 5,
+          "etymology": "seasonal＋-ity",
+          "example": "The analysis takes seasonality into account.",
+          "translation": "その分析は季節性を考慮している。",
+          "note": "季節変動。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "seasoning",
+          "ipa": "/ˈsiːzənɪŋ/",
+          "pos": "名詞",
+          "meaning": "調味料、味付け",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 2,
+          "etymology": "season＋-ing",
+          "example": "The soup needs a little more seasoning.",
+          "translation": "そのスープにはもう少し味付けが必要だ。",
+          "note": "調味。",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "experienced",
+          "ipa": "/ɪkˈspɪriənst/",
+          "pos": "形容詞",
+          "meaning": "経験豊富な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "etymology": "ラテン語 experiri（試す、経験する）。",
+          "example": "We are looking for an experienced accountant.",
+          "translation": "経験豊富な会計担当者を探している。",
+          "note": "経験の蓄積。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "skilled",
+          "ipa": "/skɪld/",
+          "pos": "形容詞",
+          "meaning": "熟練した",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 4,
+          "etymology": "古ノルド語 skil（区別、識別）。",
+          "example": "She is highly skilled in financial analysis.",
+          "translation": "彼女は財務分析に非常に長けている。",
+          "note": "技術的能力。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "proficient",
+          "ipa": "/prəˈfɪʃənt/",
+          "pos": "形容詞",
+          "meaning": "堪能な",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 5,
+          "etymology": "ラテン語 proficere（前進する）、pro-＋facere。",
+          "example": "He is proficient in both English and French.",
+          "translation": "彼は英語とフランス語の両方に堪能だ。",
+          "note": "習熟度。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "veteran",
+          "ipa": "/ˈvetərən/",
+          "pos": "名詞・形容詞",
+          "meaning": "ベテラン、退役軍人",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "ラテン語 vetus（古い）。",
+          "example": "He is a veteran of the banking industry.",
+          "translation": "彼は銀行業界のベテランだ。",
+          "note": "長い経歴・実戦経験。",
+          "relationship": "synonym"
+        },
+        {
+          "word": "accomplished",
+          "ipa": "/əˈkɑːmplɪʃt/",
+          "pos": "形容詞",
+          "meaning": "優れた、熟達した",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "etymology": "古フランス語 accomplir、ラテン語 complere（満たす）。",
+          "example": "She is an accomplished pianist.",
+          "translation": "彼女は優れたピアニストだ。",
+          "note": "能力・実績。",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "seasoned は経験による円熟味、experienced は経験の蓄積、skilled は技術、proficient は習熟度、veteran は長い経歴、accomplished は能力や実績を強調する。",
+      "comparisonRows": [
+        [
+          "seasoned",
+          "経験による成熟・判断力"
+        ],
+        [
+          "experienced",
+          "経験の蓄積。"
+        ],
+        [
+          "skilled",
+          "技術的能力。"
+        ],
+        [
+          "proficient",
+          "習熟度。"
+        ],
+        [
+          "veteran",
+          "長い経歴・実戦経験。"
+        ],
+        [
+          "accomplished",
+          "能力・実績。"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/seasoned.svg",
+        "alt": "経験、調味、乾燥によって仕上がった状態の比較"
+      }
     }
   ]
 }
