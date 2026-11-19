@@ -21821,6 +21821,201 @@
           "道徳的な償い"
         ]
       ]
+    },
+    {
+      "id": "hang",
+      "word": "hang",
+      "pos": "動詞（自動詞・他動詞）・名詞",
+      "ipa": "/hæŋ/",
+      "meaning": "掛ける、掛かっている、ぶら下がる、漂う",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 3,
+      "etymology": "古英語 hangian（ぶら下がる）と hōn（つるす）に由来するゲルマン語系の動詞。",
+      "core": "支点に支えられて垂れ下がる。そこから空間や場所にとどまる意味へ。",
+      "usage": "活用 hang–hung–hung（絞首刑では hanged–hanged）。他動詞 SVO: hang a picture on the wall（絵を掛ける）。自動詞 SV+M: A picture hangs on the wall（絵が掛かっている）。is hanging は自動詞の進行形、was hung は他動詞の受動態。on は接触面、from は支点、over は上方、down は下方向。hang up は分離可能（hang it up、hang up it は不可）。hang out / hang around は主に自動詞。get the hang of + 名詞・動名詞（コツをつかむ）。",
+      "examples": [
+        [
+          "I hung the painting on the wall.",
+          "私は壁に絵を掛けた。"
+        ],
+        [
+          "A picture hangs on the wall.",
+          "壁に絵が掛かっている。"
+        ],
+        [
+          "A chandelier is hanging from the ceiling.",
+          "天井からシャンデリアがつるされている。"
+        ],
+        [
+          "The picture was hung on the wall yesterday.",
+          "絵は昨日壁に掛けられた。"
+        ],
+        [
+          "Her hair hung loosely over her shoulders.",
+          "彼女の髪は肩の上にゆったりと垂れていた。"
+        ],
+        [
+          "Fog hangs over the valley.",
+          "霧が谷に漂っている。"
+        ],
+        [
+          "The prisoner was hanged.",
+          "囚人は絞首刑に処された。"
+        ],
+        [
+          "I'm finally getting the hang of using this software.",
+          "ようやくこのソフトウェアを使うコツが分かってきた。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "hanger",
+          "pos": "名詞",
+          "ipa": "/ˈhæŋər/",
+          "meaning": "ハンガー",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 1,
+          "example": "Put your jacket on a hanger.",
+          "translation": "ジャケットをハンガーに掛けて。",
+          "note": "hang + -er",
+          "relationship": "derivative"
+        },
+        {
+          "word": "hangover",
+          "pos": "名詞",
+          "ipa": "/ˈhæŋoʊvər/",
+          "meaning": "二日酔い",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 1,
+          "example": "I have a terrible hangover.",
+          "translation": "ひどい二日酔いだ。",
+          "note": "hang + over、影響が残る",
+          "relationship": "derivative"
+        },
+        {
+          "word": "overhang",
+          "pos": "動詞",
+          "ipa": "/ˌoʊvərˈhæŋ/",
+          "meaning": "張り出す",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The roof overhangs the entrance.",
+          "translation": "屋根が入り口の上に張り出している。",
+          "note": "over + hang",
+          "relationship": "derivative"
+        },
+        {
+          "word": "hanging",
+          "pos": "名詞",
+          "ipa": "/ˈhæŋɪŋ/",
+          "meaning": "つるすこと、壁掛け、絞首刑",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 1,
+          "example": "The museum displays several wall hangings.",
+          "translation": "美術館は壁掛け装飾品を展示している。",
+          "note": "hang + -ing",
+          "relationship": "derivative"
+        },
+        {
+          "word": "hangout",
+          "pos": "名詞",
+          "ipa": "/ˈhæŋaʊt/",
+          "meaning": "たまり場",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "This café is our favorite hangout.",
+          "translation": "このカフェはお気に入りのたまり場だ。",
+          "note": "hang out の名詞形",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "suspend",
+          "pos": "動詞",
+          "ipa": "/səˈspend/",
+          "meaning": "つるす、停止する",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 5,
+          "example": "The equipment is suspended from the ceiling.",
+          "translation": "装置は天井からつるされている。",
+          "note": "空中に保持する、形式的",
+          "relationship": "synonym"
+        },
+        {
+          "word": "dangle",
+          "pos": "動詞",
+          "ipa": "/ˈdæŋɡəl/",
+          "meaning": "ぶらぶら垂れる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "His legs dangled over the edge.",
+          "translation": "彼の脚は縁からぶらぶら垂れていた。",
+          "note": "自由に揺れる",
+          "relationship": "synonym"
+        },
+        {
+          "word": "droop",
+          "pos": "動詞",
+          "ipa": "/druːp/",
+          "meaning": "力なく垂れる",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "The flowers drooped in the heat.",
+          "translation": "花は暑さでしおれて垂れ下がった。",
+          "note": "張りや力を失う",
+          "relationship": "synonym"
+        },
+        {
+          "word": "attach",
+          "pos": "動詞",
+          "ipa": "/əˈtætʃ/",
+          "meaning": "取り付ける",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "Attach the label to the package.",
+          "translation": "荷物にラベルを取り付けてください。",
+          "note": "接続・固定が中心",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "hang は一般的な垂れ下がり、suspend は空中での保持、dangle は揺れ、droop は力を失って垂れること、attach は取り付けを強調する。",
+      "comparisonRows": [
+        [
+          "hang",
+          "掛ける・掛かる"
+        ],
+        [
+          "suspend",
+          "空中に保持"
+        ],
+        [
+          "dangle",
+          "ぶらぶら揺れる"
+        ],
+        [
+          "droop",
+          "力なく垂れる"
+        ],
+        [
+          "attach",
+          "取り付ける"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/hang.svg",
+        "alt": "他動詞と自動詞の構文比較"
+      }
     }
   ]
 }
