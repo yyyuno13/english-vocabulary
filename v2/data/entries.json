@@ -21613,6 +21613,214 @@
         "src": "./images/comparison/vigorously.svg",
         "alt": "類義語の意味の重点を比較"
       }
+    },
+    {
+      "id": "redeem",
+      "word": "redeem",
+      "pos": "動詞（他動詞）",
+      "ipa": "/rɪˈdiːm/",
+      "meaning": "引き換える、償う、挽回する、償還する",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 redimere（買い戻す、身請けする）：red-（戻す）＋ emere（買う、取る）。",
+      "core": "対価や行動によって価値・権利・名誉を回復または実現する。",
+      "usage": "redeem A for B（AをBに交換する）、redeem oneself（名誉を挽回する）、redeem bonds（債券を償還する）。",
+      "examples": [
+        [
+          "You can redeem your miles for flights.",
+          "マイルを航空券に交換できます。"
+        ],
+        [
+          "This coupon can be redeemed at any participating store.",
+          "このクーポンは加盟店で利用できます。"
+        ],
+        [
+          "He worked hard to redeem himself after the mistake.",
+          "彼は失敗を挽回するために懸命に働いた。"
+        ],
+        [
+          "The excellent service redeemed an otherwise disappointing experience.",
+          "素晴らしい接客がそれ以外は残念だった体験を救った。"
+        ],
+        [
+          "The company plans to redeem its bonds before maturity.",
+          "会社は満期前に社債を償還する予定だ。"
+        ],
+        [
+          "Investors can redeem their fund units at the current net asset value.",
+          "投資家は現在の純資産価額で投資信託を換金できる。"
+        ],
+        [
+          "Christians believe that Jesus died to redeem humanity from sin.",
+          "キリスト教徒はイエスが人類を罪から救うために死んだと信じている。"
+        ],
+        [
+          "The government failed to redeem its promises.",
+          "政府は約束を果たせなかった。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "redemption",
+          "pos": "名詞",
+          "ipa": "/rɪˈdempʃən/",
+          "meaning": "償還、引き換え、救済",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "Early redemption may incur additional fees.",
+          "translation": "早期償還には追加手数料が発生する場合がある。",
+          "note": "redeemの名詞形",
+          "relationship": "derivative"
+        },
+        {
+          "word": "redeemable",
+          "pos": "形容詞",
+          "ipa": "/rɪˈdiːməbl/",
+          "meaning": "交換・償還可能な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "These points are redeemable for cash.",
+          "translation": "ポイントは現金に交換できる。",
+          "note": "redeem + -able",
+          "relationship": "derivative"
+        },
+        {
+          "word": "redeemer",
+          "pos": "名詞",
+          "ipa": "/rɪˈdiːmər/",
+          "meaning": "救済者",
+          "difficulty": 4,
+          "daily": 1,
+          "business": 1,
+          "example": "Christ is described as the Redeemer.",
+          "translation": "キリストは救世主と称される。",
+          "note": "redeem + -er",
+          "relationship": "derivative"
+        },
+        {
+          "word": "exempt",
+          "pos": "形容詞・動詞",
+          "ipa": "/ɪɡˈzempt/",
+          "meaning": "免除する、免除された",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "This transaction is exempt from tax.",
+          "translation": "この取引は課税を免除されている。",
+          "note": "ex- + emere",
+          "relationship": "cognate"
+        },
+        {
+          "word": "preempt",
+          "pos": "動詞",
+          "ipa": "/priˈempt/",
+          "meaning": "先手を打つ、未然に防ぐ",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "We took action to preempt potential problems.",
+          "translation": "潜在的な問題を未然に防ぐために行動した。",
+          "note": "pre- + emere",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "exchange",
+          "pos": "動詞",
+          "ipa": "/ɪksˈtʃeɪndʒ/",
+          "meaning": "交換する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "I'd like to exchange yen for dollars.",
+          "translation": "円をドルに交換したい。",
+          "note": "一般的な交換",
+          "relationship": "synonym"
+        },
+        {
+          "word": "reimburse",
+          "pos": "動詞",
+          "ipa": "/ˌriːɪmˈbɜːrs/",
+          "meaning": "払い戻す",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 5,
+          "example": "The company will reimburse your travel expenses.",
+          "translation": "会社が旅費を精算する。",
+          "note": "立替費用を精算",
+          "relationship": "synonym"
+        },
+        {
+          "word": "repay",
+          "pos": "動詞",
+          "ipa": "/rɪˈpeɪ/",
+          "meaning": "返済する",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The borrower must repay the loan.",
+          "translation": "借り手は借入金を返済する必要がある。",
+          "note": "借入の返済",
+          "relationship": "synonym"
+        },
+        {
+          "word": "compensate",
+          "pos": "動詞",
+          "ipa": "/ˈkɑːmpənseɪt/",
+          "meaning": "補償する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The airline compensated passengers for the delay.",
+          "translation": "航空会社は遅延について乗客に補償した。",
+          "note": "損失の埋め合わせ",
+          "relationship": "synonym"
+        },
+        {
+          "word": "atone",
+          "pos": "動詞",
+          "ipa": "/əˈtoʊn/",
+          "meaning": "償う",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "He tried to atone for his past mistakes.",
+          "translation": "彼は過去の過ちを償おうとした。",
+          "note": "道徳的な償い。atone for",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "redeem は価値の実現・回復、exchange は一般的な交換、reimburse は立替精算、repay は返済、compensate は補償、atone は道徳的な償い。",
+      "comparisonRows": [
+        [
+          "redeem",
+          "価値・権利の回復"
+        ],
+        [
+          "exchange",
+          "交換"
+        ],
+        [
+          "reimburse",
+          "立替精算"
+        ],
+        [
+          "repay",
+          "返済"
+        ],
+        [
+          "compensate",
+          "損失補償"
+        ],
+        [
+          "atone",
+          "道徳的な償い"
+        ]
+      ]
     }
   ]
 }
