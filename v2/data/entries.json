@@ -22016,6 +22016,235 @@
         "src": "./images/core/hang.svg",
         "alt": "他動詞と自動詞の構文比較"
       }
+    },
+    {
+      "id": "low",
+      "word": "low",
+      "pos": "形容詞・副詞・名詞",
+      "ipa": "米 /loʊ/ 英 /ləʊ/",
+      "meaning": "低い、低く、低水準",
+      "difficulty": 1,
+      "daily": 5,
+      "business": 5,
+      "etymology": "古ノルド語 lágr（低い）に由来し、印欧祖語 *legh-（横たわる）に関連する。lie（横たわる）も遠い同語源。牛が鳴く low は別語源。",
+      "core": "高さや価値の尺度の下方に位置する。高さ、数量、地位、精神状態、音程へ拡張。",
+      "usage": "形容詞 a low price / Prices are low. 副詞 fly low。名詞 a record low。比較級 lower、最上級 lowest。lowly は主に形容詞で社会的地位や重要性の低さを示し、low の通常の副詞形ではない。run low on ～（残量が少なくなる）、low liquidity、low profit margins、low-risk investment。",
+      "examples": [
+        [
+          "The house has a low ceiling.",
+          "その家は天井が低い。"
+        ],
+        [
+          "The aircraft was flying low over the ocean.",
+          "航空機は海上を低空飛行していた。"
+        ],
+        [
+          "Interest rates remain relatively low.",
+          "金利は依然として比較的低い。"
+        ],
+        [
+          "Consumer confidence has fallen to a record low.",
+          "消費者信頼感は過去最低水準に落ち込んだ。"
+        ],
+        [
+          "We're running low on office supplies.",
+          "オフィス用品の在庫が少なくなってきた。"
+        ],
+        [
+          "I've been feeling a little low lately.",
+          "最近少し気分が落ち込んでいる。"
+        ],
+        [
+          "The company is struggling with low profit margins.",
+          "その会社は利益率の低さに苦しんでいる。"
+        ],
+        [
+          "He spoke in a low voice to avoid disturbing others.",
+          "周囲の迷惑にならないよう小声で話した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "lowly",
+          "pos": "形容詞・副詞",
+          "ipa": "/ˈloʊli/",
+          "meaning": "身分の低い、取るに足らない",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "He began his career as a lowly clerk.",
+          "translation": "彼は一介の事務員としてキャリアを始めた。",
+          "note": "low + -ly（主に形容詞形成）。副詞用法はまれ。",
+          "relationship": "derivative"
+        },
+        {
+          "word": "lower",
+          "pos": "動詞・形容詞",
+          "ipa": "/ˈloʊər/",
+          "meaning": "下げる、より低い",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The central bank lowered interest rates.",
+          "translation": "中央銀行は金利を引き下げた。",
+          "note": "low の比較級・動詞",
+          "relationship": "derivative"
+        },
+        {
+          "word": "lowland",
+          "pos": "名詞",
+          "ipa": "/ˈloʊlənd/",
+          "meaning": "低地",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 1,
+          "example": "The lowlands are vulnerable to flooding.",
+          "translation": "低地は洪水の被害を受けやすい。",
+          "note": "low + land",
+          "relationship": "derivative"
+        },
+        {
+          "word": "low-key",
+          "pos": "形容詞",
+          "ipa": "/ˌloʊˈkiː/",
+          "meaning": "控えめな",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "We kept the celebration low-key.",
+          "translation": "お祝いを控えめにした。",
+          "note": "low + key",
+          "relationship": "derivative"
+        },
+        {
+          "word": "lowdown",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈloʊdaʊn/",
+          "meaning": "内情、卑劣な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "Give me the lowdown on what happened.",
+          "translation": "何があったのか詳しく教えて。",
+          "note": "low + down",
+          "relationship": "derivative"
+        },
+        {
+          "word": "lie",
+          "pos": "動詞",
+          "ipa": "/laɪ/",
+          "meaning": "横たわる、位置する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 3,
+          "example": "The village lies at the foot of the mountain.",
+          "translation": "村は山のふもとに位置する。",
+          "note": "遠い共通語源 *legh-。嘘をつく lie は別語源。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "small",
+          "pos": "形容詞",
+          "ipa": "/smɔːl/",
+          "meaning": "小さい",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "The company has a small market share.",
+          "translation": "その会社の市場シェアは小さい。",
+          "note": "規模",
+          "relationship": "synonym"
+        },
+        {
+          "word": "shallow",
+          "pos": "形容詞",
+          "ipa": "/ˈʃæloʊ/",
+          "meaning": "浅い",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 2,
+          "example": "His analysis was rather shallow.",
+          "translation": "彼の分析はかなり浅かった。",
+          "note": "深さ",
+          "relationship": "synonym"
+        },
+        {
+          "word": "humble",
+          "pos": "形容詞",
+          "ipa": "/ˈhʌmbəl/",
+          "meaning": "謙虚な、質素な",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "Despite his success, he remained humble.",
+          "translation": "成功しても謙虚であり続けた。",
+          "note": "態度や地位",
+          "relationship": "synonym"
+        },
+        {
+          "word": "inferior",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈfɪriər/",
+          "meaning": "劣った",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The product is inferior in quality to competing products.",
+          "translation": "その製品は競合製品より品質が劣る。",
+          "note": "品質・能力",
+          "relationship": "synonym"
+        },
+        {
+          "word": "modest",
+          "pos": "形容詞",
+          "ipa": "/ˈmɑːdɪst/",
+          "meaning": "控えめな",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The company reported a modest increase in revenue.",
+          "translation": "小幅な増収を報告した。",
+          "note": "控えめな規模",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "low は水準、small は規模、shallow は深さ、humble は地位や謙虚な態度、inferior は劣位、modest は控えめな規模。lowly は客観的な地位の低さが中心。",
+      "comparisonRows": [
+        [
+          "low",
+          "高さ・水準"
+        ],
+        [
+          "small",
+          "規模"
+        ],
+        [
+          "shallow",
+          "深さ"
+        ],
+        [
+          "humble",
+          "態度や地位"
+        ],
+        [
+          "inferior",
+          "品質・能力"
+        ],
+        [
+          "modest",
+          "控えめな規模"
+        ],
+        [
+          "lowly",
+          "社会的地位・重要性の低さ"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/low.svg",
+        "alt": "尺度の下方に位置するコアイメージ"
+      }
     }
   ]
 }
