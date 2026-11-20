@@ -22245,6 +22245,244 @@
         "src": "./images/core/low.svg",
         "alt": "尺度の下方に位置するコアイメージ"
       }
+    },
+    {
+      "id": "assurance",
+      "word": "assurance",
+      "pos": "名詞（可算・不可算）",
+      "ipa": "米 /əˈʃʊrəns/ 英 /əˈʃʊərəns/",
+      "meaning": "保証、確約、安心感、自信；監査上の保証",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 5,
+      "etymology": "フランス語 assurance（assurer「保証する」に由来）から借用。assurer は a-（ラテン語 ad- に由来）＋ sure（確かな）と関係し、sure はラテン語 securus（心配のない）に遡る。現代英語では assure + -ance と理解できるが、歴史的にはフランス語からの借用。",
+      "core": "確かであると保証して疑念や不安を取り除き、安心や確信を与える。",
+      "usage": "具体的な保証・確約は可算（an assurance, assurances）。安心感・自信・監査上の保証は通常不可算。give someone an assurance that + 節、assurance of + 名詞、with assurance。監査の reasonable assurance は高いが絶対ではない保証、limited assurance はそれより低い保証水準。",
+      "examples": [
+        [
+          "The company gave customers assurances that their data would remain secure.",
+          "その企業は顧客にデータの安全性が維持されると保証した。"
+        ],
+        [
+          "We need further assurance before proceeding with the transaction.",
+          "取引を進める前に、さらなる確証が必要だ。"
+        ],
+        [
+          "Her calm voice gave me a sense of assurance.",
+          "彼女の落ち着いた声は私に安心感を与えた。"
+        ],
+        [
+          "He spoke with assurance during the presentation.",
+          "彼はプレゼンテーションで自信を持って話した。"
+        ],
+        [
+          "The auditor obtains reasonable assurance that the financial statements are free from material misstatement.",
+          "監査人は財務諸表に重要な虚偽表示がないことについて合理的な保証を得る。"
+        ],
+        [
+          "Absolute assurance is not achievable in a financial statement audit.",
+          "財務諸表監査において絶対的な保証は得られない。"
+        ],
+        [
+          "The board requested independent assurance over the company's internal controls.",
+          "取締役会は内部統制について独立した保証を求めた。"
+        ],
+        [
+          "Despite repeated assurances, the project was delayed.",
+          "繰り返し保証されていたにもかかわらず、プロジェクトは遅延した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "assure",
+          "pos": "動詞",
+          "ipa": "/əˈʃʊr/",
+          "meaning": "保証する、安心させる",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "I assure you that the information is accurate.",
+          "translation": "その情報が正確であることを保証します。",
+          "note": "直接の関連動詞",
+          "relationship": "derivative"
+        },
+        {
+          "word": "assured",
+          "pos": "形容詞",
+          "ipa": "/əˈʃʊrd/",
+          "meaning": "確実な、自信のある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She gave an assured performance.",
+          "translation": "彼女は自信に満ちた演技を見せた。",
+          "note": "assure の派生語",
+          "relationship": "derivative"
+        },
+        {
+          "word": "reassuring",
+          "pos": "形容詞",
+          "ipa": "/ˌriːəˈʃʊrɪŋ/",
+          "meaning": "安心させる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The results were reassuring.",
+          "translation": "結果は安心できるものだった。",
+          "note": "reassure の派生語",
+          "relationship": "derivative"
+        },
+        {
+          "word": "reassure",
+          "pos": "動詞",
+          "ipa": "/ˌriːəˈʃʊr/",
+          "meaning": "安心させる",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The manager reassured the team.",
+          "translation": "マネージャーはチームを安心させた。",
+          "note": "re- + assure",
+          "relationship": "derivative"
+        },
+        {
+          "word": "sure",
+          "pos": "形容詞",
+          "ipa": "/ʃʊr/",
+          "meaning": "確かな",
+          "difficulty": 1,
+          "daily": 5,
+          "business": 5,
+          "example": "Are you sure about the figures?",
+          "translation": "その数値は確かですか。",
+          "note": "同系の語",
+          "relationship": "cognate"
+        },
+        {
+          "word": "secure",
+          "pos": "形容詞・動詞",
+          "ipa": "/sɪˈkjʊr/",
+          "meaning": "安全な、確保する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "We must secure confidential information.",
+          "translation": "機密情報を保護しなければならない。",
+          "note": "ラテン語 securus に遡る同語源語",
+          "relationship": "cognate"
+        },
+        {
+          "word": "security",
+          "pos": "名詞",
+          "ipa": "/sɪˈkjʊrəti/",
+          "meaning": "安全、証券、担保",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The company strengthened information security.",
+          "translation": "その会社は情報セキュリティを強化した。",
+          "note": "secure の派生語",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "guarantee",
+          "pos": "名詞",
+          "ipa": "/ˌɡærənˈtiː/",
+          "meaning": "結果・履行の保証",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The supplier provided a guarantee of timely delivery.",
+          "translation": "供給業者は期限どおりの納品を保証した。",
+          "note": "結果や義務を保証する",
+          "relationship": "synonym"
+        },
+        {
+          "word": "confidence",
+          "pos": "名詞",
+          "ipa": "/ˈkɑːnfɪdəns/",
+          "meaning": "信頼、自信",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "Investors have lost confidence in management.",
+          "translation": "投資家は経営陣への信頼を失った。",
+          "note": "信頼感そのもの",
+          "relationship": "synonym"
+        },
+        {
+          "word": "certainty",
+          "pos": "名詞",
+          "ipa": "/ˈsɝːtənti/",
+          "meaning": "確実性",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "We cannot predict the outcome with certainty.",
+          "translation": "結果を確実に予測することはできない。",
+          "note": "確実である状態",
+          "relationship": "synonym"
+        },
+        {
+          "word": "reassurance",
+          "pos": "名詞",
+          "ipa": "/ˌriːəˈʃʊrəns/",
+          "meaning": "不安を取り除く言葉・行為",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The CEO's statement offered reassurance.",
+          "translation": "CEOの声明は安心感を与えた。",
+          "note": "再び安心させること",
+          "relationship": "synonym"
+        },
+        {
+          "word": "warranty",
+          "pos": "名詞",
+          "ipa": "/ˈwɔːrənti/",
+          "meaning": "製品などの保証",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The laptop comes with a three-year warranty.",
+          "translation": "そのノートPCには3年保証が付いている。",
+          "note": "製品・契約上の保証",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "assurance は確信・安心を与える保証。guarantee は結果や履行の約束、confidence は信頼、certainty は確実性、reassurance は不安の解消、warranty は製品保証。監査では reasonable assurance といい guarantee とは通常言わない。",
+      "comparisonRows": [
+        [
+          "assurance",
+          "確信を与える保証"
+        ],
+        [
+          "guarantee",
+          "結果・履行の保証"
+        ],
+        [
+          "confidence",
+          "信頼・自信"
+        ],
+        [
+          "certainty",
+          "確実性"
+        ],
+        [
+          "reassurance",
+          "不安を和らげること"
+        ],
+        [
+          "warranty",
+          "製品保証"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/assurance.svg",
+        "alt": "不確実性から保証を通じて安心・確信へ"
+      }
     }
   ]
 }
