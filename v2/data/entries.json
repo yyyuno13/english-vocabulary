@@ -22695,6 +22695,231 @@
         "src": "./images/core/assertively.svg",
         "alt": "受け身、毅然とした主張、攻撃的な主張の違い"
       }
+    },
+    {
+      "id": "lift",
+      "word": "lift",
+      "pos": "動詞（自動詞・他動詞）・名詞",
+      "ipa": "/lɪft/",
+      "meaning": "持ち上げる、上昇させる、解除する、気分を高める；上昇、送迎、エレベーター（英）",
+      "difficulty": 2,
+      "daily": 5,
+      "business": 4,
+      "etymology": "古ノルド語 lypta（持ち上げる）に由来し、lopt（空気、空）と関連する。接頭辞・接尾辞に分けない単純語。",
+      "core": "下にあるものに力を加え、上へ移動させる。物理的な移動から業績・気分の上昇、規制の解除に広がる。",
+      "usage": "lift–lifted–lifted。SVO: She lifted the suitcase. SV: The fog lifted. lift A off B / onto B。lift off（離陸する）、lift a ban / restrictions（禁止・規制を解除する）、lift someone's spirits（元気づける）、give someone a lift（車で送る）。名詞 lift は英国英語でエレベーター。raise prices / raise funds が一般的。",
+      "examples": [
+        [
+          "Could you help me lift this heavy box?",
+          "この重い箱を持ち上げるのを手伝ってくれますか。"
+        ],
+        [
+          "The helicopter lifted off from the ground.",
+          "ヘリコプターは地面から離陸した。"
+        ],
+        [
+          "The government decided to lift the restrictions.",
+          "政府は規制を解除することを決定した。"
+        ],
+        [
+          "The new marketing campaign helped lift sales.",
+          "新しいマーケティング施策は売上の押し上げに貢献した。"
+        ],
+        [
+          "Her encouraging words lifted my spirits.",
+          "彼女の励ましの言葉で私は元気づけられた。"
+        ],
+        [
+          "The fog began to lift as the sun rose.",
+          "日が昇るにつれて霧が晴れ始めた。"
+        ],
+        [
+          "Can you give me a lift to the station?",
+          "駅まで車で送ってもらえますか。"
+        ],
+        [
+          "The company expects lower costs to lift its profit margin.",
+          "企業はコスト低下によって利益率が改善すると予想している。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "lifting",
+          "pos": "名詞",
+          "ipa": "/ˈlɪftɪŋ/",
+          "meaning": "持ち上げ、解除",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 3,
+          "example": "The lifting of restrictions boosted tourism.",
+          "translation": "規制解除は観光業を活性化させた。",
+          "note": "lift + -ing",
+          "relationship": "derivative"
+        },
+        {
+          "word": "lifter",
+          "pos": "名詞",
+          "ipa": "/ˈlɪftər/",
+          "meaning": "持ち上げる人・装置",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 2,
+          "example": "The warehouse uses a mechanical lifter.",
+          "translation": "倉庫では機械式昇降装置を使う。",
+          "note": "lift + -er",
+          "relationship": "derivative"
+        },
+        {
+          "word": "forklift",
+          "pos": "名詞",
+          "ipa": "/ˈfɔːrklɪft/",
+          "meaning": "フォークリフト",
+          "difficulty": 2,
+          "daily": 3,
+          "business": 3,
+          "example": "Workers used a forklift to move the pallets.",
+          "translation": "作業員はフォークリフトでパレットを移動した。",
+          "note": "fork + lift",
+          "relationship": "derivative"
+        },
+        {
+          "word": "uplift",
+          "pos": "動詞・名詞",
+          "ipa": "/ˌʌpˈlɪft/",
+          "meaning": "向上させる、上昇",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The policy aims to uplift disadvantaged communities.",
+          "translation": "その政策は恵まれない地域の生活向上を目指す。",
+          "note": "up + lift",
+          "relationship": "derivative"
+        },
+        {
+          "word": "uplifting",
+          "pos": "形容詞",
+          "ipa": "/ʌpˈlɪftɪŋ/",
+          "meaning": "元気づける",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "It was an uplifting speech.",
+          "translation": "それは人を元気づける演説だった。",
+          "note": "uplift + -ing",
+          "relationship": "derivative"
+        },
+        {
+          "word": "loft",
+          "pos": "名詞",
+          "ipa": "/lɔːft/",
+          "meaning": "屋根裏、ロフト",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 2,
+          "example": "They converted the loft into a bedroom.",
+          "translation": "彼らは屋根裏を寝室に改装した。",
+          "note": "遠いゲルマン語系の関連語。直接派生ではない。",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "raise",
+          "pos": "動詞",
+          "ipa": "/reɪz/",
+          "meaning": "上げる、増やす",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The central bank raised interest rates.",
+          "translation": "中央銀行は金利を引き上げた。",
+          "note": "水準を上げる一般的表現",
+          "relationship": "synonym"
+        },
+        {
+          "word": "elevate",
+          "pos": "動詞",
+          "ipa": "/ˈeləveɪt/",
+          "meaning": "高い位置・水準にする",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The new role elevated her status.",
+          "translation": "新しい役職で彼女の地位が高まった。",
+          "note": "形式的で地位にも使う",
+          "relationship": "synonym"
+        },
+        {
+          "word": "hoist",
+          "pos": "動詞",
+          "ipa": "/hɔɪst/",
+          "meaning": "重い物を引き上げる",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Workers hoisted the equipment onto the roof.",
+          "translation": "作業員は装置を屋根に引き上げた。",
+          "note": "重い物を機械やロープで引く",
+          "relationship": "synonym"
+        },
+        {
+          "word": "boost",
+          "pos": "動詞",
+          "ipa": "/buːst/",
+          "meaning": "勢い・数値を押し上げる",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "The investment boosted productivity.",
+          "translation": "投資は生産性を向上させた。",
+          "note": "増加・活性化",
+          "relationship": "synonym"
+        },
+        {
+          "word": "remove",
+          "pos": "動詞",
+          "ipa": "/rɪˈmuːv/",
+          "meaning": "取り除く",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The government removed the restrictions.",
+          "translation": "政府は制限を撤廃した。",
+          "note": "lift restrictions と意味が近い",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "lift は物理的に持ち上げる、または規制を解除する。raise は位置や水準を上げる、elevate は形式的、hoist は引き上げる、boost は勢いを高める、remove は取り除く。",
+      "comparisonRows": [
+        [
+          "lift",
+          "持ち上げる・解除する"
+        ],
+        [
+          "raise",
+          "上げる・増やす"
+        ],
+        [
+          "elevate",
+          "高い位置・地位へ"
+        ],
+        [
+          "hoist",
+          "引き上げる"
+        ],
+        [
+          "boost",
+          "押し上げる"
+        ],
+        [
+          "remove",
+          "取り除く"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/lift.svg",
+        "alt": "物体を下から上に持ち上げる"
+      }
     }
   ]
 }
