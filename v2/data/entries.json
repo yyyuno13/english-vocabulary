@@ -22483,6 +22483,218 @@
         "src": "./images/core/assurance.svg",
         "alt": "不確実性から保証を通じて安心・確信へ"
       }
+    },
+    {
+      "id": "assertively",
+      "word": "assertively",
+      "pos": "副詞",
+      "ipa": "米 /əˈsɝːtɪvli/ 英 /əˈsɜːtɪvli/",
+      "meaning": "毅然と、明確に自己主張して",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "assert（主張する）+ -ive（性質を示す形容詞接尾辞）+ -ly（副詞接尾辞）。assert はラテン語 asserere（権利を主張する、擁護する）に由来。",
+      "core": "相手の立場を尊重しながら、自分の意見・要求・権利を明確に伝える。受け身（passively）と攻撃的（aggressively）の中間ではなく、明確さと尊重の両立。",
+      "usage": "副詞として動詞を修飾。speak/respond/communicate/negotiate/act assertively。assertively は自信そのものより自己主張の方法を強調。assertive（形容詞）、assertiveness（名詞）との品詞の違いに注意。",
+      "examples": [
+        [
+          "She spoke assertively during the meeting.",
+          "彼女は会議中、毅然とした態度で発言した。"
+        ],
+        [
+          "You should express your concerns assertively but respectfully.",
+          "懸念は毅然と、しかし敬意を持って伝えるべきだ。"
+        ],
+        [
+          "He responded assertively to the unfair criticism.",
+          "彼は不当な批判に毅然と応じた。"
+        ],
+        [
+          "The manager encouraged employees to communicate more assertively.",
+          "マネージャーは従業員に、もっと明確に意見を伝えるよう促した。"
+        ],
+        [
+          "She negotiated assertively without damaging the business relationship.",
+          "彼女は取引関係を損なうことなく毅然と交渉した。"
+        ],
+        [
+          "It's important to set boundaries assertively.",
+          "自分の境界線を明確に示すことが重要だ。"
+        ],
+        [
+          "He asserted his rights assertively but calmly.",
+          "彼は冷静に、しかし毅然と自分の権利を主張した。"
+        ],
+        [
+          "Employees who communicate assertively can help prevent misunderstandings.",
+          "明確に意思を伝える従業員は誤解の防止に貢献できる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "assert",
+          "pos": "動詞",
+          "ipa": "/əˈsɝːt/",
+          "meaning": "主張する、断言する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The company asserted that it had complied with all regulations.",
+          "translation": "企業は全規制を遵守したと主張した。",
+          "note": "語幹",
+          "relationship": "derivative"
+        },
+        {
+          "word": "assertion",
+          "pos": "名詞",
+          "ipa": "/əˈsɝːʃən/",
+          "meaning": "主張、断言、アサーション",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The auditor needs evidence to support management's assertions.",
+          "translation": "監査人は経営者のアサーションを裏付ける証拠を必要とする。",
+          "note": "監査で重要な用語",
+          "relationship": "derivative"
+        },
+        {
+          "word": "assertive",
+          "pos": "形容詞",
+          "ipa": "/əˈsɝːtɪv/",
+          "meaning": "自己主張が明確な",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She is an assertive leader who listens to her team.",
+          "translation": "彼女はチームの意見を聞く自己主張の明確なリーダーだ。",
+          "note": "assert + -ive",
+          "relationship": "derivative"
+        },
+        {
+          "word": "assertiveness",
+          "pos": "名詞",
+          "ipa": "/əˈsɝːtɪvnəs/",
+          "meaning": "適切な自己主張",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "Assertiveness is an important communication skill.",
+          "translation": "適切な自己主張は重要なコミュニケーション能力だ。",
+          "note": "assertive + -ness",
+          "relationship": "derivative"
+        },
+        {
+          "word": "reassert",
+          "pos": "動詞",
+          "ipa": "/ˌriːəˈsɝːt/",
+          "meaning": "改めて主張する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The company reasserted its commitment to sustainability.",
+          "translation": "企業は持続可能性への取り組みを改めて表明した。",
+          "note": "re- + assert",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "confidently",
+          "pos": "副詞",
+          "ipa": "/ˈkɑːnfɪdəntli/",
+          "meaning": "自信を持って",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "She presented her proposal confidently.",
+          "translation": "彼女は自信を持って提案を発表した。",
+          "note": "自信の有無を強調",
+          "relationship": "synonym"
+        },
+        {
+          "word": "firmly",
+          "pos": "副詞",
+          "ipa": "/ˈfɝːmli/",
+          "meaning": "断固として",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 5,
+          "example": "He firmly rejected the proposal.",
+          "translation": "彼はその提案を断固として拒否した。",
+          "note": "立場が揺るがない",
+          "relationship": "synonym"
+        },
+        {
+          "word": "decisively",
+          "pos": "副詞",
+          "ipa": "/dɪˈsaɪsɪvli/",
+          "meaning": "断固として、迷わず",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The CEO acted decisively during the crisis.",
+          "translation": "CEOは危機に際して断固として行動した。",
+          "note": "決断・行動の速さ",
+          "relationship": "synonym"
+        },
+        {
+          "word": "aggressively",
+          "pos": "副詞",
+          "ipa": "/əˈɡresɪvli/",
+          "meaning": "攻撃的に、積極果敢に",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company aggressively expanded into new markets.",
+          "translation": "企業は新市場へ積極果敢に進出した。",
+          "note": "圧力・積極性が強い",
+          "relationship": "synonym"
+        },
+        {
+          "word": "forcefully",
+          "pos": "副詞",
+          "ipa": "/ˈfɔːrsfəli/",
+          "meaning": "力強く",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "She argued forcefully for the proposed changes.",
+          "translation": "彼女は提案された変更を力強く支持した。",
+          "note": "表現の強さ",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "assertively は自己主張の明確さと相手への尊重。confidently は自信、firmly は立場の強固さ、decisively は決断、aggressively は圧力・積極性、forcefully は表現の力強さ。",
+      "comparisonRows": [
+        [
+          "assertively",
+          "毅然と、相手を尊重して自己主張"
+        ],
+        [
+          "confidently",
+          "自信を持って"
+        ],
+        [
+          "firmly",
+          "立場を変えずに"
+        ],
+        [
+          "decisively",
+          "迷わず決断して"
+        ],
+        [
+          "aggressively",
+          "攻撃的に、積極果敢に"
+        ],
+        [
+          "forcefully",
+          "強い調子で"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/assertively.svg",
+        "alt": "受け身、毅然とした主張、攻撃的な主張の違い"
+      }
     }
   ]
 }
