@@ -23102,6 +23102,205 @@
         "src": "./images/core/abortion.svg",
         "alt": "妊娠の過程が出産前に終了する概念図"
       }
+    },
+    {
+      "id": "refute",
+      "word": "refute",
+      "pos": "他動詞",
+      "ipa": "/rɪˈfjuːt/",
+      "meaning": "反証する、論破する、誤りであることを証明する",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "ラテン語 refutare（反論する、退ける）に由来。re- は反対方向の意味と関係するが、後半部分の詳細な語源は不確実。",
+      "core": "相手の主張を、証拠や論理によって誤りだと示して退ける。単なる否定より強い。",
+      "usage": "他動詞 refute + claim/argument/theory/allegation/hypothesis。refute to ～ は不可。refute–refuted–refuted。現在は単に強く否定する意味でも使われるが、精密な文章では反証成立を含意する用法が明確。",
+      "examples": [
+        [
+          "The scientist refuted the theory with new experimental evidence.",
+          "科学者は新たな実験的証拠によって理論を反証した。"
+        ],
+        [
+          "The company provided documents to refute the allegations of fraud.",
+          "会社は不正疑惑を反証するために書類を提出した。"
+        ],
+        [
+          "His argument was convincingly refuted by the opposing lawyer.",
+          "彼の主張は相手方弁護士に説得力をもって論破された。"
+        ],
+        [
+          "The latest data appear to refute the assumption that demand is declining.",
+          "最新のデータは需要減少という前提を覆すように見える。"
+        ],
+        [
+          "The report refutes the claim that the policy has been ineffective.",
+          "報告書は政策が効果を上げていないという主張を反証している。"
+        ],
+        [
+          "She attempted to refute the criticism, but failed to provide sufficient evidence.",
+          "彼女は批判に反論しようとしたが十分な証拠を示せなかった。"
+        ],
+        [
+          "The audit findings refuted management's explanation for the discrepancy.",
+          "監査上の発見事項は差異についての経営者の説明を覆した。"
+        ],
+        [
+          "It is difficult to refute an argument without understanding its underlying assumptions.",
+          "前提を理解せずに議論を論破するのは難しい。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "refutation",
+          "pos": "名詞",
+          "ipa": "/ˌrefjəˈteɪʃən/",
+          "meaning": "反証、論駁",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The researcher published a detailed refutation of the theory.",
+          "translation": "研究者は理論に対する詳細な反証を発表した。",
+          "note": "refute の名詞形",
+          "relationship": "derivative"
+        },
+        {
+          "word": "refutable",
+          "pos": "形容詞",
+          "ipa": "/rɪˈfjuːtəbəl/",
+          "meaning": "反証可能な",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "A scientific hypothesis must be refutable in principle.",
+          "translation": "科学的仮説は原理的に反証可能でなければならない。",
+          "note": "refute + -able",
+          "relationship": "derivative"
+        },
+        {
+          "word": "irrefutable",
+          "pos": "形容詞",
+          "ipa": "/ˌɪrɪˈfjuːtəbəl/",
+          "meaning": "反論の余地のない",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "The investigation uncovered irrefutable evidence of misconduct.",
+          "translation": "調査は不正行為の反論の余地のない証拠を発見した。",
+          "note": "ir- + refutable",
+          "relationship": "derivative"
+        },
+        {
+          "word": "irrefutably",
+          "pos": "副詞",
+          "ipa": "/ˌɪrɪˈfjuːtəbli/",
+          "meaning": "反論の余地なく",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The documents irrefutably established the timeline.",
+          "translation": "書類は時系列を疑いの余地なく立証した。",
+          "note": "irrefutable + -ly",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "rebut",
+          "pos": "動詞",
+          "ipa": "/rɪˈbʌt/",
+          "meaning": "反論する",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The lawyer rebutted the prosecution's argument.",
+          "translation": "弁護士は検察側の主張に反論した。",
+          "note": "反論の行為に焦点",
+          "relationship": "synonym"
+        },
+        {
+          "word": "deny",
+          "pos": "動詞",
+          "ipa": "/dɪˈnaɪ/",
+          "meaning": "否定する",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "The executive denied the allegations.",
+          "translation": "役員は疑惑を否定した。",
+          "note": "証拠を必要としない",
+          "relationship": "synonym"
+        },
+        {
+          "word": "dispute",
+          "pos": "動詞",
+          "ipa": "/dɪˈspjuːt/",
+          "meaning": "異議を唱える",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "The company disputed the accuracy of the report.",
+          "translation": "企業は報告書の正確性に異議を唱えた。",
+          "note": "正当性に疑問を呈する",
+          "relationship": "synonym"
+        },
+        {
+          "word": "disprove",
+          "pos": "動詞",
+          "ipa": "/dɪsˈpruːv/",
+          "meaning": "誤りと証明する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The experiment disproved the hypothesis.",
+          "translation": "実験は仮説の誤りを証明した。",
+          "note": "仮説や理論に使いやすい",
+          "relationship": "synonym"
+        },
+        {
+          "word": "contradict",
+          "pos": "動詞",
+          "ipa": "/ˌkɑːntrəˈdɪkt/",
+          "meaning": "矛盾する、反論する",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 4,
+          "example": "The witness's testimony contradicted the earlier statement.",
+          "translation": "証言は以前の供述と矛盾していた。",
+          "note": "両立しないが真偽は未確定",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "deny は否定、dispute は異議、rebut は反論、refute は証拠・論理による反証、disprove は誤りの証明、contradict は矛盾。",
+      "comparisonRows": [
+        [
+          "refute",
+          "根拠で誤りを示す"
+        ],
+        [
+          "rebut",
+          "反論する"
+        ],
+        [
+          "deny",
+          "否定する"
+        ],
+        [
+          "dispute",
+          "異議を唱える"
+        ],
+        [
+          "disprove",
+          "誤りと証明する"
+        ],
+        [
+          "contradict",
+          "矛盾する"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/refute.svg",
+        "alt": "証拠と論理が相手の主張を覆す"
+      }
     }
   ]
 }
