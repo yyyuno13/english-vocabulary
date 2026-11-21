@@ -22920,6 +22920,188 @@
         "src": "./images/core/lift.svg",
         "alt": "物体を下から上に持ち上げる"
       }
+    },
+    {
+      "id": "abortion",
+      "word": "abortion",
+      "pos": "名詞（可算・不可算）",
+      "ipa": "/əˈbɔːrʃən/",
+      "meaning": "人工妊娠中絶；医学的・歴史的には流産も含む場合がある",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 2,
+      "etymology": "ラテン語 aboriri（流産する、途中で失われる）に由来。ab-（離れて）と oriri（生じる、現れる）に関連。abort と同語源。",
+      "core": "妊娠が出産に至る前に終わること。現代の日常英語・報道では通常、人工妊娠中絶を意味する。",
+      "usage": "個別の中絶は可算 an abortion / abortions、行為・制度一般は不可算 access to abortion。have/undergo an abortion、abortion rights/access/restrictions/ban、medication abortion、surgical abortion。自然流産は通常 miscarriage と呼ぶ。",
+      "examples": [
+        [
+          "The country has introduced new restrictions on abortion.",
+          "その国は人工妊娠中絶に対する新たな制限を導入した。"
+        ],
+        [
+          "Access to safe abortion services varies significantly between countries.",
+          "安全な人工妊娠中絶サービスへのアクセスは国によって大きく異なる。"
+        ],
+        [
+          "She decided to have an abortion after consulting her doctor.",
+          "彼女は医師と相談した後、人工妊娠中絶を受けることを決めた。"
+        ],
+        [
+          "The Supreme Court's ruling sparked a nationwide debate over abortion rights.",
+          "最高裁判所の判決は人工妊娠中絶に関する権利をめぐる全国的な議論を引き起こした。"
+        ],
+        [
+          "The organization provides information about reproductive health and abortion care.",
+          "その団体は生殖に関する健康と中絶医療について情報を提供している。"
+        ],
+        [
+          "Public opinion on abortion differs across generations and regions.",
+          "人工妊娠中絶に対する世論は世代や地域によって異なる。"
+        ],
+        [
+          "The legislation includes exceptions to the abortion ban in certain circumstances.",
+          "その法律には一定の状況で中絶禁止の例外を認める規定がある。"
+        ],
+        [
+          "Researchers examined the relationship between abortion policies and maternal health outcomes.",
+          "研究者は中絶政策と妊産婦の健康上の結果との関係を調査した。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "abort",
+          "pos": "動詞",
+          "ipa": "/əˈbɔːrt/",
+          "meaning": "中止する、途中で終える",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The engineers decided to abort the mission.",
+          "translation": "技術者たちは任務を中止することにした。",
+          "note": "同語源の動詞",
+          "relationship": "cognate"
+        },
+        {
+          "word": "aborted",
+          "pos": "形容詞・過去分詞",
+          "ipa": "/əˈbɔːrtɪd/",
+          "meaning": "中止された",
+          "difficulty": 3,
+          "daily": 2,
+          "business": 3,
+          "example": "The aborted merger cost both companies millions.",
+          "translation": "中止された合併で両社は数百万ドルの損失を被った。",
+          "note": "abort の派生語",
+          "relationship": "cognate"
+        },
+        {
+          "word": "abortive",
+          "pos": "形容詞",
+          "ipa": "/əˈbɔːrtɪv/",
+          "meaning": "失敗に終わった、未遂の",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "Several abortive attempts preceded the agreement.",
+          "translation": "合意に先立って何度か失敗した試みがあった。",
+          "note": "abort の派生語",
+          "relationship": "cognate"
+        },
+        {
+          "word": "abortifacient",
+          "pos": "名詞・形容詞",
+          "ipa": "/əˌbɔːrtɪˈfeɪʃənt/",
+          "meaning": "中絶を引き起こす薬剤など",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 1,
+          "example": "The textbook discusses various abortifacients.",
+          "translation": "教科書はさまざまな中絶誘発薬を論じている。",
+          "note": "医学用語",
+          "relationship": "derivative"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "termination",
+          "pos": "名詞",
+          "ipa": "/ˌtɝːmɪˈneɪʃən/",
+          "meaning": "終了、中止、妊娠の中断",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The patient asked about termination of pregnancy.",
+          "translation": "患者は人工妊娠中絶について尋ねた。",
+          "note": "termination of pregnancy は医療・法律表現",
+          "relationship": "synonym"
+        },
+        {
+          "word": "miscarriage",
+          "pos": "名詞",
+          "ipa": "/ˈmɪskærɪdʒ/",
+          "meaning": "自然流産",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "She experienced a miscarriage.",
+          "translation": "彼女は流産を経験した。",
+          "note": "通常は人工中絶を意味しないため同義ではない",
+          "relationship": "synonym"
+        },
+        {
+          "word": "pregnancy loss",
+          "pos": "名詞句",
+          "ipa": "/ˈpreɡnənsi lɔːs/",
+          "meaning": "妊娠喪失",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 1,
+          "example": "The hospital offers counseling after pregnancy loss.",
+          "translation": "病院は妊娠喪失後の相談支援を提供する。",
+          "note": "幅広く配慮を持って述べる表現",
+          "relationship": "synonym"
+        },
+        {
+          "word": "stillbirth",
+          "pos": "名詞",
+          "ipa": "/ˈstɪlbɝːθ/",
+          "meaning": "死産",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "Researchers studied risk factors for stillbirth.",
+          "translation": "研究者は死産の危険因子を研究した。",
+          "note": "流産・中絶とは区別する",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "abortion は現代英語で通常人工妊娠中絶。termination of pregnancy は形式的表現。miscarriage は自然流産、pregnancy loss は妊娠喪失の包括的表現、stillbirth は死産であり、これらは厳密な同義語ではない。",
+      "comparisonRows": [
+        [
+          "abortion",
+          "通常は人工妊娠中絶"
+        ],
+        [
+          "termination of pregnancy",
+          "医療・法律上の妊娠の終了"
+        ],
+        [
+          "miscarriage",
+          "自然流産"
+        ],
+        [
+          "pregnancy loss",
+          "包括的な妊娠喪失"
+        ],
+        [
+          "stillbirth",
+          "死産"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/abortion.svg",
+        "alt": "妊娠の過程が出産前に終了する概念図"
+      }
     }
   ]
 }
