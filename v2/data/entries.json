@@ -23301,6 +23301,231 @@
         "src": "./images/core/refute.svg",
         "alt": "証拠と論理が相手の主張を覆す"
       }
+    },
+    {
+      "id": "compulsory",
+      "word": "compulsory",
+      "pos": "形容詞",
+      "ipa": "/kəmˈpʌlsəri/",
+      "meaning": "義務的な、強制的な、必須の",
+      "difficulty": 3,
+      "daily": 3,
+      "business": 4,
+      "etymology": "ラテン語 compellere（強いる、追い立てる）に由来する compuls-（過去分詞語幹）と形容詞形成要素 -ory に関連。com-（一緒に・強調）+ pellere（押す、追い立てる）。",
+      "core": "本人の意思に関係なく、法律・規則・権限によって行動を義務付ける。",
+      "usage": "compulsory + 名詞、be compulsory for + 人・対象、make + 目的語 + compulsory。compulsory education/training/retirement/disclosure。mandatory と近いが compulsory は選択の余地のなさ、mandatory は公式な義務のニュアンスが強い傾向。compulsive は内的な衝動を表し別の意味。",
+      "examples": [
+        [
+          "Education is compulsory for children up to a certain age.",
+          "一定の年齢まで子供には教育を受ける義務がある。"
+        ],
+        [
+          "Attendance at the safety training session is compulsory.",
+          "安全研修への出席は義務付けられている。"
+        ],
+        [
+          "The company introduced compulsory compliance training for all employees.",
+          "会社は全従業員に必須のコンプライアンス研修を導入した。"
+        ],
+        [
+          "Wearing a seat belt is compulsory under the law.",
+          "法律上シートベルト着用は義務付けられている。"
+        ],
+        [
+          "The government is considering making the disclosure compulsory.",
+          "政府はその情報開示を義務化することを検討している。"
+        ],
+        [
+          "Participation in the program is voluntary rather than compulsory.",
+          "プログラム参加は強制ではなく任意だ。"
+        ],
+        [
+          "The new regulations impose compulsory reporting requirements on financial institutions.",
+          "新規制は金融機関に報告義務を課している。"
+        ],
+        [
+          "Compulsory retirement policies vary across countries.",
+          "定年退職を義務付ける制度は国によって異なる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "compel",
+          "pos": "動詞",
+          "ipa": "/kəmˈpel/",
+          "meaning": "強いる",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The court compelled the company to disclose the documents.",
+          "translation": "裁判所は会社に文書開示を命じた。",
+          "note": "compel + 人 + to do",
+          "relationship": "cognate"
+        },
+        {
+          "word": "compulsion",
+          "pos": "名詞",
+          "ipa": "/kəmˈpʌlʃən/",
+          "meaning": "強制、衝動",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 3,
+          "example": "He felt a strong compulsion to check his phone.",
+          "translation": "彼は携帯を確認したい強い衝動に駆られた。",
+          "note": "compuls- の派生語",
+          "relationship": "derivative"
+        },
+        {
+          "word": "compulsive",
+          "pos": "形容詞",
+          "ipa": "/kəmˈpʌlsɪv/",
+          "meaning": "衝動的な、強迫的な",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 2,
+          "example": "She is a compulsive shopper.",
+          "translation": "彼女は買い物をせずにはいられない人だ。",
+          "note": "内的な衝動、compulsory と区別",
+          "relationship": "derivative"
+        },
+        {
+          "word": "expel",
+          "pos": "動詞",
+          "ipa": "/ɪkˈspel/",
+          "meaning": "追放する",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 3,
+          "example": "The school expelled the student for misconduct.",
+          "translation": "学校は不正行為を理由に生徒を退学処分にした。",
+          "note": "ex- + pellere",
+          "relationship": "cognate"
+        },
+        {
+          "word": "repel",
+          "pos": "動詞",
+          "ipa": "/rɪˈpel/",
+          "meaning": "撃退する、はじく",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 2,
+          "example": "The material repels water.",
+          "translation": "その素材は水をはじく。",
+          "note": "re- + pellere",
+          "relationship": "cognate"
+        },
+        {
+          "word": "impulse",
+          "pos": "名詞",
+          "ipa": "/ˈɪmpʌls/",
+          "meaning": "衝動、刺激",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 3,
+          "example": "He resisted the impulse to respond immediately.",
+          "translation": "彼はすぐ返答したい衝動を抑えた。",
+          "note": "in- + pellere",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "mandatory",
+          "pos": "形容詞",
+          "ipa": "/ˈmændətɔːri/",
+          "meaning": "義務付けられた",
+          "difficulty": 3,
+          "daily": 4,
+          "business": 5,
+          "example": "Annual compliance training is mandatory for all staff.",
+          "translation": "年次コンプライアンス研修は全従業員に必須だ。",
+          "note": "公式な義務",
+          "relationship": "synonym"
+        },
+        {
+          "word": "obligatory",
+          "pos": "形容詞",
+          "ipa": "/əˈblɪɡətɔːri/",
+          "meaning": "義務として求められる",
+          "difficulty": 4,
+          "daily": 3,
+          "business": 4,
+          "example": "It is obligatory to follow the professional code of ethics.",
+          "translation": "職業倫理規程の遵守は義務だ。",
+          "note": "責任・義務",
+          "relationship": "synonym"
+        },
+        {
+          "word": "required",
+          "pos": "形容詞",
+          "ipa": "/rɪˈkwaɪərd/",
+          "meaning": "要求される、必要な",
+          "difficulty": 2,
+          "daily": 5,
+          "business": 5,
+          "example": "All applicants are required to submit identification.",
+          "translation": "応募者全員に本人確認書類の提出が求められる。",
+          "note": "広く必要とされる",
+          "relationship": "synonym"
+        },
+        {
+          "word": "enforced",
+          "pos": "形容詞",
+          "ipa": "/ɪnˈfɔːrst/",
+          "meaning": "強制的に実施される",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 4,
+          "example": "The rules are strictly enforced.",
+          "translation": "規則は厳格に適用される。",
+          "note": "遵守の強制に焦点",
+          "relationship": "synonym"
+        },
+        {
+          "word": "binding",
+          "pos": "形容詞",
+          "ipa": "/ˈbaɪndɪŋ/",
+          "meaning": "拘束力がある",
+          "difficulty": 3,
+          "daily": 3,
+          "business": 5,
+          "example": "The agreement is legally binding.",
+          "translation": "契約には法的拘束力がある。",
+          "note": "法的・契約上の拘束",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "compulsory は選択の余地がない義務、mandatory は正式に定められた義務、obligatory は義務・責任、required は必要条件、enforced は強制的な実施、binding は法的拘束力。compulsive は内的衝動であり意味が異なる。",
+      "comparisonRows": [
+        [
+          "compulsory",
+          "強制的な義務"
+        ],
+        [
+          "mandatory",
+          "公式に義務付け"
+        ],
+        [
+          "obligatory",
+          "義務・責任"
+        ],
+        [
+          "required",
+          "必要条件"
+        ],
+        [
+          "enforced",
+          "遵守を強制"
+        ],
+        [
+          "binding",
+          "法的拘束力"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/compulsory.svg",
+        "alt": "法律や規則によって行動が義務付けられる"
+      }
     }
   ]
 }
