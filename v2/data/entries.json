@@ -23526,6 +23526,231 @@
         "src": "./images/core/compulsory.svg",
         "alt": "法律や規則によって行動が義務付けられる"
       }
+    },
+    {
+      "id": "amicably",
+      "word": "amicably",
+      "pos": "副詞",
+      "ipa": "/ˈæmɪkəbli/",
+      "meaning": "友好的に、円満に、穏便に",
+      "difficulty": 4,
+      "daily": 2,
+      "business": 4,
+      "etymology": "amicable + -ly。ラテン語 amīcābilis（友好的な）、amīcus（友人）、amāre（愛する）に遡る。",
+      "core": "対立や意見の相違があっても敵意を残さず、友好的に物事を進める。",
+      "usage": "resolve a dispute amicably、settle a matter amicably、part amicably、negotiate amicably。形容詞 amicable は関係・合意、amiable は人の性格を表す傾向。",
+      "examples": [
+        [
+          "Both parties agreed to resolve the dispute amicably.",
+          "双方は紛争を円満に解決することに合意した。"
+        ],
+        [
+          "The couple decided to separate amicably.",
+          "夫婦は円満に別れることを決めた。"
+        ],
+        [
+          "We hope to settle this matter amicably without resorting to litigation.",
+          "訴訟に訴えず問題を円満に解決したいと考えています。"
+        ],
+        [
+          "The negotiations ended amicably despite significant differences of opinion.",
+          "大きな意見の相違にもかかわらず交渉は友好的に終了した。"
+        ],
+        [
+          "The two companies amicably agreed to terminate their partnership.",
+          "両社は提携を円満に解消することに合意した。"
+        ],
+        [
+          "They were able to discuss their disagreements amicably.",
+          "意見の相違について友好的に話し合えた。"
+        ],
+        [
+          "The employee and the company parted amicably.",
+          "従業員と会社は円満に関係を終了した。"
+        ],
+        [
+          "If the issue cannot be resolved amicably, either party may initiate legal proceedings.",
+          "円満に解決できない場合、いずれの当事者も法的手続きを開始できる。"
+        ]
+      ],
+      "related": [
+        {
+          "word": "amicable",
+          "pos": "形容詞",
+          "ipa": "/ˈæmɪkəbəl/",
+          "meaning": "友好的な、円満な",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The parties reached an amicable settlement.",
+          "translation": "双方は円満な和解に達した。",
+          "note": "直接の語基",
+          "relationship": "derivative"
+        },
+        {
+          "word": "amicability",
+          "pos": "名詞",
+          "ipa": "/ˌæmɪkəˈbɪləti/",
+          "meaning": "友好性",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The discussion was marked by mutual respect and amicability.",
+          "translation": "話し合いは相互尊重と友好性に特徴づけられていた。",
+          "note": "amicable の名詞形",
+          "relationship": "derivative"
+        },
+        {
+          "word": "amity",
+          "pos": "名詞",
+          "ipa": "/ˈæməti/",
+          "meaning": "友好、親善",
+          "difficulty": 5,
+          "daily": 1,
+          "business": 2,
+          "example": "The treaty promoted amity between the two nations.",
+          "translation": "条約は両国間の友好を促進した。",
+          "note": "amīcus 系",
+          "relationship": "cognate"
+        },
+        {
+          "word": "amiable",
+          "pos": "形容詞",
+          "ipa": "/ˈeɪmiəbəl/",
+          "meaning": "親しみやすい",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "He has an amiable personality.",
+          "translation": "彼は親しみやすい性格だ。",
+          "note": "ラテン語 amābilis に遡る",
+          "relationship": "cognate"
+        },
+        {
+          "word": "amorous",
+          "pos": "形容詞",
+          "ipa": "/ˈæmərəs/",
+          "meaning": "恋愛感情を抱いた",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 1,
+          "example": "He wrote an amorous letter to her.",
+          "translation": "彼は彼女に愛情のこもった手紙を書いた。",
+          "note": "amor（愛）に由来",
+          "relationship": "cognate"
+        },
+        {
+          "word": "amateur",
+          "pos": "名詞・形容詞",
+          "ipa": "/ˈæmətər/",
+          "meaning": "アマチュア",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "She is an amateur photographer.",
+          "translation": "彼女はアマチュア写真家だ。",
+          "note": "amator（愛する人）に由来",
+          "relationship": "cognate"
+        }
+      ],
+      "synonyms": [
+        {
+          "word": "cordially",
+          "pos": "副詞",
+          "ipa": "/ˈkɔːrdʒəli/",
+          "meaning": "心から、礼儀正しく",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "The guests were cordially welcomed.",
+          "translation": "来客は心のこもった歓迎を受けた。",
+          "note": "温かい礼儀",
+          "relationship": "synonym"
+        },
+        {
+          "word": "peacefully",
+          "pos": "副詞",
+          "ipa": "/ˈpiːsfəli/",
+          "meaning": "平和的に",
+          "difficulty": 2,
+          "daily": 4,
+          "business": 3,
+          "example": "The conflict was resolved peacefully.",
+          "translation": "紛争は平和的に解決された。",
+          "note": "争いや暴力がない",
+          "relationship": "synonym"
+        },
+        {
+          "word": "harmoniously",
+          "pos": "副詞",
+          "ipa": "/hɑːrˈmoʊniəsli/",
+          "meaning": "調和を保って",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "The two departments worked harmoniously together.",
+          "translation": "両部門は調和を保ち協力した。",
+          "note": "調和",
+          "relationship": "synonym"
+        },
+        {
+          "word": "diplomatically",
+          "pos": "副詞",
+          "ipa": "/ˌdɪpləˈmætɪkli/",
+          "meaning": "角が立たないよう巧みに",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 4,
+          "example": "She handled the sensitive issue diplomatically.",
+          "translation": "彼女は微妙な問題を巧みに処理した。",
+          "note": "対人上の配慮と技巧",
+          "relationship": "synonym"
+        },
+        {
+          "word": "civilly",
+          "pos": "副詞",
+          "ipa": "/ˈsɪvəli/",
+          "meaning": "礼儀正しく",
+          "difficulty": 4,
+          "daily": 2,
+          "business": 3,
+          "example": "They spoke civilly to each other.",
+          "translation": "彼らは互いに礼儀正しく話した。",
+          "note": "最低限の礼儀も含む",
+          "relationship": "synonym"
+        }
+      ],
+      "comparison": "amicably は円満さ、cordially は温かい礼儀、peacefully は争いのなさ、harmoniously は調和、diplomatically は対人上の技巧、civilly は礼儀に焦点。",
+      "comparisonRows": [
+        [
+          "amicably",
+          "円満に"
+        ],
+        [
+          "cordially",
+          "心から礼儀正しく"
+        ],
+        [
+          "peacefully",
+          "平和的に"
+        ],
+        [
+          "harmoniously",
+          "調和を保って"
+        ],
+        [
+          "diplomatically",
+          "角が立たないように"
+        ],
+        [
+          "civilly",
+          "礼儀正しく"
+        ]
+      ],
+      "coreImage": {
+        "src": "./images/core/amicably.svg",
+        "alt": "双方が話し合い円満な解決に至る"
+      }
     }
   ]
 }
